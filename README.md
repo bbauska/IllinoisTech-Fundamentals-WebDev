@@ -5,58 +5,59 @@ Illinois Tech - Fundamentals of Web Development
 
 ### 9 week course
 
-Fundamentals of Web Development
-by Illinois Tech
+## Fundamentals of Web Development
+###### by Illinois Tech
  
-Instructor: Daniel Krieglstein
-About this Course
+###### Instructor: Daniel Krieglstein
+### About this Course
 This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. The creation and deployment of modern, standards-compliant web pages are addressed. Students create and deploy a Web site with multiple pages and cross-linked structures. Software Requirements: - An email account. - A GitHub account. A personal computer with the following software installed: - A plain-text code-editor capable of syntax highlighting. Recommended: Notepad++ (Windows), TextWrangler (mac), or Sublime Text (multi-platform). - GitHub Desktop (or Git if you are already proficient). - Image-editing software (such as the free and open-source GIMP) - At least three different browsers (e.g., Chrome, Opera, Firefox, and/or Edge)
-Syllabus
-Week 1
-Module 1: Internet Structures and an Introduction to HTML
+
+## Syllabus
+## Week 1
+## Module 1: Internet Structures and an Introduction to HTML
 Welcome to Fundamentals of Web Development! This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. Students will be able to create and deploy a Web site with multiple pages and cross-linked structures by the end of this course. In Module 1, students are introduced to the world of web development, starting with writing basic HTML scripts and publishing them on GitHub and GitHub Pages. It elucidates the roles and functions of the internet's core technologies - HTML, CSS, and JavaScript - and differentiates how browsers operate uniquely compared to other computer applications. Students will become proficient in using essential tools for internet publishing and code archiving, including text editors and GitHub, coupled with an understanding of live hosting practices. Additionally, the course offers insights into the physical infrastructure of the internet, focusing on server technology, and providing a holistic view of the digital landscape from code creation to global connectivity.
-17 videos, 13 readings
-1.	Course Overview (7:34)
+###### 17 videos, 13 readings
+### 1.	Course Overview (7:34)
 https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lecture/D3XXr/course-overview
-2.	Instructor Introduction (1:13)
-2.1	Syllabus
-2.2	Meet and Greet Discussion
-2.3	Module 1: Asset Library (code used in video demonstrations)
-3.	Module 1 Introduction (2:00)
-3.1 Lecture Slides: History of the Web
-4.	History of the Web - Part 1 (10:11)
-5.	History of the Web - Part 2 (12:13)
-6.	History of the Web - Part 3 (11:27)
-6.1	Lesson 1 Video Reference Page
-6.2	What did you learn about the internet's history?
-6.3	Lecture Slides: The Tools of Internet Publishing
-7.	The Tools of Internet Publishing - Part 1 (8:20)
-8.	The Tools of Internet Publishing - Part 2 (6:56)
-9.	The Tools of Internet Publishing - Part 3 (8:44)
-9.1	Lab 1: Your First Website!
-9.2	Lecture Slides: Browsers and Web Addresses
-10.	Browsers and Web Addresses - Part 1 (11:46)
-11.	Browsers and Web Addresses - Part 2 (10:45)
-11.1	Lesson 3 Video Reference Page
-11.2	What did you learn about Internet Browsers?
-11.3	Lecture Slides: HTTP Requests
-12.	HTTP Requests (8:45)
-12.1	What did you learn about HTTP requests?
-12.2	Lecture Slides: Meet Our Three Languages
-13.	Meet Our Three Languages (10:31)
-13.1	What did you learn about our 3 website languages?
-13.2	Lecture Slides: The Basics of HTML
-14.	The Basics of HTML - Part 1 (8:25)
-15.	The Basics of HTML - Part 2 (8:48)
-16.	The Basics of HTML - Part 3 (10:27)
-16.1	Lesson 6 Video Reference Page
-16.2	What did you learn about the basics of html?
-16.3	Lecture Slides: How to Turn In Labs
-17.	How to Turn In Labs (4:55)  ???
-17.1	Lab 2
-17.2	Module 1 Summary
-Graded: Module 1 Summative Assessment
-Week 2
+### 2.	Instructor Introduction (1:13)
+#### 2.1	Syllabus
+#### 2.2	Meet and Greet Discussion
+#### 2.3	Module 1: Asset Library (code used in video demonstrations)
+### 3.	Module 1 Introduction (2:00)
+#### 3.1 Lecture Slides: History of the Web
+### 4.	History of the Web - Part 1 (10:11)
+### 5.	History of the Web - Part 2 (12:13)
+### 6.	History of the Web - Part 3 (11:27)
+#### 6.1	Lesson 1 Video Reference Page
+#### 6.2	What did you learn about the internet's history?
+#### 6.3	Lecture Slides: The Tools of Internet Publishing
+### 7.	The Tools of Internet Publishing - Part 1 (8:20)
+### 8.	The Tools of Internet Publishing - Part 2 (6:56)
+### 9.	The Tools of Internet Publishing - Part 3 (8:44)
+#### 9.1	Lab 1: Your First Website!
+#### 9.2	Lecture Slides: Browsers and Web Addresses
+### 10.	Browsers and Web Addresses - Part 1 (11:46)
+### 11.	Browsers and Web Addresses - Part 2 (10:45)
+#### 11.1	Lesson 3 Video Reference Page
+#### 11.2	What did you learn about Internet Browsers?
+#### 11.3	Lecture Slides: HTTP Requests
+### 12.	HTTP Requests (8:45)
+#### 12.1	What did you learn about HTTP requests?
+#### 12.2	Lecture Slides: Meet Our Three Languages
+### 13.	Meet Our Three Languages (10:31)
+#### 13.1	What did you learn about our 3 website languages?
+#### 13.2	Lecture Slides: The Basics of HTML
+### 14.	The Basics of HTML - Part 1 (8:25)
+### 15.	The Basics of HTML - Part 2 (8:48)
+### 16.	The Basics of HTML - Part 3 (10:27)
+#### 16.1	Lesson 6 Video Reference Page
+#### 16.2	What did you learn about the basics of html?
+#### 16.3	Lecture Slides: How to Turn In Labs
+### 17.	How to Turn In Labs (4:55)  ???
+#### 17.1	Lab 2
+#### 17.2	Module 1 Summary
+#### Graded: Module 1 Summative Assessment
+## Week 2
 Module 2: HTML
 Module 2 equips students with advanced skills in HTML, focusing on creating, hosting, and accurately indexing links and images to enhance web page functionality and aesthetics. Students will learn how to convert unique characters into UTF8 Unicode, ensuring global compatibility and accessibility. This module also delves into crafting and publishing essential HTML elements such as lists, and teaches the intricacies of writing and nesting HTML tables and their content. These skills enable students to structure web content effectively, laying the foundation for sophisticated web design and development.
 7 videos, 9 readings
