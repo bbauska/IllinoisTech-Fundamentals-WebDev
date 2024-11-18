@@ -12,22 +12,30 @@ Illinois Tech - Fundamentals of Web Development
 ### About this Course
 This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. The creation and deployment of modern, standards-compliant web pages are addressed. Students create and deploy a Web site with multiple pages and cross-linked structures. Software Requirements: - An email account. - A GitHub account. A personal computer with the following software installed: - A plain-text code-editor capable of syntax highlighting. Recommended: Notepad++ (Windows), TextWrangler (mac), or Sublime Text (multi-platform). - GitHub Desktop (or Git if you are already proficient). - Image-editing software (such as the free and open-source GIMP) - At least three different browsers (e.g., Chrome, Opera, Firefox, and/or Edge)
 
-## Syllabus
-## Week 1
-## Module 1: Internet Structures and an Introduction to HTML
+<h1>Syllabus</h1>
+<h2>Week 1</h2>
+<h2>Module 1: Internet Structures and an Introduction to HTML</h2>
 Welcome to Fundamentals of Web Development! This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. Students will be able to create and deploy a Web site with multiple pages and cross-linked structures by the end of this course. In Module 1, students are introduced to the world of web development, starting with writing basic HTML scripts and publishing them on GitHub and GitHub Pages. It elucidates the roles and functions of the internet's core technologies - HTML, CSS, and JavaScript - and differentiates how browsers operate uniquely compared to other computer applications. Students will become proficient in using essential tools for internet publishing and code archiving, including text editors and GitHub, coupled with an understanding of live hosting practices. Additionally, the course offers insights into the physical infrastructure of the internet, focusing on server technology, and providing a holistic view of the digital landscape from code creation to global connectivity.
-###### 17 videos, 13 readings
-<blockquote>
+<h6>17 videos, 13 readings</h6>
 
-### 1.	Course Overview (7:34)
-https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lecture/D3XXr/course-overview
-### 2.	Instructor Introduction (1:13)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ table of contents ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
+
+### [**Week 1: Course Overview (7:34)**](#ch1)
+> - #### [**2.	Instructor Introduction (1:13)
 #### 2.1	Syllabus
 #### 2.2	Meet and Greet Discussion
 #### 2.3	Module 1: Asset Library (code used in video demonstrations)
+>	- #### [**1.00 A Note from UC Davis**](#ch1-00-note)
+>	- #### [**1.00 Learning Objectives**](#ch1-00-obj)
+>	- #### [**1.00 Welcome to JavaScript Basics**](#ch1-00-welcome)
+>	- #### [**1.00 Module 1 Introduction; JavaScript Variables &amp; Arrays**](#ch1-00-intro)
+>#### [**1.01 Intro to JavaScript - Part 1**](#ch1-01)
+### 1.	Course Overview (7:34)
+https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lecture/D3XXr/course-overview
 ### 3.	Module 1 Introduction (2:00)
-#### 3.1 Lecture Slides: History of the Web
-### 4.	History of the Web - Part 1 (10:11)
+> - #### [**3.1 Lecture Slides: History of the Web**](#ch3-1)
+> - #### 4.	History of the Web - Part 1 (10:11)
 ### 5.	History of the Web - Part 2 (12:13)
 ### 6.	History of the Web - Part 3 (11:27)
 #### 6.1	Lesson 1 Video Reference Page
