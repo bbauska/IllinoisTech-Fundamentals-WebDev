@@ -18,6 +18,7 @@ This course will cover the creation of Web pages and sites using HTML, CSS, Java
 Welcome to Fundamentals of Web Development! This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. Students will be able to create and deploy a Web site with multiple pages and cross-linked structures by the end of this course. In Module 1, students are introduced to the world of web development, starting with writing basic HTML scripts and publishing them on GitHub and GitHub Pages. It elucidates the roles and functions of the internet's core technologies - HTML, CSS, and JavaScript - and differentiates how browsers operate uniquely compared to other computer applications. Students will become proficient in using essential tools for internet publishing and code archiving, including text editors and GitHub, coupled with an understanding of live hosting practices. Additionally, the course offers insights into the physical infrastructure of the internet, focusing on server technology, and providing a holistic view of the digital landscape from code creation to global connectivity.
 ###### 17 videos, 13 readings
 <blockquote>
+
 ### 1.	Course Overview (7:34)
 https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lecture/D3XXr/course-overview
 ### 2.	Instructor Introduction (1:13)
