@@ -22,28 +22,22 @@ Welcome to Fundamentals of Web Development! This course will cover the creation 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ### [**Week 1: Course Overview (7:34)**](#ch1)
-> - #### [**2.	Instructor Introduction (1:13)
-#### 2.1	Syllabus
-#### 2.2	Meet and Greet Discussion
-#### 2.3	Module 1: Asset Library (code used in video demonstrations)
->	- #### [**1.00 A Note from UC Davis**](#ch1-00-note)
->	- #### [**1.00 Learning Objectives**](#ch1-00-obj)
->	- #### [**1.00 Welcome to JavaScript Basics**](#ch1-00-welcome)
->	- #### [**1.00 Module 1 Introduction; JavaScript Variables &amp; Arrays**](#ch1-00-intro)
->#### [**1.01 Intro to JavaScript - Part 1**](#ch1-01)
-### 1.	Course Overview (7:34)
 https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lecture/D3XXr/course-overview
-### 3.	Module 1 Introduction (2:00)
-> - #### [**3.1 Lecture Slides: History of the Web**](#ch3-1)
-> - #### 4.	History of the Web - Part 1 (10:11)
-### 5.	History of the Web - Part 2 (12:13)
-### 6.	History of the Web - Part 3 (11:27)
-#### 6.1	Lesson 1 Video Reference Page
-#### 6.2	What did you learn about the internet's history?
-#### 6.3	Lecture Slides: The Tools of Internet Publishing
-### 7.	The Tools of Internet Publishing - Part 1 (8:20)
-### 8.	The Tools of Internet Publishing - Part 2 (6:56)
-### 9.	The Tools of Internet Publishing - Part 3 (8:44)
+### [**2. Instructor Introduction (1:13)**](#ch2)
+>   - #### [**2.1	Syllabus**](#ch2-1)
+>   - #### [**2.2	Meet and Greet Discussion**](#ch2-2)
+>   - #### [**2.3	Module 1: Asset Library (code used in video demonstrations)**](#ch2-3)
+### [**3.	Module 1 Introduction (2:00)**](#ch3)
+>   - #### [**3.1 Lecture Slides: History of the Web**](#ch3-1)
+### [**4.	History of the Web - Part 1 (10:11)**](#ch4)
+### [**5.	History of the Web - Part 2 (12:13)**](#ch5)
+### [**6.	History of the Web - Part 3 (11:27)**](#ch6)
+>   - #### [**6.1	Lesson 1 Video Reference Page**](#ch6-1)
+>   - #### [**6.2	What did you learn about the internet's history?**](#ch6-2)
+>   - #### [**6.3	Lecture Slides: The Tools of Internet Publishing**](#ch6-3)
+### [**7.	The Tools of Internet Publishing - Part 1 (8:20)**](#ch7)
+### [**8.	The Tools of Internet Publishing - Part 2 (6:56)**](#ch8)
+### [**9.	The Tools of Internet Publishing - Part 3 (8:44)**](#ch9)
 #### 9.1	Lab 1: Your First Website!
 #### 9.2	Lecture Slides: Browsers and Web Addresses
 ### 10.	Browsers and Web Addresses - Part 1 (11:46)
