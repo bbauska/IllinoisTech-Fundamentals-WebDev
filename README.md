@@ -17,6 +17,7 @@ This course will cover the creation of Web pages and sites using HTML, CSS, Java
 ## Module 1: Internet Structures and an Introduction to HTML
 Welcome to Fundamentals of Web Development! This course will cover the creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as the client and server architecture of the Internet and related web technologies. Students will be able to create and deploy a Web site with multiple pages and cross-linked structures by the end of this course. In Module 1, students are introduced to the world of web development, starting with writing basic HTML scripts and publishing them on GitHub and GitHub Pages. It elucidates the roles and functions of the internet's core technologies - HTML, CSS, and JavaScript - and differentiates how browsers operate uniquely compared to other computer applications. Students will become proficient in using essential tools for internet publishing and code archiving, including text editors and GitHub, coupled with an understanding of live hosting practices. Additionally, the course offers insights into the physical infrastructure of the internet, focusing on server technology, and providing a holistic view of the digital landscape from code creation to global connectivity.
 ###### 17 videos, 13 readings
+<blockquote>
 ### 1.	Course Overview (7:34)
 https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lecture/D3XXr/course-overview
 ### 2.	Instructor Introduction (1:13)
@@ -57,6 +58,8 @@ https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/lec
 #### 17.1	Lab 2
 #### 17.2	Module 1 Summary
 #### Graded: Module 1 Summative Assessment
+</blockquote>
+
 ## Week 2
 Module 2: HTML
 Module 2 equips students with advanced skills in HTML, focusing on creating, hosting, and accurately indexing links and images to enhance web page functionality and aesthetics. Students will learn how to convert unique characters into UTF8 Unicode, ensuring global compatibility and accessibility. This module also delves into crafting and publishing essential HTML elements such as lists, and teaches the intricacies of writing and nesting HTML tables and their content. These skills enable students to structure web content effectively, laying the foundation for sophisticated web design and development.
