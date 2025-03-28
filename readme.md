@@ -1,9 +1,8 @@
 # Fundamentals of Web Development
 
-**[By Illinois Tech]{.smallcaps}**
+**[By Illinois Tech]**
 
-![Illinois Institute of Technology - Innovation
-Toronto](media/image1.jpeg){width="2.0in" height="1.1100481189851268in"}
+![Illinois Institute of Technology - Innovation Toronto](media/image1.jpeg){width="2.0in" height="1.1100481189851268in"}
 
 **9 week course, 134 hours (approx) to complete.**
 
@@ -473,10 +472,11 @@ designed to evaluate your understanding of the course material and
 assess your ability to apply the knowledge you have acquired throughout
 the course. Be sure to review the course material thoroughly before
 taking the assessment.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **START HERE -- Illinois Tech's Fundamentals of Web Development**
-
-Week 1: Internet Structures and an Introduction to HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk1">Week 1: Internet Structures and an Introduction to HTML</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Fundamentals of Web Development! This course will cover the
 creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
@@ -498,24 +498,25 @@ of the digital landscape from code creation to global connectivity.
 
 Learning Objectives
 
--   Explain how a browser operates differently from all other computer
+  -   Explain how a browser operates differently from all other computer
     applications.
 
--   Explain the role and function of internet's physical infrastructure
+  -   Explain the role and function of internet's physical infrastructure
     (i.e., Server Technology).
 
--   Use the key technologies of internet publishing and code archiving
+  -   Use the key technologies of internet publishing and code archiving
     (Text Editors, Github, Live Hosting).
 
--   Explain what HTTP requests are used for.
+  -   Explain what HTTP requests are used for.
 
--   Write basic HTML script and publish it to Github and Github Pages.
+  -   Write basic HTML script and publish it to Github and Github Pages.
 
--   Explain the role and function of the internet's key technologies
+  -   Explain the role and function of the internet's key technologies
     (HTML, CSS and JS).
 
-**Course Overview (7:34)**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch0">Course Overview (7:34)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hello and welcome to fundamentals of web development. My name is
 Professor Krieglstein. We\'re going to start with a course
 introduction. 
@@ -641,7 +642,9 @@ those materials. If you\'re stressed out, chances are you\'re
 overthinking it or you\'re missing a key step and that\'s the time for
 you to reach out and ask for help. Thank you.
 
-**Week 1: Introduction (2:00)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-01">Week 1: Introduction (2:00)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 1, Internet Structures and an Introduction to HTML. 
 
@@ -671,7 +674,9 @@ little lab on writing your basically your first website. Enjoy.
 
 Lecture Slides: History of the Web
 
-**History of the Web - Part 1 (10:11)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-02">History of the Web - Part 1 (10:11)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this first lesson, I don\'t want you to have to take notes or worry
 about learning all this information. It\'s more about helping you frame
@@ -840,7 +845,9 @@ leading research universities inventing a lot of these tools. And then
 to a lesser extent, University of Wisconsin and Notre Dame University in
 Indiana.
 
-**History of the Web - Part 2 (12:13)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-03">History of the Web - Part 2 (12:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We have these pocket switching, they\'re just sending files back and 
 
@@ -859,9 +866,7 @@ Massachusetts. He alone may be talking with friends, but he writes out
 this document where he comes up with the idea of a header, CC, BCC. 
 
 If I want to add someone or if I want to blind add someone to the
-email, 
-
-he chooses the @ sign. Again, the @ sign was not a web domain. 
+email, he chooses the @ sign. Again, the @ sign was not a web domain. 
 
 It was Daniel Krieglstein @ maybe Kim, let\'s see, Daniel Krieglstein
 Mit\'s IBM 361 computer. That would be the @ symbol and the address you
@@ -1046,7 +1051,6 @@ What you might do for hours on Wikipedia when you\'re supposed to be 
 
 doing a book report and you end up, my gosh, I\'m doing a book report on
 World War I, and all of a sudden I\'m reading about, corn prices during 
-
 the Renaissance or something like that. 
 
 You know how that night on Wikipedia can go. Tim Berners-Lee, he\'s
@@ -1093,7 +1097,9 @@ He gets Enquire, it\'s unified, it works with networks. 
 More than just talking to a browser, he makes sure it\'s universal on
 the disc formats, the data formats, and the character encoding schemas.
 
-**History of the Web - Part 3 (11:27)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-04">History of the Web - Part 3 (11:27)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This is where we start the slow growth of the Internet, starts to go
 ARPANET. 
@@ -1335,9 +1341,7 @@ I actually can go onto a website, and this is the norm now for most
 people. 
 
 But for instance, like when my mom retired from her position at
-teaching, 
-
-she didn\'t quite understand that all the email on her computer was
+teaching, she didn\'t quite understand that all the email on her computer was
 actually out there in the web. 
 
 She thought she had to download it all and move it to her computer, what
@@ -1355,7 +1359,6 @@ We get the NASA Pathfinder, and I want to emphasize less than a decade
 before, we had 30,000 network computers. 
 
 Now a decade later, we have 49 million independent daily visitors 
-
 watching Pathfinder land on the moon. 
 
 I mean, that\'s amazing how quickly this grew within a decade, 1998,
@@ -1370,14 +1373,10 @@ doing. 
 
 We\'re now able to find information that we want. Napster in 1999, this
 is the first truly decentralized, massively used software where instead
-of 
-
-having local companies managing content, we have the user themselves. 
+of having local companies managing content, we have the user themselves. 
 
 This is not quite social media, but this is the start of the idea that I
-am 
-
-a content creator with Napster I\'m a hoster, I\'m uploading computer
+am a content creator with Napster I\'m a hoster, I\'m uploading computer
 music and I\'m sharing with friends. 
 
 But it\'s the start of this decentralized concept. 
@@ -1389,7 +1388,6 @@ before that, we had Friendster and Myspace, people were using them, but
 it was mostly kids. 
 
 YouTube videos online, that\'s just 2005. Twitter, truly the beginning 
-
 of the downside of social media, and we\'re start seeing the dark forces
 take over, and then the first computer on a phone. 
 
@@ -1400,9 +1398,7 @@ We have now 75% of Internet access approaching your website is going to
 be on mobile phones. 
 
 This idea of mobile computing, navigating websites, navigating the
-world, 
-
-using our phone, this is all still really new, what you\'re learning
+world, using our phone, this is all still really new, what you\'re learning
 today. 
 
 It\'s going to change. You\'re going to have more tools, more power than
@@ -1419,7 +1415,9 @@ This is one of the only lecture videos in this course. 
 But I hope it helps frame where our website is and what it is you\'re
 helping build in the network you now belong to. Cheers.
 
-## The Tools of Internet Publishing -- Part 1 (8:20)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-05">The Tools of Internet Publishing -- Part 1 (8:20)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson two, we\'re going to cover the basics of publishing a
 website, 
@@ -1489,7 +1487,6 @@ closing tags correlated here, and they\'re color coordinated and easily
 linked by the highlight you\'ll see there. 
 
 Here you\'ll see an HTML comment in green, you have attributes in red, 
-
 and you\'ll have other hints when there\'s errors in your code popping
 up. 
 
@@ -1594,7 +1591,6 @@ From here, if I wanted to say, add a little bit more context to my
 README, I can click edit. 
 
 I got my test repo as my name and I might want to change this to used 
-
 in September of 1962 fall semester or something like that.
 
 So when I have hundreds of these sort of files, I might have a little
@@ -1636,7 +1632,9 @@ Ultimately though, I don\'t want to be doing editing on GitHub. 
 
 What I want to be doing is editing on my actual computer.
 
-**Tools of Internet Publishing -- Part 2 (6:56)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-06">Tools of Internet Publishing -- Part 2 (6:56)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I\'ve created another checklist here for linking your PC to your GitHub,
 but 
@@ -1733,11 +1731,8 @@ to be working with TXT files is that they don\'t utilize all the great
 tools within an HTML reader. 
 
 So for instance, if I took this code, copied it and pasted it in here, 
-
 you won\'t see the pretty colors that kind of make this script come
-alive and 
-
-make it easier to read. 
+alive and make it easier to read. 
 
 However, if I was to go now and say file save as and there\'s other ways
 you can go about doing this to create an actual HTML file, but I\'m just
@@ -1761,7 +1756,6 @@ I have all this cool code written in it, I\'m going to say adding HTML
 index file commit to main. 
 
 I\'m going to then have to push to origin, 
-
 the difference between simply committing and pushing is commit. 
 
 You can be working offline, you may have a bunch of commits, you save
@@ -1787,20 +1781,14 @@ was working on this repository with me and they were to edit this
 code, we would want to be able to see it on our desktop as well. 
 
 I\'m going to add, let\'s see down here, close out my body and close out
-my HTML, 
-
-commit the changes, finishing my HTML commit the changes. 
+my HTML, commit the changes, finishing my HTML commit the changes. 
 
 So I\'ve just done an update here online at GitHub, and if I pop open my
-GitHub 
-
-desktop, go back to my test repo, you\'ll see, it doesn\'t say anything
+GitHub desktop, go back to my test repo, you\'ll see, it doesn\'t say anything
 changed. 
 
 But what I need to do is fetch origin because it needs to check it
-hasn\'t 
-
-done that automatically. 
+hasn\'t done that automatically. 
 
 One pull commit from the origin, let\'s pull origin. 
 
@@ -1810,7 +1798,9 @@ got my index, let\'s pop that open. 
 Yes, we want to refresh, and you\'ll see, the code was added to this
 file.
 
-**Tools of Internet Publishing -- Part 3 (8:44)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-07">Tools of Internet Publishing -- Part 3 (8:44)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So now we\'ve written code on our computer, we\'ve linked it to our
 GitHub repository and we\'ve pulled and pushed code back and forth. 
@@ -1820,9 +1810,7 @@ So this is how we\'re managing our repo. 
 And why do we want this code online? 
 
 Because ultimately, we want to have this code pushed to a server that
-makes 
-
-it live for everyone to see. 
+makes it live for everyone to see. 
 
 So we\'re going to use GitHub Pages. 
 
@@ -1832,9 +1820,7 @@ GitHub pages. 
 We don\'t have to push or pull anything there. 
 
 And when we then surf our browser, we go to the GitHub Pages website
-and 
-
-we\'ll see our website live. 
+and we\'ll see our website live. 
 
 I want to emphasize, GitHub Pages is definitely a limited version of
 what a full website tool can do, like Amazon Web Services, AWS. 
@@ -1853,9 +1839,7 @@ So here we are, our file structure. 
 And once we\'re in the repository, we\'re going to click on Settings.
 
 One thing I want to highlight here in Settings before we jump to Pages
-is if you 
-
-need to delete. 
+is if you need to delete. 
 
 So delete a repository all the way at the bottom here. 
 
@@ -1869,14 +1853,10 @@ And we want to click on the main branch. 
 
 Down the road, as you get more savvy at this, you might have a testing
 branch or a live branch, lots of different ways you can save the code
-and 
-
-intermix between them. 
+and intermix between them. 
 
 We\'re not going to mess with root, we\'re not going to add any
-visibility or 
-
-any other features. 
+visibility or any other features. 
 
 So we\'re just selecting this main branch and we\'re clicking Save.
 
@@ -1909,7 +1889,6 @@ There\'s my hello world. 
 So this is going to be your first lab. 
 
 It\'s going to be a little more exciting than that, but 
-
 just following these steps and getting your first website live. 
 
 So if you type this in from any computer or phone, you\'re going to see
@@ -1945,20 +1924,14 @@ to see if your code is looking different based on their rendering
 engines. 
 
 But also this Developer Edition, 
-
 specifically the Firefox Developer Edition, 
-
 is going to be the latest version, which may not be perfect yet. 
 
 So if you want to make sure your website is future-proof, 
 
 you can look at the different browsers and what features they\'re
-adding, 
-
-or what kind of quirks they\'re about to add to see if you can utilize
-them, 
-
-if your website is going to be impacted by them. 
+adding, or what kind of quirks they\'re about to add to see if you can utilize
+them, if your website is going to be impacted by them. 
 
 But generally, this is only for intense website testing.
 
@@ -1970,19 +1943,14 @@ particularly with Chrome. 
 It\'s going to give you an overview. 
 
 I definitely want you to read about these inspector tools because this
-is 
-
-a powerful insight into what website is producing, how it\'s being
+is a powerful insight into what website is producing, how it\'s being
 rendered. 
 
 And we can do control I, or we\'re popping open the inspector using 
-
 right click with Windows, and we get something that looks like this. 
 
 We can dock it on the side or we can have it as a standalone, but
-ultimately, 
-
-let\'s say I really like the font they\'re using in this documentation. 
+ultimately, let\'s say I really like the font they\'re using in this documentation. 
 
 So I\'m going to go to inspect and it jumps right to the HTML code. 
 
@@ -2021,7 +1989,6 @@ applied. 
 You\'ll notice here, this top nav, there\'s a line crossing this out. 
 
 So we\'re going to learn how certain CSS rules override other rules, 
-
 cancel other rules out. 
 
 But I may be upset that something is being canceled out and I don\'t
@@ -2046,7 +2013,6 @@ Council, this is going to be where I\'m processing the
 JavaScript, seeing what\'s work, what\'s not working. 
 
 And then these other ones get into much more complex web management and 
-
 server management, system management, things like that. 
 
 So depending on which browsers you want to download, you can then
@@ -2098,15 +2064,11 @@ This is a tool for actually managing the server software itself. 
 So I might put a PHP file onto the server. 
 
 But here, if I want to actually get the server so that it\'s running
-code, or 
-
-more importantly, the security logins, structures, user
+code, or more importantly, the security logins, structures, user
 management, things like that. 
 
 That\'s going to be engaging the server on a different level than just
-moving files 
-
-back and forth. 
+moving files back and forth. 
 
 So that\'s going to be your SSH shell.
 
@@ -2116,7 +2078,9 @@ Keep going. 
 
 You\'re about to have your first website live.
 
-**Browsers and Web Addresses -- Part 1 (11:46)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-08">Browsers and Web Addresses -- Part 1 (11:46)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 1, Lesson 3. 
 
@@ -2433,7 +2397,9 @@ are still hidden and protected by the Internet\'s firewalls. 
 You can store some limited data, not huge files, without having the risk
 of opening it up to bringing viruses into your computer.
 
-## Browsers and Web Addresses -- Part 2 (10:45)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-09">Browsers and Web Addresses -- Part 2 (10:45)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I want to emphasize here, rendering engines that compile CSS, HTML, and
 Javascript into a single experience are actually different with each
@@ -2860,7 +2826,9 @@ That is Module 1, 
 
 Lesson 3, the browser as a tool.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **HTTP Requests (8:45)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to lesson 4 of module 1, HTTP Requests.
 
@@ -3133,7 +3101,9 @@ That is your HTTP and HTTPS file requests.
 
 Transcript language: English
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Meet Our Three Languages (10:31)**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson five, we\'re going to to take an in depth look at our three
 languages.
@@ -3436,7 +3406,9 @@ processed within the server. 
 And that is the introduction to our 3 codes, 3 technologies, if you
 will.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The Basics of HTML -- Part 1 (8:25)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In Lesson 6, we\'re finally going to get to the nuts and bolts of HTML
 coding. 
@@ -3663,7 +3635,9 @@ to where the image location can be found., and the attribute, which is
 used for both accessibility, and in case the image link is broken and
 you have something to show if the link doesn\'t produce an image.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The Basics of HTML -- Part 2 (8:48)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So as I was pulling up my code in Notepad++, 
 
@@ -3911,7 +3885,9 @@ So this span right here, now I can, with my CSS, grab just that W and 
 maybe make it italics and give it a red font so that it stands out in
 this word.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The Basics of HTML -- Part 3 (10:27)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 And finally, we come to strong and. 
 
@@ -4200,9 +4176,11 @@ different perspective from my own.
 
 And now you have the tools to build your very own website.
 
-## Week 2:
-
-## Module 2 Introduction (1:57)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1>Week 2:</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-01">Module 2 Introduction (1:57)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 2, Straight HTML. 
 
@@ -4253,7 +4231,9 @@ Module 2: Asset Library (code used in video demonstrations)
 
 **Lecture Slides: HTML Elements (inline vs box)**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Elements (inline vs box) - Part 1 (7:47)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson 1 of module 2, we\'re going to get into some hands-on coding.
 
@@ -4544,7 +4524,9 @@ And now I\'ve added a little section. 
 
 And now I have all these semantic tags in use.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Elements (inline vs box) - Part 2 (8:05)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Okay as I promise a little more insight into the difference between
 head, 
@@ -4847,7 +4829,9 @@ mistakes](https://html5doctor.com/avoiding-common-html5-mistakes/)
 
 **Lecture Slides: HTML Lists and Cascades**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Lists and Cascades (11:34)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We have three core types, an ordered list, an unordered list, and a
 descriptive list. 
@@ -5207,7 +5191,9 @@ repository:
 
 Module2-Lesson3.pdf
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Links and Images - Part 1 (7:18)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The anchor element is represented by the a tag. 
 
@@ -5394,7 +5380,9 @@ out. 
 With html5, not only is that no longer necessary, it\'s not really
 practiced by most coders.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Links and Images - Part 2 (6:46)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 All images besides a source need what\'s called an alt attribute. 
 
@@ -5572,7 +5560,9 @@ what you just learned.
 
 Module2-Lesson4.pdf
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Tables (5:16)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This class covers a wide range of expertise. 
 
@@ -5763,7 +5753,9 @@ takeaways from this module:
 -   Students will be able to: write and properly nest HTML tables and
     table content.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Module 3 Introduction (2:14)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to module three. 
 
@@ -5835,7 +5827,9 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_3_demo
 
 Module3-Lesson1.pdf
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Website Navigation (Simple HTML) (6:30)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Let\'s talk about using links as navigation. 
 
@@ -6011,7 +6005,9 @@ That\'s our first lesson in Module 3, Go Team.
 
 Module3-Lesson2.pdf
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Forms - Part 1 (9:03)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Our form entries serve as the key communication between client side
 tools and the server. 
@@ -6271,7 +6267,9 @@ this name matches this PHP field, the PHP field then turns it into a
 variable that\'s PHP readable, and inserts it in my script down here now
 known as text.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Forms - Part 2 (7:59)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 If you didn\'t quite follow that, don\'t worry, the key for a front end
 developer, 
@@ -6541,7 +6539,9 @@ Of course, in this lesson, once you work with the form lab, it\'s
 perfectly okay to leave that all in there because we haven\'t learned
 CSS yet.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## HTML Forms - Part 3 (10:08)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now let\'s learn how to add a few more controls to our form. 
 
@@ -6861,7 +6861,9 @@ Below is a list of the content referenced in the Lesson 2 Video.
 
 **Lecture Slides: UTF8 Characters**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## UTF8 Special Characters (2:42)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I\'ve had you adding the UTF-8 to your HTML head since the beginning of
 our code, but what is it? 
@@ -6982,13 +6984,17 @@ takeaways from this module:
 -   Students will be able to: Write html script that encodes the
     entirety of a traditional resume.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The Cloud is Born (43:15)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/supplement/7uYqa/insights-from-an-industry-leader-learn-more-about-our-program>
 
 ![](media/image2.png){width="5.0in" height="2.1148501749781277in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.1 Module 4 Introduction to CSS (2:34)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to module four and your introduction to CSS and the stylization
 of your website. 
@@ -7074,7 +7080,9 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_4_demo
 
 Module4-Lesson1.pdf
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.2 How CSS talks to HTML (10:19)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Before we can learn the fun styling techniques of CSS, we have to
 understand how our CSS and HTML files talk to each other. 
@@ -7389,7 +7397,9 @@ Below is a list of the content referenced in the Lesson 1 Video.
 
 **Lecture Slides: CSS Declarations**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.3 CSS Declaration - Part 1 (8:43)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this lesson, we\'re getting to the nuts and bolts of CSS coding.
 Let\'s start with the basics. A CSS declaration consists of two parts,
@@ -7514,7 +7524,9 @@ my colon and my font value so colon 20 pixels, p x semi colon space
 there. If I\'m writing my value as px, that px equals pixels and I want
 to emphasize here that not all pixels are created equal.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.4 CSS Declaration - Part 2 (9:42)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The initial value of a CSS pixel correlated to the actual pixel on a
 late \'80s, early \'90s Apple or IBM computer. Now we can always be sure
@@ -7664,7 +7676,9 @@ What did you learn about CSS Declarations?
 
 **Lecture Slides: Writing CSS Selectors for Specificity**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.5 Writing CSS Selectors for Specificity (8:29)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now, let\'s learn how to write your CSS selectors, it all comes down to
 specificity. When we write a style, we can declare how specific that
@@ -7794,7 +7808,9 @@ Below is a list of the content referenced in the Lesson 3 Video.
 
 **Lecture Slides: The Box Model and Box Sizing**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.6 The Box Model and Box Sizing (6:55)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This is almost entirely about using the width call out in CSS and what
 width means of the actual HTML box. So of course we\'re talking about
@@ -7908,7 +7924,9 @@ Below is a list of the content referenced in the Lesson 4 Video.
     b.  **Link:** [The CSS Box
         Model](https://css-tricks.com/the-css-box-model/)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.7 CSS Resets (4:53)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So if you\'ll notice,
 
@@ -8078,7 +8096,9 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_5_demo
 
 **Lecture Slides: CSS Fonts**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Fonts - Part 1 (6:37)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I love this little joke here. 11% of Americans
 
@@ -8166,7 +8186,9 @@ going to ask me about it. Here\'s the license and being able to use it,
 figure out exactly how you can use it, what\'s the legal rights to use
 it. Very important things. Then here is the web font kit.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Fonts - Part 2 (8:55)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Once you download it here\'s what download looks like. You download it
 there will be a zip drive where you unpack it. You\'ll have here an
@@ -8434,7 +8456,9 @@ Below is a list of the content referenced in the Lesson 1 Video.
 
 **Lecture Slides: CSS Floats**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Floats - Part 1 (6:53)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson 2, we\'re
 
@@ -8651,7 +8675,9 @@ want to move these things. You never want
 paragraphs just sitting against the floated image like that and things
 flowing thus.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Floats - Part 2 (5:49)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now, here again,
 
@@ -8811,7 +8837,9 @@ Below is a list of the content referenced in the Lesson 2 Video.
 
 **Lecture Slides: CSS Positions**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Positions - Part 1 (8:00)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The CSS position value will give us
 
@@ -9044,7 +9072,9 @@ different left,
 
 right, top, or bottom if we want to move it differently.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Positions - Part 2 (9:20)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now, some other cool things we can do with relative positioning is
 oftentimes we do want within our text. So inline elements, we want to
@@ -9207,7 +9237,9 @@ repository:
 
 **Lecture Slides: Horizontal Navigation**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Horizontal Navigation - Part 1 (7:51)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We talked before about how with HTML you turn a list,
 
@@ -9467,7 +9499,9 @@ worried about creating some nice navigation
 
 for your Project 2.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Horizontal Navigation - Part 2 (6:00)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Then I clear both. That\'s going to be clearing and that\'s attached to
 
@@ -9680,7 +9714,9 @@ navigation to your website.
 
 **Lecture Slides: Centered navigation**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Centered Navigation (11:20)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So here you have the center nav
 
@@ -10049,7 +10085,9 @@ takeaways from this module:
 -   Students will be able to: Write CSS code that centers a horizontal
     navigation within their website.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Module 6 Introduction (2:43)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 6,
 
@@ -10136,7 +10174,9 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_6_demo
 
 **Lecture Slides: Standard Website Layouts**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Standard Website Layouts (9:30)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We\'re going to start
 
@@ -10380,7 +10420,9 @@ with hands on coding.
 
 **Lecture Slides: Responsive Design**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Responsive Design (10:53)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson two, we\'re going to
 
@@ -10662,7 +10704,9 @@ Below is a list of the content referenced in the Lesson 2 Video.
 
 **Lecture Slides: CSS Transitions, Transformations, and Animations**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Transitions, Transformations, and Animations - Part 1 (4:16)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 CSS has a few built in motion features that
 
@@ -10750,59 +10794,40 @@ the background
 
 color changes of the box, the shape of the box, the turn of the box, and
 the rotation is
-
 actual animation. We\'ll talk about in the
-
 next part of this video. But you can see how much we can change. It
-
 looks really cool. There\'s a little code there. Now, here\'s a
-
 little logarithmic. Here is duration speed
-
 and then over time, it starts slow, speeds up, and then slows down a
 
 little towards the end. We can code that in actual real time picking
 these numbers or generally
-
 we pick some predetermined. I\'ll talk about
-
 those. Here you see them a couple different ways, but we\'re going to
-
 look at our example because we have the code
-
 here. It\'s nice and easy. Week 9 demos, we\'re going
-
 to go to transitions. We have transition
-
 demo, transformed demo, and then animation
-
 demo lecture here. Here is the transition timing
 
 I was just talking about. Generally with that we can
-
 talk about the actual numbers. The cubic bazaar, we want
-
 to actually code that out, but I\'m not going to demo that. I just use
 ease in linear, ease out, ease in
-
 and out, step start, it\'s like a little jaded
-
 and then in steps, these are easy enough for
-
 most people to use or I go to a website where
 
 I pick the speed, there\'s several of
-
 them you can look, and then they\'ll
-
 give you the actual cubic bazaar you want.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Transitions, Transformations, and Animations - Part 2 (9:28)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 By HTML is pretty
-
 straightforward. I have meta title linked to my style sheet and
-
 then I have a URL. So I have a basic navigation. Let\'s pop this bad boy
 open. Here I have my UL, and my transition is
 
@@ -10999,7 +11024,9 @@ This is a nice way. Even though it\'s not a link, it\'s letting people
 know it\'s interactive. I put the A over it, I strip all the link
 aspects of it out, and then I can hover over its an interactive image.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## SS Transitions, Transformations, and Animations - Part 3 (9:11)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 **Lesson 3 Video Reference Page**
 
@@ -11016,7 +11043,9 @@ Below is a list of the content referenced in the Lesson 3 Video.
 
 **Lecture Slides: CSS Pseudo-selectors**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CSS Pseudo-selectors (8:03)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Pseudo selectors aren\'t as utilized as they should be, but when you
 understand them, they can add depth to your CSS. With CSS, I just want
@@ -11257,7 +11286,9 @@ add depth to your website.
 
 **Lecture Slides: Full-site Demonstration**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Full-site Demonstration - Part 1 (9:07)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 For our final lesson on CSS, we\'re
 
@@ -11418,7 +11449,9 @@ if someone\'s hovering here, is it Google or is it myIIT, right? I want
 the pipe to be style. So the easy way to do that is to pull it in
 through CSS.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Full-site Demonstration - Part 2 (10:36)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So I\'m using this really cool CSS and
 
@@ -11668,7 +11701,9 @@ takeaways from this module:
 -   Students will be able to: Write a complete and comprehensive website
     using HTML and CSS.  
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Module 7 Introduction (3:28)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 7, where we introduce you to JavaScript. Now as I\'ve
 mentioned in the introduction to this class, JavaScript can be
@@ -11731,7 +11766,9 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_7_demo
 
 **Lecture Slides: The Basics of JavaScript (JS)**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The Basics of JavaScript (JS) - Part 1 (5:40)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to your first lesson in JavaScript. I want to emphasize here not
 to freak out, JavaScript can appear overwhelming, but we\'re going to
@@ -11811,7 +11848,9 @@ that\'s being told by the code. So much so that, that\'s often you\'ll
 see me, I\'ll give a presentation that I like to tell a story as I\'m
 writing the JavaScript.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The Basics of JavaScript (JS) - Part 2 (6:16)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 You definitely want to come
 
@@ -11998,7 +12037,9 @@ Below is a list of the content referenced in the Lesson 1 Video.
 
 **Lecture Slides: JS Language Features and Syntax**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## JS Language Features and Syntax - Part 1 (7:09)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Variables pretty straightforward, as you saw before I had
 
@@ -12198,7 +12239,9 @@ all
 
 executed within that curly brackets.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## JS Language Features and Syntax - Part 2 (7:53)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Next up, we\'re going to talk
 
@@ -12427,7 +12470,9 @@ test the condition. You just run it this
 
 many number of times.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## JS Language Features and Syntax - Part 3 (6:36)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So we have here JavaScript No
 
@@ -12611,7 +12656,9 @@ play JavaScript tools.
 
 **Lecture Slides: Google Maps API (Application Programming Interface)**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Google Maps API (Application Programming Interface) - Part 1 (5:58)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now that we\'ve spent some time with the JavaScript syntax, let\'s take
 a look at
@@ -12820,7 +12867,9 @@ super far away on the maps and then my
 
 title \"Hello world.\"
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Google Maps API (Application Programming Interface) - Part 2 (6:33)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I\'m going to show you this IT map. So here is a nice little IT map,
 
@@ -12982,7 +13031,9 @@ Below is a list of the content referenced in the Lesson 3 Video.
 **Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document
 Object Model)**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1 (9:25)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In Lesson 4, we\'re going to get a better understanding of
 
@@ -13102,7 +13153,9 @@ represented by objects. DOM is an API that can be used in many
 languages. JavaScript uses the DOM for scripting to modify elements. DOM
 is a collection of nodes on a tree, so let\'s get to that.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2 (9:26)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So here we have this code. But it\'s easier as a Dom to think about each
 one of these as little objects. So there\'s the HTML, even though we
@@ -13300,7 +13353,9 @@ takeaways from this module:
 ```
 -   Students will be able to: Import and manipulate a JS event.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Module 8 Introduction (2:53)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 8 jQuery and Frameworks. This is taking JavaScript a
 little bit further and introducing the concept of a framework and how
@@ -13350,7 +13405,9 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_8_demo
 
 **Lecture Slides: How-To Grab JavaScript Objects and Change HTML**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## How-To Grab JavaScript Objects and Change HTML (10:03)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this lesson, we\'re going to learn how to use JavaScript to grab
 items in your HTML
@@ -13463,7 +13520,9 @@ JavaScript lab.
 
 **Lecture Slides: JQuery Intro and Box Sliders**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Query Intro and Box Sliders - Part 1 (6:58)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this lesson, we\'re going to learn about a Javascript library called
 jQuery and how to add box sliders to your project. jQuery is a library
@@ -13542,7 +13601,9 @@ cut and paste and jQuery mess around with it. Here, #btn. You\'ll see
 there #btn. Instead of doing ID btn, it\'s the hash tag there so that\'s
 the selector being the call out.
 
-## JQuery Intro and Box Sliders - Part 2 (8:45)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+## jQuery Intro and Box Sliders - Part 2 (8:45)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So, why jquery? And here you\'ll see it\'s a little bit lighter, saves
 you about 30% to 40% in code writing, which over large pages can be a
@@ -13652,7 +13713,9 @@ Below is a list of the content referenced in the Lesson 2 Video.
 
 **Lecture Slides: Responsive Videos**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Responsive Videos (7:29)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this lesson, we\'re going to learn how to make videos that are
 responsive to user screen size. So what are we talking about with
@@ -13746,7 +13809,9 @@ your responsive toolbox.
 
 **Lecture Slides: What This All Means for Using Website Frameworks**
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## What This All Means for Using Website Frameworks - Part 1 (9:38)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Moving forward, you\'re almost always going to start web projects from a
 framework. How does all this raw coding fit into that future work? As
@@ -13875,7 +13940,9 @@ pre-determined and written so with calculator, and you\'ll notice
 there\'s also media queries so I print screen. All of this is determined
 for all the media queries it\'s already built for you.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## What This All Means for Using Website Frameworks - Part 2 (9:23)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So if I was to take this little website let\'s go here inspect element
 pow. So already this is made so that these cells will stack this 6 and
