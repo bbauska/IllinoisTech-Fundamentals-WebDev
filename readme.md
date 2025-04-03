@@ -1,4 +1,11 @@
-# Fundamentals of Web Development
+---
+title: "Illinois Technology Fundamentals of Web Development"
+author: "Brian Bauska (bbauska)"
+date last editted: "4/3/2025 Thu 2+pm"
+output: 
+  markdown:
+    with some style
+---
 
 **[By Illinois Tech]**
 
