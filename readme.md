@@ -9,7 +9,7 @@ output:
 
 **[By Illinois Tech]**
 
-![Illinois Institute of Technology - Innovation Toronto](media/image1.jpeg){width="2.0in" height="1.1100481189851268in"}
+![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"}
 
 **9 week course, 134 hours (approx) to complete.**
 
@@ -6997,7 +6997,7 @@ takeaways from this module:
 
 <https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/supplement/7uYqa/insights-from-an-industry-leader-learn-more-about-our-program>
 
-![](media/image2.png){width="5.0in" height="2.1148501749781277in"}
+![](images/image002.png){width="5.0in" height="2.1148501749781277in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## 4.1 Module 4 Introduction to CSS (2:34)
@@ -7384,7 +7384,7 @@ That\'s how HTML and CSS talk.
 
 **Lesson 1 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 1 Video.
 
@@ -8000,7 +8000,7 @@ implement the CSS resets in your future work.
 
 **Module 4 Summary**
 
-![](media/image4.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -8095,7 +8095,7 @@ turn those into buttons, all that exciting things. Enjoy.
 
 **Module 5: Asset Library**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Files used during the code demonstrations of Module 5 can be found at
 the class\'s GitHub repository  \'[linked
@@ -8443,7 +8443,7 @@ researching fonts online.
 
 **Lesson 1 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 1 Video.
 
@@ -8831,7 +8831,7 @@ taking control of your page layout.
 
 **Lesson 2 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 2 Video.
 
@@ -10026,7 +10026,7 @@ repository:
 
 **Project 2 Practice Assignment: First Attempt**
 
-![](media/image5.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image005.png){width="6.5in" height="0.29305555555555557in"}
 
 **Overview**
 
@@ -10037,7 +10037,7 @@ Live Link: <https://dkriegls.github.io/coursera/projects.html>
 
 **Module 5 Summary**
 
-![](media/image4.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -10173,7 +10173,7 @@ side of logo and design as you see fit. So enjoy.
 
 **Module 6: Asset Library**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Files used during the code demonstrations of Module 6 can be found at
 the class\'s GitHub repository  \'[linked
@@ -10691,7 +10691,7 @@ on. Now you can build responsive websites.
 
 **Lesson 2 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 2 Video.
 
@@ -11037,7 +11037,7 @@ aspects of it out, and then I can hover over its an interactive image.
 
 **Lesson 3 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 3 Video.
 
@@ -11273,7 +11273,7 @@ add depth to your website.
 
 **Lesson 4 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 **Below is a list of the content referenced in the Lesson 4 Video.**
 
@@ -11640,7 +11640,7 @@ these margins up there.
 
 **Project 2 Practice Assignment: Second Attempt**
 
-![](media/image5.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image005.png){width="6.5in" height="0.29305555555555557in"}
 
 **Overview**
 
@@ -11651,7 +11651,7 @@ found at the Live Link for our class GitHub repository:
 
 **Module 6 Summary**
 
-![](media/image4.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -11765,7 +11765,7 @@ key basics, so enjoy.
 
 **Module 7: Asset Library**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 **Files used during the code demonstrations of Module 7 can be found at
 the class\'s GitHub repository  \'[linked
@@ -12017,7 +12017,7 @@ implementing some of these tools.
 
 **Lesson 1 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 1 Video.
 
@@ -14071,7 +14071,7 @@ development.
 
 **Lesson 4 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 4 Video.
 
@@ -14081,7 +14081,7 @@ Below is a list of the content referenced in the Lesson 4 Video.
 
 **Module 8 Summary**
 
-![](media/image4.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -14108,7 +14108,7 @@ takeaways from this module:
 
 **Module 8 Summary**
 
-![](media/image4.png){width="6.5in" height="0.29305555555555557in"}
+![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
