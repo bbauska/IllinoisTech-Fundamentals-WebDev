@@ -8,7 +8,8 @@ output:
     with some style
 ---
 
-**[By Illinois Tech]**
+<h1 align="center">Fundamentals of Web Development</h2>
+<h6 align="center">(by Illinoi Tech)</h6>
 
 <!-- ![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -16,21 +17,20 @@ output:
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
   style="width:2.0in"
-  title="Illinois Institute of Technology - Innovation Toront"
-  alt="Illinois Institute of Technology - Innovation Toront." />
+  title="Illinois Institute of Technology - Innovation Toronto"
+  alt="Illinois Institute of Technology - Innovation Toronto." />
 </p>
 <!--  style="width:20%;" -->
 
 **9 week course, 134 hours (approx) to complete.**
 
-This course is part of the Bachelor of Information Technology program
-from Illinois Tech. If you are admitted and enroll in the degree
-program, your coursework can count toward your degree learning and your
-progress can transfer with you.
+<p>This course is part of the Bachelor of Information Technology program from Illinois Tech. If you 
+are admitted and enroll in the degree program, your coursework can count toward your degree 
+learning and your progress can transfer with you.</p>
 
-**Syllabus**
+<h2><a href=#syllabus">Syllabus</a></h2>
 
-**Week 1: Internet Structures and an Introduction to HTML**
+<h3>Week 1: Internet Structures and an Introduction to HTML</h3>
 
 Welcome to Fundamentals of Web Development! This course will cover the
 creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
