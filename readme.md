@@ -1,6 +1,7 @@
 ---
 title: "Illinois Technology Fundamentals of Web Development"
 author: "Brian Bauska (bbauska)"
+date first editted: "4/1/2025 12+pm"
 date last editted: "4/3/2025 Thu 2+pm"
 output: 
   markdown:
@@ -9,7 +10,16 @@ output:
 
 **[By Illinois Tech]**
 
-![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"}
+<!-- ![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. introduction (1-01) (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image001.jpeg?raw=true"
+  style="width:2.0in"
+  title="Illinois Institute of Technology - Innovation Toront"
+  alt="Illinois Institute of Technology - Innovation Toront." />
+</p>
+<!--  style="width:20%;" -->
 
 **9 week course, 134 hours (approx) to complete.**
 
