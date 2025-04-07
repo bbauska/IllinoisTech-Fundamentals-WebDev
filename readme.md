@@ -13,7 +13,7 @@ output:
 
 <!-- ![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. introduction (1-01) (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction (1-01) (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
   style="width:2.0in"
@@ -22,7 +22,7 @@ output:
 </p>
 <!--  style="width:20%;" -->
 
-**9 week course, 134 hours (approx) to complete.**
+<h3>9 week course, 134 hours (approx) to complete.</h3>
 
 <p>This course is part of the Bachelor of Information Technology program from Illinois Tech. If you 
 are admitted and enroll in the degree program, your coursework can count toward your degree 
@@ -30,16 +30,16 @@ learning and your progress can transfer with you.</p>
 
 <h2><a href=#syllabus">Syllabus</a></h2>
 
-<h3>Week 1: Internet Structures and an Introduction to HTML</h3>
+<h3><a href="wk1">Week 1: Internet Structures and an Introduction to HTML</a></h3>
 
-Welcome to Fundamentals of Web Development! This course will cover the
+<p>Welcome to Fundamentals of Web Development! This course will cover the
 creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
 graphical applications as well as the client and server architecture of
 the Internet and related web technologies. Students will be able to
 create and deploy a Web site with multiple pages and cross-linked
-structures by the end of this course.
+structures by the end of this course.</p>
 
-In Module 1, students are introduced to the world of web development,
+<p>In Module 1, students are introduced to the world of web development,
 starting with writing basic HTML scripts and publishing them on GitHub
 and GitHub Pages. It elucidates the roles and functions of the
 internet\'s core technologies - HTML, CSS, and JavaScript - and
@@ -50,9 +50,9 @@ GitHub, coupled with an understanding of live hosting practices.
 Additionally, the course offers insights into the physical
 infrastructure of the internet, focusing on server technology, and
 providing a holistic view of the digital landscape from code creation to
-global connectivity.
+global connectivity.</p>
 
-17 lessons, 13 readings
+<p><small><small>17 lessons, 13 readings</small></small></p>
 
 1.  [Course
     Overview](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/course-overview-D3XXr)
@@ -60,12 +60,11 @@ global connectivity.
 
 -   Syllabus
 
--   **Reading: **Module 1: Asset Library (code used in video
-    demonstrations)
+-   <b>Reading:</b> Module 1: Asset Library (code used in video demonstrations)
 
 2.  Module 1 Introduction (2:00)
 
--   **Reading: **Lecture Slides: History of the Web
+-   <b>Reading:</b> Lecture Slides: History of the Web
 
 3.  History of the Web - Part 1 (10:11)
 
@@ -73,9 +72,9 @@ global connectivity.
 
 5.  History of the Web - Part 3 (11:27)
 
--   **Reading: **Lesson 1 Video Reference Page
+-   <b>Reading:</b> Lesson 1 Video Reference Page
 
--   **Reading: **Lecture Slides: The Tools of Internet Publishing
+-   <b>Reading:</b> Lecture Slides: The Tools of Internet Publishing
 
 6.  The Tools of Internet Publishing - Part 1 (8:20)
 
@@ -83,23 +82,23 @@ global connectivity.
 
 8.  The Tools of Internet Publishing - Part 3 (8:44)
 
--   **Reading: **Lecture Slides: Browsers and Web Addresses
+-   <b>Reading:</b> Lecture Slides: Browsers and Web Addresses
 
 9.  Browsers and Web Addresses - Part 1 (11:46)
 
 10. Browsers and Web Addresses - Part 2 (10:45)
 
--   **Reading: **Lesson 3 Video Reference Page
+-   <b>Reading:</b> Lesson 3 Video Reference Page
 
--   **Reading: **Lecture Slides: HTTP Requests
+-   <b>Reading:</b> Lecture Slides: HTTP Requests
 
 11. HTTP Requests (8:45)
 
--   **Reading: **Lecture Slides: Meet Our Three Languages
+-   <b>Reading:</b> Lecture Slides: Meet Our Three Languages
 
 12. Meet Our Three Languages (10:31)
 
--   **Reading: **Lecture Slides: The Basics of HTML
+-   <b>Reading:</b> Lecture Slides: The Basics of HTML
 
 13. The Basics of HTML - Part 1 (8:25)
 
@@ -107,13 +106,13 @@ global connectivity.
 
 15. The Basics of HTML - Part 3 (10:27)
 
--   **Reading: **Lesson 6 Video Reference Page
+-   <b>Reading:</b> Lesson 6 Video Reference Page
 
--   **Reading: **Lecture Slides: How to Turn In Labs
+-   <b>Reading:</b> Lecture Slides: How to Turn In Labs
 
--   **Reading: **Module 1 Summary
+-   <b>Reading:</b> Module 1 Summary
 
-**Week 2: HTML**
+<h3><a href="wk2">Week 2: HTML</a></h3>
 
 Module 2 equips students with advanced skills in HTML, focusing on
 creating, hosting, and accurately indexing links and images to enhance
@@ -125,43 +124,42 @@ intricacies of writing and nesting HTML tables and their content. These
 skills enable students to structure web content effectively, laying the
 foundation for sophisticated web design and development.
 
-7 lessons, 9 readings
+<p><small><small>7 lessons, 9 readings</small></small></p>
 
 1.  [Module 2
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-2-introduction-5FFqx)
 
--   **Reading: **Module 2: Asset Library (code used in video
-    demonstrations)
+-   <b>Reading:</b> Module 2: Asset Library (code used in video demonstrations)
 
--   **Reading: **Lecture Slides: HTML Elements (inline vs box)
+-   <b>Reading:</b> Lecture Slides: HTML Elements (inline vs box)
 
 2.  HTML Elements (inline vs box) - Part 1
 
 3.  HTML Elements (inline vs box) - Part 2
 
--   **Reading: **Lesson 1 Video Reference Page
+-   <b>Reading:</b> Lesson 1 Video Reference Page
 
--   **Reading: **Lecture Slides: HTML Lists and Cascades
+-   <b>Reading:</b> Lecture Slides: HTML Lists and Cascades
 
 4.  HTML Lists and Cascades
 
--   **Reading: **Lesson 2 Video Reference Page
+-   <b>Reading:</b> Lesson 2 Video Reference Page
 
--   **Reading: **Lecture Slides: HTML Links and Images
+-   <b>Reading:</b> Lecture Slides: HTML Links and Images
 
 5.  HTML Links and Images - Part 1
 
 6.  HTML Links and Images - Part 2
 
--   **Reading: **Lecture Slides: HTML Tables
+-   <b>Reading:</b> Lecture Slides: HTML Tables
 
 7.  HTML Tables
 
--   **Reading: **Lesson 4 Video Reference Page
+-   <b>Reading:</b> Lesson 4 Video Reference Page
 
--   **Reading: **Module 2 Summary
+-   <b>Reading:</b> Module 2 Summary
 
-**Week 3: HTML Forms**
+<h3><a href="wk3">Week 3: HTML Forms</a></h3>
 
 Module 3 guides students through the process of creating well-structured
 HTML navigation, essential for user-friendly website design. Learners
@@ -172,18 +170,18 @@ HTML scripts that encode the full spectrum of a traditional resume,
 teaching students how to present professional information in a clear,
 accessible, and visually appealing online format.
 
-6 lessons, 7 readings
+<p><small><small>6 lessons, 7 readings</small></small></p>
 
 1.  [Module 3
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-3-introduction-1qphz)
 
--   **Reading: **Module 3: Asset Library
+-   <b>Reading:</b> Module 3: Asset Library
 
--   **Reading: **Lecture Slides: Website Navigation (Simple HTML)
+-   <b>Reading:</b> Lecture Slides: Website Navigation (Simple HTML)
 
 2.  Website Navigation (Simple HTML)
 
--   **Reading: **Lecture Slides: HTML Forms
+-   <b>Reading:</b> Lecture Slides: HTML Forms
 
 3.  HTML Forms - Part 1
 
@@ -191,17 +189,17 @@ accessible, and visually appealing online format.
 
 5.  HTML Forms - Part 3
 
--   **Reading: **Lesson 2 Video Reference Page
+-   <b>Reading:</b> Lesson 2 Video Reference Page
 
--   **Reading: **Lecture Slides: UTF8 Characters
+-   <b>Reading:</b> Lecture Slides: UTF8 Characters
 
 6.  UTF8 Special Characters
 
--   **Reading: **Lesson 3 Video Reference Page
+-   <b>Reading:</b> Lesson 3 Video Reference Page
 
--   **Reading: **Module 3 Summary
+-   <b>Reading:</b> Module 3 Summary
 
-**Week 4: Introduction to CSS**
+<h3><a href="wk4">Week 4: Introduction to CSS</a></h3>
 
 Module 4 explores the crucial concept of the HTML cascade in CSS,
 highlighting its value in creating coherent and visually appealing web
@@ -216,48 +214,48 @@ baseline before applying unique CSS customizations. This approach
 fosters a comprehensive understanding of CSS as a tool for sophisticated
 web design and layout management.
 
-7 lessons, 12 readings
+<p><small><small>7 lessons, 12 readings</small></small></p>
 
 1.  [Module 4
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-4-introduction-UQBs5)
 
--   **Reading: **Module 4: Asset Library
+-   <b>Reading:</b> Module 4: Asset Library
 
--   **Reading: **Lecture Slides: How CSS talks to HTML
+-   <b>Reading:</b> Lecture Slides: How CSS talks to HTML
 
 2.  How CSS talks to HTML
 
--   **Reading: **Lesson 1 Video Reference Page
+-   <b>Reading:</b> Lesson 1 Video Reference Page
 
--   **Reading: **Lecture Slides: CSS Declarations
+-   <b>Reading:</b> Lecture Slides: CSS Declarations
 
 3.  CSS Declaration - Part 1
 
 4.  CSS Declaration - Part 2
 
--   **Reading: **Lesson 2 Video Reference Page
+-   <b>Reading:</b> Lesson 2 Video Reference Page
 
--   **Reading: **Lecture Slides: Writing CSS Selectors for Specificity
+-   <b>Reading:</b> Lecture Slides: Writing CSS Selectors for Specificity
 
 5.  Writing CSS Selectors for Specificity
 
--   **Reading: **Lesson 3 Video Reference Page
+-   <b>Reading:</b> Lesson 3 Video Reference Page
 
--   **Reading: **Lecture Slides: The Box Model and Box Sizing
+-   <b>Reading:</b> Lecture Slides: The Box Model and Box Sizing
 
 6.  The Box Model and Box Sizing
 
--   **Reading: **Lesson 4 Video Reference Page
+-   <b>Reading:</b> Lesson 4 Video Reference Page
 
--   **Reading: **Lecture Slides: CSS Resets
+-   <b>Reading:</b> Lecture Slides: CSS Resets
 
 7.  CSS Resets
 
--   **Reading: **Lab 6 Practice Assignment
+-   <b>Reading:</b> Lab 6 Practice Assignment
 
--   **Reading: **Module 4 Summary
+-   <b>Reading:</b> Module 4 Summary
 
-**Week 5: CSS Floats and Positions**
+<h3><a href="wk5">Week 5: CSS Floats and Positions</a></h3>
 
 In Module 5, students will deepen their CSS knowledge by learning to
 write and publish CSS properties specifically for fonts, enhancing the
@@ -270,50 +268,50 @@ techniques for centering it within the website. These skills are
 essential for students aiming to create visually compelling and
 user-friendly web interfaces with advanced CSS techniques.
 
-10 lessons, 10 readings
+<p><small><small>10 lessons, 10 readings</small></small></p>
 
 1.  [Module 5
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-5-introduction-XyyIa)
 
--   **Reading: **Module 5: Asset Library
+-   <b>Reading:</b> Module 5: Asset Library
 
--   **Reading: **Lecture Slides: CSS Fonts
+-   <b>Reading:</b> Lecture Slides: CSS Fonts
 
 2.  CSS Fonts - Part 1
 
 3.  CSS Fonts - Part 2
 
--   **Reading: **Lesson 1 Video Reference Page
+-   <b>Reading:</b> Lesson 1 Video Reference Page
 
--   **Reading: **Lecture Slides: CSS Floats
+-   <b>Reading:</b> Lecture Slides: CSS Floats
 
 4.  CSS Floats - Part 1
 
 5.  CSS Floats - Part 2
 
--   **Reading: **Lesson 2 Video Reference Page
+-   <b>Reading:</b> Lesson 2 Video Reference Page
 
--   **Reading: **Lecture Slides: CSS Positions
+-   <b>Reading:</b> Lecture Slides: CSS Positions
 
 6.  CSS Positions - Part 1
 
 7.  CSS Positions - Part 2
 
--   **Reading: **Lecture Slides: Horizontal Navigation
+-   <b>Reading:</b> Lecture Slides: Horizontal Navigation
 
 8.  Horizontal Navigation - Part 1
 
 9.  Horizontal Navigation - Part 2
 
--   **Reading: **Lecture Slides: Centered navigation
+-   <b>Reading:</b> Lecture Slides: Centered navigation
 
 10. Centered Navigation
 
--   **Reading: **Project 2 Practice Assignment: First Attempt
+-   <b>Reading:</b> Project 2 Practice Assignment: First Attempt
 
--   **Reading: **Module 5 Summary
+-   <b>Reading:</b> Module 5 Summary
 
-**Week 6: Website Layouts and Design**
+<h3><a href="wk6">Week 6: Website Layouts and Design</a></h3>
 
 Module 6 introduces students to the four fundamental layouts of website
 design, providing a foundational understanding of various web design
@@ -328,25 +326,24 @@ skills enables students to create a complete and comprehensive website
 using HTML and CSS, demonstrating proficiency in responsive and visually
 appealing web design.
 
-9 lessons, 11 readings, 4 practice quizzes
+<p><small><small>9 lessons, 11 readings, 4 practice quizzes</small></small></p>
 
 1.  [Module 6
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-6-introduction-eEOos)
 
--   **Reading: **Module 6: Asset Library
+-   <b>Reading:</b> Module 6: Asset Library
 
--   **Reading: **Lecture Slides: Standard Website Layouts
+-   <b>Reading:</b> Lecture Slides: Standard Website Layouts
 
 2.  Standard Website Layouts
 
--   **Reading: **Lecture Slides: Responsive Design
+-   <b>Reading:</b> Lecture Slides: Responsive Design
 
 3.  Responsive Design
 
--   **Reading: **Lesson 2 Video Reference Page
+-   <b>Reading:</b> Lesson 2 Video Reference Page
 
--   **Reading: **Lecture Slides: CSS Transitions, Transformations, and
-    Animations
+-   <b>Reading:</b> Lecture Slides: CSS Transitions, Transformations, and Animations
 
 4.  CSS Transitions, Transformations, and Animations - Part 1
 
@@ -354,25 +351,25 @@ appealing web design.
 
 6.  CSS Transitions, Transformations, and Animations - Part 3
 
--   **Reading: **Lesson 3 Video Reference Page
+-   <b>Reading:</b> Lesson 3 Video Reference Page
 
--   **Reading: **Lecture Slides: CSS Pseudo-selectors
+-   <b>Reading:</b> Lecture Slides: CSS Pseudo-selectors
 
 7.  CSS Pseudo-selectors
 
--   **Reading: **Lesson 4 Video Reference Page
+-   <b>Reading:</b> Lesson 4 Video Reference Page
 
--   **Reading: **Lecture Slides: Full-site Demonstration
+-   <b>Reading:</b> Lecture Slides: Full-site Demonstration
 
 8.  Full-site Demonstration - Part 1
 
 9.  Full-site Demonstration - Part 2
 
--   **Reading: **Project 2 Practice Assignment: Second Attempt
+-   <b>Reading:</b> Project 2 Practice Assignment: Second Attempt
 
--   **Reading: **Module 6 Summary
+-   <b>Reading:</b> Module 6 Summary
 
-**Week 7: Introduction to Javascript**
+<h3><a href="wk7">Week 7: Introduction to Javascript</a></h3>
 
 This module delves into the fundamental principles of writing JavaScript
 (JS), offering students a solid grounding in the language\'s core
@@ -385,22 +382,22 @@ experience in importing and manipulating JavaScript events, furthering
 their understanding of dynamic web interactions and user engagement
 techniques.
 
-10 lessons, 10 readings
+<p><small><small>10 lessons, 10 readings</small></small></p>
 
 1.  [Module 7
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-7-introduction-2wA0M)
 
--   **Reading: **Module 7: Asset Library
+-   <b>Reading:</b> Module 7: Asset Library
 
--   **Reading: **Lecture Slides: The Basics of JavaScript (JS)
+-   <b>Reading:</b> Lecture Slides: The Basics of JavaScript (JS)
 
 2.  The Basics of JavaScript (JS) - Part 1
 
 3.  The Basics of JavaScript (JS) - Part 2
 
--   **Reading: **Lesson 1 Video Reference Page
+-   <b>Reading:</b> Lesson 1 Video Reference Page
 
--   **Reading: **Lecture Slides: JS Language Features and Syntax
+-   <b>Reading:</b> Lecture Slides: JS Language Features and Syntax
 
 4.  JS Language Features and Syntax - Part 1
 
@@ -408,31 +405,27 @@ techniques.
 
 6.  JS Language Features and Syntax - Part 3
 
--   **Reading: **Lecture Slides: Google Maps API (Application
-    Programming Interface)
+-   <b>Reading:</b> Lecture Slides: Google Maps API (Application Programming Interface)
 
 7.  Google Maps API (Application Programming Interface) - Part 1
 
 8.  Google Maps API (Application Programming Interface) - Part 2
 
--   **Reading: **Lesson 3 Video Reference Page
+-   <b>Reading:</b> Lesson 3 Video Reference Page
 
--   **Reading: **Lecture Slides: JavaScript Objects, Event Handling, and
-    DOM (Document Object Model)
+-   <b>Reading:</b> Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document Object Model)
 
-9.  JavaScript Objects, Event Handling, and DOM (Document Object
-    Model) - Part 1
+9.  JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1
 
-10. JavaScript Objects, Event Handling, and DOM (Document Object
-    Model) - Part 2
+10. JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2
 
--   **Reading: **Lesson 4 Video Reference Page
+-   <b>Reading:</b> Lesson 4 Video Reference Page
 
--   **Reading: **Project 3 Practice Assignment: First Attempt
+-   <b>Reading:</b> Project 3 Practice Assignment: First Attempt
 
--   **Reading: **Module 7 Summary
+-   <b>Reading:</b> Module 7 Summary
 
-**Week 8: jQuery and Frameworks**
+<h3><a href="wk8">Week 8: jQuery and Frameworks</a></h3>
 
 Module 8 focuses on empowering students with the skills to dynamically
 manipulate HTML content using JavaScript, enhancing web interactivity
@@ -445,44 +438,42 @@ value of these skills in the context of working with various website
 frameworks, preparing students for advanced web development tasks and
 modern responsive design practices.
 
-7 lessons, 9 readings
+<p><small><small>7 lessons, 9 readings</small></small></p>
 
 1.  [Module 8
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-8-introduction-hjsK2)
 
--   **Reading: **Module 8: Asset Library
+-   <b>Reading:</b> Module 8: Asset Library
 
--   **Reading: **Lecture Slides: How-To Grab JavaScript Objects and
-    Change HTML
+-   <b>Reading:</b> Lecture Slides: How-To Grab JavaScript Objects and Change HTML
 
 2.  How-To Grab JavaScript Objects and Change HTML
 
--   **Reading: **Lecture Slides: JQuery Intro and Box Sliders
+-   <b>Reading:</b> Lecture Slides: jQuery Intro and Box Sliders
 
-3.  **j**Query Intro and Box Sliders - Part 1
+3.  <b>j</b>Query Intro and Box Sliders - Part 1
 
 4.  jQuery Intro and Box Sliders - Part 2
 
--   **Reading: **Lesson 2 Video Reference Page
+-   <b>Reading:</b> Lesson 2 Video Reference Page
 
--   **Reading: **Lecture Slides: Responsive Videos
+-   <b>Reading:</b> Lecture Slides: Responsive Videos
 
 5.  Responsive Videos
 
--   **Reading: **Lecture Slides: What This All Means for Using Website
-    Frameworks
+-   <b>Reading:</b> Lecture Slides: What This All Means for Using Website Frameworks
 
 6.  What This All Means for Using Website Frameworks - Part 1
 
 7.  What This All Means for Using Website Frameworks - Part 2
 
--   **Reading: **Lesson 4 Video Reference Page
+-   <b>Reading:</b> Lesson 4 Video Reference Page
 
--   **Reading: **Project 3 Practice Assignment: Second Attempt
+-   <b>Reading:</b> Project 3 Practice Assignment: Second Attempt
 
--   **Reading: **Module 8 Summary
+-   <b>Reading:</b> Module 8 Summary
 
-**Week 9: Summative Course Assessment**
+<h3><a href="wk9">Week 9: Summative Course Assessment</a></h3>
 
 This module contains the summative course assessment that has been
 designed to evaluate your understanding of the course material and
@@ -1131,16 +1122,11 @@ It allows now other people to join their network. 
 It\'s still centrally controlled, but now people from outside are
 starting to join, so that by 1987 we have 30,000 users. 
 
-Basically small universities, businesses, research labs are starting to 
-
-join up getting IP addresses, and being able to talk with these
-universities. 
+Basically small universities, businesses, research labs are starting to join up getting 
+IP addresses, and being able to talk with these universities. 
 
 In \'94, we have the DNS domain system. 
-
-The DNS is your www.google.com, the English language version of a
-website name. 
-
+The DNS is your www.google.com, the English language version of a website name. 
 What we\'re doing now is we\'re separating what I, as the user type into
 my browser. 
 
@@ -1148,8 +1134,7 @@ Of course, there\'s no browsers yet, you\'re still using web protocols
 to dial it up, but by doing w.w.google, I can say this is who I want to
 talk to, and the registry, the network can now change IP. 
 
-If I move between universities, because I have
-ww.danielkrieglstein.com, 
+If I move between universities, because I have ww.danielkrieglstein.com, 
 
 I can take that with me, and I can get a new IP address, and attach it
 to that, ww.danielkrieglstein.com. 
@@ -1161,7 +1146,6 @@ address. 
 This is like if you lose your phone number for some reason, every time
 you get a new phone, you get to keep your phone number now, back in my
 day, you got a new phone number every time you got a new cell phone 
-
 and you had to tell everyone your new phone number, it was very
 annoying. 
 
@@ -1196,9 +1180,7 @@ He gives us this concept of this epereal Cloud, where I don\'t even know
 where the files are stored. 
 
 I\'m talking to the file itself, and I\'m asking a file to give me a
-different file, 
-
-and I\'m navigating around a website. 
+different file, and I\'m navigating around a website. 
 
 He writes down HTML, HTP, and the URL. 
 
@@ -1244,12 +1226,8 @@ You would send an email to the host server, and then they would type in 
 the website your comment and your response. 
 
 That\'s how the first group chats were, where you actually told
-someone, 
-
-there\'s one person who could actually create that website and manage
-it, 
-
-but people were calling in and paying to have their comments added to
+someone, there\'s one person who could actually create that website and manage
+it, but people were calling in and paying to have their comments added to
 it, quite wild. 
 
 You have the ENQUIRE system hosted by the US Military, Department of
@@ -1269,9 +1247,7 @@ at when these things came about. 
 1990 ARPANET is decommissioned. 
 
 This is important, because this is where the US Department of Defense, 
-
 the universities that are in network, they realize there is no longer 
-
 a central organization or a central network. 
 
 We are all just now part of the web, and so they decommission their
@@ -1437,9 +1413,7 @@ helping build in the network you now belong to. Cheers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson two, we\'re going to cover the basics of publishing a
-website, 
-
-specifically what you need to download and how to use them. 
+website, specifically what you need to download and how to use them. 
 
 All right, we\'re going to need a GitHub account. 
 
@@ -1476,9 +1450,7 @@ A note, though as far as tech influencers, there\'s a lot of money
 thrown around to push products. 
 
 So look for sites like Tom\'s Guide, other ones where the influencers
-and 
-
-the raiders are a little less biased, little less pushing of product. 
+and the raiders are a little less biased, little less pushing of product. 
 
 I\'m not going to choose one or the other or push one, but definitely
 beware of what is being advertised to you in different videos. 
@@ -1674,9 +1646,7 @@ We\'re going to be using what\'s called a graphical interface called
 GitHub desktop, which we already downloaded. 
 
 So GitHub desktop is a very powerful tool that lets you know when
-there\'s 
-
-been some changes in your code and then you can push and pull and
+there\'s been some changes in your code and then you can push and pull and
 commit. 
 
 So let\'s first get our GitHub desktop set up, so we\'re going to start
@@ -1706,7 +1676,6 @@ I\'m going to have just generically here thrown on my desktop. 
 So desktop, this is where it\'s going to be thrown, a clean folder. 
 
 You\'re likely wanting to create a folder somewhere in your C file for 
-
 your work in this course. 
 
 So select folder, and then I\'m choosing to clone. 
@@ -1726,7 +1695,6 @@ license, my new file and my README, I am going to add a new file. 
 I\'m going to do a text document and call this index.html. 
 
 Later on we\'ll talk about why it\'s very important to always have one 
-
 index.html file in your folder. 
 
 If I open this up though, it\'s not an actual HTML file, if you look up
