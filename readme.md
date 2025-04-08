@@ -10014,41 +10014,25 @@ that to an aside. HTML aside, I don&apos;t use
 
 that as much as I should. The aside is used for presents a portion of
 document whose content is only indirectly related
-
 to the documents. Perfect. Let&apos;s change
-
 this is old school, I used to put this aside. Spell it correctly and
 closing
-
 out aside. There we go. Make sure I go to my
-
 CSS and change that to a side bar and aside. Excellent. Clean this up.
 Then my footer should
-
 also be a p. My footer, maybe actually
-
 changes to address. If you remember
-
 what address means, it&apos;s not the address
-
 of the company. It is sitemaintenance@email.com
-
 That&apos;s going to be my footer
-
 very clean closing out the body, tabulations all work. My cascade is
 beautiful. It&apos;s a very beautiful layout. Control, save, and we are
 going to go here. On my body is going to be
-
 padding in margin zero. But actually because
-
 I have the Reset, should unless I need
-
 that to cascade. Let&apos;s see if I need
-
 that there anymore, the reset because I
-
 don&apos;t have a reset. This one has a reset. Let&apos;s go here. Copy and
-
 drop this up top for reset, paste, normalize.css folder. There we go.
 I&apos;m removing this little white space
 
@@ -10062,362 +10046,205 @@ we&apos;re doing here
 is we&apos;re setting this page-wrapper,
 
 inspect element. This page-wrapper,
-
 there&apos;s the page-wrapper 960 going all the way around
-
 and my main is smaller. Take this, let&apos;s
-
 see page-wrapper, it&apos;s all white anyway
-
 so you won&apos;t see it stretch it even
-
 more than 960. That is going to be my header. Let&apos;s change that up a
 little. Put this as usually where
-
 we have it as the max. If we talk about
-
 the media queries, we would usually have
-
 this page wrapper at 960. We could have it smaller, and I&apos;ll demo that
 in a few of these other presentations we&apos;re going to do in these
 videos. This margin 0 and 0 is going
-
 to put white space auto. Top and bottom zero,
-
 left and right auto. This adds that little
-
 extra white space on either side centers
-
 all the content. My header is outside
-
 of page wrapper. Just for semantic purposes, let&apos;s move header up top
 so you can follow that
-
 a little bit easier. I mess around with this
-
 every semester for fun, so there, you know the header starts before
 page-wrapper. Sometimes CSS gets
-
 laid out like this, other times CSS is laid out by who&apos;s responsible
 for what. CSS gets laid out by
-
 all different ways. We&apos;re going to put footer, although at the bottom
 as well. Make it there we go,
-
 background color, height because it&apos;s outside
-
 the wrapper and main, it just stretches
-
 the whole page. We&apos;re not reducing its size, 80 pixels on height. Very
 often I want to add
-
 extra height to my header. Without that height, it
-
 would just be whatever the default height
-
 of the font is. That will be the height
-
 plus the content area. Whatever there, margins
-
 are padding of the font. We can take control that in the CSS and say
-
 height, text center. When I just have one little
-
 piece of text like an h1, I can put text line center. That&apos;s going to
 be
-
 a nice, easy way. We&apos;re going to use this for
-
 navigation center as well, but we have to turn the
-
 navigation into a text. We&apos;ll cover that in the
-
 next demo in this video. Font Size 20 pixels, I could put that on my h1
-
 but being on my header, because it&apos;s on the header,
-
 it also applies to h1. This is that cascade
-
 property, page-wrappers. Then on my main
-
 background color red, float left with 73%, height here 100 pixels. Lots
 of room to put
-
 content here I&apos;m using 800 pixels to demo just what
-
 a normal scroll looks like, put maybe pictures there. But it&apos;s also
 enough for the sidebar there to add
-
 that little sidebar. On the aside, it&apos;s 27, so seven plus three plus
 20, we&apos;re getting 100% there. This then is filling
-
 out the page-wrapper. We get 100% using both these without any
-
 space between them. Background color yellow and then my background color
-
 height clear both. By having these two float
-
 next to each other, and then I want them
-
 to equal 100% width. Also what we learned last week, where we need the
 content, I have no padding or margin. If I was to add, let&apos;s see.
 Padding, let&apos;s put it as 4px, that&apos;s going to be 4px left
-
 and right, top and bottom. Let me see if I have
-
 enough room left over, no. The page-wrapper didn&apos;t leave enough room
 because this
-
 is 73% that was 27, so that&apos;s 100% width. By adding that little
-
 extra space between them, they now equal more than 100%. If I wanted to
 add
-
 that, I would have to reduce this size. Let&apos;s see if that&apos;s
-
 enough to reduce it. There we go. Now I
-
 have this little space on either side and that allows. Here, it&apos;s
 actually inside. Whereas this, because
-
 I&apos;m using CSS reset, this is something you definitely
-
 don&apos;t want to happen, is where the text goes
-
 right up against the side, because I have no margins
-
 or paddings on this. Here, we actually want a
-
 little bit of padding. Margin is going to
-
 be outside the box. Padding is going to
-
 come up to this edge. That&apos;s what you
-
 start to see there. It looks really nice. I hope you enjoyed that lesson
-
 with hands on coding.
-
 **Lecture Slides: Responsive Design**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Responsive Design (10:53)
+<h3 id="ch6-xx">Responsive Design (10:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In lesson two, we&apos;re going to
-
 learn about the modern web. How websites are
-
 built, mobile first, and then you use
-
 media queries to add code that makes it
-
 adaptive to desktops. This is the concept
-
 of responsive design. Let&apos;s watch this
-
 little video together. It&apos;s short, That&apos;s
-
 the introduction. The reality is I started coding the web towards the
 end of
-
 three early four. You definitely had, it was frustrating because not
-
 only did you have to code separately for
-
 Internet Explorer so your website would literally almost have two
 different codes, one for everywhere else and then one for
-
 Internet Explorer. But then you&apos;d also have
-
 to have mobile versions, your HTML and your CSS. You&apos;d often those you
 just
-
 starting, what&apos;s that mean? It means you&apos;d literally, have to have two
 different
-
 repositories in your GitHub, or in your server for whether they came via
 mobile
-
 device or not. When they&apos;d visit mobile device, you&apos;d have a link, and
 it&apos;d start
-
 with M for mobile, and they&apos;d literally get
-
 served up a different website. Now, with CSS three and the invention of
 media
-
 queries, that&apos;s all fixed. Then that&apos;s why HTML
-
 five is so great, because I can keep my
-
 content all the same, but as it shrinks, I can then add a media
-
 query that says, if the screen hits
-
 this 800 pixels, and this is actually minwidth, then I can change
-
 certain CSS rules. I use the CSS media
-
 queries to conditionally load styles based on
-
 things like screen size. There&apos;s also media
-
 queries for print, and screen rotation and
-
 all types of things. For instance, if I click
-
 to print something, I as a bank for instance, know they don&apos;t want
-
 all these links. If I go to print my
-
 bill from a bank, I don&apos;t want all these
-
 links to other stuff because I can&apos;t actually
-
 the printed up for, print all these links
-
 to save printering, they take just the bill
-
 out of it and then it&apos;ll put it up as a PDF
-
 Because the CSS will say, oh, this is going to print
-
 and it&apos;ll make it use less. In for screen size, we often have what I
 like to call &lbrack;inaudible&rbrack; calls mobile first is how we&apos;re
-
 going to design it. But that means we start with a base CSS code like
-
 you&apos;ve encoding. You write a bunch of rules only applying to
-
 a mobile screen. Then when you get
-
 to a tablet size, you put at media screen. The above rules
-
 will only apply to Windows 800 pixels or larger, but all the original
-
 codo still work unless there&apos;s a rule in the
-
 media screen to change it. You have your base code. Then you have your
-
 first media query, and usually second media
-
 query for desk cap sizes. You&apos;ll see websites with
-
 a lot more like that. Let me pop open here. I have just, real basic
 demo. I take this, and If I get smaller, you&apos;ll see the
-
 background changes, so here as I get smaller. This is the base code.
 I&apos;m just going to
-
 open up the CSS. We&apos;ll get a lot more into this. Here we&apos;ll cover all
 this here. I have some code, all the other code
-
 for the website. We&apos;ll cover all these
-
 pseudo selectors. But then I have down
-
 here at media screen, so media screen at body
-
 background image, URL. This is repeating. If I go to here, go back to my
 demo,
-
 you&apos;ll see my image. I have a few different images, I&apos;m messing around
-
 with, so this. Here, this is my
-
 repinning background. I&apos;m not sure where
-
 that name came from. I think that just
-
 came with the image. I have this one
-
 and this one here, background image is
-
 put on the body, so before the media screen. I have this background
 image, which is of those ship. Let&apos;s change that, make
-
 this all much easier. Ship, so I have my ship image, and then the media
-
 screen says if the min width gets above 600
-
 pixels, then add this. But notice that all this
-
 other code doesn&apos;t disappear. It&apos;s only this that changes. Only a
 code, that overlap something
-
 here gets added on. I&apos;ll take this refresh,
-
 inspect element. Now, you can see up
-
 here in this corner, the size that changes, so as I get to 600 pixels.
 Notice 600 pixels, it changes. That&apos;s the basic.
-
 Ultimately though, I want to take this, you&apos;ll notice here,
-
 for instance, my navigation is centered, but it gets hidden, and I just
 side scroll
-
 for a larger screen. That&apos;s not going to work. We actually don&apos;t
-
 want any of that, we want to eventually
-
 have all of this be mobile friendly. If I pop open, let me go all the
-
 way back to demos. Here is CSS. This is the CSS for
-
 the class website. As I scroll all the way down, see here come my media
 queries. Here I have very small screens. I have my font changes in my
 navigation for subtly bigger. There&apos;s a few little
-
 changes there. But generally then here
-
 you&apos;ll see I have a lot of changes that happen after you get above
 really
-
 tiny screens, so above mobile tablet of 680. You see I have several
-
 media queries all in width. Then this final 930 is I&apos;m setting
 everything
-
 for a desktop size here. That&apos;s generally how
-
 we use media screens. Pop open the class website. Here I have my
-
 navigation centered. As I get smaller, you&apos;ll see that jump there. I
 remove some of this
-
 padding on the side, which is nice on bigger
-
 screens, keep things centered. Then I make my font and
-
 everything be a little bit bigger and take up
-
 80% width of the page. You&apos;ll see everything
-
 start to float. You&apos;ll see here, this
-
 padding disappears. You&apos;ll see the font
-
 size increase, especially in the text, and you&apos;ll see another
-
 jump right about here. There, it&apos;s shrinking the size even more and
 centering it. Then this is where,
-
 for instance, Apple, they have a media query
-
 that&apos;s listening to change this whole navigation up
-
 there to the drop down, and obviously many
-
 more like that, every website does that. Media query, you just
-
 implement it in there, and you have your
-
 base code always, you write your CSS for
-
 a mobile first screen, which is tough because when
-
 you&apos;re writing your code, and especially now when you&apos;re learning,
 most of you are testing it out on a desktop, which is fine to begin
 with, but eventually you want to be writing that first set of code for
@@ -10455,16 +10282,12 @@ there&apos;s a more specific way for SASS to do that, which we&apos;ll have a
 lecture at the end of this semester on. Probably should avoid unless you
 understand how import works and may impact performance. This is
 definitely something you&apos;re going to want to play around with once you
-get
-
-the SASS level of coding, but that&apos;s not for beginners quite yet.
+get the SASS level of coding, but that&apos;s not for beginners quite yet.
 Generally, we want to be using this media screen and min-width, makes it
 easier to keep it all in one style sheet and understand what&apos;s going
 on. Now you can build responsive websites.
 
 **Lesson 2 Video Reference Page**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 2 Video.
 
@@ -10485,93 +10308,53 @@ Below is a list of the content referenced in the Lesson 2 Video.
 **Lecture Slides: CSS Transitions, Transformations, and Animations**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Transitions, Transformations, and Animations - Part 1 (4:16)
+<h3 id="ch6-xx">CSS Transitions, Transformations, and Animations - Part 1 (4:16)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 CSS has a few built in motion features that
-
 we can utilize. But for any serious
-
 interactivity on your website, you want to go to a
-
 Javascript plug in. With HTML 5 and CSS 3, we&apos;ve separated the
-
 semantic structure of your website and
-
 content from the style, CSS is your style. Now, we also learned earlier
 that Javascript
-
 is our behavior. Now with that said, there is some legacy
-
 behavior hard coded into CSS already
-
 that&apos;s been there a while and you can still use
-
 it and it&apos;s back end coded into all these browsers. You just need to
 type in the little CSS code and
-
 all of a sudden you have some nice elaborate animation transformations,
-
 or transitions. With transitions,
-
 it is very simple. We&apos;ve learned last week about transitioning between
-
 using media queries transitioning the CSS style from a large screen to
-
 a smaller screen. As it moves, there&apos;s a
-
 transition in that style. In this case, let&apos;s
-
 imagine instead of the pictures we use for
-
 our demo, it&apos;s colors. On a smaller screen, we
-
 have a blue background. On a large screen we
-
 have a red background. Well, as we switch
-
 between those two, there&apos;d be a sharp jump. If we add a little
-
 transition code, we can slow that jump down and have a little bit of
-
 transition in the color. It&apos;s pretty straightforward and we can
 determine the time. There&apos;s a few
-
 characteristics we need to announce to make that
-
 transition happen. We already have the beginning
-
 state, in the end state, so we need to just first identify the state
-
 we want to change. Transition property would be background color In the
-
 example I just gave. We pick the property we want to transition and
-
 of course we need to make sure there&apos;s
-
 a beginning state and the end state,
-
 coded for that. We want to know how long
-
 the transition should take, transition duration, the way
-
 the transition accelerates. We&apos;ll talk a little bit more
-
 about that and then pause, or no pause before it starts. We don&apos;t have
 to put
-
 this transition delay, but we can if we want, and we can have a little
-
 delay before it starts. Let&apos;s first look at
-
 little transition here. Here&apos;s our beginning state, our end state and
-
 this is the part we&apos;re coding for right
-
 here in the middle. Here&apos;s a few examples. This is a half a second,
 full second, two seconds, four seconds doubling each time. You can see
 the background
-
 color changes of the box, the shape of the box, the turn of the box, and
 the rotation is
 actual animation. We&apos;ll talk about in the
@@ -10579,7 +10362,6 @@ next part of this video. But you can see how much we can change. It
 looks really cool. There&apos;s a little code there. Now, here&apos;s a
 little logarithmic. Here is duration speed
 and then over time, it starts slow, speeds up, and then slows down a
-
 little towards the end. We can code that in actual real time picking
 these numbers or generally
 we pick some predetermined. I&apos;ll talk about
@@ -10603,171 +10385,101 @@ them you can look, and then they&apos;ll
 give you the actual cubic bazaar you want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Transitions, Transformations, and Animations - Part 2 (9:28)
+<h3 id="ch6-xx">CSS Transitions, Transformations, and Animations - Part 2 (9:28)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 By HTML is pretty
 straightforward. I have meta title linked to my style sheet and
 then I have a URL. So I have a basic navigation. Let&apos;s pop this bad boy
 open. Here I have my UL, and my transition is
-
 during the hover state. So as I hover over, you&apos;ll see it doesn&apos;t jump
-
 to the yellow. It slowly transitions in
-
 and then transitions out. You also know there&apos;s a
-
 little yellow border there. You&apos;ll see the shadow
-
 here, if I click on it, turns into a nice
-
 little button and the transition stops and
-
 then also it pushes down. It&apos;s moving the box even
-
 though it&apos;s not pushing down. To do this, we make the
-
 shadow disappear just subtly, there&apos;s a little
-
 shadow on the side, and then we have it moved
-
 from the top down a little. So it looks like it&apos;s a
-
 three dimensional push. It&apos;s really simple actually. Let&apos;s check out
 this code. Body, I&apos;m adding my
-
 font a couple deep. Probably don&apos;t need all. Let&apos;s just do three deep.
 Margins font weight, so I&apos;m adding a little
-
 bit of boldness to it. Then you&apos;ll recognize these from our demo on how
 to make a
-
 navigation. List-style, none. Margins, padding,
-
 zero on the UL, LI&apos;s are going to be floated. I have then on my A
 displaying
-
 them as blocks so I can get that big area
-
 all around the text to be also the
-
 button with margins, all this creating the
-
 actual button style. Text alignment, center, color, background-color,
 border. Then here I have
-
 this border radius, which many of you
-
 may have forgotten. In one of the
-
 lectures, it creates the little soft edges, these curves on the edge.
 Now, here starts my
-
 transition declaration. There should be one more. Text-shadow. This is
 my declaration. Sorry about that, had my
-
 comment in the wrong place. Text-shadow, I&apos;m declaring
-
 the color of it. I want it dark gray
-
 and then here I only want 1em.1em.1em and then box-shadow is going to
-
 be zero top and bottom. What I got going on here. Five pixel, five
 pixel, and then calling out the color, so you&apos;ll see top, bottom, left,
 right, and 0.5. How am I doing top right? Bottom left. Making it
-
 very complicated there. Here&apos;s where I call
-
 out the transition, so let&apos;s focus on this. Start transition. I&apos;m
 announcing I&apos;m doing a transition on the
-
 properties of A. Here is where then I announce the end states of where
-
 I want to get to. So I need to know these end states and
-
 then in my transition, I&apos;m calling out
-
 those end states. Background-color or
-
 border-color and box-shadow, and then I&apos;m also adding
-
 this top relative, which will just be
-
 a quick change. There&apos;s not going to
-
 be a transition there, so it&apos;s not part of the
-
 transition, which you&apos;ll see. It looks like I pressed down, but it
 actually just real quick pressing down on it jumps there, and it
 doesn&apos;t happen as
-
 part of the transition. The transition is on the hover. Or actually
 there&apos;s a box-shadow on the transition as well. A hover or on focus,
 this is for mobile, and then active is when
-
 I&apos;m pushing down on it. So this, in Java Script,
-
 would be on click. Then I&apos;m declaring border-color. I just want a 2.2
-
 second transition. Our background-color,
-
 border-color, 0.2 seconds. So that&apos;s going to happen
-
 a little bit faster. Top I want to be 0.2 seconds. I&apos;d mentioned before
-
 I didn&apos;t do the top, my bad, I skipped over that. It is transitioning
-
 very quickly. Let&apos;s see what this would
-
 look like with 1.2 seconds. That&apos;s why it looked like
-
 it was not transitioning. I got to refresh. Still not transitioning
-
 too well. Then box-shadow, 0.2
-
 seconds transition. Then here&apos;s the final
-
 state of each one. Here is the box-shadow
-
 final state. It&apos;s very simple,
-
 very straightforward. You just add these two pieces and that gives you
 transition. So we&apos;ll build on this
-
 with the other ones. Going back to my demo here. The next one is a
 rotation. This is we want to rotate, translate, scale,
-
 or skew the HTML. So that&apos;s our transform. Rotate is very simple. Here
 we have rotating.
-
 Now we can rotate it. This is rotated around
-
 the center axis, but we&apos;ll talk about
-
 other rotations. Translate is just moving it. Scale is we were
-
 shrinking the size of it. Then skew is where we&apos;re taking
-
 two corners, pulling it, and skew is very rarely used, but I&apos;ll show
 you that one. Transform basics, we have
-
 the transform MDN here. You&apos;ll see here
-
 transform, rotate, scale. I declare the transform and
-
 then I declare how I want it. You also have a matrix up there, but I
 don&apos;t use that. Scale, rotate skew. You can also go transform; scale
 and translate
-
 at the same time. Then you&apos;re declaring how you want the properties
-
 to translate. So you can see here all types of ways in which
-
 you can translate. You can also translate just
-
 on X or translate just on Y, rotate just on X, Y. Let&apos;s come back to
 here.
-
 Here we have transform, rotates around the center. If we&apos;re just
 rotating, we just need to say how much we want it to rotate. Transform
 origin we&apos;re then choosing, here is center top, I could say. 100%, 100%
@@ -10805,12 +10517,10 @@ know it&apos;s interactive. I put the A over it, I strip all the link
 aspects of it out, and then I can hover over its an interactive image.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## SS Transitions, Transformations, and Animations - Part 3 (9:11)
+<h3 id="ch6-xx">SS Transitions, Transformations, and Animations - Part 3 (9:11)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 **Lesson 3 Video Reference Page**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 3 Video.
 
@@ -10824,7 +10534,7 @@ Below is a list of the content referenced in the Lesson 3 Video.
 **Lecture Slides: CSS Pseudo-selectors**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Pseudo-selectors (8:03)
+<h3 id="ch6-xx">CSS Pseudo-selectors (8:03)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Pseudo selectors aren&apos;t as utilized as they should be, but when you
@@ -11023,30 +10733,19 @@ on turns purple. You can use visited to change it back to make
 
 it not turn purple. If you don&apos;t like the way purple looks on your
 website,
-
 change to something else. Hover over, you&apos;ve seen
-
 that with the menus, and actually for the demo today. Active, that&apos;s
 another good one. But you can see then there&apos;s
-
 the first child, language, there are a couple
-
 ways to indicate the language of a document,
-
 so that&apos;s a nice one. Use this one language that
-
 we&apos;ve been using, this one, but you can also use
-
 in CSS so dynamically. But it&apos;s a nice little read. I suggest going
 over that. That was just a short lesson, but I encourage you to spend
-
 more time reading about how pseudo selectors can
-
 add depth to your website.
 
 **Lesson 4 Video Reference Page**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
 **Below is a list of the content referenced in the Lesson 4 Video.**
 
@@ -11067,64 +10766,40 @@ add depth to your website.
 **Lecture Slides: Full-site Demonstration**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Full-site Demonstration - Part 1 (9:07)
+<h3 id="ch6-xx">Full-site Demonstration - Part 1 (9:07)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 For our final lesson on CSS, we&apos;re
-
 going to have a full site demonstration so you can put all these pieces
 together and see how you can create
-
 a beautiful website. Some fun things,
-
 obviously I&apos;m just messing around here. I&apos;m trying to keep the code
 really simple. It&apos;s not going to be super clean. So we&apos;re going to
 work more on this sort
-
 of layout here and responsive design, two different ways to load in
 image logo
-
 and I&apos;ll talk about why you might want to. So we have here little more
-
 responsive design, show you all this. All right,
-
 let&apos;s start looking at our HTML. We&apos;re pulling in a Google font. So
 googleapia CSS font family sigmar. So in my CSS you can see I&apos;m pulling
 in
-
 Sigmar here on my company company name, which you&apos;ll see then a cool
-
 little Ninja company. So I went to Google,
-
 we demoed that a few videos ago. And you always know,
-
 you just cut and paste. Sana serif cursive this is a proper
-
 font stack is you have one you&apos;re pulling in one that the browser
-
 already knows that looks similar, and then the default cursive,
-
 which usually you don&apos;t need that, you just need those two, because
 this
-
 is going to be in most browsers. So then my link out to my
-
 resets my link to my style and then I&apos;ve got the body here, little
 header
-
 id main header, wrapping my navigation. And then I&apos;m going to have a
 main navbar. So here in my header I have
-
 a couple of different things. I have these two images I&apos;m going to go
-
 next to talk about pull these image, but I also have this additional
-
 kind of overhead nav. So this is quite common where you&apos;ll
-
 have like the main navigation here in a navbar and then you&apos;ll have
-
 some extra navigation up there. So for instance,
-
 iit.edu go here you have a main nav. You have this weird additional main
 nav. Well, the COVID stuff is up here, but usually this would be up in
 the top. So you have this main nav down there and then you have this
@@ -11201,7 +10876,6 @@ like with JavaScript, when I want to make things disappear, I have
 certain things that flow through, and I write my HTML to make sure that
 it&apos;s optimized reading for search engines. And then I use JavaScript to
 move things around. So ultimately what I want to do is I might
-
 want my image to not be rendered and not show up in search results. So I
 pull it in through CSS so it&apos;s not recognized as content, and that&apos;s
 one possible reason. So doing an image search, I can hide my image in my
@@ -11230,96 +10904,60 @@ the pipe to be style. So the easy way to do that is to pull it in
 through CSS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Full-site Demonstration - Part 2 (10:36)
+<h3 id="ch6-xx">Full-site Demonstration - Part 2 (10:36)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 So I&apos;m using this really cool CSS and
-
 it&apos;s the pseudo selector. And some of the pseudo selectors
-
 are double, some of them are single. So I&apos;m pulling it in second nav
 li. So second nav li, I go to my second nav, which is second nav id. So
 all these lis are going to get content. And I use quotation marks,
-
 drop the pipe in and I want it before. So before the lis drop this
 content in,
-
 it&apos;ll be treated style and I want it color to be black. So that&apos;s
 what&apos;s happening there. But let me delete this just so
-
 you can see what that is, raw. So now on my lis,
-
 before I get this little pipe, so next then I want to
-
 remove this pipe there. I just want the pipe between the two. So then I
 add back in second nav li, first
-
 child before and I remove that content. So content becomes zero instead
 of pipe. So I&apos;m grabbing the second child and because this then is an
 li with a pseudo
-
 selector, another pseudo selector, it weighs more than this and
-
 it comes after this. So it&apos;s more specific because it&apos;s
-
 directly the first child instead of every li. So this one then overrides
 that one. And of course, if I go to here,
-
 refresh, pull up the style inspector. So here you have second
-
 child nav li before content. This gets crossed out. This gets crossed
 out and we just have this content here
-
 which is going to give us that. It&apos;s very straightforward. You can see
 that sort of working
-
 where one overrides the other. Of course, if it didn&apos;t work, I would
-
 go to my inspector and look here and see why it&apos;s not getting crossed
 out and
-
 what&apos;s working. Then on my A&apos;s, I want some color,
-
 some text decoration underline removing, add a little margins,
-
 float them next to each other. So I&apos;m changing them from their
-
 default blue to a little white. And then on the hover,
-
 using that pseudo selector on each A, text decoration underline. So that
 gives me when I go under,
-
 you get the nice little underline there. And you&apos;ll see it&apos;s smaller,
 so
-
 I could make it then I could also go on the A where&apos;s my text it might
-
 make sense to go text, 0.8 text size. There we go. There we go.
-
 So now it&apos;s a little bit smaller. Little side navigation. All right, so
 we&apos;ve created
-
 a nice little second navigation. Then main navigation we already covered
-
 in the last video as far as centering it. So we turned it into an inline
 block. We have the hover over and
-
 now we have our content wrapper. This is where we&apos;re going to
-
 get a little bit more specific. On the second navigation, I&apos;m floating
-
 them left versus floating them right. So it might make sense to float
 them
-
 all left or to float them all right. And then that would jump them
-
 to the side of the page. So, let&apos;s float them right and
-
 we&apos;ll see why that doesn&apos;t work. So now myIIT, Google, Apple, I flip
 them. You&apos;ll see my T, I can move these pipes,
-
 but myIIT, Google, Apple. So floating right means
-
 my HTML is also flipped. So here I have myIIT, Google Apple. Chances
 are, from left to right, writing a website in English. This is also the
 order I want them to appear from left to right on the page. So I can&apos;t
@@ -11407,13 +11045,9 @@ actually I&apos;d need both of them. This should work, 80%. because now I&apos;m
 measuring borders and since I don&apos;t have any margins, they still sit
 right next to each other. So there is the box sizing, border box. Now I
 know 80%, 20%, I have 100%. You can see how that math works out. I
-don&apos;t have to worry about
-
-these margins up there.
+don&apos;t have to worry about these margins up there.
 
 **Project 2 Practice Assignment: Second Attempt**
-
-![](images/image005.png){width="6.5in" height="0.29305555555555557in"}
 
 **Overview**
 
@@ -11422,9 +11056,9 @@ found at the Live Link for our class GitHub repository:
 
 **Live Link:** <https://dkriegls.github.io/coursera/projects.html>
 
-**Module 6 Summary**
-
-![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch6-summ">Module 6 Summary</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -11432,59 +11066,31 @@ takeaways from this module:
 
 -   Lesson 1: Standard Website Layouts
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Explain the 4 basic layouts of website
     design.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 2: Responsive Design
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Explain the value of beginning your CSS
     style from a mobile friendly style format.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 3: CSS Transitions, Transformations, and Animations
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish CSS Transitions,
     Transformations, and Animations.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 4: CSS Pseudo-selectors
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish CSS Pseudo-selectors.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 5: Full-site Demonstration
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write a complete and comprehensive website
     using HTML and CSS.  
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Module 7 Introduction (3:28)
+<h3 id="ch7-xx">Module 7 Introduction (3:28)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to Module 7, where we introduce you to JavaScript. Now as I&apos;ve
 mentioned in the introduction to this class, JavaScript can be
 intimidating. It&apos;s a full spectrum code, which means it can be written
@@ -11547,7 +11153,7 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_7_demo
 **Lecture Slides: The Basics of JavaScript (JS)**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The Basics of JavaScript (JS) - Part 1 (5:40)
+<h3 id="ch7-xx">The Basics of JavaScript (JS) - Part 1 (5:40)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to your first lesson in JavaScript. I want to emphasize here not
@@ -11629,7 +11235,7 @@ see me, I&apos;ll give a presentation that I like to tell a story as I&apos;m
 writing the JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The Basics of JavaScript (JS) - Part 2 (6:16)
+<h3 id="ch7-xx">The Basics of JavaScript (JS) - Part 2 (6:16)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 You definitely want to come
@@ -11790,8 +11396,6 @@ implementing some of these tools.
 
 **Lesson 1 Video Reference Page**
 
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
 Below is a list of the content referenced in the Lesson 1 Video.
 
 1.  A book on introductory JS:
@@ -11818,31 +11422,21 @@ Below is a list of the content referenced in the Lesson 1 Video.
 **Lecture Slides: JS Language Features and Syntax**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## JS Language Features and Syntax - Part 1 (7:09)
+<h3 id="ch7-xx">JS Language Features and Syntax - Part 1 (7:09)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Variables pretty straightforward, as you saw before I had
-
 the variable foo in the operator, you can just create
-
 a variable like this food. So food is undefined fuud, that&apos;s uncut
-
 error because it&apos;s not an actual variable. So there I&apos;m doing var food
 or fuud, now it&apos;s an undefined variable. But as you saw up here,
-
 I could just do year=3, or those undefined variables can just
-
 be put in the council like that. But we want to stay proper in our code,
 so we&apos;re doing var we declare it as
-
 a variable and then we assign it a value. Names are case sensitive and
-
 must begin with a letter or underscore so most always just begin with a
 letter. Can be a set of very basic data types, we&apos;ll talk about the
 data
-
 types in a second. No special characters in the name again,
-
 just keep it simple. Has functional scope, what that means
 
 is once I assign foo the value of 5, if I create a new JavaScript
@@ -12020,7 +11614,7 @@ all
 executed within that curly brackets.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## JS Language Features and Syntax - Part 2 (7:53)
+<h3 id="ch7-xx">JS Language Features and Syntax - Part 2 (7:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Next up, we&apos;re going to talk
@@ -12121,648 +11715,382 @@ function
 
 with new keywords, variable object, new object. I then have this object,
 I can add stuff inside of it, so here&apos;s a literal
-
 object inside, I can create an array. What I&apos;m doing here
-
 is once I&apos;ve created a variable, is JavaScript code, object is just obj
 is what
-
 I just named it, equals. Then I have here, a key, with colon, value,
 coma, key2 value. What I&apos;m doing here is
-
 I&apos;m creating an array of data that sits inside obj. Keys need to be a
 string
-
 with no spaces and so here, for instance, I
-
 can do color: red, quantity: 5, instock: true. I could also do password
-
 1, actual password, password 2, actual password, password 3, actual
 password. Access or set properties
-
 here, object color, I&apos;m creating this
-
 color called blue, sets the object color to blue. Here I&apos;m grabbing
 obj, and I&apos;m changing color to blue. Let&apos;s do a proper variable,
 object equals, and then instock true. There should be a string, little
 things like that, gets caught up. There we go. Now if I do object.color,
-
 and there we go. I want to know the color, I&apos;m going to find out it&apos;s
 blue. But now I could also
-
 do color equals red, a string red. There we go. If I do variable.obj,
 actually I know I just do obj will get me color:
-
 red, quantity: 2. The color has now
-
 shifted inside there. This is where you start
-
 getting more complex. Playing around with JavaScript and creating nice,
-
 complex arrays. Usually, you&apos;ll get
-
 something like this. Then you&apos;ll be asked to build a little code to
 change up
-
 what&apos;s inside it already. JavaScript Objects
-
 Literal format. Here we have a variable, my object equals, and
-
 a string property. Some string number property, boolean property which
 you
-
 saw me just build just now. But the value can&apos;t be
-
 any JavaScript data type including a function
-
 or other object. These are the arrays
-
 that we&apos;re building. You want to make sure that
-
 as you&apos;re building them, they map back to a database on the back end
 and
-
 often write it in a way that makes sense to
-
 relate to that database. Next, we have else
-
 if statements. If you&apos;re not
-
 familiar with coding, very often they&apos;re known
-
 as if then statements, but in JavaScript specifically, we call them else
 if statements. Very simply, if you
-
 ask a condition so if in this particular situation, if quantity equals
 22, run this block of code
-
 and then close it. If this condition isn&apos;t met, it&apos;ll go to the else
 if. So else if run this condition, run this block of code. Then finally,
 if this
-
 condition is not met, it won&apos;t do any more
-
 condition tests and it&apos;ll just run
-
 this block of code. You can actually have as
-
 many else if as you want. You want to make sure
-
 there&apos;s no overlap between each condition. If there is, whichever
 condition is met first the block code, it won&apos;t test for any
-
 further conditions if a condition is met. Here, if inventory equals 10,
 send email to warehouse
-
 manager to buy more. Else if it&apos;s between
-
 10 and zero send an emergency email
-
 else, do nothing. Loops are going to expand
-
 on that a little bit more. Mostly you&apos;re going
-
 to do for and while. These other ones can get
-
 a little more complex. Run this block of code for
-
 this many number of times, or run this block of code
-
 while this condition is true. For instance,
-
 Facebook got busted. They had a JavaScript
-
 code that says, as long as someone had
-
 their cursor inside the comment box or inside
-
 the post box on their wall, what we call on focus. While on focus,
 record every single keystroke. Every time you wrote out a
-
 post and then deleted it, Facebook was actually
-
 recording that and mining it. That would be like for just keep running
 while this
-
 condition is true. For, you don&apos;t have to
-
 test the condition. You just run it this
-
 many number of times.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## JS Language Features and Syntax - Part 3 (6:36)
+<h3 id="ch7-xx">JS Language Features and Syntax - Part 3 (6:36)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 So we have here JavaScript No
-
 attached to the DOM. JavaScript NO attach HTML JavaScript YES. This is
 how you want to attach it. So let&apos;s start with what my slide says. So
 event handling and
-
 what this is, an event is, let&apos;s say onclick would be an event. The
 user has just clicked on a button
-
 in JavaScript that&apos;s called, click or onclick, depending upon how
-
 now you use to code it, so you can attach it as actual HTML. And for the
 life of me,
-
 I tell students not to do this. And yet all 362 I still have students
-
 coming back and writing JavaScript inside their HTML and attaching the
 onclick
-
 function, as a method attached to the DOM. So this is going to be
 another way and then using the addEventHandler
-
 method of object. So this is how we want you to do
-
 object.addEventListener click, you define the listening and
-
 then you define my function. My function is going to be defined earlier
-
 as whatever function you want to run. Or here you have
-
 object.attachEvent(&apos;&apos;onclick&apos;&apos;, modifyText);. This is what it looks
 like. But let&apos;s pop open the actual code here. So this is all in a
 single file. So I have my CS up here and
-
 my JavaScript down here, let me pop this open to
-
 show you what we&apos;re doing. So these are the two wrong ways. So here I
 click on Hello. I get this pop up Hello Daniel. That&apos;s what I want to
 happen. So here I have function. I&apos;m announcing I&apos;m going to do a
 function. I&apos;m calling it myEventFunction() and
-
 it&apos;s an anonymous function, I&apos;m not declaring any
-
 value types in there. So this is going to be my function. Inside these
 brackets is
-
 what I want to happen. And it&apos;s very simple, an alert pop up,
-
 which is a predefined function, that says Hello Daniel in it. So I&apos;ve
 written this, this is just
-
 sitting here inside my script. It won&apos;t do anything, it&apos;s not
-
 attached to anything inside my HTML. So when we&apos;re talking about an
 event
-
 handler, we&apos;re talking about code that then takes a function or
 something and
-
 then attaches to an event inside the HTML. Here I have var d3, that
 means inside JavaScript I&apos;m
-
 creating a variable called d3. I want that variable to equal
-
 document.getElementById(div3);. So document as we established
-
 a little bit earlier, is the HTML. So it&apos;s looking inside the HTML.
 This dot attaches a question
-
 to it getElementById. It&apos;s looking inside the HTML for
-
 an Id called div3. So it finds it here, so again,
-
 this actually I could do, separate that with the space again,
-
 just show it&apos;s separate. D3, so now I have this
-
 variable inside JavaScript. I have this function just sitting there. Now
 I need to attach the two. So d3 I want to addEventListener. So I&apos;m
 listening for
-
 event on d3 and it&apos;s click. So click is predefined in JavaScript. So
 now I want to listen for a click. And then when someone clicks,
-
 I want my function to run. So now I&apos;m attaching my function. So d3,
 this click now attaches it and that brings me to the situation where
-
 when I click on it, I get this pop up. Now the two wrong ways I see a
 lot
-
 of people do it is this way. So this one&apos;s really bad, this is div id1.
 And here they use this onclick,
-
 right on the HTML, on click, Hello Daniel. It seems really clean and
-
 easy compared to what I just did. But the worst thing about it is it
-
 separates your JavaScript out of the JavaScript file. The second thing
 is it&apos;s single binding. So I can only onclick, I can&apos;t add
-
 another function, whatever that would be. So I can&apos;t add a second, so
-
 I can only have this pop up. Whereas here,
-
 now that I added an event listener, I could actually go d3, add a second
-
 event listener all onto d3 and keep adding event listeners and
-
 have several functions run. So very rarely do we
-
 want a single function. And then got my function, got my alert,
-
 this is how we did it properly. Here, I&apos;m still writing everything,
-
 I&apos;m still creating the onclick. But then again,
-
 I&apos;m running this d2.onclick. And instead of adding
-
 the addEventListener, I&apos;m just directly clicking
-
 the add click onto d2. So this is adding it to the DOM
-
 element and myFunction. Again, I can&apos;t add multiple myFunctions. I
 can&apos;t then go d2.on click again. This one will override this one. So I
 still only single bind it. So again,
-
 this is the way you want to do it. And the only reason I&apos;m complicating
 you
-
 with all these different ways of binding is because I do see kids,
-
 especially doing this one. So now a little bit about the DOM objects. So
 DOM, it&apos;s object representation
-
 of the HTML document and all other things related to it. All elements
 are represented
-
 by objects in JavaScript. The Dom is an API that can
-
 be used by many languages. So you&apos;ll see the DOM
-
 in other codes as well. JavaScript uses DOM scripting to
-
 modify the elements on the page. DOM is a collection of node trees. Also
 provide standard methods to
-
 traverse the DOM, access element pages. So by talking about that, we&apos;re
 saying
-
 here document is a standard DOM name. Id getElementById is a standard
 DOM name. All these things then represent
-
 it in a tree flowing outward. The most common id is getElementById. So
 that&apos;s the most common way to
-
 find stuff inside of the HTML. But you can also go for window. Which
 window is not the HTML. It&apos;s going to be this space here. So you can
 ask orientation of window. You can ask operating system of window. You
 can ask history of window, for instance, where they came to before
-
 they ended up on this web page? So you go beyond just the HTML and
-
 the CSS and the DOM. Now getElementById is the most common,
-
 but you can also access it by class, tag, selector. Selector is how you
 might write it in CSS. So for instance, here div &#35; div1. So if I was
 going to get the selector
-
 instead of saying div 1, I&apos;d actually selector,
-
 I&apos;d grab this whole string there and that would be grabbing
-
 the DOM by selector. That is used most often
-
 with Ruby on rails. Hopefully after this lesson you have
-
 a little more confidence to be able to implement some plug and
-
 play JavaScript tools.
-
 **Lecture Slides: Google Maps API (Application Programming Interface)**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Google Maps API (Application Programming Interface) - Part 1 (5:58)
+<h3 id="ch7-xx">Google Maps API (Application Programming Interface) - Part 1 (5:58)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now that we&apos;ve spent some time with the JavaScript syntax, let&apos;s take
 a look at
-
 one of these plug and play API&apos;s I&apos;ve
-
 been talking about. This is for Project 3 and essentially what you&apos;re
-
 going to be doing is going to the Google Maps website and you&apos;re going
-
 to be cutting and pasting their code and
-
 this is what you&apos;ll find early on in
-
 JavaScript development. Very often you&apos;re cutting
-
 and pasting code from JavaScript APIs and you know enough to craft it
-
 to fit your website. Here is Google Maps
-
 platform and this is really cool because you can use this map and if you
-
 get talented enough, you learn enough about it, you can make these maps,
-
 speak in many different ways. During the Syrian
-
 Civil War early days, there was a lot of
-
 unknown going on there. I read this story about a Syrian refugee in
 England following Twitter,
-
 following the UN, following all the updates
-
 and piecing together the data they had about where the different
-
 factions were. This Syrian refugee had done so well that news agencies
-
 starting with BBC and The New York Times and
-
 others started referring to this refugee&apos;s map to find out what was
 actually
-
 going on on the ground. Turns out this refugee
-
 was a teenager, just had the skill,
-
 had the time, and was following the
-
 different Twitter feeds of the official
-
 groups on the ground, seeing where things overlap, and built using
 Google Maps API. This really fascinating
-
 map that then became authoritative
-
 on the subject. You&apos;ll find maps in a lot of different websites
-
 using this API. The basic API if you cut
-
 and paste it will give you Walla Gong here with the
-
 Google Maps JavaScript API. You basically load the
-
 JavaScript API file from Google API server. You first pull in and I&apos;ll
-
 pull up the code here, so I have already Google
-
 Maps demo here is basic map. Here I have the HTML
-
 already pulled in. Here&apos;s the basic
-
 map and it&apos;s for developer purses you got to pay to have that tag taken
 off. You can mess around
-
 with it here it starts on this Australia tab. You drop your script
-
 source in the head and this is pulling down from
-
 the Google Maps API and you&apos;ll see here this
-
 JavaScript question mark after this is my API key. Then I have equals
-
 initial map afterwards, but all that you really need, the HTML is div ID
 map and that&apos;ll be on your
-
 fourth page in your demo. Then all you need in the
-
 JavaScript to make this work is the map object options set
-
 using JavaScript object, the container element
-
 in your Dom and then pass the container element
-
 and the object into the map, so variable maps equals
-
 new Google maps, and you put all this
-
 function and it runs. Here, I&apos;ll ran through that quick purposely
 because it&apos;s
-
 easier to look at the code, you have the Dom object
-
 you need to create. Then you create a
-
 variable called map, so a map is just an
-
 undefined variable yet, you need to define
-
 what map equals. Now I&apos;m going to do
-
 function in it map so I&apos;m initiating this is the name of the function,
 it&apos;s anonymous. In that function, I&apos;m going
-
 to grab the variable map, I&apos;m going to make map
-
 equal a new Googles. This here is coming from here, so that&apos;s already
-
 known Dom objects. It&apos;s grabbing the map and it&apos;s telling me where to
 put it. Document.elma ID is
-
 going to be my map. Now I&apos;m grabbing this and placing this Google
-
 map code inside there. Then I need to determine where the map is focused
 and what the zoom level
-
 of that map is, so really high in the sky or
-
 right up on street level. That&apos;s all I need
-
 to define the map, and now coming back here, you can find all that
-
 here from the JavaScript. Here is script deferred
-
 source API key and you&apos;ll see
-
 there your API key. You can sign up for an API key, if you need it you
-
-can click on there, you can go there and insert it, or you can start to
-get your
-
+can click on there, you can go there and insert it, or you can start to get your
 own API key if you need it. I want to emphasize
-
 here, do not pay for an API key if
-
 you don&apos;t want one, just use mine for
-
 this project if you want to load it without
-
 paying for your own. You can get one
-
 without paying though. Map Dom elements, so this is all that fits
-
-inside the Dom or the HTML. Then here are your map options, that&apos;s what
-I explained
-
+inside the Dom or the HTML. Then here are your map options, that&apos;s what I explained
 those basics, so there are two
-
 required options for every map as I said. Now, once you get through
-
 this basic reading, I encourage you to read
-
 through this much more in depth of what I just
-
 explained really quickly. Then we&apos;re going to
-
 come over here and you see there&apos;s some
-
 tutorials, map fire basin, so we&apos;re going to scroll
-
 down a drawing on the map markers, shapes,
-
 symbols overlay. I&apos;m encouraging you
-
 as part of Project 3, you should have three features added beyond the
 base code. Look through here and
-
 find three features. You click on &quot;Markers&quot;. A marker identifies a
-
 location on the map, by default a marker
-
 uses a standard image. Markers can display
-
 custom images in which the case they are
-
 usually referred to as icons. You come through here, this is all getting
 my map
-
 up and going still. Then you have here
-
 this unique code, so new Google Maps marker
-
 so this is a predetermined. When you pull in
-
 that JavaScript code from the Google API, marker is going to be one of
-those variables
-
-already created there. I&apos;m attaching a marker
-
+those variables already created there. I&apos;m attaching a marker
 to Google Maps inside my HTML I&apos;m saying what
-
 position I want it, so usually it&apos;s going to
-
 be near this position. You don&apos;t want it
-
 super far away on the maps and then my
-
 title &quot;Hello world.&quot;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Google Maps API (Application Programming Interface) - Part 2 (6:33)
+<h3 id="ch7-xx">Google Maps API (Application Programming Interface) - Part 2 (6:33)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 I&apos;m going to show you this IT map. So here is a nice little IT map,
-
 but I have the new joker there. If you hover over the new joker,
-
 this little pop up happens and you can close it back up. You&apos;ll also
 know some other
-
 things I want to see, I do not want your map to take up
-
 the whole page in project three. So you&apos;re going to use some CSS here.
 I put a little border around my map. I shrank my map and all that can
-
 be found inside this code here. So my code super simple, right? Here&apos;s
 my head meta title link
-
 script out to my Google API. So it&apos;s pulling in the API,
-
 pulling in the style here and then pulling in my own unique script. So
 script async type,
-
 text/javascript, source it base. So the only code I&apos;m
-
 adding here is this div. And actually this should be tapped over. So
 this div here and
-
 then a div for the canvas. So the div for the wrapper gives
-
 me that nice red on the outside. And then I have the div inside
-
 that becomes my canvas. Now very simple CSS wrapper width, height,
-
 background margins overflow hidden. So I give it this width of 850
 pixels. Margin is going to center for me and
-
 then just some color, width, height, background color, canvas margin.
 Don&apos;t really need this
-
 background color too much. But this is adding that little
-
 extra canvas style to it. The reason being is I want to make
-
 sure if this map doesn&apos;t load, there&apos;s some color that&apos;s different.
-So I make sure everything
 
+So I make sure everything
 else about this works. So here&apos;s my JavaScript. You&apos;ll see function
 init. Sometimes it&apos;s nice to just do this and
-
 use the alert. It works to make sure that
-
 you loaded your JavaScript. And actually this will load it
-
 all the way through windows. Load init, function init. So here&apos;s my
 init function. Load init, make sure it works. So I go back here. So if
 the rest of it doesn&apos;t work here,
-
 this page says it works. So that&apos;s a nice test. And you&apos;ll see the
 gray background. So I got everything right, but for
-
 some reason my map isn&apos;t working. Maybe my API key isn&apos;t working.
 Maybe I wrote the code wrong. But I scaled back everything and just did
 this alert to make sure I&apos;m
-
 actually attaching the event function. So let&apos;s look at the event
 function. So here&apos;s my function. This is all that I have left in there.
 Google Maps event. So I&apos;m grabbing this Google Maps. I&apos;m adding a Dom
 listener. So on Google Maps Dom Listener,
-
 I&apos;m listening to the window, not to my document, but to the window. I
 want to know when the page loads
-
 initiate this function alert, it worked. This is going to be the event
 listener
-
 that you&apos;re writing for Google Maps. So take all this and write this as
 is and
-
 then put your Google code inside there so you&apos;ll see,
-
 I now have this Google code. So variable element document getelmbyd. So
 now I&apos;m going to grab the canvas. I want to drop my map inside the
 canvas. Variable map options. So now I&apos;m actually not just centering or
-
 not just zooming, I&apos;m actually picking. I want to center it on
-
 my location map type ID. I want it to be satellite when you
-
 load it, map type control options. And then I&apos;m going to
-
 position Google Map controls. I want my controls on the bottom center
-
 instead of traditional on the top or side. This is all still within
-
 this initial init function. Variable my map. New Google Maps map. L map
 options. I&apos;m going to change up those
-
 options on my map variable marker. So here&apos;s what we just went over.
 I&apos;m grabbing the marker. New Google Maps marker. I want the position on
 my location, which we already established was here
-
 my location map, my map animation. I want Google Maps Animation, bounce.
 Where did I get this? Was reading through these specifications. You&apos;ll
 see map options,
-
 marker, hello world. Remove the marker. Animate the marker. So now cool,
 I can animate the marker. I want it to drop bounce animate
-
 Google Maps animation drop. And you can read through all this and see
-
 drop, bounce, the two different options. And then I figure that out and
-
 add it to this code. So I don&apos;t want you to do
-
 this exact same thing. And then here is the icon color, the actual image
 I&apos;m pulling icon ITPNG. So that&apos;s all I want you to do is you&apos;re not
 really writing original code. You&apos;re mostly figuring this out, cutting
@@ -12808,13 +12136,11 @@ Below is a list of the content referenced in the Lesson 3 Video.
     b.  **Link**: [Maps JavaScript
         API](https://developers.google.com/maps/documentation/javascript/)
 
-**Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document
-Object Model)**
+**Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document Object Model)**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1 (9:25)
+<h3 id="ch7-xx">JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1 (9:25)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In Lesson 4, we&apos;re going to get a better understanding of
 
 the objects we&apos;re trying to grab in HTML and
@@ -12934,7 +12260,7 @@ languages. JavaScript uses the DOM for scripting to modify elements. DOM
 is a collection of nodes on a tree, so let&apos;s get to that.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2 (9:26)
+<h3 id="ch7-xx">JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2 (9:26)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So here we have this code. But it&apos;s easier as a Dom to think about each
@@ -13055,8 +12381,6 @@ to in our HTML and CSS.
 
 **Lesson 4 Video Reference Page**
 
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
-
 Below is a list of the content referenced in the Lesson 3 Video.
 
 1.  JS Open Source Documentation
@@ -13086,57 +12410,32 @@ Below is a list of the content referenced in the Lesson 3 Video.
 
     b.  **Link**: [JavaScript](https://www.sitepoint.com/javascript/)
 
-**Module 7 Summary**
-
-![](media/image4.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="mod7-sum">Module 7 Summary</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
 takeaways from this module:
 
 -   Lesson 1: The Basics of JavaScript (JS)
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Explain the core concepts of writing JS.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 2: JS Language Features and Syntax
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish core elements of JS.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 3: Google Maps API (Application Programming Interface)
 
-```{=html}
-<!-- -->
-```
--   Students will be able to: Import and utilize a Google Map on their
-    own website.
+-   Students will be able to: Import and utilize a Google Map on their own website.
 
-```{=html}
-<!-- -->
-```
--   Lesson 4: JavaScript Objects, Event Handling, and DOM (Document
-    Object Model)
+-   Lesson 4: JavaScript Objects, Event Handling, and DOM (Document Object Model)
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Import and manipulate a JS event.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Module 8 Introduction (2:53)
+<h3 id="ch8-0">Module 8 Introduction (2:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to Module 8 jQuery and Frameworks. This is taking JavaScript a
 little bit further and introducing the concept of a framework and how
 all this can play into your coding. First, we&apos;re going to continue with
@@ -13175,10 +12474,9 @@ those tools will not be able to and that&apos;s going to round out the
 course for you. I hope it was a pleasure and enjoy these last few
 lessons.
 
-**Module 8: Asset Library**
-
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch8-assets">Module 8: Asset Library</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Files used during the code demonstrations of Module 8 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_8_demo)&apos;.
@@ -13186,9 +12484,8 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_8_demo
 **Lecture Slides: How-To Grab JavaScript Objects and Change HTML**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## How-To Grab JavaScript Objects and Change HTML (10:03)
+<h3 id="mod8-1">How-To Grab JavaScript Objects and Change HTML (10:03)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In this lesson, we&apos;re going to learn how to use JavaScript to grab
 items in your HTML
 
@@ -13301,9 +12598,8 @@ JavaScript lab.
 **Lecture Slides: JQuery Intro and Box Sliders**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Query Intro and Box Sliders - Part 1 (6:58)
+<h3 id="ch8-2">Query Intro and Box Sliders - Part 1 (6:58)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In this lesson, we&apos;re going to learn about a Javascript library called
 jQuery and how to add box sliders to your project. jQuery is a library
 for Javascript. Initially, it was written to simplify and abstract some
@@ -13852,8 +13148,9 @@ Below is a list of the content referenced in the Lesson 4 Video.
 
 **Link:** [Foundation](https://get.foundation/)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Module 8 Summary**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
@@ -13879,8 +13176,9 @@ takeaways from this module:
     -   Students will be able to: Explain the value of this course when
         working with website Frameworks.
 
-**Module 8 Summary**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch8">Module 8 Summary</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
