@@ -30,7 +30,7 @@ learning and your progress can transfer with you.</p>
 
 <h2><a href=#syllabus">Syllabus</a></h2>
 
-<h3><a href="wk1">Week 1: Internet Structures and an Introduction to HTML</a></h3>
+<h3><a href="wk1">Module/Week 1: Internet Structures and an Introduction to HTML</a></h3>
 
 <p>Welcome to Fundamentals of Web Development! This course will cover the
 creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
@@ -54,19 +54,19 @@ global connectivity.</p>
 
 <p><small><small>17 lessons, 13 readings</small></small></p>
 
-1.1.  Course Overview (7:34)
+1.1.  Course Overview Fundamentals of Web Development (7:34)
 <!-- [Course
     Overview](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/course-overview-D3XXr)
     (7:34)
 -->
 
--   Syllabus
+-   1.1.1 Syllabus
 
--   <b>Reading:</b> Module 1: Asset Library (code used in video demonstrations)
+-   1.1.2 <b>Reading:</b> Module/Week 1: Asset Library (code used in video demonstrations)
 
-1.2.  Module 1 Introduction Internet Structures and an Introduction to HTML (2:00)
+1.2.  Module/Week 1 Introduction Internet Structures and an Introduction to HTML (2:00)
 
--   <b>Reading:</b> Lecture Slides: History of the Web
+-   1.2.1 <b>Reading:</b> Lecture Slides: History of the Web
 
 1.3.  History of the Web - Part 1 (10:11)
 
@@ -74,9 +74,9 @@ global connectivity.</p>
 
 1.5.  History of the Web - Part 3 (11:27)
 
--   <b>Reading:</b> Lesson 1 Video Reference Page
+-   1.5.1 <b>Reading:</b> Lesson 1 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: The Tools of Internet Publishing
+-   1.5.2 <b>Reading:</b> Lecture Slides: The Tools of Internet Publishing
 
 1.6.  The Tools of Internet Publishing - Part 1 (8:20)
 
@@ -84,23 +84,23 @@ global connectivity.</p>
 
 1.8.  The Tools of Internet Publishing - Part 3 (8:44)
 
--   <b>Reading:</b> Lecture Slides: Browsers and Web Addresses
+-   1.8.1 <b>Reading:</b> Lecture Slides: Browsers and Web Addresses
 
 1.9.  Browsers and Web Addresses - Part 1 (11:46)
 
 1.10. Browsers and Web Addresses - Part 2 (10:45)
 
--   <b>Reading:</b> Lesson 3 Video Reference Page
+-   1.10.1 <b>Reading:</b> Lesson 3 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: HTTP Requests
+-   1.10.2 <b>Reading:</b> Lecture Slides: HTTP Requests
 
 1.11. HTTP Requests (8:45)
 
--   <b>Reading:</b> Lecture Slides: Meet Our Three Languages
+-   1.11.1 <b>Reading:</b> Lecture Slides: Meet Our Three Languages
 
 1.12. Meet Our Three Languages (10:31)
 
--   <b>Reading:</b> Lecture Slides: The Basics of HTML
+-   1.12.1 <b>Reading:</b> Lecture Slides: The Basics of HTML
 
 1.13. The Basics of HTML - Part 1 (8:25)
 
@@ -108,13 +108,13 @@ global connectivity.</p>
 
 1.15. The Basics of HTML - Part 3 (10:27)
 
--   <b>Reading:</b> Lesson 6 Video Reference Page
+-   1.15.1 <b>Reading:</b> Lesson 6 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: How to Turn In Labs
+-   1.15.2 <b>Reading:</b> Lecture Slides: How to Turn In Labs
 
--   <b>Reading:</b> Module 1 Summary
+-   1.15.3 <b>Reading:</b> Module/Week 1 Summary
 
-<h3><a href="wk2">Week 2: HTML</a></h3>
+<h3><a href="wk2">Module/Week 2: HTML</a></h3>
 
 Module 2 equips students with advanced skills in HTML, focusing on
 creating, hosting, and accurately indexing links and images to enhance
@@ -133,37 +133,37 @@ foundation for sophisticated web design and development.
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-2-introduction-5FFqx)
 -->
 
--   <b>Reading:</b> Module 2: Asset Library (code used in video demonstrations)
+-   2.1.1 <b>Reading:</b> Module/Week 2: Asset Library (code used in video demonstrations)
 
--   <b>Reading:</b> Lecture Slides: HTML Elements (inline vs box)
+-   2.1.2 <b>Reading:</b> Lecture Slides: HTML Elements (inline vs box)
 
 2.2.  HTML Elements (inline vs box) - Part 1 (7:47)
 
 2.3.  HTML Elements (inline vs box) - Part 2 (8:05)
 
--   <b>Reading:</b> Lesson 1 Video Reference Page
+-   2.3.1 <b>Reading:</b> Lesson 1 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: HTML Lists and Cascades
+-   2.3.2 <b>Reading:</b> Lecture Slides: HTML Lists and Cascades
 
 2.4.  HTML Lists and Cascades (11:34)
 
--   <b>Reading:</b> Lesson 2 Video Reference Page
+-   2.4.1 <b>Reading:</b> Lesson 2 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: HTML Links and Images
+-   2.4.2 <b>Reading:</b> Lecture Slides: HTML Links and Images
 
 2.5.  HTML Links and Images - Part 1 (7:18)
 
 2.6.  HTML Links and Images - Part 2 (6:46)
 
--   <b>Reading:</b> Lecture Slides: HTML Tables
+-   2.6.1 <b>Reading:</b> Lecture Slides: HTML Tables
 
 2.7.  HTML Tables (5:16)
 
--   <b>Reading:</b> Lesson 4 Video Reference Page
+-   2.7.1 <b>Reading:</b> Lesson 4 Video Reference Page
 
--   <b>Reading:</b> Module 2 Summary
+-   2.7.2 <b>Reading:</b> Module/Week 2 Summary
 
-<h3><a href="wk3">Week 3: HTML Forms</a></h3>
+<h3><a href="wk3">Module/Week 3: HTML Forms</a></h3>
 
 Module 3 guides students through the process of creating well-structured
 HTML navigation, essential for user-friendly website design. Learners
@@ -176,19 +176,19 @@ accessible, and visually appealing online format.
 
 <p><small><small>6 lessons, 7 readings</small></small></p>
 
-3.1.  Module 3 Introduction HTML Forms (2:14)
+3.1.  Module/Week 3 Introduction HTML Forms (2:14)
 
 <!-- [Module 3
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-3-introduction-1qphz)
 -->
 
--   <b>Reading:</b> Module 3: Asset Library
+-   3.1.1 <b>Reading:</b> Module/Week 3: Asset Library
 
--   <b>Reading:</b> Lecture Slides: Website Navigation (Simple HTML)
+-   3.1.2 <b>Reading:</b> Lecture Slides: Website Navigation (Simple HTML)
 
 3.2.  Website Navigation (Simple HTML) (6:30)
 
--   <b>Reading:</b> Lecture Slides: HTML Forms
+-   3.2.1 <b>Reading:</b> Lecture Slides: HTML Forms
 
 3.3.  HTML Forms - Part 1 (9:03)
 
@@ -196,17 +196,17 @@ accessible, and visually appealing online format.
 
 3.5.  HTML Forms - Part 3 (10:08)
 
--   <b>Reading:</b> Lesson 2 Video Reference Page
+-   3.5.1 <b>Reading:</b> Lesson 2 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: UTF8 Characters
+-   3.5.2 <b>Reading:</b> Lecture Slides: UTF8 Characters
 
 3.6.  UTF8 Special Characters (2:42)
 
--   <b>Reading:</b> Lesson 3 Video Reference Page
+-   3.6.1 <b>Reading:</b> Lesson 3 Video Reference Page
 
--   <b>Reading:</b> Module 3 Summary
+-   3.6.2 <b>Reading:</b> Module/Week 3 Summary
 
-<h3><a href="wk4">Week 4: Introduction to CSS</a></h3>
+<h3><a href="wk4">Module/Week 4: Introduction to CSS</a></h3>
 
 Module 4 explores the crucial concept of the HTML cascade in CSS,
 highlighting its value in creating coherent and visually appealing web
@@ -223,48 +223,49 @@ web design and layout management.
 
 <p><small><small>7 lessons, 12 readings</small></small></p>
 
-4.1.  Module 4 Introduction to CSS (2:34)
+4.1.  Module/Week 4 Introduction to CSS (2:34)
+
 <!-- [Module 4
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-4-introduction-UQBs5)
 -->
 
--   <b>Reading:</b> Module 4: Asset Library
+-   4.1.1 <b>Reading:</b> Module/Week 4: Asset Library
 
--   <b>Reading:</b> Lecture Slides: How CSS talks to HTML
+-   4.1.2 <b>Reading:</b> Lecture Slides: How CSS talks to HTML
 
 4.2.  How CSS talks to HTML (10:19)
 
--   <b>Reading:</b> Lesson 1 Video Reference Page
+-   4.2.1 <b>Reading:</b> Lesson 1 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: CSS Declarations
+-   4.2.2 <b>Reading:</b> Lecture Slides: CSS Declarations
 
 4.3.  CSS Declaration - Part 1 (8:43)
 
 4.4.  CSS Declaration - Part 2 (9:42)
 
--   <b>Reading:</b> Lesson 2 Video Reference Page
+-   4.4.1 <b>Reading:</b> Lesson 2 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: Writing CSS Selectors for Specificity
+-   4.4.2 <b>Reading:</b> Lecture Slides: Writing CSS Selectors for Specificity
 
-5.  Writing CSS Selectors for Specificity (8:29)
+4.5.  Writing CSS Selectors for Specificity (8:29)
 
--   <b>Reading:</b> Lesson 3 Video Reference Page
+-   4.5.1 <b>Reading:</b> Lesson 3 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: The Box Model and Box Sizing
+-   4.5.2 <b>Reading:</b> Lecture Slides: The Box Model and Box Sizing
 
-6.  The Box Model and Box Sizing (6:55)
+4.6.  The Box Model and Box Sizing (6:55)
 
--   <b>Reading:</b> Lesson 4 Video Reference Page
+-   4.6.1 <b>Reading:</b> Lesson 4 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: CSS Resets
+-   4.6.2 <b>Reading:</b> Lecture Slides: CSS Resets
 
-7.  CSS Resets (4:53)
+4.7.  CSS Resets (4:53)
 
--   <b>Reading:</b> Lab 6 Practice Assignment
+-   4.7.1 <b>Reading:</b> Lab 6 Practice Assignment
 
--   <b>Reading:</b> Module 4 Summary
+-   4.7.2 <b>Reading:</b> Module/Week 4 Summary
 
-<h3><a href="wk5">Week 5: CSS Floats and Positions</a></h3>
+<h3><a href="wk5">Module/Week 5: CSS Floats and Positions</a></h3>
 
 In Module 5, students will deepen their CSS knowledge by learning to
 write and publish CSS properties specifically for fonts, enhancing the
@@ -284,7 +285,7 @@ user-friendly web interfaces with advanced CSS techniques.
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-5-introduction-XyyIa)
 -->
 
--   5.1.1 <b>Reading:</b> Module 5: Asset Library
+-   5.1.1 <b>Reading:</b> Module/Week 5: Asset Library
 
 -   5.1.2 <b>Reading:</b> Lecture Slides: CSS Fonts
 
@@ -544,7 +545,7 @@ Learning Objectives
     (HTML, CSS and JS).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch0">Course Overview (7:34)</h2>
+<h3 id="ch1-1">1.1 Course Overview (7:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Hello and welcome to fundamentals of web development. My name is
 Professor Krieglstein. We&apos;re going to start with a course
@@ -672,9 +673,8 @@ overthinking it or you&apos;re missing a key step and that&apos;s the time for
 you to reach out and ask for help. Thank you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-01">Week 1: Introduction (2:00)</h2>
+<h3 id="ch1-2">1.2 Module/Week 1: Introduction to HTML (2:00)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to Module 1, Internet Structures and an Introduction to HTML. 
 
 Again, this is our fundamentals of web development course. In this
@@ -704,7 +704,7 @@ little lab on writing your basically your first website. Enjoy.
 Lecture Slides: History of the Web
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-02">History of the Web - Part 1 (10:11)</h2>
+<h3 id="ch1-3">1.3 History of the Web - Part 1 (10:11)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this first lesson, I don&apos;t want you to have to take notes or worry
@@ -868,7 +868,7 @@ to a lesser extent, University of Wisconsin and Notre Dame University in
 Indiana.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-03">History of the Web - Part 2 (12:13)</h2>
+<h3 id="ch1-4">1.4 History of the Web - Part 2 (12:13)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We have these pocket switching, they&apos;re just sending files back and 
@@ -1113,7 +1113,7 @@ More than just talking to a browser, he makes sure it&apos;s universal on
 the disc formats, the data formats, and the character encoding schemas.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-04">History of the Web - Part 3 (11:27)</h2>
+<h3 id="ch1-5">1.5 History of the Web - Part 3 (11:27)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This is where we start the slow growth of the Internet, starts to go
@@ -1416,7 +1416,7 @@ But I hope it helps frame where our website is and what it is you&apos;re
 helping build in the network you now belong to. Cheers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-05">The Tools of Internet Publishing -- Part 1 (8:20)</h2>
+<h3 id="ch1-6">1.6 The Tools of Internet Publishing -- Part 1 (8:20)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson two, we&apos;re going to cover the basics of publishing a
@@ -1629,7 +1629,7 @@ Ultimately though, I don&apos;t want to be doing editing on GitHub. 
 What I want to be doing is editing on my actual computer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-06">Tools of Internet Publishing -- Part 2 (6:56)</h2>
+<h3 id="ch1-7">1.7 Tools of Internet Publishing -- Part 2 (6:56)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I&apos;ve created another checklist here for linking your PC to your GitHub,
@@ -1791,7 +1791,7 @@ Yes, we want to refresh, and you&apos;ll see, the code was added to this
 file.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-07">Tools of Internet Publishing -- Part 3 (8:44)</h2>
+<h3 id="ch1-8">1.8 Tools of Internet Publishing -- Part 3 (8:44)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So now we&apos;ve written code on our computer, we&apos;ve linked it to our
@@ -2057,7 +2057,7 @@ Keep going. 
 
 You&apos;re about to have your first website live.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-08">Browsers and Web Addresses -- Part 1 (11:46)</h2>
+<h3 id="ch1-9">1.9 Browsers and Web Addresses -- Part 1 (11:46)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to Module 1, Lesson 3. 
@@ -2354,7 +2354,7 @@ You can store some limited data, not huge files, without having the risk
 of opening it up to bringing viruses into your computer.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-09">Browsers and Web Addresses -- Part 2 (10:45)</h2>
+<h3 id="ch1-10">1.10 Browsers and Web Addresses -- Part 2 (10:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I want to emphasize here, rendering engines that compile CSS, HTML, and
@@ -2770,7 +2770,7 @@ That&apos;s in development, you might use this, but not so much when you&apos;
 That is Module 1, Lesson 3, the browser as a tool.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**HTTP Requests (8:45)**
+<h3 id="ch1-11">1.11 HTTP Requests (8:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to lesson 4 of module 1, HTTP Requests.
@@ -3022,7 +3022,7 @@ That is your HTTP and HTTPS file requests.
 Transcript language: English
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**Meet Our Three Languages (10:31)**
+<h3 id="ch1-12">1.12 Meet Our Three Languages (10:31)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In lesson five, we&apos;re going to to take an in depth look at our three
@@ -3165,660 +3165,409 @@ take your image tags and put some width and height on your image. 
 I&apos;m going to to explain in future, lectures why that&apos;s not how we want
 to to go about changing the size of our images, color, font, positions,
 border line spacing, all that&apos;s done in CSS. 
-
 A very common error a lot of students do in early projects, is use BR or
 HR to put a space between their lines, because they want to to have a
 nice flow on their page. 
-
 Absolutely do not do that, I will have future lectures on why that
 really kind of limits, your layout, and the CSS applications you can
 apply. 
-
 So again, you will get points off, if you put &lt;br&gt; or 
-
 &lt;hr&gt; into your HTML, to make line spacing. 
-
 Our CSS versions aren&apos;t as varied as our HTML, pretty much, CSS 1
 wasn&apos;t even a standard, It was competing with other forms of creating
 style and style sheets. 
-
 We also had HTML itself, with inline style which still exists and 
-
 is used for testing but should not end up in your web page. 
-
 CSS 2 gets published around May 1998, and we settle on that being
 generally the one that everyone&apos;s using by CSS 2.1. 
-
 It&apos;s published in 2011, no one&apos;s using any of the other style sheets,
 even though our code kind of indicates there&apos;s other style sheets to be
 used, in the head. 
-
 But we&apos;re linking to just CSS always with our style sheets. 
-
 CSS 3, instead of being one giant rollout, has been more of a slow, 
-
 progressive rollout, and expansion of the CSS 2 model. 
-
 So essentially just building off a CSS 2 and adding, new content. 
-
 It&apos;s been divided into several separate documents called modules. 
-
 The earliest starting around 1999, but really the brunt of it came out 
-
 around 2018, and there&apos;s been new modules rolled out every year. 
-
 And you can expect more modules to be rolled out, kind of overlapping
 with CSS 4 as that starts to roll out in the similar slow and
 progressive way. 
-
 Next we&apos;re going to to talk about JavaScript, also known as
 ECMAScript. 
-
 In the ECMAScript name, you will find JavaScript powering remote control
 cars, drones, remote controls, among other electronics in your everyday
 environment. 
-
 It&apos;s the behavioral level of our website and it&apos;s an object oriented
 language. 
-
 Unlike HTML and CSS, JavaScript is a full computer language. 
-
 You could spend several classes just becoming an expert in JavaScript. 
-
 We&apos;re going to to learn in this class just how to plug and play, and 
-
 have JavaScript code that&apos;s kind of been pre written interact with your
 website, which is how most website developers learn JavaScript. 
-
 It is capable of the following moving objects around the screen, 
-
 manipulating HTML and CSS tags and rules, implementing cool browser
 APIs. 
-
 So much so, that it&apos;s the power of video games within your browser
 things like that. 
-
 That&apos;s all powered by JavaScript, originally developed by Brennan, 
-
 each at Netscape in 1995, in development it was called Mocha, then
 LiveScript. 
-
 Finally, when it was launched, they changed it to JavaScript, 
-
 &lbrack;LAUGH&rbrack; as a ploy, because at the time among the nerds in Silicon
 Valley. 
-
 Java was the cool new language and they just decided to piggyback on
 that ride, that popularity wave. 
-
 The two have nothing in common other than they&apos;re both computer
 languages. 
-
 In 1996, Netscape submitted JavaScript to ECMA International which was
 an organization. 
-
 By 1997, ECMA International published ECMA 2 6 2 version 1 which 
-
 basically married JavaScript and ECMA together as one and the same. 
-
 It really, switches name based on where it&apos;s being used. 
-
 So ,for instance in a remote control it&apos;s going to to be referred to
 ECMA, 
-
 In the web it&apos;s referred to JavaScript. 
-
 We&apos;re currently in JavaScript version, is ECMA plus the current year, 
-
 so, 2015 is when this new naming standard started. 
-
 Used to have like ECMA 2.38, now it&apos;s ECMA 215, ECMA 216, ECMA 226,
 ECMA 229, and on and on, whatever the year is, will be the new launch of
 that standard. 
-
 Because every year there&apos;s subtle implementation subtle upgrades 
-
 to the script, and before we round out this lesson, I want to jump back
 and 
-
 talk a little bit about the server side or back end code. 
-
 Servers are essentially just powerful computers with a lot of processors
 and Ram random access memory. 
-
 Their role is to listen for Http requests, that&apos;s their primary goal is
 just 
-
 listening for computers sending out over the network that request for
 files, and serving up those files to clients. 
-
 You can also write code on the server like PHP or Java or Python, so 
-
 that if someone enters credit cards or 
-
 sort of information that sort of information into the website. 
-
 You can collect that process it, turn it into files, access it. 
-
 So, to set up a server, you must have three things, 
-
 you need a static IP address with constant Internet connection because
 again, 
-
 that&apos;s its main role is just to be listening, to serve up files. 
-
 A domain name mapped to the IP, that&apos;s that address book we talked
 about. 
-
 So, going into the.com or the and then having that domain name in there 
-
 mapped to an IP address which then maps to physical location in the
 network. 
-
 And then you&apos;re going to to want apache or IIS or other some sort of 
-
 software that manages server security, applications user access. 
-
 And allows for those other codes to be implemented and 
-
 processed within the server. 
-
 And that is the introduction to our 3 codes, 3 technologies, if you
 will.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The Basics of HTML -- Part 1 (8:25)
+<h3 id="ch1-13">1.13 The Basics of HTML -- Part 1 (8:25)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In Lesson 6, we&apos;re finally going to get to the nuts and bolts of HTML
 coding. 
-
 Pull up your no pad plus, and let&apos;s get started.
-
 HTML is parsed. 
-
 This means that the computer, or the browser in this case, reads one
 line at a time. 
-
 You need your code to be accurately, so the computer doesn&apos;t get
 confused, and it&apos;s also back compatible. 
-
 This means, as I demonstrated in previous lectures, the first website
 ever written still works on modern browsers, so does the 500 and the
 five million. 
-
 They all still work. 
-
 The browsers are forgiving because it needs to make a lot of different
 types of old HTML still work. 
-
 This forgiveness may lead you to believe you can write sloppy
 code because the website will work anyways. 
-
 But trust me, you do not want to write sloppy code because first, the
 crawlers, the search engines, they may get confused by sloppy code and
 they may not highlight your website, and it also makes your website less
 accessible to your users. 
-
 Less users equals less revenue, less foot traffic into your store. 
-
 Browsers will ignore white spaces, line breaks, and comments. 
-
 What that means is, for instance, here, if I wanted to write, this is a
 heading and I wanted a lot of space in there, if I just try and add
 space like that, the browser is going to ignore that. 
-
 Here, this is a comment, you&apos;ll see it&apos;s in green. 
-
 This code even files to write h3, you&apos;ll see it&apos;s in green even though
 it is technically HTML code. 
-
 Because I&apos;ve wrapped it in a comment, it&apos;s not going to get rendered. 
-
 Often, we&apos;ll use comments to leave ourselves little directions or
 insights about the code we&apos;re writing. 
-
 A code file for HTML must end in.html. 
-
 When you&apos;re creating that file, you want to create as an HTML file. 
-
 Every browser, until you start writing advanced browser code, is going
 to be looking for index.html is the first page, so we always want to
 create our first page on a website to be index.html. 
-
 For labs and projects, I expect to see the first file be index.html. 
-
 After that, each web page can be page2, page3, whatever you want to
 name it because you&apos;re navigating from the. html, so let&apos;s create our
 first HTML file. 
-
 From our Notepad++, if we drop down and go to new, we&apos;ve created a new
 file. 
-
 You&apos;ll notice it&apos;s all black text. 
-
 I&apos;m going to jump back here to an index that&apos;s already created. 
-
 You&apos;ll notice here the key value of Notepad++ is these highlights the
 color scheme of the different code elements. 
-
 If I just create a new file, it&apos;s not going to be a Notepad++ HTML
 file, it&apos;s going to be just text file. 
-
 Before I start writing any code, I want to go up to save as scroll down
 here to Hypertext markup language. 
-
 Now this file has been designated HTML file here in the type, and I want
 to call it index.html. 
-
 This will create the expected file name that a browser 
-
 is looking for when it lands on a website and hit Save. 
-
 Now we&apos;ve got our space in which we can start creating HTML code. 
-
 Other things we want to know about our file name structure, first
 though, is that files cannot have spaces in the file name. 
-
 If you need a space, use an underscore, like here, page_2. 
-
 This is a very common page structuring or you could just have it
 page2 without the underscore or a space, but never use spaces. 
-
 Only use letters, numbers, underscores, hyphens, and periods. 
-
 Very short file names, one or two words are the best. 
-
 Try to avoid long, complex sentence structures or even 3-4 word file
 names. 
-
 I want to emphasize here practice lower case letterings. 
-
 The reason for always writing a lower case, is because many server
 structures don&apos;t recognize that an upper case may possibly be a lower
 case letter in a file name. 
-
 In this situation, and we&apos;ll get into what these codes mean in a minute
 here, but HF, my hypertext reference, I&apos;m looking for page2.html. 
-
 I&apos;m looking for a file name that, if a file actually is named with an
 upper case P, that lower case file path is not going to be found. 
-
 These are two different file possibilities. 
-
 Even though in structures like Windows operating system,
-
 they might treat them as the same and deliver you that upper case
 lettering in most servers that won&apos;t be the case. 
-
 It&apos;s always important practice lower case lettering when creating file
 structures. 
-
 You&apos;ll never have one of these errors where your link isn&apos;t connecting
 properly. 
-
 With that, let&apos;s go into the anatomy of an HTML tag. 
-
 As we just started to see, we have here an opening tag. 
-
 This is going to be from here to there, defining the start of an HTML
 element, as opposed to a closing tag, where we take the same opener, and
 we simply add a leaning slash or just a slash to that lettering, whether
 it be an IMG or an A or a P, and that closes out the tag. 
-
 This content in between is going to be the attribute and the content
 itself, the whole thing is referred to as an element. 
-
 A HTML element versus just an HTML tag. 
-
 Attributes are going to be specific declarations that modify our HTML
 element. 
-
 In this case, I have an anchor tag. 
-
 I&apos;m anchoring a link. 
-
 I&apos;m specifically going to alter that because I want the HF, the
 hypertext reference to be this web address. 
 
 Here, is the link I want. 
 
 I&apos;m announcing there&apos;s going to be a link. 
-
 This is the link. Then between the two opening and closing tags, this
 black text here is what the user is going to see. 
-
 I&apos;ve now turned this visit dabbrook into a link to their actual.org. 
-
 If someone sees this text on a website, they&apos;re going to be able to
 click on it. 
-
 We have our opening angle bracket, tells us the markup is starting. 
-
 The A is the element, Html tags are comprised of elements and
 attributes. 
-
 We have our hypertext reference telling us what the actual link is going
 to be. 
-
 First, we&apos;re announcing a link. 
-
 Now we&apos;re announcing, this is what the link is going to be. 
-
 The text node value is what&apos;s actually going to be present to the
 user, and the a is the closing tag. 
-
 If I look at some content here, you&apos;ll see in my body. 
-
 I&apos;m just going to highlight this. 
-
 You&apos;ll see two specific tags. 
-
 A Hello World. 
-
 The user is going to see that HF link to visit DaBrook. 
-
 In this case, it is going to be page2 I&apos;ve created as the link to
 Brook. 
-
 This code as it&apos;s written, can already generate a webpage. 
-
 I open up in Firefox and you&apos;ll see here, Hello World text. 
-
 Just play it&apos;s a paragraph, and visit DaBrook has been turned into a
 link. 
-
 I now have an operating website with just a few lines of code. 
-
 I select few HTML elements do not require closing tag. 
-
 For instance, an image tag, is always going to be just the content of an
 image pulled in. 
-
 There&apos;s never going to be additional content like text added to this
 image. 
-
 It&apos;ll never wrap that text. 
-
 I can close it with just having the angle bracket and the slash. 
-
 There&apos;s two different types of protocols. 
-
 You can have the slash which is one of the older protocols, or in more
 modern protocols, you actually can just not have the slash at all
 because every code knows an image tag closes out itself. 
-
 There&apos;s never going to be a closing tag after that. 
-
 An image is always comprised of two attributes: the source, which links
 to where the image location can be found., and the attribute, which is
 used for both accessibility, and in case the image link is broken and
 you have something to show if the link doesn&apos;t produce an image.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The Basics of HTML -- Part 2 (8:48)
+<h3 id="ch1-14">1.14 The Basics of HTML -- Part 2 (8:48)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 So as I was pulling up my code in Notepad++, 
-
 you may have noticed some of the core elements of HTML in that code. 
-
 This is called the HTML skeleton, certain elements that are absolutely
 necessary for any website. 
-
 First up, you&apos;ll notice our &lt;DOCTYPE.html&gt;. 
-
 This is the only part of the code that is required to be in all caps. 
-
 Everything else should be in lowercase lettering. 
-
 And &lt;!DOCTYPE.html&gt; announces to the browser that HTML is the code 
-
 we&apos;re using here, specifically HTML5. 
-
 In previous versions, we would actually announce here HTML4, HTML3. 
-
 Now, with HTML5 settled on just calling HTML, the browser knows you&apos;re
 working with HTML5. 
-
 Next up is going to be your HTML element. 
-
 This announces to the browser that the code has started. 
-
 This is our root element. 
-
 It is the first HTML line of code after we announce what we&apos;re actually
 working with, and it should be the last, the HTML closes everything else
 out. 
-
 You want to make sure you close out your HTML at the end of every single
 page. 
-
 The next two core elements are the &lt;head&gt; and the &lt;body&gt;. 
-
 These two elements separate the content from other elements like our
 links or our meta or other aspects that are informational about our
 page. 
-
 So for instance, linking to our CSS page, linking to our JavaScript, 
-
 announcing certain attributes to a web crawler, those all go in the
 &lt;head&gt;. 
-
 Users aren&apos;t going to see that the content, the actual web page that
 the user visits, that all goes between our &lt;body&gt; tags. 
 
 Two key elements to put inside our head of every website is going to be
 the &lt;title&gt;. 
-
 This is not something the user sees. 
-
 This is our own internal documentation. 
-
 Or for web hosting and navigation, every single page needs a &lt;title&gt;, 
-
 and then our &lt;meta charset&gt; or character set. 
-
 In this case we&apos;re using utf-8 is how the different things besides
 numbers and letters get interpreted. 
-
 So for instance, if you ever receive an emoji from an Android phone and 
-
 you&apos;re using an iPhone, or vice versa, you might think it was supposed 
-
 to be a yellow smiley face and instead you got a square gray block.
-
 So for instance, if you ever received an emoji from an iPhone when you
 were using Android, or vice versa, the user may have tried to send you a
 smiley yellow face, but instead you got a square block. 
-
 That&apos;s a miscommunication in the two languages of what that symbol was 
-
 supposed to be. 
-
 Next up is a series of &lt;meta&gt; tags we&apos;ll go over at a later date of
 helping browsers navigate and index our website. 
-
 It&apos;s going to be things like the user or perhaps what types of screens
 it&apos;s ideal for, regions, all types of information that are important to
 optimize your website and how it gets indexed and distributed to users
 by search engines. 
-
 After that, is going to be a series of links, links to your CSS, your
 JavaScript, any sort of content you might want to pull in, other than
 things like images which get pulled directly into the body. 
-
 And finally we have the &lt;body&gt; of the website, the website&apos;s content.
-
 And there&apos;s a handful of very specific tags that make up the majority
 of your website. 
-
 We&apos;ll learn in later lectures about some more semantic tags and more
 advanced tags. 
-
 But essentially the core of your website is going to be these handful of
 tags. 
-
 So our headings &lt;h1&gt; through &lt;h6&gt;, open and close a heading. 
 
 They are what you think they are. 
-
 The heading one, there should be one heading. 
-
 It may be the same content you use for the title of the page, but
 ideally it&apos;s 
-
 going to sit towards the top of the page and it will help the browser
 and 
-
 the user know what the main idea of the content of this specific page
 is. 
-
 The image, as we demonstrated earlier in this lecture, starts with the
 img, so image and then our source, src. 
-
 And ideally, we want most of our images to be hosted within our
 browser. 
-
 So we&apos;ll talk about in our next series of lectures the idea of file
 structures and how to write this to find the file within your browser. 
-
 But for right now, know, this is a source and it&apos;s right next to the
 index.html tag, 
-
 wherever that lives, every image tag requires an alt. 
-
 The alt tag is really important for a couple of reasons. 
-
 One, it&apos;s for accessibility. 
-
 A good percentage of your users will come to the web and 
-
 navigate the web using something called an iReader. 
-
 Ireaders take HTML code as its parse and turn it into spoken language. 
-
 So for instance, if you&apos;re selling certain items, you&apos;re going to have
 a certain percentage of your users coming there that may order, for
 instance, pizza at home. 
-
 I should be able to navigate around your website with just an e-reader
 and purchase pizza. 
-
 If not, that&apos;s considered discrimination by the US Supreme Court. 
-
 So in this case, I can&apos;t see the image. 
-
 The image reader can&apos;t turn an image into content that can be read. 
-
 So I need an alt for that image reader to give to the user instead. 
-
 Second, if the image file gets corrupted or isn&apos;t there, I&apos;m going to
 want some sort of text describing what image should be there. 
-
 This image will be presented to a visual experience of the web page if 
-
 the image isn&apos;t loading. 
-
 And third, something like 30%, 40% of searches now on the web are
 looking for images, looking for content. 
-
 So I may be looking for a certain product, I may look by image. 
-
 I&apos;m taking a picture of it with my phone and doing a search. 
-
 This description is going to be used by the browser to present that
 image in those searches. 
-
 The browser itself, when they write their sort of search algorithms to
 label what images to attach to which search results, they&apos;re not good
 at looking at the image and doing that, they use this alt.
-
 Next up is our anchor, our &lt;a href&gt;. 
-
 This is the key to browsing the web, linking from one page to the next. 
-
 Our href, our hypertext reference. 
-
 So this is looking for a file named page.html that&apos;s going to be in the
 same level and same folder as our index.html. 
-
 But we want this link to actually have a thing to click on. 
-
 So we&apos;re putting our content here, maybe a contact us. 
-
 And then that page would turn this content into a link, and we&apos;re
 closing it out. 
-
 Finally, we&apos;re coming to the core of our content, the &lt;p&gt; or the
 paragraph. 
-
 Anytime you&apos;re writing text that doesn&apos;t semantically fit in one
 of these other ones, it&apos;s most likely needing to be wrapped in a
 &lt;p&gt;. 
-
 &lt;div&gt; should never have content standalone. 
-
 If I&apos;m writing a &lt;div&gt;, it should be always wrapping some other HTML
 element. 
-
 A &lt;div&gt; is just a container to wrap other HTML elements.
-
 So, for instance, here I have my Hello World. 
-
 I should never have content that looks like this.
-
 A &lt;div&gt; is just an artificial divider. 
-
 It&apos;s not giving semantic meaning to this Hello World. 
-
 I would want, in this case, either maybe an &lt;h2&gt; or an &lt;h3&gt;
 announcing that this is a heading or perhaps a &lt;p&gt;.
-
 I&apos;m going to expand this into maybe a paragraph about content. 
-
 So a &lt;div&gt; is always wrapping another HTML element.
-
 In contrast to a &lt;div&gt; which wraps an HTML element, a &lt;span&gt; should
 always be wrapped by an HTML element. 
-
 It is a section of content that I want to highlight and maybe create and
 turn into something else. 
-
 So for instance, in Hello World, maybe I want my two opening letters to
 be in red font separate from the other. 
 
 So if I was to do that, I can&apos;t really grab this. 
-
 I can&apos;t tell my CSS grab the &lt;h&gt; in this. 
-
 I need to give it a wrapping of an HTML element that I then 
-
 can assign some CSS style to. 
 
 So in this case, maybe just W, I want to be a standalone red letter. 
-
 I&apos;m going to put a &lt;span&gt; around it.
-
 So this span right here, now I can, with my CSS, grab just that W and 
-
 maybe make it italics and give it a red font so that it stands out in
 this word.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The Basics of HTML -- Part 3 (10:27)
+<h3 id="ch1-15">1.15 The Basics of HTML -- Part 3 (10:27)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 And finally, we come to strong and. 
-
 Strong, something of strong importance, something that&apos;s emphasized, 
-
 what&apos;s the difference? 
-
 What does that mean? 
-
 Essentially, these are replacing what used to be bold and italics. 
-
 In HTML 5, we&apos;ve removed style from our HTML completely, and in those
 debates, the teams in charge decided that bold and italics were stylized
 words. 
@@ -3827,7 +3576,6 @@ So they replaced them with strong and instead. 
 
 The problem for most new users is that HTML and web browsers are back
 compatible. 
-
 So the bold and italics declarations still work, but they&apos;re not what
 we should be using in our code, because we want to optimize our code for
 search engine optimization. 
@@ -3836,113 +3584,69 @@ And search engines are going to respect a modern, valid structure in
 your code. 
 
 So in this case, something that you might otherwise change into bold, 
-
 you&apos;re going to put the strong element around it. 
-
 And then in your style, you&apos;re going to do font weight and 
-
 declare what style of bold you want. 
-
 Next, if you want to put something in italics, which would normally be
 italics, maybe like a book title, you would put the around it. 
 
 And then in your CSS, you&apos;re going to announce that this is an italics
 lettering.
-
 All right, let&apos;s work with a few of these elements now. 
-
 So I&apos;ve got my core HTML structure, I&apos;ve written that in. 
-
 I started with a p, hello world. 
-
 And I&apos;m going to add some images. 
-
 So first, maybe I want to start with my h1. 
-
 Give a title to this, my first website, that may be my heading. 
-
 I might have a navigation next to that, but let&apos;s keep this simple. 
-
 My first website, I&apos;m going to have a little area where I&apos;m adding
 some content. 
 
 So I&apos;m going to give that an h2. 
-
 This is going to be a subsection.
-
 So now I&apos;ve got my h1. 
-
 I&apos;m starting a subsection 1, and I&apos;ve got my first content.
-
 And here it is. 
-
 You&apos;ll notice there is some default styling appearing on my website. 
-
 So the h1 is being given a large font. 
-
 The h2 is being given slightly larger font than my paragraph. 
-
 These are default browser settings, and eventually, we&apos;re going to want
 to get rid of these. 
-
 But for getting going, it&apos;s nice to have a little bit of style kind of
 forced onto our website to make it easier to read.
-
 So in my first website heading here, I&apos;ll demonstrate. 
-
 Add some more spacing, ctrl+ save.
-
 That extra spacing is ignored by the browser. 
-
 So we don&apos;t need spacing afterwards, we don&apos;t want spacing here or
 spacing there. 
-
 Want everything tight as possible and only spacing between words and 
-
 our content, a single space. 
-
 Or a space between an element and an attribute, or here between
 attributes. 
 
 Those are the only places our spacing should exist. 
-
 And then we&apos;ll do what&apos;s called a cascade here, and I&apos;ll give you
 more lectures on that and why the cascade is so important, but let&apos;s
 continue with some of these basic HTML elements. 
-
 So now, I&apos;m saying, hello world, might be not quite a full paragraph,
 so 
-
 let&apos;s turn this into a paragraph. 
-
 Hello world this is my first website.
-
 And let&apos;s give it a second p here. 
-
 What do you think? 
-
 Question mark.
-
 Now, with this cascade, it&apos;s my opinion this code gets a little blurred
 together. 
-
 So I think a div separating our two sections here is going to be nice. 
-
 So I want to put a div here, but I&apos;m not going to close it out right
 away with a div here. 
-
 The div is going to wrap these sections of my HTML. 
-
 So I&apos;m going to go there, close out my div. 
-
 And now, if I hover over you&apos;ll see, div closed out. 
-
 I&apos;ve now grabbed these three lines of code and turned them into a
 single 
-
 object that I later can style with my CSS just by talking about this
 div. 
-
 And with our cascade, we want the content of this div to be indented two
 spaces over. 
 
@@ -3956,44 +3660,26 @@ that in a future lecture on how to change it.
 
 So now my code is starting with a nice cascade, I have my body wrapping
 all 
-
 the content here, I have my HTML wrapping all the code. 
-
 I have a div wrapping this first section. 
-
 And I&apos;m going to add a second section, where I might want to add an
 image.
-
 Now, let&apos;s add in an image tag.
-
 Image tags, remember, close themselves, but we need that attribute for 
-
 an image location. 
-
 So we&apos;re going to add an SRC. 
-
 And with our attributes, the key to writing a good attribute is we need
 the equal sign and our two quotation marks. 
-
 So let&apos;s call it image1.jpg. 
-
 And we&apos;re always going to have our alt attribute. 
-
 So alt attribute equals a great image of Oscar the Grouch.
-
 And remember to close out that alt with a quotation mark.
-
 So now if we come back to our web page and we refresh, we have our
-subsection 1, subsection 2, and our Oscar the Grouch image.
-
+ubsection 1, subsection 2, and our Oscar the Grouch image.
 Finally, we&apos;re going to add one last paragraph here.
-
 Oscar&apos;s book, yeah, 
-
 let&apos;s call book, how to make dollar into garbage.
-
 Close out our p. 
-
 So a few things, we might want to turn this dollar into a dollar sign,
 ctrl+ S. 
 
@@ -4097,17 +3783,13 @@ different perspective from my own.
 And now you have the tools to build your very own website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1>Week 2:</h1>
+<h2 id="wk2">Module/Week 2: HTML</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-01">Module 2 Introduction (1:57)</h2>
+<h3 id="ch2-1">2.1 Module/Week 2 Introduction to HTML (1:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to Module 2, Straight HTML. 
-
 You&apos;re going to be an expert by the end of these lessons. 
-
 Again, this is our fundamentals of web development. 
-
 We&apos;re going to start with the difference between inline versus box
 elements. This is the basic structure of HTML. This is something I want
 to really emphasize and help you learn before you learn CSS and
@@ -4115,24 +3797,18 @@ JavaScript is how HTML is treated as a box or an inline element. 
 
 Then we&apos;re going to work on some simple things like headings, lists,
 and the skeleton of an HTML. 
-
 The second lesson is going to be short, is UTF8 characters. 
-
 We&apos;re going to learn early on how to code that at the beginning, but
 this is going to be everything outside of your alphabet, your numbers. 
 
 This is going to be maybe a dollar sign, a yen sign, maybe the at
 symbol. 
-
 Those look different depending on what computer is reading those codes. 
-
 In HTML, we have to write a special little code to make sure they are
 understood universally. Good example of this, if you send an emoji
 between an iPhone and a Android and it comes out as a square block, 
-
 that&apos;s because their UTF characteristics are disagreeing on what that
 block should look like. 
-
 Then the last two lessons we&apos;re going to go really into depth of how to
 structure some content, things like lists, images, and finally, tables. 
 
@@ -4142,361 +3818,215 @@ data and that&apos;s it. 
 
 We&apos;re going to build a nice little website, we&apos;re going to have some
 really simple HTML code in it, and you&apos;re going to start populating 
-
 it with information. Enjoy.
-
-Module 2: Asset Library (code used in video demonstrations)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch2-1-1">2.1.1 Module 2: Asset Library (code used in video demonstrations)</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_2_demo>
 
-**Lecture Slides: HTML Elements (inline vs box)**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Elements (inline vs box) - Part 1 (7:47)
+<h4 id="ch2-1-2">2.1.2 Lecture Slides: HTML Elements (inline vs box)</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch2-2">2.2 HTML Elements (inline vs box) - Part 1 (7:47)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In lesson 1 of module 2, we&apos;re going to get into some hands-on coding.
-
 A quick review of our HTML skeleton. 
-
 We&apos;re opening up our document with DOCTYPE announcing it&apos;s HTML, 
-
 which will tell the browser it&apos;s HTML5. 
-
 Then we&apos;re opening up our HTML code. 
-
 We&apos;re attaching an attribute to it called language, and in this case, 
-
 we&apos;re declaring English. 
-
 If you were building a German language website, you&apos;d want to announce
 German. 
-
 If you were building a Spanish language website, you&apos;d want to announce
 Spanish, 
-
 and etc. 
-
 This lets the Internet crawlers that categorize search engines know that
 this 
-
 is an English language website, so it lets it be found by English
 language searches. 
-
 Then we have our head, which is going to contain information about our
 code or 
-
 links that our code needs. 
-
 And our body, which is our content area, the part of the web the user
 will see. 
-
 The basic elements we introduce in our first module, the h1 through h6. 
-
 These are our headings, our image, our anchor tag, our paragraph, 
-
 division, span, strong, and. 
-
 We&apos;re going to play around with these today a little bit more. 
-
 All right, before we add more HTML elements to our list of knowledge, 
-
 let&apos;s talk about standards. 
-
 Standards are set by the W3C.
-
 You can find the W3C HTML standards here. 
-
 HTML 5 is our current version. 
-
 However, if you click through, you&apos;ll see this can be a rather
 burdensome site to 
-
 try and navigate if you&apos;re not a computer engineer. 
-
 So I highly recommend the Mozilla Development Network and 
-
 their guide on these specifications. 
-
 For one, they&apos;re open source, they have a lot of editors. 
-
 They&apos;re going to be the most up to date when it comes to educating you
 on 
-
 standards.
-
 Before we learn a few more HTML elements, let&apos;s cover some basics about
 standards. 
 
 First, all elements and tags are written in lowercase, example here
 title. 
-
 We may have our content have some uppercase because that&apos;s what users
 see, 
-
 that&apos;s what users expect. 
-
 But our actual HTML elements are all in lowercase. 
-
 The exception, of course, is DOCTYPE. 
-
 DOCTYPE occurs before HTML code is written and announces to the browser 
-
 in a different sort of language that HTML 5 is the code we&apos;re about to
 start using.
-
 Play video starting at :2:36 and follow transcript2:36
-
 All tags are properly open and closed. 
-
 If you notice here in a sample code on the side, I highlight this div, 
-
 you&apos;ll see in my notepad++ the div is closed, it highlights its closing
 tag. 
-
 When we learn about validators, 
-
 they&apos;re going to help you make sure all your tags are open and closed
 properly. 
-
 Likewise, tags need to be properly nested. 
-
 You&apos;ll see here, this div is a parent of these three elements, 
-
 and they&apos;re spaced two spaces to the right of it. 
-
 We&apos;ll learn about the cascade in the next lecture. 
-
 All attribute values use straight quotes. 
-
 You do not want to use curly quotes like these that you might produce
 by 
-
 writing your code in Word or some other language processing tool. 
-
 You want to use a specific code editor and 
-
 that&apos;ll prevent any errors with these curly brackets.
-
 Play video starting at :3:25 and follow transcript3:25
-
 With the rollout of HTML 5, 
-
 we were given a powerful new tool to mark up our HTML with semantic
 tagging. 
-
 This allows Internet crawlers and bots learn more about our website and 
-
 deliver it to the people who are searching for that sort of content. 
-
 So these first three help chunk out sections or articles or 
-
 block quotes of our content. 
-
 The difference between a section and 
-
 article is generally a section is just a semantic grouping of our page
 that we 
-
 kind of want to highlight for ourselves for navigational purposes of the
 code. 
-
 An article is something we expect, maybe a news publisher or 
-
 someone who&apos;s referencing our website to take a chunk of our content,
 and 
-
 actually present that chunk on their website. 
-
 So we wrap it in an article to announce we expect this to be an
 advertisement for 
-
 our website, you can copy this and paste it onto another website or 
-
 highlight it somewhere else. 
-
 Both of these require a heading, 
-
 you should have a heading to go with any section or article. 
-
 The last one here is a block quote, as we mentioned, this is a semantic
 tag, 
-
 but if you do not have enough style and you just use the browser&apos;s
 basics, 
-
 it will block out that quote. 
-
 Have it little indented, but again, 
-
 I always encourage you to use style later and take control of that
 indentation. 
-
 The next group of semantic tagging here are header, our nav, main, 
-
 aside, and footer. 
-
 These are ways of breaking up the entire page into specific types of
 sections. 
-
 So a header is going to sit at the top, it&apos;s going to be our
 navigation, 
-
 maybe our h1. 
-
 It&apos;s where you might see the logo at the top of a page. 
-
 On the next, slide I&apos;ll talk about the confusing difference between
 heading, 
-
 header, and head. 
-
 Next, oftentimes in the head is going to be nav, 
-
 nav is specifically the navigation of the page. 
-
 It may not be links outside to other pages or internal navigation, 
-
 it&apos;s just the navigation of your website. 
-
 So it should usually stay at the top of the page, unless you&apos;re being
 creative. 
-
 Sometimes you can use header to wrap it, other times for certain
 meetings, 
-
 engineers will have header and navigation separate. 
-
 Main is going to be the main content you want your users to land on. 
-
 So for a browser, when you wrap the main content, this should 
-
 roughly match what your h1 and the title of your article in the head are
 about. 
-
 So, have it have some singular focus or a general focus of purpose, 
-
 and any other content that might be different or not quite on point, you
 would put in an aside. 
-
 And the browser would know, maybe this is some additional content
 someone&apos;s looking for, but it&apos;s not the main purpose of the article. 
-
 And finally, the footer is going to be on a corporate website, you might
 see &lbrack;COUGH&rbrack; links to jobs or other things that don&apos;t really
 necessarily have to do with the sale that the corporation is trying to
 sell. 
-
 Like on target, it might be links to location of the corporate
 headquarters, or 
-
 about our history, little tinier font prints at the bottom. 
-
 It&apos;s also going to contain links to whoever is managing the
 website, other things like that. 
-
 It&apos;s additional content you kind of want to hide towards the bottom of
 your website. 
 
 So I&apos;ve got a little bit of code here, already pre-written. 
-
 You&apos;ll see my DOCTYPE declared, and again, emphasizing that this kind 
-
 of stands out from the HTML as it&apos;s not highlighted in the HTML
 colors. 
-
 With HTML, I&apos;ve announced English as my language UTF-8 title, 
-
 I&apos;ve not written any other meta. 
 
 We&apos;re going to keep this simple, but 
-
 almost every website should have additional meta declarations. 
-
 Here I have my header. 
-
 I&apos;ve wrapped my h1 in there and my nav. 
-
 We&apos;ll learn how to make a navigation, but 
-
 these are going to be links to other pages within my demonstration
 folder. 
-
 Closing out my nav, closing out my header. 
-
 And then I&apos;m opening up my main content. 
-
 And down here in my footer, I haven&apos;t really added anything. 
-
 So my add here, little p created 
-
 by Daniel Kriegelstein. 
-
 Close out my p. 
-
 Now within my main, I might add something like, 
-
 let&apos;s go with this h4 and call it a section.
-
 And I&apos;m going to indent these two over. 
-
 And now I&apos;ve added a little section. 
-
 And now I have all these semantic tags in use.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Elements (inline vs box) - Part 2 (8:05)
+<h3 id="ch2-3">2.3 HTML Elements (inline vs box) - Part 2 (8:05)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Okay as I promise a little more insight into the difference between
 head, 
-
 header and heading. 
-
 I know these three can be confusing, but essentially once you
 understand 
-
 the semantic difference between, they are pretty clear. 
-
 So the head is the most important. 
-
 That&apos;s what starts our HTML code with links to our meta, title, 
-
 pulling in our CSS, pulling in our JavaScript files, things like that. 
-
 Maybe some font files we&apos;re pulling in links to outside references, 
-
 other things we&apos;ll need to make our code work. 
-
 Then our header is just going to sit at the top above our main and 
-
 it&apos;s usually going to be our navigation and our h1. 
-
 So it&apos;s going to be a nice little title and 
-
 maybe a logo for our corporation, something like that. 
-
 And our h1s through h6s are headings. 
-
 These are going to be obviously used throughout and 
-
 we may have several of them. 
-
 So jumping back to our code here, you&apos;ll see my heading, the h1 really
 big. 
-
 You&apos;ll see an h2, h3 and h4, progressively getting smaller in their
 font. 
-
 Again, I&apos;m emphasizing that style difference is a default browser
 style 
-
 because I&apos;m not adding any CSS. 
-
 You will eventually take control of those headings. 
-
 You may make your head h2 bigger than your h1, 
-
 all depending on the nature of your website and the style you&apos;re going
 for. 
 
@@ -4540,171 +4070,106 @@ within your HTML to always be using lowercase lettering will just make
 it 
 
 easier for you not to make mistakes in other sort of HTML structures, 
-
 like file structures where lowercase lettering really matters. 
-
 So the key difference between an ID and a class you&apos;ll see here, 
-
 I&apos;ve attached this ID to a div and I&apos;ve attached this class to a div. 
-
 The ID you only use once per HTML page. 
-
 So you can have a couple of different IDs, but their values have to be
 different. 
 
 And also each element can only have one ID attached to it and 
-
 that&apos;s because the ID is a powerful singular mark for an element. 
-
 So in this case, this div here, I couldn&apos;t add another ID, and if I
 actually use 
-
 use my name only once, I wouldn&apos;t use this actual value ever again on
 that HTML page. 
-
 In contrast, the class, we can use it a bunch. 
-
 So it&apos;s a class of IDs that might have, as I mentioned earlier, red
 font as the name. 
-
 I might have a couple of different letters throughout that I want to
 make red font or 
-
 I want to make big. 
-
 And so I use this class, I add style to it with my style page, and 
-
 I just then add this class around and I don&apos;t have to rewrite that
 style element. 
-
 Each element can actually have multiple classes attached to it. 
-
 So you would just declare class once as an element and 
-
 you&apos;d put spaces between each one of the classes. 
-
 So this is a red text, big font and important. 
-
 So each one of these might have different style attached to each one of
 them. 
-
 Instead of rewriting a fourth class to try and combine these, I might
 just have these 
-
 three classes sprinkled in different variations throughout my content. 
-
 So, looking at an actual notepad++ file, you&apos;ll see here, I&apos;ve 
-
 written a little class attached to this div, my class, and it has a
 space there. 
-
 So I have bold another space font. 
-
 So there&apos;s three classes attached. 
-
 Here I have just the two classes attached. 
-
 Down here I have an ID called use once and my div. 
-
 So these IDs, these classes, they could be attached to the P, 
-
 the LIs here we&apos;ll learn more about those. 
-
 You can attach them really anywhere as an attribute to any element. 
-
 And finally, in this intro lecture, let&apos;s talk about inline blocks. 
-
 In module one, I highlighted the inline block by using the inspector. 
-
 And as I hover over, you&apos;ll see my HTML here, 
-
 you&apos;ll notice the little blocks of color going over each one of my
 blocks. 
-
 So here, if I click on this ordered list, I come over here and 
-
 I see some attributes about it. 
-
 On the right side, it&apos;s got 40 pixel padding, 
-
 the content area here in pixels, and it has no margin or border. 
-
 Another thing, if I scroll down and I hover over this h1, 
-
 you&apos;ll see that the box goes almost entirely from the left to the
 right. 
-
 So block elements reserve a block of space around the element&apos;s content
 area. 
 
 It produces a padding, a border and 
-
 a margin area that we can then manipulate with CSS. 
-
 The block may wrap other block elements, except for the P, it can only
 wrap content. 
-
 So that&apos;s a key exception there. 
-
 In my example I just showed you&apos;ll, see here I have several block
 elements and 
-
 the body creates a block that wraps them all. 
-
 If I open up this Ul, it&apos;s a block item. 
-
 These lis also create their own little blocks there. 
-
 And this ul wraps them all. 
-
 In contrast to our inline tags, things like or a span, they flow with
 the text. 
-
 There&apos;s no reserved block or space, so they don&apos;t necessarily create
 margins and padding around the content. 
-
 And the inline tag can&apos;t wrap other block elements a little bit more
 about these. 
-
 So with blocks, the default as I&apos;ve demonstrated, 
 expands to the width to fill the entire parent container. 
-
 In this case the page. 
-
 They stack one after the other from top to bottom and the height will
 expand naturally to fit the content. 
-
 So in this case it&apos;s the font height, the height of my font by
 default, which is 12 pixels &#92;in this case it&apos;s going to fill that
 naturally. 
-
 If I want to change the blocks using CSS, I can take so much control of
 these. 
-
 I can add width and height. 
-
 I can put two next to each other by declaring them 50% width of the
 page. 
-
 Then they slide next to each other. 
-
 I use something called floats to naturally have them float around the
 page and 
-
 positioning to grab them and put them in a specific place on the page. 
 
 Padding and margins as we showed, we can manipulate those little white
 spaces around the content and then background color, border style box
 sizing, on and on and on. 
-
 There&apos;s lots of cool CSS then to manipulate those boxes and make page
 layout the way I want it to flow. 
 
 With inline, it&apos;s much more limited what we can accomplish with it. 
-
 It&apos;s used to identify select content within a block element, and it&apos;s
 more restrictive in space and movement controls than blocks. 
-
 However, it can be turned into a block element simply by declaring it
 so. 
 
@@ -4732,8 +4197,9 @@ LI, so not the entire content. 
 Okay, I encourage you to open up the demo folder and play around with
 the code I was using in this lesson.
 
-**Lesson 1 Video Reference Page**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch2-3-1">2.3.1 Lesson 1 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 1 Video.
 
 **Author:** Richard Clark
@@ -4741,10 +4207,10 @@ Below is a list of the content referenced in the Lesson 1 Video.
 **Link:** [html5 Doctor Avoiding common HTML5
 mistakes](https://html5doctor.com/avoiding-common-html5-mistakes/)
 
-**Lecture Slides: HTML Lists and Cascades**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Lists and Cascades (11:34)
+<h4 id="ch2-3-2">2.3.2 Lecture Slides: HTML Lists and Cascades</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch2-4">2.4 HTML Lists and Cascades (11:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We have three core types, an ordered list, an unordered list, and a
@@ -5076,8 +4542,9 @@ our CSS. 
 That&apos;s lesson 2, again, I encourage you to open up the demo folder and
 play around with that code.
 
-**Lesson 2 Video Reference Page**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch2-4-1">2.4.1 Lesson 2 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 2 Video.
 
 1.  Google&apos;s style guide for html coding
@@ -5101,12 +4568,12 @@ repository:
 
 <https://github.com/dkriegls/coursera/tree/main/labs/lab3>
 
-**Lecture Slides: HTML Links and Images**
-
-Module2-Lesson3.pdf
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Links and Images - Part 1 (7:18)
+<h4 id="ch2-4-2">2.4.2 Lecture Slides: HTML Links and Images</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Module2-Lesson3.pdf
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch2-5">2.5 HTML Links and Images - Part 1 (7:18)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The anchor element is represented by the a tag. 
@@ -5284,42 +4751,30 @@ With html5, not only is that no longer necessary, it&apos;s not really
 practiced by most coders.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Links and Images - Part 2 (6:46)
+<h3 id="ch2-6">2.6 HTML Links and Images - Part 2 (6:46)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 All images besides a source need what&apos;s called an alt attribute. 
-
 The alt attribute is used for two key factors. 
-
 One is accessibility. 
-
 Writing a description for e-reader so that as users come across your
 page who might be blind and surfing the web using e-reader, they have a
 nice description of what that picture is. 
-
 Equally as important it optimizes your search engine optimization. 
-
 When online bot like Google Search is trying to index images on your
 page, it can&apos;t easily turn your images into words that it can then
 optimize to fit search results. 
-
 By you providing a description that is accurate and useful you give the
 search engine the tools and the power to connect your image to
 appropriate searches. 
-
 This way, when someone searches for a logo of your particular
 business, it&apos;s likely to pull the logo off your website because that
 description is powerful enough that the search engine recognizes the
 want to, the user is connected to this image. 
-
 Finally, when it comes to images, you will still find a lot of HTML 4
 documentation online. 
-
 In HTML 4 is really encouraged to add width and height to your image in
 the HTML. 
-
 This now is entirely done and should always be done using CSS. 
-
 For these labs in the project, one you&apos;re about to do with an image
 will lose you points and I want you to take that physical image
 size, put it in something like an image editor, and physically reduce
@@ -5454,7 +4909,6 @@ what you just learned.
 <h4 id="ch2-6-1">2.6.1 Lecture Slides: HTML Tables</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module2-Lesson4.pdf
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-7">2.7 HTML Tables (5:16)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7504,10 +6958,9 @@ how fonts play in. I hope that lesson convince
 you you need to spend the next six hours
 researching fonts online.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch5-3-1">5.3.1 Lesson 1 Video Reference Page</h4>
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 1 Video.
 
 1.  Google&apos;s giant library of fonts
@@ -7524,8 +6977,8 @@ Below is a list of the content referenced in the Lesson 1 Video.
     b.  **Link:** [Graphic Design Tutorial: Choosing
         fonts](https://www.youtube.com/watch?v=Xwahw7mdeXQ)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch5-3-2">5.3.2 Lecture Slides: CSS Floats</h4>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-4">5.4 CSS Floats - Part 1 (6:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7541,352 +6994,214 @@ analogy for some of the headaches people get into
 with understanding floats. Floats are a very simple thing. You move them
 either
 left or right on a page, and you take the HTML box
-
 and move it left or right. As you do that, you may move something else
 that
-
 is floating on that page. That&apos;s something
-
 to keep in mind. But other than that, it&apos;s
-
 really not that complicated. Things just move left or right. Here I have
 this little
-
 goose and I floated it to the right and you&apos;ll see
-
 moving things around the page, everything wraps around it. That&apos;s the
 idea here. Let&apos;s go with float number 3. Here, as I have a couple
-
 of things floating, you&apos;ll see they jump top or bottom if there&apos;s
 enough space for them to float properly. Let&apos;s start with the basics.
 The float CSS property specifies that an element should be taken from
 the normal flow and placed along the left or right
-
 side of its container, where text and inline
-
 elements will wrap around it. Floating element is one where the compound
 value of
-
 float is not none, not as easy straightforward, but you can click
-
 on Mozilla there. You basically go in to CSS, you grab block element.
 It&apos;s not going to be
-
 an inline element, like a attribute or a
-
 specific inline like an EM. Things like a p, h1, those types of
-
 block elements. What a block element is
-
 something that creates a block. There we have block elements, each one
 of these is
-
 grabbing a block. You&apos;ll see this h1, it&apos;s
-
 block is not reduced in size, so it goes all the way
-
 across the page up here. Whereas these ones,
-
 I&apos;ve used CSS to shrink the size so that they can float next
-
 to each other. Popping this open, this
-
 is the block they create. The content area, the padding the borders and
 the margin, we talked about that last week. You can left, right, or you
 can set it back to none. Float property cause elements to move as far as
 possible
-
 to the left or right and this is
-
 that far as possible means they&apos;re bumping
-
 into other floated items, trying to go to
-
 the left or right. Always provide a width
-
 with a floated element. If you don&apos;t have a width,
-
 remember naturally, HTML elements will take up 100% width of the page so
 if
-
 you have it left or right, it doesn&apos;t matter it&apos;s going all the way
 from left to right. You need to actually
-
 reduce that width from 100% so that it can actually
-
 look like it&apos;s floating. Floating elements behave like block elements
 as they
-
 are block elements. Margins do not collapse
-
 like they do on a standard block element
-
 basically, tops and bottoms, they will stack on
-
 top of each other, which is a subtle little thing, but we&apos;ll play
 around with those in more advanced floating. Oftentimes, once you
-
 start floating something, I&apos;ll demo a little bit of this. You want to
 clear the floating, you want the floating then to stop and push all
 other texts. Here you see I have text
-
 wrapping around here. The screen gets smaller, the text wraps
-
 around that image. The image itself is just
-
 that small box there. The text is wrapping around it. You can see here
 the P
-
 actually goes behind it, but the content area
-
 is being pushed. This h1 and this text here, I&apos;ve actually put a clear,
 so this falls below it, and
-
 that&apos;s clearing the float. We&apos;ll demo that as well. It tells the
 element that it can not be positioned next
-
 to the floated element. If a containing element only
-
 contains floated elements, it will have no height
-
 unless you set. It&apos;s always about
-
 whatever the content is. You can use floats to
-
 create column and layouts, and floated items need to
-
 appear in HTML before. Obviously, so you need to actually have the HTML
 written. Let&apos;s go to these demos. You&apos;ll see here I got my head. I got
 my body, body
-
 is very simple, h1 and image and then
-
 a class &quot;clearme&quot;. Class &quot;floatright&quot;, just
-
 going to move that. Here, in my style, remember I&apos;m embedding
-
 these, not linking out. I have my three options. I have float left,
 float right, and then clear. It&apos;s not float clear, it&apos;s just clear and
 I have both, and that&apos;s all I&apos;m
-
 doing around here. Let&apos;s change this to float
-
 left. Very straightforward. I refresh and you&apos;ll see
-
 that my image pops here, and now the content here is wrapping around to
-
 the right hand side. I shrink the screen, you&apos;ll see the content comes
 right up to the edge
-
 of the image there. This clearme, if I get
-
 rid of the clear me, you&apos;ll see now this h2 and more of this font or
-
 this paragraph comes, and it just flows continuously around the image
 until it
-
 doesn&apos;t need to anymore. Now if I was to take
-
 a second image, they&apos;re both floated left, I&apos;m stacking them next to
-
 each other with no clear, you&apos;ll see they just
-
 float left and right. Just all the way to left,
-
 they&apos;ll keep going. I&apos;ll push down there
-
 adding another image. Now what happens is there&apos;s a decision because
-
 I don&apos;t have enough width, these are fixed width. Once my screen
-
 gets small enough, it floats down here and content comes
-
 spilling up from up top. This is where here, I think maybe on these
 screens, my content is all pushed above. I don&apos;t have this boxed off, I
 move few pixels all of a
-
 sudden the whole paragraph jumps up and this one
-
 jumps way down there. That&apos;s where I talk about moving those toys
-
 around in water. Sometimes as you move one thing, something that was way
 down here before all of a
-
 sudden jumps up there. Just because it&apos;s wrapping
-
 around all these images and these images are only
-
 stacking next to each other. Now if I to this
-
 and go float right, you&apos;ll see here this pushes
-
 all the way to the right. These two push all the way to the left and the
 content
-
 flows between them. Now generally you&apos;re
-
 never should have just such wrapping like this. You&apos;ll see it sometimes
-
 in like wikis. But generally you
-
 want to put contents. We&apos;ll talk about layouts, you
-
 want to move these things. You never want
-
 paragraphs just sitting against the floated image like that and things
 flowing thus.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Floats - Part 2 (5:49)
+<h3 id="ch5-5">5.5 CSS Floats - Part 2 (5:49)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Now, here again,
-
 you see I have my content, what I&apos;m doing here is a bit different. I
 have my three floats. So, I&apos;m messing around with those,
-
 put on my P. Nice background color, blue. Giving it a width of 400
 pixels. A height of 200 pixels. Floating them left, giving it margins
 20. Now here, we&apos;ll do another demo
-
 in a second here, I have my P. I will remember this dot means a class
-
 side NAV and a percent 40 width. So, here just several P&apos;s. So, this P
 will get applied to all. But here where side NAV has height and
-
 width will get replaced here, this height and width will get placed
 because
-
 side NAV is more specific than a P. So, these will place these
-
 two in whatever has side NAV. So, you&apos;ll see I have one
-
 with a class side NAV here. An ID float left. So, there&apos;s my float
 here. I have just class percent,
-
 class percent, class percent on those. So, I have h2 P&apos;s. Let&apos;s go
 back here. So, here are my headlines. Here are some headlines down
 there. So, these two, my percent is at 40% width. So, these two down
 here being percent and
-
 nothing else on these paragraphs, I have two paragraphs 40% width. So,
 at 40% they&apos;re together
-
 take up 80% of the page. They don&apos;t stack next
-
 to each other anymore. And they&apos;re always in percentage. They will
 always be 40% of the page. With this width here, width 10% and
-
 then up here, width 400%. So, now I have here two
-
 boxes that are percentages. One box that is a width. And as they close,
 this one falls below. This one can never go
-
 below 400 pixels in width. So, you&apos;ll see what&apos;s happening here
-
 as this percent needs to be 40%. If I look at my inspector here,
-
 and we can do the math, you&apos;ll see up there 726 pixels. So, right
 around 765. All of a sudden 765 -400
-
 pixels which is here, is that enough to make
-
 up 40% more of the page? So, here what&apos;s left over is
-
 less than 40% of the page. So, this box slips down below. And you&apos;ll
 see changes in size. Another thing we have here is
-
 the font here skipping out there. There we usually want
-
 to use overflow hidden. So, we could throw that on there. And it would
 hide that font
-
 that text flowing out. So, this is just a little bit as you&apos;re
-
 stacking things next to each other. You want to be careful. Oftentimes
 you want to use percentages. So, they&apos;re floating next to each other.
 But sometimes you may want
-
 one to slip below and we&apos;re going to talk about
-
 with mobile first design. How important it is that actually you do
-
 want each of them to start stacking below. So, that you have then more
 of a top
-
 heavy read where you read scrolling down. And on bigger pages you may
 want
-
 things sitting side by side like this. So, we&apos;re going to start with
-
 percentages with our project two. But we&apos;re going to eventually get to
-
 the point where we&apos;re getting a little more sophisticated in our
 layout. Then I have one more float here. You&apos;ll see this blue float
 here,
-
 the red float going right. You&apos;ll see, what&apos;s happening actually
-
 is they&apos;re both floating right but as the screen gets small enough,
-
 it jumps way over there, which may confuse you because
-
 you see on the left hand screen. But they&apos;re both trying to float
 right. This one has a really weird height. But as soon as the width
-
 isn&apos;t long enough, all of a sudden it jumps down there. Now, another
 thing I&apos;m doing here
-
 is I have floats within floats. So, here I have these
-
 divs wrapping these P&apos;s. So, here this div is a sidebar div. And then
 also wrapping the whole thing,
-
 my container. So, here is my green container
-
 wrapping everything. I have this yellow inside this red. There&apos;s some
 stuff inside this blue. So, if I go back here,
-
 you&apos;ll see this div, div two and div sidebar, div two is an ID. Gets a
 nice color red P. So, these P&apos;s are living inside there. So, this one
 is positioned, which I&apos;ll talk about in a little
-
 sec here about positioning. There&apos;s my sidebar. So, I have this. I&apos;m
 floating it right. I float it left instead, Ctrl+s. And you&apos;ll see that
 the whole
-
 sidebar floats left. I then go on the actual P here, and let&apos;s put this
 as,
-
 let&apos;s just call it right. And we&apos;ll throw down one more ID here. All
 right. So, now you&apos;ll see it floats to
-
 the other side, pop back and forth. We&apos;ll float this one as right.
 You&apos;ll see how they float back and
-
 forth here. And we still have if
-
 the screen is big enough. So, this one floats inside its parent. This
 one is freestanding. We&apos;re going to talk
-
 about positioning here. And this is lining you up for
-
 the next video, is ultimately here. I&apos;m just able to float things left
 and
-
 right. I now want to move on to positioning, which is moving things into
 the center
-
 of the page here or up there. So, we&apos;re going to talk a little
-
 bit about that in the next video. And that&apos;s it the beginning of
-
 taking control of your page layout.
-
-**Lesson 2 Video Reference Page**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch5-5-1">5.5.1 Lesson 2 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 2 Video.
 
 1.  Open-source documentation for CSS Floats
@@ -7896,257 +7211,161 @@ Below is a list of the content referenced in the Lesson 2 Video.
     b.  **Link**:
         [Floats](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
-**Lecture Slides: CSS Positions**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Positions - Part 1 (8:00)
+<h4 id="ch5-5-2">5.5.2 Lecture Slides: CSS Positions</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch5-6">5.6 CSS Positions - Part 1 (8:00)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The CSS position value will give us
-
 a more fine tuned way to move things around our page. Four values for
 CSS positioning. We have position properties
-
 is what we&apos;re going to do. So we have static, relative,
-
 absolute, and fixed. So you see here, I declare position. I&apos;m going to
 do relative or
-
 I&apos;m going to do fixed or some other. So here it&apos;s absolute and fix,
-
 so those are the CSS properties. Position, static. This is the normal
 default position. This is your project one where everything
-
 stacks and goes right on top of each other, and most of the boxes
-
 take up 100% width of the page. Relative, the element is move relative
 to
-
 position in the document flow space in the document is preserved. Let&apos;s
 open up an HTML to go over this. If you have everything
-
 stacked on top of each other, this thing will keep its space there.
 It&apos;ll get moved within that space. So it gets moved relative to
-
 where it was sitting before. Absolute movement removes it from the
-
 document flow positioned with respect to containing element, and that&apos;s
 a tricky
-
 one we&apos;re going to talk about. But essentially, if I move this p here,
-
 these two ps will collapse and there&apos;ll be no white space. If I do
 relative, this white space will be
-
 preserved, so I&apos;m going to demo all that. So don&apos;t worry too much.
 Fixed is best described as those annoying
-
 little advertisement scroll pages where you have something, no matter
 how
-
 far you scroll, there&apos;s a box or an advertisement that just sits
-
 there staring at you on the screen. Fixed, the HTML element is
-
 removed from the flow and positioned fixed to the window itself. So it
 doesn&apos;t matter where you scroll
-
 on the web page, it sits on top and it doesn&apos;t scroll with the page.
 Now, as you can imagine, we move
-
 some of these two apps with things. I might move two ps on top of each
 other
-
 so things get moved around the page. z-index, if you&apos;ll remember
-
 from your geometry classes, you have your x and
-
 y is your two dimensions. z calculates your third dimension. So
 obviously a larger z
-
 means that is the box that&apos;s going to be seen
-
 on top of the others. Even though your screen is only two
-
 dimensions, z-index will determine which one of these boxes, if moved on
 top of
-
 each other, will be the one the user sees. Oftentimes we&apos;re talking
 about
-
 corners of the box, things like that. So let&apos;s jump in here to what
-
 I was just starting to demo. So I have here my position and
-
 my CSS for that position style. Let&apos;s pop this bad boy open. So from
 our last video, we&apos;re talking
-
 about moving this content there. Here you&apos;ll see I have a whole
-
 bunch of things moving around and this is that nice annoying little red
-
 fixed sitting there on the screen. So let&apos;s look at our code. Very
 straightforward. I have my head meta title. I have my link, how I
 properly want you
-
 to link it out using a CSS folder and then style sheet. And this is
 specifically
-
 my position style sheet. I&apos;ve broken up these sections
-
 into a few different sections. So the first one is a position demo,
-
 position relative demo, absolute demo, and
-
 then absolute container, moving things around in container,
-
 and down there is my fixed examples. So ultimately,
-
 this is our normal flow of things. One box, and this is what we&apos;re
-
 talking about, these boxes. So I have one box stacks
-
 on top of the other, one p after the other with my h on top. And then
 the section wraps them all. But I have one box stacked
-
 on top of each other. So this is if I go to my code section,
-
 h1 position. You&apos;ll see here, I have nothing for
-
 those relative examples or for that natural flood. It&apos;s just how it
 goes, so
-
 I&apos;m not attaching a style here. Next I&apos;m putting some relative example
 and
-
 then a special relative character. So this relative example, here we go.
 Relative example, this class,
-
 so I can use it twice. Background color, cc, position,
-
 relative left, 50, top 10. So once I&apos;ve declared what
-
 position type I want to use, relative or absolute or fixed,
-
 then I use either left, right, top, or
-
 bottom to determine how I want it to move. So I have my positions here.
 So let&apos;s change just simply movement
-
 to 20 pixels or do yeah, 20. So what this is saying is from the left
-
 hand side, I&apos;m moving this in 20 pixels. So now I move these two
-
 are going to be the relative. So both these paragraphs are set on
-
 that I now have moved it only 20 pixels. If I want to move it 60, 70, 80
 pixels,
-
 you&apos;ll see, I&apos;m moving it from the left. So left means I&apos;m starting
 from
-
 the left and I&apos;m moving it that way. Now, if I&apos;d use right, you&apos;ll
 see here, what happens is from the right side of
-
 the page, it moves that many pixels. So this is now pushing that content
 all
-
 the way off because the right side is always more fixed. Browsers don&apos;t
 have navigation to
-
 the left if it goes beyond the panel, so you got to be careful when you
 do that. If you use it from the left side, if you
-
 go over, you can obviously pull the page all the way open and scroll
 over
-
 there to see the rest of the content. And then here, top 10 pixels.
 Let&apos;s do top 60 pixels because
-
 that&apos;s a little more obvious. So now this space here is preserved. And
 that&apos;s important. No font is falling in there. The h1 stays there. This
 stays white space. You don&apos;t always want that. You don&apos;t want to push
 content,
-
 but sometimes you do. It depends how you&apos;re
-
 moving content around. But you&apos;ll also see here,
-
 I&apos;ve now pushed over other content. So now the z-index comes into
-
 play if I need to use it there. So I could use z to pull
-
 these other ones out, but we&apos;re just going to play around here. But the
 difference is if I do bottom,
-
 I&apos;m now saying from where these two are positioned, the bottom where
 they
-
 normally are, so I go inspect element. So if I hover over here,
-
 you&apos;ll see those boxes have moved, but the next box below is down here.
 So I want these two relative examples. They&apos;re floating from the bottom
-
 to the top or floating up. So what&apos;s happening here is with left and
-
 right, if I use 30, it&apos;s going to go this way from the left hand side
 and then
-
 right is coming from the right hand side. Bottom is going where it would
 have
-
 started on its bottom naturally and then going up 60 pixels. So 0
 pixels,
-
 now this is where it naturally would flow. 60 pixels is going to
-
 push it from here up. Top means it would start here and
-
 push it down. And to add just a little
-
 bit more confusion, let&apos;s do 10 top and
-
 then from here let&apos;s do negative. So now what&apos;s happened
-
 is if I use negative, it still starts from the left,
-
 but it goes outside the box. Right would push it that way. So it&apos;s
 similar to as if I put on
-
 the right, but it&apos;s not exact. So if I do right 30,
-
 you&apos;ll see it&apos;s pushing from there. If I do -30 from the left, it
 starts at the left hand side of
-
 where it naturally would be, and it moves at 30 pixels outside of its
-
 box area where it owned its box. Same with if I did -10 here, so
-
 it&apos;s starting at the top and it&apos;s actually moving it up. So those are
 the different ways. I have left, right, top, bottom, and
-
 then I have positive and negative. Generally, though, we&apos;re just using
 the
-
 positive and it makes a lot more sense. And then we just use the
 different left,
-
 right, top, or bottom if we want to move it differently.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Positions - Part 2 (9:20)
+<h3 id="ch5-7">5.7 CSS Positions - Part 2 (9:20)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Now, some other cool things we can do with relative positioning is
 oftentimes we do want within our text. So inline elements, we want to
 move things without
-
 anything collapsing in on that space. And that&apos;s very common. So if I
 look at my HTML here, I have this relative example. I was just moving. I
 have this span class first character. So I&apos;m just wrapping this span
 around this L. And then again, I&apos;m running a super span around this
 trademark symbol. Going to my CSS,
-
 I have here first character, making it red font, bold font size 1.5. If
 you&apos;ll remember that&apos;s making it roughly 50% larger than its parent
 font. Moving it relative, and I just want to move it from the top four
@@ -8161,57 +7380,38 @@ is, is making that content area. So it&apos;s pushed down here. Now there&apos;s
 even more white space in this paragraph stands a little bit. So let&apos;s
 do teen pixels you&apos;ll see here. And now I&apos;m actually fully bleeding
 down
-
 and I&apos;m just being pushed over there. So that I don&apos;t want so much.
 But this, it looks nice. It doesn&apos;t push anything out of its way. It&apos;s
 not over, but it&apos;s just a little bit above, little bit below and it&apos;s
 not bleeding on top of the row below. TM I&apos;m doing the same thing. I&apos;m
 doing position relative top negative five and I&apos;m making it 70% of the
 size. So not 50% more. I&apos;m making only 70% of the size of
-
 its parent font, which is this. And I&apos;m moving it up
-
 five pixels from the top. So I&apos;m starting at the top. Negative pixels
 means it&apos;s going to
-
 be from the top push downwards. So because it&apos;s smaller, it&apos;s not. But
 if we&apos;ll see here, and
-
 I said downwards, I meant upwards. So here&apos;s where natural would sit.
 And so you&apos;ll see there, its top,
-
 it&apos;s right at the T there. So that&apos;s that nice line. Now I&apos;m going to
 take its
-
 nice top line there and move it up five pixels
-
 by using the negative. And so it&apos;s nice just crossing over
-
 there and it sits right there at the TM. Now there is a TM you
-
 can use in the UTF 8. But this is just some fun stuff you can do
-
 with positioning beyond just moving boxes around. So here I have my
 parent relative and
-
 then my absolute. So if I go back here to positioning,
-
 absolute means removed from the document flow position with relative
 with respect
-
 to containing element of parent position. So open this all the way up.
 So here I have my absolute. I have this div, giving it a class parent,
-
 so that wraps around the absolute. This P then sits outside. And then
 here is my absolute
-
 container again and some boxes I&apos;m going to mess around with. Absolute
 container is a difference. So we&apos;re just going to do parent and
-
 absolute. So here is my paragraph. So you can see here it&apos;s
-
 moved over that and if I do relative so
-
 its space is still contained. You&apos;ll see here, I have this heading here
 was hidden underneath it. Because what happens is if I do absolute, this
 space collapses. So this all falls on top and I get rid of this parent.
@@ -8281,301 +7481,176 @@ they&apos;re more likely to be down at the bottom of the page. So there we
 are with our annoying little advertisement. There we are. All right, so
 that is the fixed demo. You have now learned the two ways to build
 elaborate page layouts.
-
 **Practice Peer-graded Assignment: Lab 7: Style an HTML Table**
-
 **Ready for the assignment?**
-
 You will find instructions below to submit.
-
 InstructionsMy submissionPeers to reviewDiscussions
-
 Instructions and materials for Lab 7 are found in the class&apos;s GitHub
 repository:
-
 **Live Link:**
 <https://github.com/dkriegls/coursera/tree/main/labs/lab7>
 
-**Lecture Slides: Horizontal Navigation**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Horizontal Navigation - Part 1 (7:51)
+<h4 id="ch5-7-1">5.7.1 Lecture Slides: Horizontal Navigation</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch5-8">5.8 Horizontal Navigation - Part 1 (7:51)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 We talked before about how with HTML you turn a list,
-
 is your navigation. We talked about
-
 how to make those. What we&apos;re going to talk about
-
 now is using CSS to turn that list instead of just a
-
 vertical bullet point list. We&apos;re going to turn that into a nice
 horizontal
-
 navigation system. Let me open. We have our navigation id. Horizontal
 one is going to be
-
 the first navigation you do an unordered list and
-
 then for each list item, you have your &lbrack;inaudible&rbrack;,
-
 your anchors within the black text saying where what the
-
 navigation button is. That&apos;s how you create the HTML and it&apos;s
-
 pretty straightforward and that is in your Project
-
 1 a bullet point list. We&apos;re going to turn that
-
 now into a horizontal list. We do that in a few
-
 different ways. We actually have three
-
 different CSS declarations. Each part of that list we have to do some
-
 different things on. First, on the actual
-
 ul, we do a few things. Then on the li we
-
 could do ul li, but we do it the li
-
 and then the ul li and the a so on the anchor
-
 on the li and on the ul. I just use these to create specificity to have
 the full
-
 list so you know the row but often in a website
-
 you also put nav before there so that these styles only go for the
 unordered
-
 list in the nav. On my demo you&apos;ll see that
-
 so on the unordered list, the first thing we want to do is remove those
 black
-
 bullet points. That is list-style-type none. That removes the list
 style. There&apos;s nothing before it and then we want to
-
 remove the margins and paddings so that they stack right next on top of
 each other. That&apos;s the unordered list. On the li&apos;s the list items we
 want to float the
-
 list items float left. Now this takes them from a horizontal and stacks
-
 them side by side. We removed margins and paddings, so they&apos;re stacked
-
 right next to each other and they have
-
 no bullet points. Then on the anchor themselves, the anchor is an in
 line text, so we actually want to make it a block so that it
-
 can be a button. Then we apply our
-
 style, so we add a little margin padding
-
 border that&apos;ll create that box around it that turns it into a
-
 navigation button. But essentially we want to make sure we display it as
 a block. I&apos;ll explain why
-
 in a minute here. Then we&apos;re removing
-
 the anchor underline. If you&apos;ll remember, when
-
 you create a a link, it turns the text blue and has
-
 a little underline anchor. Then often you want to clear so that they&apos;re
 floating
-
 next to each other. The next item you want
-
 to clear everything so it doesn&apos;t stack or
-
 float next to the list. Let&apos;s take a look at
-
 this really quick. Here I have a few, I have
-
 a vertical navigation, I have a few side navigations and here&apos;s the
 first one
-
 we&apos;re going to work with. On this list you can see here. The anchor,
 this one here, I don&apos;t turn the anchor
-
 into a block and you can see just the actual
-
 text is a button. That can be often
-
 hard for people. Very often you want to turn the whole anchor and create
-
 some space around it. Then that way anywhere I
-
 touch will take me there. Now here you&apos;ll see I have these little
 bullet points,
-
 so those look terrible. The first thing we want to do, so I have my
 HTML. You&apos;ll see here I put
-
 nav horizontal 1, that way I&apos;m actually
-
 getting this specific ul, the first ul we&apos;re going to work with then
 the second ul, the third ul, the
-
 third list items or the third ordered list. First on the ul, this is the
 first
-
 thing we want to do. List-style-type we want to turn, well, you
 wouldn&apos;t have
-
 it on there at all, but we want it to be none. I &quot;Control Save&quot;, go
 back there and
-
 you&apos;ll see power. It has completely disappeared. Now let me actually
 take
-
 these side by side. I want to scroll down. Delete all this. You can
-
 see what it looks like raw. This is what you see in
-
 your unordered list. We set none padding, zero, so even this. Let&apos;s get
 rid of
-
 those &quot;Control S&quot;. You can see here, now
-
 I have my little. This is what it looks like. If I got rid of that,
 you&apos;d have a little circle
-
 bullet point of square one. You go here, add back so padding margin zero
 and
-
 we want to get rid of this, even though these will collapse.
-
 It&apos;ll collapse over it. There&apos;s no padding or margin
-
 for the square to go in. It&apos;s still there. We want to add that and make
 it. But let&apos;s go back here first and show you what
-
 each one of these does. Now, floating left is
-
 where I&apos;m putting them. Let&apos;s get rid of all this
-
 because this is the core style. Here you can see I have each one of them
 now is
-
 sitting next to each other. I&apos;m floating left, margin zero
-
 so top and bottom is zero, but 15 pixels on
-
 the left and right. That&apos;s this little space
-
 between each one of them. These two, so this is
-
 on the unordered list. This is on the list items. Now I&apos;ve created this
-
 navigation space. The next on the actual anchor is where I put all the
 style. Now on the actual anchor
-
 itself, display block, so that the whole thing, instead of just right
 over it, I get a little space over there. Background color red, font
 color chains, font
-
 weight making a bold. This is key text decoration that&apos;s going to
 remove
-
 those little blue lines. This color here is
-
 going to change it from this link blue
-
 to a nice white. Width then when I
-
 add this width, my content area width is
-
 going to be then clickable. Padding so I add a little padding on the
-
 top and on the bottom. Then I use a border radius, and I&apos;ll explain
-
 that in a second. Now I have these
-
 nice little buttons, and they&apos;re interactive and I can click on each
 one of them. The other thing then says border radius we&apos;ve talked
 about. I think this is that subtle
-
 curve at the edge here. I&apos;m creating a subtle curve
-
 on the regular button. Now how do I get this next step where when I
 click over it, the hover over creates
-
 an experience. That is this cool thing, it&apos;ll turn up in orange
-
 in no pad plus plus, but you use these colons
-
 attached directly to an element. On the a, I add what&apos;s
-
 called a pseudo selector. Most of the pseudo selectors are either
 determining
-
 a place in a list order or they are
-
 specifically a user behavior. This user behavior is
-
 specifically hover, it&apos;s not actually
-
 an HTML element, it&apos;s a user behavior
-
 hover the A. If the user hovers
-
 over with their mouse, the background color changes, the text color
-
 changes to yellow, and the border radius gets really big. That&apos;s
-
 what&apos;s happening. When I hover over, it
-
 changes to maroon, background, yellow IT color. Those subtle things.
 These are obviously really obnoxious. This often you&apos;ll see cell, more
 subtle like this,
-
 a little red underline. Those are nice ways to let users know or just a
 soft
-
 background change. This link is interactive. This very simple
-
 text here in CSS. This is how you then
-
 get a nice navigation. We&apos;ll talk about then you&apos;ll
-
 notice if I grab this, these are all left justified.
-
 You&apos;re not centering them. You could float them
-
 all to the right, but we&apos;ll talk about
-
 that in another class. We get a little more
-
 complicated with centering your
-
 actual navigation. Right now, we&apos;re just
-
 worried about creating some nice navigation
-
 for your Project 2.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Horizontal Navigation - Part 2 (6:00)
+<h3 id="ch5-9">5.9 Horizontal Navigation - Part 2 (6:00)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Then I clear both. That&apos;s going to be clearing and that&apos;s attached to
-
 this horizontal. If you go back here,
-
 you&apos;ll see H2 clear. I&apos;m attaching that to
-
 this horizontal 2. This thing doesn&apos;t float over there and it starts
-
 now a new navigation. You&apos;ll see here again, list style none,
-
 padding, margin. Overflow hidden is a
-
 nice thing to add, and we&apos;ll see if any of
 
 these get super small. You want to make
@@ -8666,131 +7741,79 @@ Here, I do. We&apos;ll see again a little bit. Here, I&apos;m working
 on horizontal 2, I have the block,
 
 I have my color, all this becomes the
-
 same, text-weight bold. Then I have this, transform upper
-
 case, so this is, we&apos;ll talk a little
-
 bit about these in a whole lecture
-
 on transforming, but this is just an
-
 nice little fun thing, I&apos;m just showing some
-
 extra CSS that exists. If I hover over it, you&apos;ll see it&apos;s already all
 upper case, and you could put transform
-
 here on the hover, Control S, Refresh, and you&apos;ll see there
-
 then it makes it upper case, fun little
-
 things like that. Little subtleties you can do
-
 to mix things up a little. Just showing you some of the
-
 additional CSS that exists. Font-family, Arial, sans-serif, I&apos;m adding
 a nice
-
 little font to it, and then nav horizontal
-
 2 on my anchor. Hover, I&apos;m creating that
-
 lighter gray background, and then obviously a
-
 darker font so that it can show through
-
 because a white font wouldn&apos;t work on
-
 that background. A very simple hover over. Horizontal 3, again,
 everything is the same, the difference being is padding is on the LI
-
 instead of the A. Here, you&apos;ll see
-
 this space here, this is where the padding is. I put it on the LI, and
 then that&apos;s not
-
 part of the anchor, so it&apos;s not linkable
-
 to the link, and you&apos;ve got to hover over the text, which is common
 too. People do this as well,
-
 and it looks nice. I think IIT&apos;s website has that. You see here, you
 just hover over,
-
 it&apos;s really pretty. It makes for a nice
-
 little interactive, people understand what
-
 this navigation means. Here, you see they
-
 actually create a little block around it. They&apos;re all okay, there&apos;s no
 supposed
-
 to, it depends on the look of your
-
 website, things like that. Otherwise, all this is the same. The final
 one here is the
-
 navigation vertical, so vert. Again, list-style
-
 none, padding margins. Margins on top and bottom is where I
-
 want this on the LI, because this is where
-
 there&apos;s space between them, so I don&apos;t want this
-
 little white space, so I&apos;m going to put on
-
 the LI instead of the A, because I don&apos;t want that
-
 white space to be interactive. Then on the vert,
-
 displayed as blocks, red, all this is the same. Obviously, the padding
 looks
-
 a little bit different, however, it is just
-
 going to be that maroon. But you&apos;ll notice the
-
 one thing I&apos;m not doing here is on the LIs, I&apos;m not floating them
 left. That&apos;s the only
-
 thing I take away there to make these vertical. This can be a side
 navigation. Everything else looks
-
 the same though. You can play around with these. The next step is on the
 nav, you can take this nav or you can put another
-
 div around it, and then you can float this
-
 navigation in the middle, move this navigation around the page, we&apos;ll
 talk
-
 all about that. But this is just a basic
-
 navigation you can start playing around with on your project 2. We&apos;ll
 end this video here, and now you can add
-
 navigation to your website.
-
-**Lecture Slides: Centered navigation**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Centered Navigation (11:20)
+<h4 id="ch5-9-1">5.9.1 Lecture Slides: Centered navigation</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch5-10">5.10 Centered Navigation (11:20)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 So here you have the center nav
-
 is what we&apos;re going to focus on. So let&apos;s take a look at the code. So
 the first thing I&apos;m going to introduce, which is pretty fun is this
-
 little gradient colorzilla. So we can open that up colorzilla. And this
 is what you see at
-
 the top of the page here. This tiered or cascaded or gradient color.
 It&apos;s a pretty simple tool. Go look here, grab say a dark one. Move the
 shading a little
-
 bit more lighter. Also move this one and this one. Depending on the
 gradients,
 
@@ -9091,197 +8114,116 @@ Live Link: <https://dkriegls.github.io/coursera/projects.html>
 
 **Module 5 Summary**
 
-![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
-
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
 takeaways from this module:
 
 -   Lesson 1: CSS Fonts
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish CSS Fonts.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 2: CSS Floats
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish CSS Floats.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 3: CSS Positions
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish CSS Positions.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 4: Horizontal Navigation
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Turn a vertically aligned HTML navigation
     into a styled, horizontal navigation bar.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 5: Centered navigation
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write CSS code that centers a horizontal
     navigation within their website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Module 6 Introduction (2:43)
+<h3 id="ch6-1">6.1 Module 6 Introduction Website Layout and Design (2:43)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to Module 6,
-
 Website Layouts and Design. And we&apos;re going to take
-
 all these CSS lessons and make it look like a really
-
 filled-out website. So we&apos;re going to start with kind of using
-
 your floats and your positioning and the standard layouts of a website.
 So a three column layout,
-
 a two column layout, these sort of classic structures
-
 of website and how to get there. Then we&apos;re going to talk
-
 about responsive design. And this is where we bring
-
 the web to life between devices. So instead of having to code a separate
-
 website with separate CSS to make it work on your cell phone, you can
 actually have the same HTML and
-
 the majority of the CSS the same. And then you just write what&apos;s called
-
 a media query that asks the browser, am I being viewed on a mobile
 device? How wide is the screen on a tablet? You can even have it ask,
-
 am I being sent to a printer? And you can have your CSS change based
 
 on what device the website is being pulled up on. So example would be a
 printer,
-
 you want to strip out some of the color, make it really simple, maybe
 for
-
 a financial report or something like that, if it&apos;s on your website. So
 students struggle with this, but it&apos;s
-
 really important to understand what mobile first means because once you
-
 start with responsive design, you&apos;re capturing the majority of
-
 the audience by being able to have your website pulled up anywhere on
 any device. Then we&apos;re going to round out the CSS
-
 with things like CSS transitions, which is starting into that
 JavaScript. But you don&apos;t have to write it, this
-
 kind of pre-written code that you just, a few lines of CSS and you can
 make some
-
 behavioral stuff happen on your website. Things like pseudo selectors.
 So if I hover my mouse over a button,
-
 maybe the background of the button changes,
-
 let me know that button is active. Other sort of pseudo selectors like
 that,
-
 I&apos;ll explain the difference. And then finally
-
 a full-site demonstration. So you&apos;re going to have all the stuff
-
 you&apos;ve learned so far in HTML and CSS and show what it looks with
-
 a complete, very scaled down, simple but nice looking website. None of
 the fancy stuff from a framework
-
 or if you went on to website builder. It&apos;s going to be a nice clean
-
 website that you can take home and you can turn into your own with your
 own
-
 side of logo and design as you see fit. So enjoy.
 
-**Module 6: Asset Library**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
+<h4 id="ch6-1-1">6.1.1 Module 6: Asset Library</h4>
 
 Files used during the code demonstrations of Module 6 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_6_demo)&apos;.
 
-**Lecture Slides: Standard Website Layouts**
+<h4 id="ch6-1-2">6.1.2 Lecture Slides: Standard Website Layouts</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Standard Website Layouts (9:30)
+<h3 id="ch6-2">6.2 Standard Website Layouts (9:30)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 We&apos;re going to start
-
 with our basic layout. We want to get a footer, a header, and then two
 columns. Very simple layout, not too much to this code. When I&apos;m at
 HTML, this is what I should be seeing
-
 in your head so far. In Project 2, we&apos;re
-
 going to have the UTFA, a title document. You&apos;re going to call
-
 it my web project, my first web project. My second something
-
 up here in titles, more informative about what the website is in general
-
 or who it belongs to. Link style sheet
-
 to my CSS resets. Then I&apos;m going to
-
 have my basic 960 CSS you&apos;re going to
-
 just call a style, and closing out our head. Going over the basic
-
 HTML here again, HTML doc type, which means what? Means we&apos;re doing
 HTML file, starting with language English. Then we have a
-
 body, very simple. My header is going
-
 to be my header. I&apos;m actually going
-
 to do this header, do h1 a little bit more
-
 proper because header is semantic and should not actually be with text
 directly in it. Coding real time, always fun. Here&apos;s my header,
-
 putting h1 in there and we&apos;re going to put at nav in there as we move
 forward. Now my div ID is going
-
 to be a wrapper. This wrapper is what we use to create this extra white
-
 space on either side. We&apos;re going to use this
-
 wrapper in the head a little bit as well
-
 to get more complex. But then we have
 
 my main content, it&apos;s going to be
@@ -9403,10 +8345,10 @@ be outside the box. Padding is going to
 come up to this edge. That&apos;s what you
 start to see there. It looks really nice. I hope you enjoyed that lesson
 with hands on coding.
-**Lecture Slides: Responsive Design**
 
+<h4 id="ch6-2-1">6.2.1 Lecture Slides: Responsive Design</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">Responsive Design (10:53)</h3>
+<h3 id="ch6-3">6.3 Responsive Design (10:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In lesson two, we&apos;re going to
 learn about the modern web. How websites are
@@ -9568,7 +8510,7 @@ Generally, we want to be using this media screen and min-width, makes it
 easier to keep it all in one style sheet and understand what&apos;s going
 on. Now you can build responsive websites.
 
-**Lesson 2 Video Reference Page**
+<h4 id="ch6-3-1">6.3.1 Lesson 2 Video Reference Page</h4>
 
 Below is a list of the content referenced in the Lesson 2 Video.
 
@@ -9586,10 +8528,9 @@ Below is a list of the content referenced in the Lesson 2 Video.
     b.  **Link:** [Using media
         queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
-**Lecture Slides: CSS Transitions, Transformations, and Animations**
-
+<h4 id="ch6-3-2">6.3.2 Lecture Slides: CSS Transitions, Transformations, and Animations</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">CSS Transitions, Transformations, and Animations - Part 1 (4:16)</h3>
+<h3 id="ch6-4">6.4 CSS Transitions, Transformations, and Animations - Part 1 (4:16)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 CSS has a few built in motion features that
 we can utilize. But for any serious
@@ -9666,7 +8607,7 @@ them you can look, and then they&apos;ll
 give you the actual cubic bazaar you want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">CSS Transitions, Transformations, and Animations - Part 2 (9:28)</h3>
+<h3 id="ch6-5">6.5 CSS Transitions, Transformations, and Animations - Part 2 (9:28)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 By HTML is pretty
 straightforward. I have meta title linked to my style sheet and
@@ -9798,10 +8739,10 @@ know it&apos;s interactive. I put the A over it, I strip all the link
 aspects of it out, and then I can hover over its an interactive image.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">SS Transitions, Transformations, and Animations - Part 3 (9:11)</h3>
+<h3 id="ch6-6">6.6 SS Transitions, Transformations, and Animations - Part 3 (9:11)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-**Lesson 3 Video Reference Page**
+<h4 id="ch6-6-1">6.6.1 Lesson 3 Video Reference Page</h4>
 
 Below is a list of the content referenced in the Lesson 3 Video.
 
@@ -9812,12 +8753,11 @@ Below is a list of the content referenced in the Lesson 3 Video.
     b.  **Link:** [Using CSS
         transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
-**Lecture Slides: CSS Pseudo-selectors**
+<h4 id="ch6-6-2">6.6.2 Lecture Slides: CSS Pseudo-selectors</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">CSS Pseudo-selectors (8:03)</h3>
+<h3 id="ch6-7">6.7 CSS Pseudo-selectors (8:03)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Pseudo selectors aren&apos;t as utilized as they should be, but when you
 understand them, they can add depth to your CSS. With CSS, I just want
 to introduce the concept that there are lots of selectors. We&apos;ve
@@ -9839,146 +8779,82 @@ can try and figure out what that value is. This also the value of say
 like a web link. This was early viruses, they grab the attribute value
 of the href, then whatever href equals, they&apos;d grab that value and
 switch out and put, and my mom still
-
 clicks on these links, for instance ask.com every
-
 time you go to Google, it redirects you to ask.com. Very sneaky little
 virus that isn&apos;t quite
-
 considered a virus, but is definitely predatory
-
 because you often give it permission to do
-
 that in some sneaky way. You can also just change
-
 part of the value. Here you can then look at
-
 language attribute selector, beginning of the attribute,
-
 end of the attribute. End of the attribute, for
-
 instance, I&apos;ll show you, you might be
-
 interested in whether they&apos;re uploading a
-
 PDF file, Word file. In many online Cloud storage
-
 when you upload a PDF, then it looks at the end attribute says
-
 sees that it ends in PDF and then puts a little
-
 PDF logo next to that file, or a Word logo, so
-
 those types of things. All different types
-
 of selectors. You can get pieces
-
 of values here. You can get pseudo selectors. These are a little bit
-
 trickier to write. Pseudo selectors often
-
 just have the colon and you&apos;ll have whatever
-
 some HTML value here, either an attribute
-
 or an actual element. Then you&apos;re announcing
-
 some behavior. First child is talking about
-
 the order of something, we showed hover is
-
 a pseudo selector. If they hover over something or if they click on
 something. Those are all types of different
-
 things we can get here. But let&apos;s click on this one. This is using a
-
 little Star Wars. This is a very simple one here. If I had it like li
-
 and then nth child of, so nth child eight in an li, says list item 1,
 list item 2. Or actually since
-
 they&apos;re one, two, three, they might be an ols
-
 so an ordered list. Then the li is
-
 going to be there. On the ol, I put this nth child. I&apos;d go to the
 eighth li
-
 and it would grab it. I could have the nth child colored a little
-
 bit differently. Now I might have JavaScript
-
 that changes this eighth. That maybe if you
-
 click on something, then the eighth it clicks on, whichever one you
-
 click on changes that CSS to a different color than
-
 based on some JavaScript. Here we have, you can see
-
 this code li nth child eight span and it has this different background
-
 color box shadow. You see there&apos;s the box shadow around it with a
 little
-
 background color. They all have the hover over. But this is going to be
-
 the hover over different, it&apos;s going to be pink,
-
 whereas these are all blue. That is maybe changing up
-
 when you click on an item. These lists change
-
 when I talk about not thinking of a check box
-
 as a necessarily check. You could have CSS where
-
 you check all this. When someone clicks
-
 on the nth child, whatever they click on JavaScript changes this number
-
 to whatever they click on and then this here
-
 this CSS style that eight would
-
 change and so it&apos;d get the background color
-
 of whatever we click on. It&apos;s a little complicated.
-
 Nothing we&apos;re going to have to worry about for 361. But I do have a
 little demos and JavaScript how to
-
 362 doing this. We&apos;re just introducing
-
 these concepts. Nth child n + 16 is if
-
 you&apos;re clicking seven. It starts at six and gets
-
 everything plus there, so n + 6. Very straightforward. -n+9 would start
 at nine and go backwards. Here&apos;s a +n, -n. N is a very common
 algorithmic term for just an unspecified number. Generic child ranges.
 Here we start nth child starting n+4 and we actually connect one
-
 for the negative, so it goes from 4-8 That&apos;s
-
 writing the code 4-8. We can do here, advanced
-
 generic child ranges. I start nth child 2. Everything above nth child,
 but then I refine that
-
 code to be nth child odd. I can do odd or even,
-
 but it starts only two, so the first one doesn&apos;t happen. Two is not
 odd, so
-
 it doesn&apos;t go there. It goes 3, 5, 7, 9 and then here I add one more
 nth child that
-
 stops this count at nine. We&apos;re sandwiching this odd count between a
 two and a nine. This one is nth child
-
 3n+1 nth child, even. Very complicated, you
-
 don&apos;t have to do this. Using this nth child 3+1 would normally
 highlight
 
@@ -10026,7 +8902,7 @@ over that. That was just a short lesson, but I encourage you to spend
 more time reading about how pseudo selectors can
 add depth to your website.
 
-**Lesson 4 Video Reference Page**
+<h4 id="ch6-7-1">6.7.1 Lesson 4 Video Reference Page</h4>
 
 **Below is a list of the content referenced in the Lesson 4 Video.**
 
@@ -10044,10 +8920,9 @@ add depth to your website.
     b.  **Link: [How To Use CSS3
         Pseudo-Classes](https://www.smashingmagazine.com/2011/03/how-to-use-css3-pseudo-classes/)**
 
-**Lecture Slides: Full-site Demonstration**
-
+<h4 id="ch6-7-2">6.7.2 Lecture Slides: Full-site Demonstration</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">Full-site Demonstration - Part 1 (9:07)</h3>
+<h3 id="ch6-8">6.8 Full-site Demonstration - Part 1 (9:07)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 For our final lesson on CSS, we&apos;re
 going to have a full site demonstration so you can put all these pieces
@@ -10185,7 +9060,7 @@ the pipe to be style. So the easy way to do that is to pull it in
 through CSS.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-xx">Full-site Demonstration - Part 2 (10:36)</h3>
+<h3 id="ch6-9">6.9 Full-site Demonstration - Part 2 (10:36)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 So I&apos;m using this really cool CSS and
 it&apos;s the pseudo selector. And some of the pseudo selectors
@@ -10328,7 +9203,9 @@ right next to each other. So there is the box sizing, border box. Now I
 know 80%, 20%, I have 100%. You can see how that math works out. I
 don&apos;t have to worry about these margins up there.
 
-**Project 2 Practice Assignment: Second Attempt**
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch6-9-1">6.9.1 Project 2 Practice Assignment: Second Attempt</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 **Overview**
 
@@ -10338,7 +9215,7 @@ found at the Live Link for our class GitHub repository:
 **Live Link:** <https://dkriegls.github.io/coursera/projects.html>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch6-summ">Module 6 Summary</h3>
+<h4 id="ch6-9-2">6.9.2 Module 6 Summary</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 After completing all of the materials, please take a moment to reflect
@@ -10370,24 +9247,21 @@ takeaways from this module:
     using HTML and CSS.  
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">Module 7 Introduction (3:28)</h3>
+<h3 id="ch7-1">7.1 Module 7 Introduction to JavaScript(3:28)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Welcome to Module 7, where we introduce you to JavaScript. Now as I&apos;ve
 mentioned in the introduction to this class, JavaScript can be
 intimidating. It&apos;s a full spectrum code, which means it can be written
 in lots of different ways. It can control everything from the movement
 to a website, to a remote control
-
 car to a drone. It&apos;s a very powerful language, but I want to simplify,
 and make it less intimidating. I want you to understand that the way
 you&apos;re learning here, looking at some pre written JavaScripts, and
 being able to cut and paste it into your website, and know how to then
 change a few lines of code to make
-
 it work with your website. That&apos;s how most web developers engage with
 JavaScript. Don&apos;t think that you&apos;re not learning something, or you
 have to learn
-
 this very elaborate code to be able to make a good website. This is how
 websites are built most places. We&apos;re going to start with the basics of
 JavaScript. Simple syntax, understanding of how it&apos;s written. Again,
@@ -10422,19 +9296,17 @@ really should be plug and play coding that you&apos;re writing here. You
 should be able to have fun to see really powerful stuff. To come to life
 on your website with very little effort once you understand some of the
 key basics, so enjoy.
-
-**Module 7: Asset Library**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch7-1-1">7.1.1 Module 7: Asset Library</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Files used during the code demonstrations of Module 7 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_7_demo)&apos;.**
 
-**Lecture Slides: The Basics of JavaScript (JS)**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">The Basics of JavaScript (JS) - Part 1 (5:40)</h3>
+<h4 id="ch7-1-2">7.1.2 Lecture Slides: The Basics of JavaScript (JS)</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch7-2">7.2 The Basics of JavaScript (JS) - Part 1 (5:40)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Welcome to your first lesson in JavaScript. I want to emphasize here not
@@ -10516,7 +9388,7 @@ see me, I&apos;ll give a presentation that I like to tell a story as I&apos;m
 writing the JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">The Basics of JavaScript (JS) - Part 2 (6:16)</h3>
+<h3 id="ch7-3">7.3 The Basics of JavaScript (JS) - Part 2 (6:16)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 You definitely want to come
@@ -10703,7 +9575,7 @@ Below is a list of the content referenced in the Lesson 1 Video.
 **Lecture Slides: JS Language Features and Syntax**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">JS Language Features and Syntax - Part 1 (7:09)</h3>
+<h3 id="ch7-4">7.4 JS Language Features and Syntax - Part 1 (7:09)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Variables pretty straightforward, as you saw before I had
 the variable foo in the operator, you can just create
@@ -10895,7 +9767,7 @@ all
 executed within that curly brackets.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">JS Language Features and Syntax - Part 2 (7:53)</h3>
+<h3 id="ch7-5">7.5 JS Language Features and Syntax - Part 2 (7:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Next up, we&apos;re going to talk
@@ -11072,7 +9944,7 @@ test the condition. You just run it this
 many number of times.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">JS Language Features and Syntax - Part 3 (6:36)</h3>
+<h3 id="ch7-6">7.6 JS Language Features and Syntax - Part 3 (6:36)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 So we have here JavaScript No
 attached to the DOM. JavaScript NO attach HTML JavaScript YES. This is
@@ -11186,7 +10058,7 @@ play JavaScript tools.
 **Lecture Slides: Google Maps API (Application Programming Interface)**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">Google Maps API (Application Programming Interface) - Part 1 (5:58)</h3>
+<h3 id="ch7-7">7.7 Google Maps API (Application Programming Interface) - Part 1 (5:58)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Now that we&apos;ve spent some time with the JavaScript syntax, let&apos;s take
@@ -11299,7 +10171,7 @@ super far away on the maps and then my
 title &quot;Hello world.&quot;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">Google Maps API (Application Programming Interface) - Part 2 (6:33)</h3>
+<h3 id="ch7-8">7.8 Google Maps API (Application Programming Interface) - Part 2 (6:33)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 I&apos;m going to show you this IT map. So here is a nice little IT map,
 but I have the new joker there. If you hover over the new joker,
@@ -11420,7 +10292,7 @@ Below is a list of the content referenced in the Lesson 3 Video.
 **Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document Object Model)**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1 (9:25)</h3>
+<h3 id="ch7-9">7.9 JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1 (9:25)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In Lesson 4, we&apos;re going to get a better understanding of
 
@@ -11541,7 +10413,7 @@ languages. JavaScript uses the DOM for scripting to modify elements. DOM
 is a collection of nodes on a tree, so let&apos;s get to that.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch7-xx">JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2 (9:26)</h3>
+<h3 id="ch7-10">7.10 JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2 (9:26)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So here we have this code. But it&apos;s easier as a Dom to think about each
@@ -11692,7 +10564,7 @@ Below is a list of the content referenced in the Lesson 3 Video.
     b.  **Link**: [JavaScript](https://www.sitepoint.com/javascript/)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="mod7-sum">Module 7 Summary</h3>
+<h4 id="ch7-10-3">7.10.3 Module 7 Summary</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -11715,7 +10587,7 @@ takeaways from this module:
 -   Students will be able to: Import and manipulate a JS event.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch8-0">Module 8 Introduction (2:53)</h3>
+<h3 id="ch8-1">8.1 Module 8 Introduction jQuery and Frameworks (2:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Welcome to Module 8 jQuery and Frameworks. This is taking JavaScript a
 little bit further and introducing the concept of a framework and how
@@ -11756,7 +10628,7 @@ course for you. I hope it was a pleasure and enjoy these last few
 lessons.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch8-assets">Module 8: Asset Library</h3>
+<h4 id="ch8-1-1">8.1.1 Module 8: Asset Library</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Files used during the code demonstrations of Module 8 can be found at
 the class&apos;s GitHub repository  &apos;[linked
@@ -11765,7 +10637,7 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_8_demo
 **Lecture Slides: How-To Grab JavaScript Objects and Change HTML**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="mod8-1">How-To Grab JavaScript Objects and Change HTML (10:03)</h3>
+<h3 id="ch8-2">8.2 How-To Grab JavaScript Objects and Change HTML (10:03)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In this lesson, we&apos;re going to learn how to use JavaScript to grab
 items in your HTML
@@ -11879,7 +10751,7 @@ JavaScript lab.
 **Lecture Slides: JQuery Intro and Box Sliders**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch8-2">Query Intro and Box Sliders - Part 1 (6:58)</h3>
+<h3 id="ch8-3">8.3 Query Intro and Box Sliders - Part 1 (6:58)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In this lesson, we&apos;re going to learn about a Javascript library called
 jQuery and how to add box sliders to your project. jQuery is a library
@@ -11959,7 +10831,7 @@ there #btn. Instead of doing ID btn, it&apos;s the hash tag there so that&apos;s
 the selector being the call out.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## jQuery Intro and Box Sliders - Part 2 (8:45)
+<h3 id="ch8-4">8.4 jQuery Intro and Box Sliders - Part 2 (8:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So, why jquery? And here you&apos;ll see it&apos;s a little bit lighter, saves
@@ -12071,7 +10943,7 @@ Below is a list of the content referenced in the Lesson 2 Video.
 **Lecture Slides: Responsive Videos**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Responsive Videos (7:29)
+<h3 id="ch8-5">8.5 Responsive Videos (7:29)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In this lesson, we&apos;re going to learn how to make videos that are
@@ -12167,7 +11039,7 @@ your responsive toolbox.
 **Lecture Slides: What This All Means for Using Website Frameworks**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## What This All Means for Using Website Frameworks - Part 1 (9:38)
+<h3 id="ch8-6">8.6 What This All Means for Using Website Frameworks - Part 1 (9:38)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Moving forward, you&apos;re almost always going to start web projects from a
@@ -12298,7 +11170,7 @@ there&apos;s also media queries so I print screen. All of this is determined
 for all the media queries it&apos;s already built for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## What This All Means for Using Website Frameworks - Part 2 (9:23)
+<h3 id="ch8-7">8.7 What This All Means for Using Website Frameworks - Part 2 (9:23)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So if I was to take this little website let&apos;s go here inspect element
@@ -12421,8 +11293,6 @@ development.
 
 **Lesson 4 Video Reference Page**
 
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
 Below is a list of the content referenced in the Lesson 4 Video.
 
 **Author:** Open Source
@@ -12432,7 +11302,6 @@ Below is a list of the content referenced in the Lesson 4 Video.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Module 8 Summary**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
@@ -12458,9 +11327,8 @@ takeaways from this module:
         working with website Frameworks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch8">Module 8 Summary</h3>
+<h3 id="ch8-7-3">8.7.3 Module 8 Summary</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
 
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
