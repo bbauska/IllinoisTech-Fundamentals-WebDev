@@ -54,57 +54,59 @@ global connectivity.</p>
 
 <p><small><small>17 lessons, 13 readings</small></small></p>
 
-1.  [Course
+1.1.  Course Overview (7:34)
+<!-- [Course
     Overview](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/course-overview-D3XXr)
     (7:34)
+-->
 
 -   Syllabus
 
 -   <b>Reading:</b> Module 1: Asset Library (code used in video demonstrations)
 
-2.  Module 1 Introduction (2:00)
+1.2.  Module 1 Introduction Internet Structures and an Introduction to HTML (2:00)
 
 -   <b>Reading:</b> Lecture Slides: History of the Web
 
-3.  History of the Web - Part 1 (10:11)
+1.3.  History of the Web - Part 1 (10:11)
 
-4.  History of the Web - Part 2 (12:13)
+1.4.  History of the Web - Part 2 (12:13)
 
-5.  History of the Web - Part 3 (11:27)
+1.5.  History of the Web - Part 3 (11:27)
 
 -   <b>Reading:</b> Lesson 1 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: The Tools of Internet Publishing
 
-6.  The Tools of Internet Publishing - Part 1 (8:20)
+1.6.  The Tools of Internet Publishing - Part 1 (8:20)
 
-7.  The Tools of Internet Publishing - Part 2 (6:56)
+1.7.  The Tools of Internet Publishing - Part 2 (6:56)
 
-8.  The Tools of Internet Publishing - Part 3 (8:44)
+1.8.  The Tools of Internet Publishing - Part 3 (8:44)
 
 -   <b>Reading:</b> Lecture Slides: Browsers and Web Addresses
 
-9.  Browsers and Web Addresses - Part 1 (11:46)
+1.9.  Browsers and Web Addresses - Part 1 (11:46)
 
-10. Browsers and Web Addresses - Part 2 (10:45)
+1.10. Browsers and Web Addresses - Part 2 (10:45)
 
 -   <b>Reading:</b> Lesson 3 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: HTTP Requests
 
-11. HTTP Requests (8:45)
+1.11. HTTP Requests (8:45)
 
 -   <b>Reading:</b> Lecture Slides: Meet Our Three Languages
 
-12. Meet Our Three Languages (10:31)
+1.12. Meet Our Three Languages (10:31)
 
 -   <b>Reading:</b> Lecture Slides: The Basics of HTML
 
-13. The Basics of HTML - Part 1 (8:25)
+1.13. The Basics of HTML - Part 1 (8:25)
 
-14. The Basics of HTML - Part 2 (8:48)
+1.14. The Basics of HTML - Part 2 (8:48)
 
-15. The Basics of HTML - Part 3 (10:27)
+1.15. The Basics of HTML - Part 3 (10:27)
 
 -   <b>Reading:</b> Lesson 6 Video Reference Page
 
@@ -126,34 +128,36 @@ foundation for sophisticated web design and development.
 
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
-1.  [Module 2
+2.1.  Introduction HTML (1:57)
+<!-- [Module 2
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-2-introduction-5FFqx)
+-->
 
 -   <b>Reading:</b> Module 2: Asset Library (code used in video demonstrations)
 
 -   <b>Reading:</b> Lecture Slides: HTML Elements (inline vs box)
 
-2.  HTML Elements (inline vs box) - Part 1
+2.2.  HTML Elements (inline vs box) - Part 1 (7:47)
 
-3.  HTML Elements (inline vs box) - Part 2
+2.3.  HTML Elements (inline vs box) - Part 2 (8:05)
 
 -   <b>Reading:</b> Lesson 1 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: HTML Lists and Cascades
 
-4.  HTML Lists and Cascades
+2.4.  HTML Lists and Cascades (11:34)
 
 -   <b>Reading:</b> Lesson 2 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: HTML Links and Images
 
-5.  HTML Links and Images - Part 1
+2.5.  HTML Links and Images - Part 1 (7:18)
 
-6.  HTML Links and Images - Part 2
+2.6.  HTML Links and Images - Part 2 (6:46)
 
 -   <b>Reading:</b> Lecture Slides: HTML Tables
 
-7.  HTML Tables
+2.7.  HTML Tables (5:16)
 
 -   <b>Reading:</b> Lesson 4 Video Reference Page
 
@@ -172,28 +176,31 @@ accessible, and visually appealing online format.
 
 <p><small><small>6 lessons, 7 readings</small></small></p>
 
-1.  [Module 3
+3.1.  Module 3 Introduction HTML Forms (2:14)
+
+<!-- [Module 3
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-3-introduction-1qphz)
+-->
 
 -   <b>Reading:</b> Module 3: Asset Library
 
 -   <b>Reading:</b> Lecture Slides: Website Navigation (Simple HTML)
 
-2.  Website Navigation (Simple HTML)
+3.2.  Website Navigation (Simple HTML) (6:30)
 
 -   <b>Reading:</b> Lecture Slides: HTML Forms
 
-3.  HTML Forms - Part 1
+3.3.  HTML Forms - Part 1 (9:03)
 
-4.  HTML Forms - Part 2
+3.4.  HTML Forms - Part 2 (7:59)
 
-5.  HTML Forms - Part 3
+3.5.  HTML Forms - Part 3 (10:08)
 
 -   <b>Reading:</b> Lesson 2 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: UTF8 Characters
 
-6.  UTF8 Special Characters
+3.6.  UTF8 Special Characters (2:42)
 
 -   <b>Reading:</b> Lesson 3 Video Reference Page
 
@@ -216,40 +223,42 @@ web design and layout management.
 
 <p><small><small>7 lessons, 12 readings</small></small></p>
 
-1.  [Module 4
+4.1.  Module 4 Introduction to CSS (2:34)
+<!-- [Module 4
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-4-introduction-UQBs5)
+-->
 
 -   <b>Reading:</b> Module 4: Asset Library
 
 -   <b>Reading:</b> Lecture Slides: How CSS talks to HTML
 
-2.  How CSS talks to HTML
+4.2.  How CSS talks to HTML (10:19)
 
 -   <b>Reading:</b> Lesson 1 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: CSS Declarations
 
-3.  CSS Declaration - Part 1
+4.3.  CSS Declaration - Part 1 (8:43)
 
-4.  CSS Declaration - Part 2
+4.4.  CSS Declaration - Part 2 (9:42)
 
 -   <b>Reading:</b> Lesson 2 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: Writing CSS Selectors for Specificity
 
-5.  Writing CSS Selectors for Specificity
+5.  Writing CSS Selectors for Specificity (8:29)
 
 -   <b>Reading:</b> Lesson 3 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: The Box Model and Box Sizing
 
-6.  The Box Model and Box Sizing
+6.  The Box Model and Box Sizing (6:55)
 
 -   <b>Reading:</b> Lesson 4 Video Reference Page
 
 -   <b>Reading:</b> Lecture Slides: CSS Resets
 
-7.  CSS Resets
+7.  CSS Resets (4:53)
 
 -   <b>Reading:</b> Lab 6 Practice Assignment
 
@@ -270,48 +279,52 @@ user-friendly web interfaces with advanced CSS techniques.
 
 <p><small><small>10 lessons, 10 readings</small></small></p>
 
-1.  [Module 5
+5.1.  Module/Week 5 Introduction CSS Floats & Positions (
+<!-- [Module 5
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-5-introduction-XyyIa)
+-->
 
--   <b>Reading:</b> Module 5: Asset Library
+-   5.1.1 <b>Reading:</b> Module 5: Asset Library
 
--   <b>Reading:</b> Lecture Slides: CSS Fonts
+-   5.1.2 <b>Reading:</b> Lecture Slides: CSS Fonts
 
-2.  CSS Fonts - Part 1
+5.2.  CSS Fonts - Part 1 (6:37)
 
-3.  CSS Fonts - Part 2
+5.3.  CSS Fonts - Part 2 (8:55)
 
--   <b>Reading:</b> Lesson 1 Video Reference Page
+-   5.3.1 <b>Reading:</b> Lesson 1 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: CSS Floats
+-   5.3.2 <b>Reading:</b> Lecture Slides: CSS Floats
 
-4.  CSS Floats - Part 1
+5.4.  CSS Floats - Part 1 (6:53)
 
-5.  CSS Floats - Part 2
+5.5.  CSS Floats - Part 2 (5:49)
 
--   <b>Reading:</b> Lesson 2 Video Reference Page
+-   5.5.1 <b>Reading:</b> Lesson 2 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: CSS Positions
+-   5.5.2 <b>Reading:</b> Lecture Slides: CSS Positions
 
-6.  CSS Positions - Part 1
+5.6.  CSS Positions - Part 1 (8:00)
 
-7.  CSS Positions - Part 2
+5.7.  CSS Positions - Part 2 (9:00)
 
--   <b>Reading:</b> Lecture Slides: Horizontal Navigation
+-   5.7.1 <b>Reading:</b> Practice Lab 7 Assignment - Style and HTML Table
 
-8.  Horizontal Navigation - Part 1
+-   5.7.2 <b>Reading:</b> Lecture Slides: Horizontal Navigation
 
-9.  Horizontal Navigation - Part 2
+5.8.  Horizontal Navigation - Part 1 (7:51)
 
--   <b>Reading:</b> Lecture Slides: Centered navigation
+5.9.  Horizontal Navigation - Part 2 (6:00)
 
-10. Centered Navigation
+-   5.9.1 <b>Reading:</b> Lecture Slides: Centered navigation
 
--   <b>Reading:</b> Project 2 Practice Assignment: First Attempt
+5.10. Centered Navigation (11:20)
 
--   <b>Reading:</b> Module 5 Summary
+-   5.10.1 <b>Reading:</b> Project 2 Practice Assignment: First Attempt
 
-<h3><a href="wk6">Week 6: Website Layouts and Design</a></h3>
+-   5.10.2 <b>Reading:</b> Module/Week 5 Summary
+
+<h3><a href="wk6">Module/Week 6: Website Layouts and Design</a></h3>
 
 Module 6 introduces students to the four fundamental layouts of website
 design, providing a foundational understanding of various web design
@@ -328,48 +341,51 @@ appealing web design.
 
 <p><small><small>9 lessons, 11 readings, 4 practice quizzes</small></small></p>
 
-1.  [Module 6
+6.1.  Module/Week 6: Website Layouts and Design (2:43)
+
+<!-- [Module 6
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-6-introduction-eEOos)
+-->
 
--   <b>Reading:</b> Module 6: Asset Library
+-   6.1.1 <b>Reading:</b> Module/Week 6: Asset Library
 
--   <b>Reading:</b> Lecture Slides: Standard Website Layouts
+-   6.1.2 <b>Reading:</b> Lecture Slides: Standard Website Layouts
 
-2.  Standard Website Layouts
+6.2.  Standard Website Layouts (9:30)
 
--   <b>Reading:</b> Lecture Slides: Responsive Design
+-   6.2.1 <b>Reading:</b> Lecture Slides: Responsive Design
 
-3.  Responsive Design
+6.3.  Responsive Design (10:53)
 
--   <b>Reading:</b> Lesson 2 Video Reference Page
+-   6.3.1 <b>Reading:</b> Lesson 2 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: CSS Transitions, Transformations, and Animations
+-   6.3.2 <b>Reading:</b> Lecture Slides: CSS Transitions, Transformations, and Animations
 
-4.  CSS Transitions, Transformations, and Animations - Part 1
+6.4.  CSS Transitions, Transformations, and Animations - Part 1 (4:16)
 
-5.  CSS Transitions, Transformations, and Animations - Part 2
+6.5.  CSS Transitions, Transformations, and Animations - Part 2 (9:28)
 
-6.  CSS Transitions, Transformations, and Animations - Part 3
+6.6.  CSS Transitions, Transformations, and Animations - Part 3 (9:11)
 
--   <b>Reading:</b> Lesson 3 Video Reference Page
+-   6.6.1 <b>Reading:</b> Lesson 3 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: CSS Pseudo-selectors
+-   6.6.2 <b>Reading:</b> Lecture Slides: CSS Pseudo-selectors
 
-7.  CSS Pseudo-selectors
+6.7.  CSS Pseudo-selectors (8:03)
 
--   <b>Reading:</b> Lesson 4 Video Reference Page
+-   6.7.1 <b>Reading:</b> Lesson 4 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: Full-site Demonstration
+-   6.7.2 <b>Reading:</b> Lecture Slides: Full-site Demonstration
 
-8.  Full-site Demonstration - Part 1
+6.8.  Full-site Demonstration - Part 1 (9:07)
 
-9.  Full-site Demonstration - Part 2
+6.9.  Full-site Demonstration - Part 2 (10:36)
 
--   <b>Reading:</b> Project 2 Practice Assignment: Second Attempt
+-   6.9.1 <b>Reading:</b> Project 2 Practice Assignment: Second Attempt
 
--   <b>Reading:</b> Module 6 Summary
+-   6.9.2 <b>Reading:</b> Module/Week 6 Summary
 
-<h3><a href="wk7">Week 7: Introduction to Javascript</a></h3>
+<h3><a href="wk7">Module/Week 7: Introduction to Javascript</a></h3>
 
 This module delves into the fundamental principles of writing JavaScript
 (JS), offering students a solid grounding in the language&apos;s core
@@ -384,48 +400,51 @@ techniques.
 
 <p><small><small>10 lessons, 10 readings</small></small></p>
 
-1.  [Module 7
+7.1.  Module/Week 7 Introduction to Javascript (3:28)
+
+<!-- [Module 7
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-7-introduction-2wA0M)
+-->
 
--   <b>Reading:</b> Module 7: Asset Library
+-   7.1.1 <b>Reading:</b> Module/Week 7: Asset Library
 
--   <b>Reading:</b> Lecture Slides: The Basics of JavaScript (JS)
+-   7.1.2 <b>Reading:</b> Lecture Slides: The Basics of JavaScript (JS)
 
-2.  The Basics of JavaScript (JS) - Part 1
+7.2.  The Basics of JavaScript (JS) - Part 1 (5:40)
 
-3.  The Basics of JavaScript (JS) - Part 2
+7.3.  The Basics of JavaScript (JS) - Part 2 (6:16)
 
--   <b>Reading:</b> Lesson 1 Video Reference Page
+-   7.3.1 <b>Reading:</b> Lesson 1 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: JS Language Features and Syntax
+-   7.3.2 <b>Reading:</b> Lecture Slides: JS Language Features and Syntax
 
-4.  JS Language Features and Syntax - Part 1
+7.4.  JS Language Features and Syntax - Part 1 (7:09)
 
-5.  JS Language Features and Syntax - Part 2
+7.5.  JS Language Features and Syntax - Part 2 (7:53)
 
-6.  JS Language Features and Syntax - Part 3
+7.6.  JS Language Features and Syntax - Part 3 (6:36)
 
--   <b>Reading:</b> Lecture Slides: Google Maps API (Application Programming Interface)
+-   7.6.1 <b>Reading:</b> Lecture Slides: Google Maps API (Application Programming Interface)
 
-7.  Google Maps API (Application Programming Interface) - Part 1
+7.7.  Google Maps API (Application Programming Interface) - Part 1 (5:58)
 
-8.  Google Maps API (Application Programming Interface) - Part 2
+7.8.  Google Maps API (Application Programming Interface) - Part 2 (6:33)
 
--   <b>Reading:</b> Lesson 3 Video Reference Page
+-   7.8.1 <b>Reading:</b> Lesson 3 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document Object Model)
+-   7.8.2 <b>Reading:</b> Lecture Slides: JavaScript Objects, Event Handling, and DOM (Document Object Model)
 
-9.  JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1
+7.9.  JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 1 (9:25)
 
-10. JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2
+7.10. JavaScript Objects, Event Handling, and DOM (Document Object Model) - Part 2 (9:26)
 
--   <b>Reading:</b> Lesson 4 Video Reference Page
+-   7.10.1 <b>Reading:</b> Lesson 4 Video Reference Page
 
--   <b>Reading:</b> Project 3 Practice Assignment: First Attempt
+-   7.10.2 <b>Reading:</b> Project 3 Practice Assignment: First Attempt
 
--   <b>Reading:</b> Module 7 Summary
+-   7.10.3 <b>Reading:</b> Module/Week 7 Summary
 
-<h3><a href="wk8">Week 8: jQuery and Frameworks</a></h3>
+<h3><a href="wk8">Module/Week 8: jQuery and Frameworks</a></h3>
 
 Module 8 focuses on empowering students with the skills to dynamically
 manipulate HTML content using JavaScript, enhancing web interactivity
@@ -440,38 +459,40 @@ modern responsive design practices.
 
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
-1.  [Module 8
+8.1.  Module/Week 8 Introduction jQuery and Frameworks (2:53)
+<!-- [Module 8
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-8-introduction-hjsK2)
+-->
 
--   <b>Reading:</b> Module 8: Asset Library
+-   8.1.1 <b>Reading:</b> Module/Week 8: Asset Library
 
--   <b>Reading:</b> Lecture Slides: How-To Grab JavaScript Objects and Change HTML
+-   8.1.2 <b>Reading:</b> Lecture Slides: How-To Grab JavaScript Objects and Change HTML
 
-2.  How-To Grab JavaScript Objects and Change HTML
+8.2.  How-To Grab JavaScript Objects and Change HTML (10:03)
 
--   <b>Reading:</b> Lecture Slides: jQuery Intro and Box Sliders
+-   8.2.1 <b>Reading:</b> Lecture Slides: jQuery Intro and Box Sliders
 
-3.  <b>j</b>Query Intro and Box Sliders - Part 1
+8.3.  jQuery Intro and Box Sliders - Part 1 (6:58)
 
-4.  jQuery Intro and Box Sliders - Part 2
+8.4.  jQuery Intro and Box Sliders - Part 2 (8:45)
 
--   <b>Reading:</b> Lesson 2 Video Reference Page
+-   8.4.1 <b>Reading:</b> Lesson 2 Video Reference Page
 
--   <b>Reading:</b> Lecture Slides: Responsive Videos
+-   8.4.2 <b>Reading:</b> Lecture Slides: Responsive Videos
 
-5.  Responsive Videos
+8.5.  Responsive Videos (7:29)
 
--   <b>Reading:</b> Lecture Slides: What This All Means for Using Website Frameworks
+-   8.5.1 <b>Reading:</b> Lecture Slides: What This All Means for Using Website Frameworks
 
-6.  What This All Means for Using Website Frameworks - Part 1
+8.6.  What This All Means for Using Website Frameworks - Part 1 (9:38)
 
-7.  What This All Means for Using Website Frameworks - Part 2
+8.7.  What This All Means for Using Website Frameworks - Part 2 (9:23)
 
--   <b>Reading:</b> Lesson 4 Video Reference Page
+-   8.7.1 <b>Reading:</b> Lesson 4 Video Reference Page
 
--   <b>Reading:</b> Project 3 Practice Assignment: Second Attempt
+-   8.7.2 <b>Reading:</b> Project 3 Practice Assignment: Second Attempt
 
--   <b>Reading:</b> Module 8 Summary
+-   8.7.3 <b>Reading:</b> Module/Week 8 Summary
 
 <h3><a href="wk9">Week 9: Summative Course Assessment</a></h3>
 
@@ -5417,1259 +5438,821 @@ code here. 
 
 Or I could use Share down here, where then I click and get the embed
 code. 
-
 There&apos;s my iframe again, copy it. 
-
 I simply cut and paste that into my code, and I&apos;ll get my embed there. 
-
 Now I have an actual YouTube video that&apos;s linked directly to YouTube. 
-
 I can&apos;t mess with the video itself, edit it, put captions on it. 
-
 I could put a window over it, maybe with some captions, but that&apos;s
 going to be a bit difficult as the screen moves. 
-
 I highly recommend if you do want to have an video embedded that you
 use, HTML&apos;s own video embed, and have the video be owned by yourself. 
-
 Again, we&apos;ll learn how to do that towards the end of this class. 
-
 This is a short lesson but a lot of content that can be difficult to
 wrap your head around, look at those demo files, and get familiar with
 what you just learned.
-
-**Lecture Slides: HTML Tables**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch2-6-1">2.6.1 Lecture Slides: HTML Tables</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module2-Lesson4.pdf
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Tables (5:16)
+<h3 id="ch2-7">2.7 HTML Tables (5:16)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 This class covers a wide range of expertise. 
-
 Some of you are coming here today with some HTML 4 experience. 
-
 Those of you who have not had any experience with HTML 4 may come across
 a lot of documentation on the web that still cites HTML 4 as the way to
 do things. 
-
 Grids make for great website layout. 
-
 Back in the olden days, we would use HTML tables to achieve that page
 layout. 
-
 Fortunately, today, CSS 3 gives us all the tools we need to achieve good
 page layout and not only that, CSS 3 allows us to create flexible
 designs that work with any size screen. 
-
 HTML tables are not designed to create layouts in such flexible ways. 
-
 Tables should only be used for tabular data, even though I&apos;m
 introducing them now, think about what sort of data you would want
 to put in the table and that&apos;s all you should be using. 
-
 For example here, div class columns medium 6 large 2. 
-
 This would be how we achieve page layout now with a lot of frameworks. 
-
 In this case this is from foundation. 
-
 It already has columns designed using style that&apos;s all going to be
 found in the CSS of how it&apos;s written and for that specific framework. 
-
 Tables should only use tabular data. 
-
 If you&apos;re thinking about trying to use it to get pictures to lay side
 by side, that&apos;s not what table data is that is better achieved using
 CSS. 
-
 You should only use tables for tabular data. 
-
 Our three key elements in table data is the table which everything
 falls within the table element and then table rows and table data. 
-
 Table rows define a row and a table. 
-
 Table data is going to be an individual cell of data. 
-
 With table row and table data defined we create table columns. 
-
 If you look here, I have my table wrapping the entire code set. 
-
 I have a table row open and close. 
-
 A second table row open and close. 
-
 Here&apos;s my first table row, there&apos;s my second table row, and then here
 is each single piece of table data inside that table, row R11. 
-
 This is row 1 column 1, row 1 column 1, row 1 column 2, and row 1 column
 2. 
-
 CLC here on the left-hand side table, already created with row 1 column
 1. 
-
 As we go over to the inspector here, you can see the highlight of each
 one of these specific elements in where they correspond in that
 particular table. 
-
 Here is row 2 column 2, the table row. 
-
 Here is the entire table and here individual column data. 
-
 A few other things we can add to our column so TH the table
 header defines the columns in the table head, and you can have one or
 two and if we pop open that code, in this case, the table header and
 each column are given a heading. 
-
 You&apos;ll see I first create table rows and then I insert my table
 headings inside those top rows as opposed to a table data set. 
-
 They&apos;re simply just different classifications of what data is going
 into those columns. 
-
 The column span can be defined up to the number of columns you have
 already created in your table. 
-
 In this case, I have 1, 2, 3 columns define. 
-
 If I was to add another column to one of these, you&apos;ll notice it
 doesn&apos;t necessarily push another column here or there, but there is as
 the inspector shows a column there. 
-
 You&apos;ll see here in my column span, I equal it to three my table
 header. 
-
 By default, this table header will be centered, justified, sitting. 
-
 You&apos;ll see here I inspect, it&apos;s three columns wide with the text
 centered in the middle. 
-
 Finally, the table head. 
-
 The table head can group TH elements. 
-
 Sometimes, like with my demonstration code, you&apos;ll see I have two rows
 of table heading data. 
-
 I&apos;m wrapping them with the table head element in order for an Internet
 search engine bot to be able to identify the name of a particular data
 set. 
-
 There&apos;s also a Tbody, but that&apos;s not often used as the Internet search
 bots don&apos;t need a distinction beyond what the T head provides. 
-
 As always, if you ever find yourself needing more documentation on any
 one of these HTML elements, I always encourage you to use the Mozilla
 Development Network. 
-
 Search for whatever element you&apos;re looking for more documentation about
 and simply add MDN afterwards and chances are the Mozilla Development
 Network will be the first hit in your search. 
-
 In this case, if we wanted a little bit more in-depth of maybe some
 attributes I could add to the table. 
-
 Scroll down, and you&apos;ll see I can control the border cell padding, 
-
 cell spacing, and so on. 
-
 That&apos;s our quick little lesson on HTML tables.
-
-**Lesson 4 Video Reference Page**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch2-7-1">2.7.1 Lesson 4 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 4 Video.
-
 **Author:** Mozilla Development Network
 
 **Link:** [&lt;table&gt;: The Table
 element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table)
 
 **What did you learn about HTML Table**
-
-## Module 2 Summary
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch2-7-2">2.7.2 Module/Week 2 Summary</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
 takeaways from this module:
 
 -   Lesson 1: HTML Elements (inline vs box), and HTML Lists
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: write and publish core HTML Elements,
     including HTML lists.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 2: HTML Lists and Cascades
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: rewrite unique characters into UTF8
     Unicode.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 3: HTML Links and Images
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: write, host, and properly index HTML links
     and images.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 4: HTML Tables
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: write and properly nest HTML tables and
     table content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Module 3 Introduction (2:14)
+<h3 id="ch3-1">3.1 Module 3 Introduction HTML Forms (2:14)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to module three. 
-
 This is going to focus on HTML forms and navigation. 
-
 We&apos;re going to start with simple navigation where you have multiple web
 pages. 
-
 And this is going to differentiate from previous lessons where you&apos;ve
 had kind of one repository with one index HTML file. 
-
 I want you to use that index HTML, use hyperlinks, and be able to jump 
 between page two HTML, page three HTML, however you want to name them. 
-
 Then we&apos;re going to talk about HTML forms and from the history. 
-
 When you learned about how the web first came about, for 
 years it was just kind of static pages where you were presenting
 information and links to files to be downloaded. 
-
 Once we came out with HTML forms, then we were able to interact with the
 user. 
-
 They were able to tell us their name, give us their email address, 
 buy things by entering their credit card info, and then we can put those
 into databases and file billing reports. 
-
 So the HTML form is really the interactivity of the web before we get 
 into JavaScript. 
-
 It&apos;s simple interactivity, it&apos;s question and answer. 
-
 But when you go into any website, notice that the goal of most websites 
 is to get someone to take action on a form, be it collect email
 addresses, be it buy something, be it sign up for a petition or sign up to
 volunteer. 
-
 That form is where you want the user end experience to end. 
-
 And so making sure your form is designed to encourage that user choice, 
 that&apos;s really key. 
-
 But don&apos;t worry, we&apos;re going to start with the basics first of how
 they work. 
-
 And then we&apos;re going to talk about some page layouts specifically for 
 your resume on your project so that you can make a nice little HTML
 simple resume, how to build lists around it, and what you might want to include on it,
 enjoy.
-
-## Module 3: Asset Library
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch3-1-1">3.1.1 Module/Week 3: Asset Library</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Files used during the code demonstrations of Module 3 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_3_demo)&apos;.
 
-**Lecture Slides: Website Navigation (Simple HTML)**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch3-1-2">3.1.2 Lecture Slides: Website Navigation (Simple HTML)</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module3-Lesson1.pdf
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## Website Navigation (Simple HTML) (6:30)
+<h3 id="ch3-2">3.2 Website Navigation (Simple HTML) (6:30)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Let&apos;s talk about using links as navigation. 
-
 In our first project and how you should be understanding the learning
 style of this class, we want you to understand how raw HTML works before
 you add style elements. 
-
 In the navigation, it&apos;s going to feel a little bit awkward because
 it&apos;s just a bullet-point list of your different pages. 
-
 Here we see the three-page titles of links with just the LI bullet
 points next to them. 
-
 The navigation will be in the top left corner of every page. 
-
 It should be the exact same on every page. 
-
 This means don&apos;t change the order per page and definitely don&apos;t
 attempt to change the style. 
-
 Later on, we&apos;ll learn some subtleties like on-page ID for letting the
 user know which page they&apos;re on. 
-
 But other than that, there should be an exact carbon copy of your
 navigation on every page. 
-
 As for the actual names of your pages, keep it simple. 
-
 One, maybe two words, but usually one. 
-
 Try to convey the same meaning with less words. 
-
 Trust me, it is possible. 
-
 In HTML, even though it&apos;s just as bulleted list, feel happy knowing
 that in Project 3, we&apos;re going to turn this into a beautiful navigation
 with buttons, no underlines, no bullet points like we showed in previous
 lectures. 
-
 As you see here in this code, I have navigation between three HTML
 pages. 
-
 As I go between them all, you&apos;ll see the nav is exactly the same on all
 three pages. 
-
 I have my header wrapped with my nav, then the UL sits inside the
 nav, the nav just being a semantic description for the search engine
 bots. 
-
 The UL carries the weight of the navigation. 
-
 Inside the UL, I have my li&apos;s wrapping around an anchor tag, and then I
 label them Homepage, Resume, Video Profile. As you see, I can navigate
 between these three flawlessly. 
-
 Now, let&apos;s talk a little bit more about how we store those files to
 make navigation flawless. 
-
 With your project, you&apos;re going to have three HTML pages. 
-
 In every repository that you create for a website should only contain
 the files of that website. 
-
 I don&apos;t want to see any lab work or other files within your repository
 on GitHub. 
-
 This holds true if you&apos;re building a website on AWS. 
-
 You want to keep that repository clean and only have the
 folders necessary to make that website work. 
-
 All three HTML files should be in the top folder of that repository, 
 and there should be no other work found within your GitHub repository. 
-
 If I look here, add Windows navigator repository, I have just my
 resume, my Page 3, and my index, HTML. 
-
 The three files necessary for navigating around my website. 
-
 In your Project 1, as you add images, you&apos;re going to add another
 folder, and it&apos;s going to be a media folder. 
-
 In there will be all your images and files necessary for making this
 website work. 
-
 Later on, you&apos;ll be adding a CSS folder and a JavaScript folder. 
-
 As you&apos;ll see here in this repository for my idx-519 class, I have my
 HTML files, my backup for my HTML files, and then everything else sits
 inside folders except for my read me and my licenses. 
-
 As you build out your file structure, there&apos;s no protocol for the exact
 names you can use. 
-
 A media folder could include sub-folders of images or videos. 
-
 You could just have an image folder if you don&apos;t have any other media. 
-
 The style or CSS folder comes in many different names. 
-
 In this particular case with our Project 2, we&apos;re going to have a
 style.css and a reset.css file in there. 
-
 We&apos;ll talk about that in the next modules. 
-
 Finally, a JavaScript folder for all your JavaScript files. 
-
 As you navigate around how to&apos;s online, you may come across another
 file structure that&apos;s equally valid, but we don&apos;t use it in this
 class. 
-
 Goes something like this. 
-
 Instead of Page 3, I would move my Page 3 into a Page 3 sub-folder, and
 I would name it index.html. 
-
 This allows for any single one of my pages on my website to be extracted
 and have an index HTML file as its landing page. 
-
 In my preference, this can be a bit confusing than the file
 structure, and especially for new beginners. 
-
 In this case, we&apos;re going to keep our file name Page 3 and we&apos;re going
 to keep it in our top folder.
-
 This is what your Project 1 file structure should look like. 
-
 Finally, to close out this lesson, let&apos;s talk about something a lot of
 students in this class struggle with, your resume content. 
-
 It&apos;s okay, we understand you&apos;re just getting going. 
-
 Project 1 is not meant to stress you by building a resume, we&apos;re simply
 encouraging you to think about things you&apos;re learning as marketable
 skills. 
-
 As long as you keep it as base HTML, there is no possibility for wrong
 layout, you just add content. 
-
 Do not attempt to add style in the HTML, don&apos;t use br&apos;s or hr&apos;s to
 make spaces, don&apos;t use slashes or excess of colons and dashes to try
 and create some layout or semantic meaning to your page. 
-
 To fill it out, just add the classes you&apos;re taking and write them as
 skills. 
-
 If you&apos;re struggling to find content, make it your future self, how do
 you see your resume to look in five years? 
-
 Here&apos;s our resume page, I have my education as a heading, a simple link
 and an EM down there. 
-
 No other style, just lists. 
-
 They can be bulleted or numbered, keep it simple. 
-
 Then you&apos;ll see in my actual code, I&apos;m adding a few sections and maybe
 an idea or two to let me know what those sections are about. 
-
 Here in the address, I&apos;m using an email loader to automatically
 generate a send email to if they click on this email. 
-
 Other than that, no style, simple HTML stacking on top of each other. 
-
 That&apos;s what I expect for Project 1. 
-
 That&apos;s our first lesson in Module 3, Go Team.
-
-**Lecture Slides: HTML Forms**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch3-2-1">3.2.1 Lecture Slides: HTML Forms</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module3-Lesson2.pdf
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Forms - Part 1 (9:03)
+<h3 id="ch3-3">3.3 HTML Forms - Part 1 (9:03)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Our form entries serve as the key communication between client side
 tools and the server. 
-
 Collecting information that users input into their websites and then
 getting process on the server side to create the interactivity of the
 web. 
-
 On the client side in our HTML we have our form elements in our form
 controls. 
-
 They collect things like emails, user selections, drop down lists where
 a user decides this is maybe the color of the shirt I want or the size
 of the pants, input of credit card information. 
-
 On the server side are any plethora of collection resources from PHP,
 Python, etc. 
-
 These can be written in any existing code, but when they send the
 response back to your browser based on your new inputs, the PHP,
 Python, SQL are all compressed back into HTML, CSS, and Javascript
 outputs. 
-
 There&apos;s two key things we can&apos;t do with form elements. 
-
 Let&apos;s pop open some code really quick. 
-
 Here&apos;s some form code. 
-
 You&apos;ll see here in my form, I have a bunch of attributes we got to
 discuss. 
-
 Then in here I have some divs and in inside those divs some form
 elements. 
-
 No controls for the form can exist outside of the form elements. 
-
 Form must wrap all your form controls. 
-
 Then you&apos;ll see here between my two forms in this particular bad
 code, there&apos;s another form element with an input. 
-
 This might make sense semantically. 
-
 For instance, collecting an address for your credit card and
 collecting an address for the shipping label. 
-
 You might think those are two different forms but ultimately they all
 rest inside a single form element with a single Submit button that
 collects every user entry in every field between those two form
 elements. 
-
 Don&apos;t try and separate two different types of forms with the form
 element. 
-
 You should have it all listed between two forms and then use other
 things like a div or a field set to separate your different form
 elements. 
-
 There&apos;s no nested forms except for high level Javascript. 
-
 Finally, don&apos;t put in inputs for your form outside of these form
 elements. 
-
 There&apos;s some cool high level Javascript that handles that but nothing
 we&apos;re going to be able to attempt anytime soon. 
-
 Every form must have a few key attributes. 
-
 Besides putting your form attributes between the two form elements, the
 form element itself must have two attributes, action and method. 
-
 Then between your two forms you need the Submit button. 
-
 Simply entering stuff in the input space won&apos;t do anything unless you
 have a Submit button to collect those inputs from the user and send them
 back somewhere. 
-
 If I look at my form here, I have a nice little separation of form field
 to separate in two different spaces. 
-
 I have my collection items where the user can input different types of
 form elements. 
-
 Then at the bottom I have a nice call to action, sign up now as my
 Submit button. 
-
 We&apos;ll go over each one of these different elements in this lesson. 
-
 Back to our action and our method. 
-
 The action is how the code is getting packaged and sent, the method is
 where you&apos;re sending it. 
-
 What server address do you want to receive this code. 
-
 With the action we have a post and we have a get. 
-
 With the method, it&apos;s any address for an active server on the
 Internet. 
-
 When we select the post method to send our form data, it&apos;s the
 equivalent of an HTTP request of post, except in our HTML version it&apos;s
 lower case. 
-
 The foreign data is encrypted and attached to the HTTP body. 
-
 It&apos;s the most often used and there&apos;s no character size limit. 
-
 Essentially it&apos;s encrypting the data and packaging it along with the
 HTTP request. 
-
 If you&apos;ll remember from our HTTP lesson, the body is whatever code
 when we&apos;re receiving it it&apos;s going to be HTML, when it&apos;s being sent
 back to the server this message will be the encrypted data from our
 form. 
-
 If you look back at our form code here, I have my form opening up and
 I&apos;m declaring method post written like all my other attributes. 
-
 Make sure you have those quotation marks. 
-
 The get method is a little simpler. 
-
 It takes the form data and appends it to the initial HTTP request. 
-
 This means it&apos;s literally sitting up in the URL as it&apos;s being sent to
 the server. 
-
 A good example of this is when we&apos;re maybe searching a Google
 search, we might want to save that search. 
-
 If we cut and paste the URL of that search you&apos;ll see for instance up
 here at the end of this server.com script PHP. 
-
 This is where I&apos;m trying to send the data. 
-
 After this question mark you&apos;ll see name equals Bob and city equals
 Chicago. 
-
 This is clearly asked to form element name and city and a user entered
 Bob and Chicago. 
-
 That now is being sent in a nice little code where the server
 side, let&apos;s say a PHP script, recognizes that that was the input and
 maybe helps search for it. 
-
 Down here is an example of a Google search and you&apos;ll see it goes to
 their search file. 
-
 You&apos;ll see here from Google, we&apos;re now looking for search file inside
 Google which knows how to process it. 
-
 After this question mark everything is actually the search itself. 
-
 It&apos;s an English language search for fun and there&apos;s no meta attached
 so it&apos;s a very basic search I made for the word fun. 
-
 The biggest problem with using the get is that a, it&apos;s not encrypted. 
-
 Anyone can see this search when it goes through the Internet. 
-
 There&apos;s no security, there&apos;s no encryption. 
-
 Second, each server limits the amount of code you can actually throw
 into an HTTP request. 
-
 If you&apos;ve ever cut and paste a Google search sometimes it&apos;s hundreds
 of lines it feels like. 
-
 For the most part Google has had to cut back on how big their actual
 appendage can be and they figured out sophisticated ways of shortening
 these searches. 
-
 That&apos;s because servers try and manage how much load they&apos;re putting
 out in their Wi-Fi and then in the Internet at any given moment. 
-
 The bonus is on the user side, if I do a search or something, I can
 simply cut and paste this and save that exact same search result for
 later. 
-
 The form data is kind of maintained and I can replicate the experience. 
-
 If you&apos;ll see here on my form, this action is going to PHP script
 called form demo script that&apos;s hosted on my IIT server. 
-
 Now let&apos;s talk about how we actually create these form elements. 
-
 Now we want to talk about the form entry itself. 
-
 A few of the form inputs have their own unique element. 
-
 For several of them though, they share this input element up here and
 then you differentiate them by the type. 
-
 Type sets an input type, for instance, text, password, checkbox. 
-
 The next attribute we need on every single input is name. 
-
 Name is going to be a universal value for the input that when we
 send the user created value which is of course going to be unique for
 something like the user&apos;s full name, we need a universal value that
 says this is this input from this form so that when we send it to the
 server they know where to process that data and put it in there
 receiving script. 
-
 The name value must match the server side variable. 
-
 If I have a PHP script that collects emails and also collect the user&apos;s
 name, so maybe for a mailing list, I would need to make sure that
 anytime I collect user name, the name variable, this up here, matches
 the name variable on my server side and the email input, that name
 variable matches the email variable on the other side. 
-
 I know, that&apos;s a little bit confusing. 
-
 In order to demonstrate I have my HTML script here. 
-
 So you&apos;ll see here this first one, I&apos;m collecting the user&apos;s first
 name, calling it text. 
-
 The name I&apos;ve attached is the text field. 
-
 In the demo for this lesson you&apos;ll find another file that&apos;s got a PHP
 script in it. 
-
 It&apos;s called form demo script PHP, and this is the receiving script I&apos;m
 hosting on my server. 
-
 First you&apos;ll notice up here some script you don&apos;t yet recognize. 
-
 That&apos;s PHP. 
-
 Down here you&apos;ll start to notice some things that do look familiar,
 HTML. 
-
 This HP actually outputs a HTML form. 
-
 In this HTML form I have some subtle PHP hidden throughout that takes
 the user data and inputs it into this form. 
-
 But first I have to collect the data as it comes in. 
-
 Up here you&apos;ll see text field matches the text field name I&apos;ve given
 here. 
-
 What&apos;s happening when a user puts in their first name, and we&apos;ll pop
 open on the Firefox here. 
-
 First name, if I put my first name in here, Daniel, and I hit sign up
 now. 
-
 Yes, I&apos;m confirming. 
-
 You&apos;ll see this text field has been filled with the name Daniel because
 this name matches this PHP field, the PHP field then turns it into a
 variable that&apos;s PHP readable, and inserts it in my script down here now
 known as text.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Forms - Part 2 (7:59)
+<h3 id="ch3-4">3.4 HTML Forms - Part 2 (7:59)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 If you didn&apos;t quite follow that, don&apos;t worry, the key for a front end
 developer, 
-
 which is what you&apos;re training to be, is to know that whenever you have
 a script written by a backend developer. 
-
 And they expect form data to be entered in that script, you just need to
 ask them what name they use on their server side script so that you can
 make sure the name matches on yours. 
-
 That&apos;s the key lesson you need to take away from this. 
-
 The name should always match whatever input is going to be collected on 
-
 the server side for that data field in your form. 
-
 All right, so let&apos;s talk about a few of these different types of
 inputs. 
-
 As we saw in the first demo I just showed a second ago, input type text
 is real simple. 
-
 It&apos;s a simple line of text, a few key attributes you might want to add
 to it besides the type and the name 
 is a placeholder puts a little content inside the box, often in a subtle
 shade. 
-
 And as soon as the user starts typing, it disappears. 
-
 You can also set max length, so in this case, 20 characters. 
-
 And here in my code you see this input, input, type, text, name, text
 field, placeholder, first name and that&apos;s creating here a nice little
 first name, I&apos;ve also got a label. 
-
 We&apos;ll cover that in a few slides from now. 
-
 All right, our second one that&apos;s very similar, but has a subtle
 difference, is the type password. 
-
 It is the same as the type text in every which way, except for the fact
 that on the user side, when they start to type something in, it obscures
 it with an asterisk. 
-
 However, it&apos;s important to realize the data is not obscured in 
 the HTTP Request and the user is not sending encrypted password data. 
-
 So if you&apos;re collecting a password that the user needs to set, that
 needs to be encrypted, that is a whole other suite of software you need to add to
 your website. 
-
 It&apos;s called user verification software. 
-
 In this case, all it&apos;s doing is preventing someone who might be
 watching while they type the password to see on their screen. 
-
 So if I pop open my code here, jump down to our password, you&apos;ll see
 type password very similar to text name password field. 
-
 Down here is my password. 
-
 I type in a password, let&apos;s say hello and I just get bullet points. 
-
 I can also copy this control C. 
-
 It won&apos;t copy and paste, it blocks that out. 
-
 However, this data is still accessible to JavaScript or any other number
 of listeners to this website. 
-
 All right, naturally, when we move from single line, we want to have a
 multiline. 
-
 So in order to do a multiline, we use something called text area. 
-
 Now, Text Area is one of the few codes that doesn&apos;t use the input
 because it&apos;s a really old code that was never updated to the new input types. 
-
 And it just sort of keeps living on. 
-
 It requires a closing tag because it&apos;s a bit older code. 
-
 You should definitely define the size, rows and columns using the calls
 and rows attributes. 
-
 But beyond rows and columns, all other sizing or styling should be done
 using CSS. 
-
 This is considered input information and not necessarily style. 
-
 There are additional attributes you can look at to help limit size. 
-
 And you&apos;ll see down here, text area standing out against the other
 input types. 
-
 But it works, so why change it? 
-
 Here&apos;s the text area in our demo code. 
-
 You&apos;ll notice I set it 10 and 30. 
-
 I have a placeholder in there and there&apos;s a nice big box that&apos;s
 created. 
-
 Something to note is that the user is still allowed to put more content
 in and they can grab the corner here and stretch it out to add that content. 
-
 However, as I mentioned, there&apos;s more attributes where you can define
 how many characters fit in, how big they can make it. 
-
 Just Google MDM text area. 
-
 And finally, from our core input values, I want to mention the submit. 
-
 This is an absolute must in any form. 
-
 Users can put all the data into those form elements you want, but unless
 you have the submit button, there&apos;s no action being taken to collect that
 data and put it into an encrypted format and send it out to the server. 
-
 So every form needs a submit button, except again, high level
 JavaScript. 
-
 There&apos;s some really cool tools where you don&apos;t need a submit button. 
-
 We&apos;re not going to get there anytime soon with the submit. 
-
 The default is submit as the text and I highly encourage you to take
 advantage of this. 
-
 Create a call to action, get your user excited. 
-
 Your whole design should be about getting them to click that submit
 button, be it signing up for an email, purchasing something, make it
 exciting, order your cool stuff now, get the latest news now. 
-
 Some sort of call to action that gets the user a little bit emotional
 for the action they&apos;re about to take.
-
 So in our form code here, I have my form opening up at the top. 
-
 I have a lot of form elements, still more we&apos;re going to cover here. 
-
 And down here, the last thing I have is my submit button type submit
 value sign up. 
-
 Now, there it is. 
-
 Packages it up, sends it to my IIT server, gives me a script back right
 away with the user input put into it. 
-
 Now let&apos;s take a break from the controls themselves and talk about
 labeling our controls. 
-
 Form labels create an association between text about the form entry and
 the entry itself in a way that if I simply used a p to put a label next
 to a form input, there wouldn&apos;t be that semantic association. 
-
 So if I jump back to my code here, you&apos;ll see this first name here? 
-
 I actually have a label next to it with the email, I do not have a
 label. 
-
 I just have the placeholder text. 
-
 Some of these down here absolutely need a label or you just have a
 checkbox. 
-
 So here I have nice marked up all over this example. 
-
 I have my first name input my email there label no label. 
-
 The label itself must wrap the entire input to create that association. 
-
 Or we can have an alternative way that&apos;s called an explicit labeling
 where it doesn&apos;t wrap. 
-
 So the difference between our implicit label and our explicit label, the
 implicit label simply wraps the input type so this text will always show
 up just adjacent to it. 
-
 I can start to give the label a little movement and the input some
 different movement, so that there&apos;s some subtle spacing between the
 two, but ultimately it&apos;s kind of hard to move them against each other. 
-
 In CSS, an explicit label remains physically separate. 
-
 In the code you&apos;ll see here, the label just stands apart and uses an ID
 put onto the input itself as an attribute. 
-
 And then the four attached to the label, the four, has the same value as
 my ID, and this is an explicit connection between the two. 
-
 This allows me to move this label around my HTML page to exactly where
 I want it in relation to the input. 
-
 Because they&apos;re now two separate elements, there&apos;s no right or wrong. 
-
 Both of them can be used for different reasons. 
-
 I&apos;d imagine for your lab where you&apos;re working on this, having the
 implicit is generally going to be easier. 
-
 Another way we can add some context to our form is using the field set
 and legend. 
-
 As I hinted earlier in this lesson, using the field set is a way to
 semantically break up two sections of our form while still using the same submit
 button. 
-
 You never want to have two forms and two submits on the same HTML page. 
-
 So if you need to have some separation, for instance, collecting two
 different addresses, one for shipping and one for billing, you might want to put a field set around those two. 
-
 And then use a legend to announce this address is for your shipping and 
 this address is for your credit card information. 
-
 Now, as you&apos;ll notice, the raw HTML gives the field set a line around
 the context area. 
-
 So if we look back at our code, you&apos;ll see here my field set, and it&apos;s
 created this line around the actual area. 
-
 The legend associated with it will be by default embedded into that
 line. 
-
 However, you&apos;ll see here, this looks really bad. 
-
 You always want to own your style. 
-
 So when you&apos;re using a field set, erase that border, create your own
 style around it, create a border that actually is embedded in the form
 itself, any type of way other than just using that default style. 
-
 Of course, in this lesson, once you work with the form lab, it&apos;s
 perfectly okay to leave that all in there because we haven&apos;t learned
 CSS yet.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## HTML Forms - Part 3 (10:08)
+<h3 id="ch3-5">3.5 HTML Forms - Part 3 (10:08)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Now let&apos;s learn how to add a few more controls to our form. 
-
 Menus are fun. They create a little drop down list for our user to
 select some options. 
-
 A key difference though, is we&apos;re not putting our input type in. 
-
 We simply use the select element and wrap it around a series of
 options. 
-
 Another core difference is our value. 
-
 The user isn&apos;t inputting anything. 
-
 They&apos;re selecting a series of options. 
-
 Those option names don&apos;t necessarily have to be what&apos;s encoded and
 sent to our server. 
-
 In this case, I&apos;ve given the option the user will see red, but the
 value is just R. R is what gets sent. 
-
 The user sees red when they select it, and on the server side, my code
 recognizes the R as representative of the choice R. In this first menu
 here, you&apos;ll see my select, my name is menu_field. 
-
 This is what&apos;s called an array. 
-
 You don&apos;t have to worry about that. 
-
 Just know that when you have multiple options like this, you have an
 array that can send multiple option variables to a server-side code. 
-
 Again, you would be handed this by the server-side engineer and
 they tell you this is what needs to go in your name variable there. 
-
 You wouldn&apos;t have to worry about that unless you want to learn that
 type of code. 
-
 Options, I have red, green, blue, pink, and then the values are R, G,
 B, P. I look over here on my server-side. 
-
 You&apos;ll see I&apos;ve used the selected attribute, which doesn&apos;t have to
 equal anything. 
-
 You just throw the selected on there and it&apos;ll start with green as
 selected on the left here. 
-
 I go to the drop down, and there&apos;s my options.
-
 Size attribute allows for selecting multiple options. 
-
 My optgroup, option group as you were, allows me to create subgroups
 within these options. 
-
 Again, similar to my field set. 
-
 If I wanted to give the user an understanding that these are two
 different types of options, then the multiple attribute allows the user
 to select multiple options within that list. 
-
 However, for instance, with Windows, you have to hold down shift while
 you&apos;re selecting. 
-
 It&apos;s best to use the checkmark input if you want the user to be able to
 select multiple options. 
-
 For instance, in this label here, just below my red, green, blue, I have
 a few more of these options input. 
-
 I&apos;ve allowed select multiple. 
-
 I&apos;ve used the size variable. 
-
 It&apos;ll show five options including the labels of the optgroup in what
 the user sees at first. 
-
 You can see here there&apos;s a subtle scroll to see the other options. 
-
 There are my options here, white, white, purple, purple, yellow,
 yellow. 
-
 Then I have my labels associated with map group. 
-
 You&apos;ll see those there. They are not selectable. 
-
 But if I hold down shift, can go like that, I can select multiple
 options, but you&apos;ll notice it&apos;s sloppy. 
-
 It&apos;s selecting and I can&apos;t just select two options unless they&apos;re
 right next to each other. 
-
 If I was to send this now, you&apos;ll see here I&apos;ve selected multiple
 options and sent it back to the server, but it wasn&apos;t really easy for
 me to select two options that weren&apos;t next to each other. 
-
 Menus is best used if you want a nice clean drop down list where the
 user is only selecting a single one of the options. 
-
 Radio buttons named after the radio dial. 
-
 Again, also allow for only one input and there&apos;s no multiple option
 here. 
-
 To create a series of radio options, you simply stack on top of each
 other a series of inputs that have the type radio. 
-
 As you&apos;ll see here on the bottom, I have input type, radio, 1, 2, 3,
 red, green, blue. 
-
 They don&apos;t need to be wrapped in any other code other than the form
 element. 
-
 Simply by association, being stacked next to each other, they&apos;ll create
 a series of options and the code will recognize that you can only choose
 one of them. 
-
 With the radio input, you&apos;ll notice here input type, radio, name,
 radio_field, value, r. I need to have here a label surrounding it so
 that there&apos;s any text the user sees. 
-
 There is no input closing and putting content there. 
-
 Doesn&apos;t exist. You&apos;ll need the label to create that actual text the
 user sees. 
-
 Popping open my code, on the right-hand side is my input, radio, red,
 green, blue, and you&apos;ll notice here I have my red, my green, and my
 blue. 
-
 If I hit &quot;Submit&quot;, you&apos;ll see it&apos;s selected the green. 
-
 Very similar to radio dials is our checkboxes. 
-
 The checkboxes is essentially the same as the radio dial except for the
 fact that you can select multiple options. 
-
 Again, you have your form. 
-
 You just stack inputs that are labeled checkboxes. 
-
 You use your checkbox_field and you have an array. 
-
 Again, you&apos;ll see that means I can collect multiple values. 
-
 Here I have my value, red, blue, green, written out to emphasize that
 these values can be whatever you want. 
-
 My last one is dog, just to be funny. 
-
 In my code, you&apos;ll see up there my radio dials, my checkboxes. 
-
 I&apos;m selecting multiple. 
-
 Unselect these because I created a multiple. 
-
 If I select all four, I hit &quot;Submit&quot;. 
-
 Red, blue, green, dog are the values that are collected on the service
 side because that&apos;s the data that was sent, the values. Emphasizing
 again. 
-
 The only difference between a radio and a check box is the ability to
 select multiple options. 
-
 The other stylistic difference, the check versus the little dot being
 filled, that can all be taken control of and changed. 
-
 So you can make a radio dial where visually there&apos;s a check being put
 inside the circle when you use it. 
-
 All you need to do is learn CSS and anything like that is possible. 
-
 One attribute I&apos;ve added on there is the check or checked. 
-
 Really, these days with HTML 5, you just need to put the attribute
 checked, and it allows for one of the options to be checked. 
-
 You don&apos;t need to actually fill out the value anymore with an equal
 sign. 
-
 Down to our last two inputs, we&apos;re going to go over a little
 bit different from the other ones. 
-
 The first one is a file upload. 
-
 This accesses the file transfer protocol within your browser. 
-
 It goes past the browser&apos;s firewall and allows the user to access 
-
 their file system and pull files out of the actual operating system. 
-
 We&apos;re using input type, file name, file field so it can be received
 properly on the php side. 
-
 This is important because a big file needs to be processed different
 than any simple form data. 
-
 Because of that, we would need in our form element, the attribute
 encryption type, multipart form data. 
-
 This informs the compiler that we&apos;re about to have a giant form that
 needs to be encrypted differently than simple form inputs. 
-
 Jumping back to my code, I have my form, I have my method, my auto
 complete is set to on which if you have form data stored in your Google
 Chrome browser or your Apple browser, this is going to be that ability
 to have that form automatically put in. 
-
 When I&apos;m saying first name, and I know that&apos;s a first name
 input, Google will automatically fill that for me. 
-
 Down at the end, here is my encryption multipart form data. 
-
 Because down here I have my input type for file, and as I go here to
 browse, I open up my file structure and I can select a file out of my
 PC. 
-
 This is opening up past the safety of the firewall. 
-
 Now I&apos;m extracting files, so there&apos;s no worry of this being used
 to create any virus infection. 
-
 The accept attribute can be limited to specific file types. 
-
 Capture is a special attribute, especially if you&apos;re doing things on
 phones. 
-
 It selects which camera and Mic the user is going to use to collect
 data. 
-
 Finally, input type hidden. 
-
 This is something that the user never sees and collects all types
 of additional data that you might want on your server side. 
-
 Down here, I have input type hidden, hidden field and I value
 professor K. This is potentially if I&apos;m someone out collecting
 signatures with my little tablet and I&apos;m on the sidewalk and there&apos;s maybe three of us. 
-
 When someone fills out on my tablet, there&apos;s a hidden value in there
 that says, this is done on Professor K&apos;s tablet so that I get credit for
 collecting that data on the server side. 
-
 It goes into a field of emails I collected for whatever I&apos;m signing a
 petition for. 
-
 Additional things that might collect. 
-
 This is how cookies get collected. 
-
 Other things, Javascript-created data might collect when you filled out
 the form, time of day might collect things about what type of phone
 you&apos;re using, what type of screen size the form was filled out on, all types of
 things. 
-
 The server side or the person who&apos;s hosting that form might think is
 relevant to help them write better forms or create better advertisements around that
 form in the future. 
-
 It&apos;s hidden on the user&apos;s screen, but it is visible in the source code
 in the inspector, so any user can go behind their code and see it if
 they want to. 
-
 It can be manipulated by certain codes to make the server side think
 they&apos;re getting something from a user, but maybe there&apos;s a virus
 on their computer messing with that form data. 
-
 If I go to Google here and I look at this form input, they&apos;re using a
 text area. 
-
 You&apos;ll see it&apos;s hidden way up here is Google form sent to search. 
-
 All this divs is associating various Javascript into that form area. 
-
 A lot of it, you&apos;ll see here, for instance, data Vd is
 collecting certain input about this particular Google input that then when I do that search is being
 sent back to Google to be processed and collated into all types of
 outputs. 
-
 Now you&apos;ve learned some of the most powerful tools of the Internet, the
 form input. 
-
 Using form elements in a little bit of style, you can build a sales
 website, you can build an HR portal, you can build a banking website. 
-
 This is the interactivity of the web.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch3-5-1">3.5.1 Lesson 2 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 2 Video.
 
 1.  Mastering the essentials of HTML Forms.
@@ -6686,77 +6269,54 @@ Below is a list of the content referenced in the Lesson 2 Video.
     b.  **Link:** [&lt;input&gt;: The Input (Form Input)
         element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 
-**Lecture Slides: UTF8 Characters**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## UTF8 Special Characters (2:42)
+<h4 id="ch3-5-2">3.5.2 Lecture Slides: UTF8 Characters</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch3-6">3.6 UTF8 Special Characters (2:42)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 I&apos;ve had you adding the UTF-8 to your HTML head since the beginning of
 our code, but what is it? 
-
 Essentially, there&apos;s a data set out there called Unicode that is a
 universal way of encoding special characters across language and across code
 types. 
-
 Besides UTF-8, there&apos;s also UTF-16 and 32. 
-
 There&apos;s GB 18030, BOCU, and SCSU. 
-
 So UTF-8 is an extension of Unicode. 
-
 It&apos;s a specific way of encoding Unicode that we&apos;re going to use on
 websites. 
-
 As the name indicates, UTF is a Unicode transfer format and the one
 we&apos;re using is an 8-bit. 
-
 There&apos;s a total of 1,112,064 characters that are coded in Unicode. 
-
 So here is the Wet Wag standard list, and this is every single possible 
 special character that exists in Unicode that we can encode in UTF-8. 
-
 Even within UTF-8, there&apos;s actually multiple different ways to write
 any one of those symbols. 
-
 We&apos;re specifically looking for something called the html entity, and
 with Google search, it&apos;s really easy to find any one of these. 
-
 You simply type in whatever character you&apos;re looking for and follow it
 up with html entity. 
-
 So here, if I&apos;m looking at the copyright symbol and I add in afterwards
 html entity, Google will give me a nice copy and paste. 
-
 In this case, there&apos;s actually a very simple English language copy
 or the UTF-8 strict code there. 
-
 Every UTF-8 character in HTML entity that we&apos;re working with opens
 with the ampersand, the and sign and ends with a semicolon. 
-
 Given that all html entities in UTF-8 start with the ampersand, you
 should always use the UTF-8 version of the ampersand if you want to add
 it into any of your text. 
-
 So back to our index.html demo. 
-
 You&apos;ll see down here, I have a copy sign showing up. 
-
 If I pull that code open, you&apos;ll see I have here and hashtag 169
 semicolon. 
-
 This is the UTF-8 html entity for the copyright symbol, as shown here. 
-
 I could also use the and copy. 
-
 Again, a little bit frustrating, but there&apos;s lots of different ways you
 can write these and they all get to the same place. 
-
 And that was our short lesson on html entities and UTF-8 coding and the
 end of Module 3.
-
-Lesson 3 Video Reference Page
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch3-6-1">3.6.1 Lesson 3 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 3 Video.
 
 1.  List of all UTF-8 Characters
@@ -6768,41 +6328,25 @@ Below is a list of the content referenced in the Lesson 3 Video.
 
 What did you learn about UTF8 Characters?
 
-Module 3 Summative Assessment
-
-Module 3 Summary
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch3-6-2">3.6.2 Module/Week 3 Summary HTML Forms</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
 takeaways from this module:
 
 -   Lesson 1: Website Navigation (Simple HTML)
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write a properly formatted HTML
     navigation.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 2: HTML Forms
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write the various html form elements to
     interact with a PHP receiving form.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 3: UTF8 Characters
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write html script that encodes the
     entirety of a traditional resume.
 
@@ -6815,363 +6359,243 @@ takeaways from this module:
 ![](images/image002.png){width="5.0in" height="2.1148501749781277in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.1 Module 4 Introduction to CSS (2:34)
+<h3 id="ch4-1">4.1 Module 4 Introduction to CSS (2:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to module four and your introduction to CSS and the stylization
 of your website. 
-
 We&apos;re going to start by helping you understand how your CSS relates
 and communicates with your HTML. 
-
 And this is why we focused on building a good cascade in your
 HTML, because it&apos;s going to make it easier for you to write your CSS. 
-
 Then we&apos;re going to move on to CSS declarations, how to write them, how
 to call out your HTML. 
-
 And say, I want this part of my HTML to have this sort of font and this
 sort of maybe background color or maybe color to my font or where I want to
 position. 
-
 Then we&apos;re going to talk a little bit more about the box model, we
 learned initially in HTML how there&apos;s differences between boxes and
 inline text. 
-
 This is going to help you understand in the box modeling how CSS now
 describes that box. 
-
 And I can change things like the positioning of the font within the box
 or how a border works and how spacing between HTML boxes might work. 
-
 And then specifically, we want to emphasize on box sizing, so I want to
 know how big is the box, the area around my HTML, maybe my h one, my
 heading. 
-
 I want to know how big the size of the area round it is that&apos;s being
 taken up by this box. 
-
 So when I move two headings around, they&apos;re bumping into each other. 
-
 I need to know how to size that box so that they can fit maybe side by
 side on a page. 
-
 And finally, we&apos;re going to talk about CSS resets, this is more and
 more important as your browser itself has a lot of opinions on kind of
 default CSS that it will imply. 
-
 With a CSS reset, you&apos;re taking full control, you&apos;re wiping away
 all those browser stylizations and writing your own style into it. 
-
 Now, any big website is going to do this naturally, we&apos;re just going to
 touch on this a little bit. 
-
 You don&apos;t have to write all your CSS over again, because that&apos;s a
 lot. 
-
 But I want you to understand that there is a lot of browser specific CSS
 that will be pushed onto your website. 
-
 And this is why some times your website look a bit different from
 browser to browser. 
-
 The more control you take over of your CSS, the less inaccuracies there
 are between two browsers, so enjoy your introduction to CSS.
-
-## Module 4: Asset Library
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-1-1">4.1.1 Module 4: Asset Library</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Files used during the code demonstrations of Module 4 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_4_demo)&apos;.
 
 <https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_4_demo>
 
-## Lecture Slides: How CSS talks to HTML
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-1-2">4.1.2 Lecture Slides: How CSS talks to HTML</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module4-Lesson1.pdf
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.2 How CSS talks to HTML (10:19)
+<h3 id="ch4-2">4.2 How CSS talks to HTML (10:19)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Before we can learn the fun styling techniques of CSS, we have to
 understand how our CSS and HTML files talk to each other. 
-
 Let&apos;s start by revisiting our cascade. 
-
 If you&apos;ll recall, a cascade is a unique way we write our HTML code. 
-
 The cascading style sheet is literally referring to that cascade on our
 HTML. 
-
 CSS stands for cascading style sheet. 
-
 If you recall, the cascade is the unique way we write our HTML code. 
-
 As you start to write your CSS, you&apos;ll learn to appreciate that clean
 HTML cascades make it easier to write efficient CSS. 
-
 Hopefully you&apos;ll also recall that in our HTML code, we have a parent
 element, a child element, and then sibling elements. 
-
 In this situation, my header is a parent of all these elements. 
-
 My h1 is not a parent of anything, it wraps itself, it opens and
 closes. 
-
 My nav is a child of header and a parent of ul. 
-
 The ul is a parent of li, the li is a parent of a. 
-
 These li&apos;s are siblings, the ul has no siblings, the nav and the h1
 are siblings because they share the same parent. 
-
 In this course, all work must be done with two work indentations. 
-
 My code here, you&apos;ll see 1, 2, div here has got two p&apos;s as a child, so
 they&apos;re each indented two spaces. 
-
 I close back out the div, this h1 opens and closes itself. 
-
 There&apos;s no parent wrapping, there&apos;s no child here. 
-
 It is a sibling of both this p and this div. 
-
 As I go down here these are all siblings. 
-
 This ul and these li&apos;s have a child parent relationship indented two
 spaces. 
-
 For those of you who might have sped past those earlier lectures, again,
 in your no pad plus plus, go to settings, preference, language, and
 down here in the bottom right hand corner, set your tab size to two
 spaces and replace all tabs with spaces. 
-
 You never want tabs hidden inside your white space. 
-
 The key to understanding the relationship between the HTML cascade and
 writing CSS code is inheritance. 
-
 An HTML element can inherit CSL&apos;s properties from a parent. 
-
 If a ul is given a font color green, then every li within that ul will
 also have the font color green. 
-
 I don&apos;t have to write new code for each li to make the font color
 green. 
-
 The cascading structure of that HTML will affect the CSS rules as
 they&apos;re written, so sloppy HTML equals difficult to write CSS, and
 that&apos;s why in this course, we&apos;re learning HTML first and then applying
 our CSS. 
-
 This is what&apos;s called an HTML tree. 
-
 We can see the cascade flow through our elements here. 
-
 Here my HTML element only has two children, head and body. 
-
 Head obviously has no style. 
-
 As we know, it opens and closes our title and our meta. 
-
 Our body, however, can have a lot of different relationships below it. 
-
 Here is a direct h1 and a p, they have no children. 
-
 This div has two children, and below it this p has two children. 
-
 If I was to say, write some style like a red background on this
 div, that style is going to flow through its children. 
-
 The h2, the p, the em all have that same red background. 
-
 I don&apos;t have to rewrite that code. 
-
 If I was to write that same red background all the way at the top at the
 body level, it would cascade all the way through every single child
 relationship past that body. 
-
 Except you&apos;ll notice over here the image. 
-
 The image can&apos;t have a background color, so the style won&apos;t flow
 through. 
-
 There&apos;s a logic to which style flow through, so if it is a font
 style, it&apos;s not going to flow through to something like an image that
 has no font because it is just a picture. 
-
 Now that we have a little understanding of how the cascade
 flows, you&apos;ll understand it better when you start writing it, so let&apos;s
 move on. 
-
 First you need to attach your CSS file. 
-
 Attaching your CSS file is simple. 
-
 At the top of your page I&apos;ve mentioned before, your head element
 contains all links necessary to make your code work. 
-
 We have a special line of HTML code that we can write to import our CSS
 file. 
-
 You place this code in your head and it tells the browser CSS
 is starting and we will initiate CSS code, you don&apos;t have to write
 anything special in your CSS file, that code is starting. 
-
 Here I have an HTML head, I have my meta, I have my title, and then I&apos;m
 using this link, rel stylesheet, href, CSS screen. 
-
 If you&apos;ll remember from our filing structure lecture, css/screen means
 I have a CSS folder, and inside that folder I have a file name
 screen.css. 
-
 This is what that looks like in my repository. 
-
 I have my HTML files at the top, I have my read me, and then I have an
 image folder for all my media content and a CSS folder for my CSS
 files. 
-
 In this case I have two CSS files. 
-
 We&apos;ll talk about those towards the ends of this module. 
-
 Here I&apos;m on Github now I&apos;ve got a few index files. 
-
 I have a job script folder, an image folder, and then my CSS folder, my
 CSS resets, and a style. 
-
 In this situation, I&apos;ve created a new CSS file called styles.css.
 Really simple. 
-
 Once you have a new file, you simply save as scroll down here to
 cascading style sheet. 
-
 You now have a cascading style sheet, name a style or styles or CSS, and
 save it inside your CSS folder. 
-
 Here we have our basic HTML skeleton. 
-
 We&apos;re now adding our CSS to the top.
-
 One of the main reasons we separate our style from our HTML pages in
 HTML five is the power it gives us in writing slick code. 
-
 For instance, on the right hand side here, you see I have three HTML
 pages connected to one CSS style. 
-
 If I was to, say, write a background color of purple into my style, I
 could write it in a way with a class connector that allows that purple
 to flow to all three HTML pages without having to write that code three
 separate times. 
-
 When you start to get websites with 2,300 pages, you don&apos;t want to have
 to rewrite style 100 times for each one of those HTML pages. 
-
 This allows you to write concise, simplified code for your website. 
-
 Not only does it save you work, it saves browser time, because the
 browser actually caches that CSS file. 
-
 As someone navigates around your web page, going from index to Page 2 to
 Page 3, the browser asks for each one of those HTML 2 Mal pages, but the
 style page remains cached. 
-
 It doesn&apos;t have to download it again, It doesn&apos;t have to process it
 again. 
-
 It saves on browser processing time, which makes user experience
 faster. 
-
 For Project 2, we&apos;re going to have two files. 
-
 We&apos;re going to have our reset.css and our style.CSS. 
-
 This makes it a little bit easier to manage the two different styles
 we&apos;re going to be working with, and we&apos;ll cover that in a later
 lesson. 
-
 But for now, understand that usually the reset is embedded on top of
 your style, and there&apos;s many different ways in which to write CSS style that may
 result in multiple style files. 
-
 For now, we&apos;re keeping it simple though. 
-
 There&apos;s two other ways you can add style to your HTML. 
-
 But since HTML 4 has come into full swing, they&apos;re both outdated and
 don&apos;t file proper HTML 5 documentation. 
-
 You&apos;ll still find a lot of the web is written in HTML 4, and you&apos;ll
 see this styling throughout that doesn&apos;t make it okay. 
-
 It reduces the accessibility and search engine optimization of your
 website. 
-
 If you write this HTML 4 style, there&apos;s two justified uses for seeing
 style in your HTML. 
-
 One is testing, that shouldn&apos;t survive to production websites, of
 course. 
-
 The other is Javascript embedding. 
-
 Javascript will write CSS style on the fly, for instance, when you&apos;re
 moving around files in your Gmail. 
-
 It will embed that new style directly into the HTML code that&apos;s being
 rendered by the website. 
-
 If you see that, it&apos;s not a coder who&apos;s actually embedded that into
 the HTML website. 
-
 These two methods are known as the embedded style. 
-
 You open up with a style element and close out with a style element and
 you paste that into your HTML code. 
-
 The other is in line style, where you literally put the style attribute
 onto your HTML elements. 
-
 I have two examples of this. 
-
 Here I have a style opening up type text CSS, and I&apos;ve written some
 CSS. 
-
 You&apos;ll notice another reason this isn&apos;t the best way to write
 styles, is because as an HTML page, I&apos;m not getting CSS highlights on
 these CSS variables. 
-
 Then down here, you&apos;ll see I have style directly attached to this
 P-element. 
-
 This can be good for testing sometimes because this style right here
 will override every other style element you&apos;ve written. 
-
 Of course, that&apos;s a bad thing when you&apos;re trying to write a style
 sheet as a separate file, and you can&apos;t figure out why this style
 isn&apos;t changing. 
-
 It may be because you forgot you added this style element to your HTML, 
 and you&apos;re not only looking at your CSS file to try and understand what
 style has been written. 
-
 Again, I want to emphasize, I don&apos;t want to see embedded style or
 inline style, in any of your HTML work. 
-
 All your CSS, all your style should be in a CSS file that&apos;s attached in
 your HTML head, like so with real style sheet and HF to the actual
 file. 
-
 Then a file structure like this with a CSS folder, and your CSS files in
 it. 
-
 That&apos;s how HTML and CSS talk.
-
-**Lesson 1 Video Reference Page**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-2-1">4.2.1 Lesson 1 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 1 Video.
 
 1.  Going deeper on CSS Cascading:
@@ -7188,12 +6612,11 @@ Below is a list of the content referenced in the Lesson 1 Video.
     b.  **Link:** [Should Inline And Embedded CSS Be Taught
         Anymore?](https://www.sitepoint.com/community/t/should-inline-and-embedded-css-be-taught-anymore/63207)
 
-**Lecture Slides: CSS Declarations**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.3 CSS Declaration - Part 1 (8:43)
+<h4 id="ch4-2-2">4.2.2 Lecture Slides: CSS Declarations</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch4-3">4.3 CSS Declaration - Part 1 (8:43)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In this lesson, we&apos;re getting to the nuts and bolts of CSS coding.
 
 Let&apos;s start with the basics. A CSS declaration consists of two parts, the selector and the 
@@ -7315,9 +6738,8 @@ there. If I&apos;m writing my value as px, that px equals pixels and I want
 to emphasize here that not all pixels are created equal.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.4 CSS Declaration - Part 2 (9:42)
+<h3 id="ch4-4">4.4 CSS Declaration - Part 2 (9:42)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 The initial value of a CSS pixel correlated to the actual pixel on a
 late &apos;80s, early &apos;90s Apple or IBM computer. Now we can always be sure
 that the CSS pixel width actually correlates with a single pixel on a
@@ -7440,9 +6862,9 @@ correctly, we can go to our page and hit &quot;Refresh&quot;. Now we have a
 prettier Hazel background. That&apos;s just a few CSS declarations I want
 you to play around with those. Get comfortable including CSS into your
 file, and then we&apos;ll expand on some more complex CSS.
-
-**Lesson 2 Video Reference Page**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-4-1">4.4.1 Lesson 2 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 1 Video.
 
 1.  Going deeper on types of CSS value and Unit types.
@@ -7453,13 +6875,11 @@ Below is a list of the content referenced in the Lesson 1 Video.
         units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
 What did you learn about CSS Declarations?
-
-**Lecture Slides: Writing CSS Selectors for Specificity**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.5 Writing CSS Selectors for Specificity (8:29)
+<h4 id="ch4-4-2">4.4.2 Lecture Slides: Writing CSS Selectors for Specificity</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch4-5">4.5 Writing CSS Selectors for Specificity (8:29)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Now, let&apos;s learn how to write your CSS selectors, it all comes down to
 specificity. When we write a style, we can declare how specific that
 selector is when calling out a specific HTML element. If I write
@@ -7586,12 +7006,13 @@ Below is a list of the content referenced in the Lesson 3 Video.
     b.  **Link:** [CSS
         selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 
-**Lecture Slides: The Box Model and Box Sizing**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.6 The Box Model and Box Sizing (6:55)
+<h4 id="ch4-5-1">4.5.1 Lesson 3 Video Reference Page</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h4 id="ch4-5-2">4.5.2 Lecture Slides: The Box Model and Box Sizing</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch4-6">4.6 The Box Model and Box Sizing (6:55)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This is almost entirely about using the width call out in CSS and what
 width means of the actual HTML box. So of course we&apos;re talking about
 the box model here. So the Browser sees every element, block or inline,
@@ -7685,8 +7106,11 @@ yeah, that&apos;s all. So this is box sizing short little video. You can
 click on some of these to actually read a little bit more. And that is
 the CSS box model.
 
-**Lesson 4 Video Reference Page**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-6-1">4.6.1 Lesson 4 Video Reference Page</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-6-2">4.6.2 Lecture Slides: CSS Resets</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 4 Video.
 
 1.  Overview of the Box Mode
@@ -7705,11 +7129,9 @@ Below is a list of the content referenced in the Lesson 4 Video.
         Model](https://css-tricks.com/the-css-box-model/)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## 4.7 CSS Resets (4:53)
+<h3 id="ch4-7">4.7 CSS Resets (4:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 So if you&apos;ll notice,
-
 I&apos;m going to go back here really quick. I have this text in this font
 going right up next to it versus white. And if I go to my other demos so
 let&apos;s go to these floats that I was doing these boxes, I noticed I
@@ -7768,76 +7190,45 @@ before your style sheet. So this is what your head should look like
 resets and then the style sheet there. And that&apos;ll get rid of those
 little white spaces on the side and a few other browser inconsistencies
 that might be frustrating you. And now you&apos;re going to be able to
-
 implement the CSS resets in your future work.
-
-**Module 4 Summary**
-
-![](images/image004.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-7-1">4.7.1 Lab 6 Practice Assignment</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch4-7-2">4.7.2 Module/Week 4 Summary</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
 takeaways from this module:
 
 -   Lesson 1: How CSS talks to HTML
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Describe the value of a proper HTML
     cascade while writing CSS.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 2: CSS Declarations
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Write and publish core CSS elements.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 3: Writing CSS Selectors for Specificity
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Explain the 4 layers of an HTML Box
     element and how to manipulate them using CSS.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 4: The Box Model and Box Sizing
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Select the appropriate box sizing
     technique for their website.
 
-```{=html}
-<!-- -->
-```
 -   Lesson 5: CSS Resets
 
-```{=html}
-<!-- -->
-```
 -   Students will be able to: Explain the value of applying CSS resets
     to their website before applying their unique CSS code.
 
-## 
-
-## Module 5 Introduction
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3 id="ch5-1">5.1 Module/Week 5 Introduction CSS Floats and Positions (mm:ss)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Welcome to Module 5, CSS Floats and Positioning. This is where you&apos;re
-taking
-
-full control of your website. You&apos;re going to learn more about layouts
+taking full control of your website. You&apos;re going to learn more about layouts
 and how to move things around the page and put them exactly where you
 want. And how when you&apos;re switching between maybe a desktop and a
 mobile version of your website, you can position things so that they
@@ -7847,10 +7238,8 @@ website, you&apos;re going to learn that fonts is where everything scales
 from. So once you pick a font, it&apos;s going to help you understand what
 font size you want, because you need to make the lettering kind of
 readable at different sizes. Then you do your line height, then you do
-
 your box sizing, and then you move things around the page, because now
 you
-
 know how big everything should be. So fonts is really the foundation of
 the sizing of your whole website. It helps you understand how many words
 fit on a page, things like that. But we&apos;re just going to do a little
@@ -7866,26 +7255,22 @@ underlines, and we&apos;re making it look like Apple&apos;s or Microsoft&apos;s
 website. Really cool navigation at the top, how to center it, how to
 turn those into buttons, all that exciting things. Enjoy.
 
-**Module 5: Asset Library**
-
-![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4 id="ch5-1-1">5.1.1 Module/Week 5: Asset Library</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Files used during the code demonstrations of Module 5 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_5_demo)&apos;.
 
-**Lecture Slides: CSS Fonts**
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Fonts - Part 1 (6:37)
+<h4 id="ch5-1-2">5.1.2 Lecture Slides: CSS Fonts</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h3 id="ch5-2">5.2 CSS Fonts - Part 1 (6:37)</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 I love this little joke here. 11% of Americans
-
 think HTML is an STD. Often we&apos;ll get the question, why do ITM majors
 need to take HTML, CSS, and Javascript? What is the point of this class
 in a information
-
 management program? Well, I can guarantee that many of you will end up
 in small to medium sized companies. Those of you that do end up in large
 companies that recognize your specific role, that&apos;s great. But for many
@@ -7967,9 +7352,8 @@ figure out exactly how you can use it, what&apos;s the legal rights to use
 it. Very important things. Then here is the web font kit.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Fonts - Part 2 (8:55)
+<h3 id="ch5-3">5.3 CSS Fonts - Part 2 (8:55)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Once you download it here&apos;s what download looks like. You download it
 there will be a zip drive where you unpack it. You&apos;ll have here an
 example pop up in the style. This is what it looks like. Here you have
@@ -7987,10 +7371,8 @@ one if it doesn&apos;t then that one will work. But ultimately, it&apos;ll stay
 on this one if that one works. What&apos;s going to differentiate it is you
 have then here obviously these headlines showing you what it looks like
 you are
-
 using this css. You have your style.css, your normal style, and then you
 have
-
 another stylesheet which will link out and it&apos;s just like the css all
 the way through. We&apos;ll link out to the folder that has the code that
 makes 3dumpregular work. Here I have 3dumpregular and then I have a
@@ -8002,219 +7384,127 @@ one of these and if I go back there, you&apos;ll see it&apos;s pulling in the
 eot, the svg, the ttf, and the woff. Go back. You&apos;ll see it&apos;s pulling
 in each one of these files into your website from the folder and we can
 pop these open up. You will see they are
-
 each one different codes and I need to specify what they are even to
 open them up and I&apos;m not going to
-
 bother doing that. Their browser ready to read. This is an EOT file.
 Some of you may know
-
 what some of these are. Each one of these
-
 then is going to give different ways to
-
 use this font in different browsers
-
 and get it to work. But then this style sheet you definitely want to
 make
-
 sure this gets pulled in and that is what I&apos;m
-
 doing here in my head. You&apos;re always going
-
 to have your style sheet and then
-
 you&apos;re going to have another link that&apos;s pulling
-
 in that font style. Then you can go into your
-
 CSS and use that font style once it&apos;s created and
-
 pulled in to your HTML. Now Google makes it
-
 a little easier. Google actually package it, it hosts it on its own
 browser and it&apos;ll give you
-
 this little link. Let&apos;s go look at that now. We&apos;re actually here.
 First
-
 I&apos;m going to pop open this. Here is my dumb fontsquirrel and what it
 looks like on
-
 each one of these headlines. You can grab one and
-
 play around with it. This is hosting it
-
 on your own server. If you trust your own
-
 server more than Google, this is a great way to host it. But Google
 Fonts is
-
 generally the go to now. Now if you don&apos;t
-
 want everything in your whole entire we has
-
 to always be about Google. Font space is
-
 another one I used. Obviously lists are there. There&apos;s several of them
 but here Google Fonts is of
-
 course the king. It&apos;s really nicely designed
-
 for searching and looking. It&apos;s also several
-
 different languages so if you&apos;re looking
-
 in specific languages, you can look for fonts that are designed for
 those languages. Pretty wide variety
-
 of languages there. We&apos;re going to stay
-
 general language English. We are looking for a serif font. Actually lets
 look
-
 for a display font. We have something that might
-
 be one of our headings. Then we can even say
-
 this is my heading. I can now just scroll through the exact
-
 font I want it to be. I want it to be I know it&apos;s
-
 going to be a 60 pixel or 70 pixels so I can
-
 get to see really quick in my search what
-
 it&apos;s going to look like. Then you start
-
 scrolling you&apos;ll see some of them are
-
 working, some aren&apos;t. This one&apos;s really bad. Oh man. Video gaming.
 That&apos;s
-
 bleeding on my eyes. This one right here. But what&apos;s great is you click
 on one, you get the glyphs. Some are going to
-
 have a lot more. This one&apos;s very limited to just Roman numerals
-
 and lettering, Arabic numbers and Roman
-
 numerals and then you&apos;ll see here these very specific
-
 UTF eight characteristics that come with the font. If you have this
 font, you definitely want
-
 to be using this one instead of the UTF eight
-
 symbolisms for these. A little bit about the designer, the glyphs and
 you&apos;ll
-
 see scroll through. You get your license down here. Here is some pairing
-
 recommendations. But ultimately, we want to download the family so
-
 we click our selected. I haven&apos;t selected any. I go down here, select
 the
-
 style, all the way at the top. I click there and
-
 I get this style. I get one audio wide. I click on the embed here and I
 get this
-
 nice little link. Here I can grab this copy and
-
 I could put it at the dot. Here I have my
-
 Google Fonts demo. You&apos;ll see here I already
-
 have link href, https font, googleapis, css, and then?family, Indie
 flowers, relstylesheet, which
-
 is exactly here. I&apos;m getting audio
-
 wide pulling that in. Open this Google Fonts here is the Google Font CSS
-
 resets Google Fonts. Now let me replace it with this Google Font Control
 Save
-
 and we&apos;re going to refresh. I get this little, it&apos;s a nice much easier
 to read font there. Then here you can
-
 see font family. I need to replace that. I go into here
-
 font-family Indie flower. I&apos;ve defaulted back
-
 to my old font. I need to make sure
-
 I update this and put in now font
-
 family audio wide. Here I&apos;ve resolved
-
 to this Google. You&apos;ll see I wasn&apos;t getting the Google Font imported
-
 so I went back. Was it a default cursive? I didn&apos;t want the
-
 default cursive. I&apos;m putting this in now
-
 I go an Audio and I get this really cool now new font
-
 imported onto my headlines. Very robotic font. What&apos;s also cool though
-
 is I can go back. I got one let&apos;s go
-
 also with this one. I&apos;m going to add this selected and you&apos;ll see
 actually
-
 with Google what&apos;s nice is they&apos;ve added now
-
 monoton and audio wide. I can just grab this one link, it has both of
 them and
-
 I can go up here to my head and I can just do this and I get both
 audiowide
-
 and monoton to save. Now let&apos;s do two as monoton. I got my monoton
 right here. Drop that in and paste. Family. Let&apos;s go back reset. Now I
 got my really cool font right there as Google Fonts. You can keep stack
-
 in and that is Google Font is really
-
 nice like that so you can get multiple Google Fonts all stacked in there
 and
-
 then you can just go in your CSS and re emphasizing I&apos;m only
-
 embedding this style in here because as you
-
 see we&apos;re going to do a couple demos this week and I want to all to be
 in one folder. I have this style embedded instead of linked
-
 out to a style sheet. Just reemphasize
-
 Google web fonts don&apos;t need to be downloaded. Includes a link to a
-
 Google hosted file then you can use them as a CSS links to
-
 come before your CSS so that you&apos;re
-
 actually importing it though most browsers
-
 will forgive you and pretty much understand that just to look for
-
 the link wherever it is. Google gives you all you need and of course
 let&apos;s
-
 see an example. I now encourage you to watch
-
 this video and this is a great introduction into choosing fonts and
-
 how fonts play in. I hope that lesson convince
-
 you you need to spend the next six hours
-
 researching fonts online.
 
-**Lesson 1 Video Reference Page**
+<h4 id="ch5-3-1">5.3.1 Lesson 1 Video Reference Page</h4>
 
 ![](images/image003.png){width="6.5in" height="0.29305555555555557in"}
 
@@ -8234,31 +7524,22 @@ Below is a list of the content referenced in the Lesson 1 Video.
     b.  **Link:** [Graphic Design Tutorial: Choosing
         fonts](https://www.youtube.com/watch?v=Xwahw7mdeXQ)
 
-**Lecture Slides: CSS Floats**
+<h4 id="ch5-3-2">5.3.2 Lecture Slides: CSS Floats</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## CSS Floats - Part 1 (6:53)
+<h3 id="ch5-4">5.4 CSS Floats - Part 1 (6:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In lesson 2, we&apos;re
-
 finally going to start to learn how to move
-
 stuff around your page. I&apos;d like to start with
-
 this little tupperware full of plastic toys. If you remember bath time
 toys, move it around on the
-
 surface of water. As you move one, you tend to create waves or bump into
 the
-
 other ones and move them. This is a nice
-
 analogy for some of the headaches people get into
-
 with understanding floats. Floats are a very simple thing. You move them
 either
-
 left or right on a page, and you take the HTML box
 
 and move it left or right. As you do that, you may move something else
