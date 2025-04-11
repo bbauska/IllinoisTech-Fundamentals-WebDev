@@ -1354,7 +1354,6 @@ as well. 
 
 The idea of putting your thoughts out there, any person themselves can
 start talking about it started as a Weblog. 
-
 We get the NASA Pathfinder, and I want to emphasize less than a decade
 before, we had 30,000 network computers. 
 
@@ -1386,89 +1385,61 @@ Wikipedia, 2001, Facebook, 2004. Think about where you are today. 
 2004 is not that long ago, that&apos;s the height of social media starting
 before that, we had Friendster and Myspace, people were using them, but
 it was mostly kids. 
-
 YouTube videos online, that&apos;s just 2005. Twitter, truly the beginning 
 of the downside of social media, and we&apos;re start seeing the dark forces
 take over, and then the first computer on a phone. 
 
 2007, the iPhone. That is not that long ago, that&apos;s just a few decade
 or so ago, I guess more than a decade, but not quite two decades. 
-
 We have now 75% of Internet access approaching your website is going to
 be on mobile phones. 
-
 This idea of mobile computing, navigating websites, navigating the
 world, using our phone, this is all still really new, what you&apos;re learning
 today. 
-
 It&apos;s going to change. You&apos;re going to have more tools, more power than
 ever before, and you can be part of companies helping integrate that. 
 
 Watching this grow, it&apos;s a pretty exciting time to be part of web
 development. 
-
 Go in, enjoy these next couple of lectures. Get your software
 downloaded. 
-
 This is one of the only lecture videos in this course. 
-
 But I hope it helps frame where our website is and what it is you&apos;re
 helping build in the network you now belong to. Cheers.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-6">1.6 The Tools of Internet Publishing -- Part 1 (8:20)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In lesson two, we&apos;re going to cover the basics of publishing a
 website, specifically what you need to download and how to use them. 
-
 All right, we&apos;re going to need a GitHub account. 
-
 This is a web based tool. 
-
 We&apos;re going to need to download Notepad++ or a similar tool. 
-
 I&apos;ll explain that in a second. 
-
 And then GitHub desktop. 
-
 So starting with text editors, I&apos;m going to be demoing code editing
 with Notepad++. But that&apos;s a Windows only product. 
-
 TextWrangler comes native in Mac. 
-
 But I highly recommend you download Sublime text. It&apos;s a lot closer to
 Notepad++, and you&apos;ll be able to follow along a lot easier than if you
 just use TextWrangler. But I want to emphasize go on Wikipedia
 comparison of text editors. 
 
 There are tons of them. 
-
 Eventually once you get past this class, you&apos;ll want to talk to friends
 in the industry or wherever you&apos;re working. 
-
 Influencers online, find out different pros and cons of text editors. 
-
 There&apos;s really no right or wrong choice. 
-
 It&apos;s about preference, about the work environment you&apos;re working in. 
-
 A note, though as far as tech influencers, there&apos;s a lot of money
 thrown around to push products. 
-
 So look for sites like Tom&apos;s Guide, other ones where the influencers
 and the raiders are a little less biased, little less pushing of product. 
-
 I&apos;m not going to choose one or the other or push one, but definitely
 beware of what is being advertised to you in different videos. 
-
 All right, so I&apos;m going to pull up my Firefox here and we&apos;re going to
 go to download Notepad ++. 
-
 Pretty simple instructions, click on it. 
-
 We&apos;re going to do latest and go through the setup process. 
-
 I already have it. So this is a code editor. 
 
 This is Notepad++ specifically, key difference from other maybe text
@@ -1481,33 +1452,23 @@ So here for instance, I have opened a HTML head and it&apos;s not only color
 coordinated as an element, but you&apos;ll see, I have my opening and
 closing tags correlated here, and they&apos;re color coordinated and easily
 linked by the highlight you&apos;ll see there. 
-
 Here you&apos;ll see an HTML comment in green, you have attributes in red, 
 and you&apos;ll have other hints when there&apos;s errors in your code popping
 up. 
-
 But generally it makes it a lot easier to write code when you have these
 very specific color coordinations. 
 
 So that&apos;s something you want to look for in a code editor. 
-
 Now that we have our code editor, we&apos;re going to create a GitHub
 account, back to Firefox. 
-
 We&apos;re going to search for GitHub create account. 
-
 You can join there or if you need a little documentation on how to
 register. 
-
 But you&apos;ll see, I will jump right into my GitHub account. 
-
 Very simply, we want to start with your repositories. 
-
 A nice home screen shows all my repositories and link people who are
 linked to me. 
-
 I&apos;m going to keep this open. 
-
 And next we&apos;re going to want to download GitHub desktop. Very
 straightforward installation instructions. Warning, you must have a 64
 bit operating system for downloading this. 
@@ -1545,56 +1506,35 @@ You&apos;ll notice it&apos;s doing a subtle check there to make sure I don&apos
 have that repository name anywhere else in my site. 
 
 Don&apos;t mess with the owner. 
-
 Obviously I can choose from a lot of different ownership links I have. 
-
 You&apos;re likely only to have one. 
-
 So description, creating test repo for demo use. 
-
 All right, we want to keep it public. 
-
 Very important here, we need to add a README file. 
-
 So we&apos;re clicking there. 
-
 A README file, it&apos;s just a generic file. 
-
 We eventually want to put some information about this repository in the
 README file. 
-
 But you always need to start a repo with a README file. 
-
 Unlike say, a Windows folder repository can&apos;t be empty. 
-
 So you want to start something in there. 
-
 And then we&apos;re going to skip the Git ignores. 
-
 This is something you might come back to later to understand, but
 for the most part we can ignore that now. 
-
 License, I recommend an MIT license, but you might want to do a
 research, figure out which one you find more comfortable. 
-
 If you want to put a license at all, I do recommend you do. 
-
 And we&apos;re creating our repository. 
-
 We now have our test repo with our license file and our README.MD file. 
-
 From here, if I wanted to say, add a little bit more context to my
 README, I can click edit. 
 
 I got my test repo as my name and I might want to change this to used 
 in September of 1962 fall semester or something like that.
-
 So when I have hundreds of these sort of files, I might have a little
 reference of what this particular repository is for. 
-
 And now I&apos;m just going to commit my changes and I want to add a little
 message, adding context to my README. 
-
 Every time you edit, you want to add just a little plain English text
 here to commit messages. 
 
@@ -1607,51 +1547,35 @@ have been about, instead of having to delve into each edit and the code
 that was committed. 
 
 So now I have some updated code and I can go up here. 
-
 Here&apos;s my README file. I&apos;m in my README file. 
-
 And this was the repository folder. 
-
 I can go to add a file. So create a new file. 
-
 You&apos;ll see there&apos;s the test repo. And up here, if I wanted to create a
 new file. So let&apos;s call this new, one word we&apos;re using underscore
 file. 
 
 So new file added in demo mode. 
-
 My changes throw away file. 
-
 Now I&apos;ve got new file, I&apos;ve got my README. 
-
 Ultimately though, I don&apos;t want to be doing editing on GitHub. 
-
 What I want to be doing is editing on my actual computer.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-7">1.7 Tools of Internet Publishing -- Part 2 (6:56)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 I&apos;ve created another checklist here for linking your PC to your GitHub,
 but 
-
 I will be demoing this with the actual tools. 
-
 So the goal here is notepad++ I have on my computer. 
-
 This is where I want to be editing code because there&apos;s lots of tools
 here, and then I want to push that code up to GitHub desktop. 
-
 And if there were some changes here, or if I&apos;m working in a team, 
 someone else has pushed some code on the servers, I want to be able to
 pull that code back to notepad++. 
 
 For high end developers, they&apos;re using something called Git, which is
 GitHub Git is a command line prompt that does this push pull. 
-
 We&apos;re going to be using what&apos;s called a graphical interface called
 GitHub desktop, which we already downloaded. 
-
 So GitHub desktop is a very powerful tool that lets you know when
 there&apos;s been some changes in your code and then you can push and pull and
 commit. 
@@ -1757,39 +1681,28 @@ it up to the website. 
 And if we come back here, so what we&apos;ve successfully done, we&apos;ve
 written code on our desktop, we&apos;ve connected our desktop to our
 GitHub repository and we&apos;ve pushed code up to GitHub. 
-
 So if I open up GitHub here, you&apos;ll see, obviously nothing changed. 
-
 I have to refresh the page and pow, I have my new file, I have my
 index.html and 
-
 I have already pretty much all the structure I need to get a website
 live. 
-
 One more step in the settings and we&apos;ll have our website live. 
-
 So now if I was to edit some code here, or let&apos;s say someone
 was working on this repository with me and they were to edit this
 code, we would want to be able to see it on our desktop as well. 
-
 I&apos;m going to add, let&apos;s see down here, close out my body and close out
 my HTML, commit the changes, finishing my HTML commit the changes. 
-
 So I&apos;ve just done an update here online at GitHub, and if I pop open my
 GitHub desktop, go back to my test repo, you&apos;ll see, it doesn&apos;t say anything
 changed. 
-
 But what I need to do is fetch origin because it needs to check it
 hasn&apos;t done that automatically. 
 
 One pull commit from the origin, let&apos;s pull origin. 
-
 So now I pulled that down own and if I open up my file here, so I&apos;ve
 got my index, let&apos;s pop that open. 
-
 Yes, we want to refresh, and you&apos;ll see, the code was added to this
 file.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-8">1.8 Tools of Internet Publishing -- Part 3 (8:44)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1819,48 +1732,30 @@ what a full website tool can do, like Amazon Web Services, AWS. 
 
 But it&apos;s easier for us as new learners to get going and understanding
 this process. 
-
 So let&apos;s figure out how to get GitHub Pages set up.
-
 We&apos;re back at our repository. 
-
 We&apos;re going to go to test repo. 
-
 So here we are, our file structure. 
-
 And once we&apos;re in the repository, we&apos;re going to click on Settings.
-
 One thing I want to highlight here in Settings before we jump to Pages
 is if you need to delete. 
-
 So delete a repository all the way at the bottom here. 
-
 But we want to go to this little sidebar here on the left pages. 
-
 Once we&apos;re inside GitHub Pages, we want to deploy from a branch. 
-
 So don&apos;t mess with the source up here. 
-
 And we want to click on the main branch. 
-
 Down the road, as you get more savvy at this, you might have a testing
 branch or a live branch, lots of different ways you can save the code
 and intermix between them. 
-
 We&apos;re not going to mess with root, we&apos;re not going to add any
 visibility or any other features. 
-
 So we&apos;re just selecting this main branch and we&apos;re clicking Save.
-
 Now ultimately, once the page goes live, you&apos;ll have a little web
 address up here. 
-
 I want to emphasize this process as GitHub sets up the repository to go
 live to 
-
 the web can take anywhere from 30 seconds to, I&apos;ve waited as long as 20
 minutes. 
-
 So don&apos;t be alarmed right away if you don&apos;t see up here a link to your
 website.
 
@@ -1887,41 +1782,26 @@ So if you type this in from any computer or phone, you&apos;re going to see
 this website live. 
 
 Pretty exciting.
-
 So now we&apos;ve created this full loop. 
-
 We&apos;ve edited code on our computer. 
-
 We&apos;ve pushed and pulled it to our GitHub repository in the cloud. 
-
 That cloud has then created a live server on GitHub Pages and we can
 come back on our computer&apos;s browser now and surf that website. 
-
 You now have all the tools you need to publish a website. 
-
 Pretty cool? 
-
 Now we need to figure out how to actually code a website. 
-
 But before that, we&apos;re going to cover a few things about the browser. 
-
 We&apos;ll have a whole lecture on it, but right now, I want to emphasize
 that for this class, I expect you to at least download three different browsers. 
-
 For testing your website, it&apos;s always good to have multiple browsers to see if your code is looking 
 different based on their rendering engines. 
-
 But also this Developer Edition, specifically the Firefox Developer Edition, is going to be the 
 latest version, which may not be perfect yet. 
-
 So if you want to make sure your website is future-proof, you can look at the different browsers 
 and what features they&apos;re adding, or what kind of quirks they&apos;re about to add to see if you can 
 utilize them, if your website is going to be impacted by them. 
-
 But generally, this is only for intense website testing.
-
 What&apos;s most important to check out here is these inspector tools. 
-
 So we&apos;re going to open up these inspector tools and this one
 particularly with Chrome. 
 
@@ -1940,86 +1820,58 @@ ultimately, let&apos;s say I really like the font they&apos;re using in this do
 So I&apos;m going to go to inspect and it jumps right to the HTML code. 
 
 And I can jump over here and I can look at the actual blue here. 
-
 You&apos;ll see RGB. 
-
 That is going to be the color used to create that, 
-
 I&apos;m going to see the font family is called Google Sans or San Serif. 
-
 But Google Sans is going to be the one you&apos;re seeing. 
-
 Sans Serifs is the family type of the font. 
-
 I can see the boldness they&apos;re using. 
-
 Here again, the text decoration. 
-
 And I can jump around this website and find out a lot about it. 
-
 I can find out exactly what code they use to write it. 
-
 So as I&apos;m learning and I see stuff around the web, I can pop open this
 HTML. 
-
 You&apos;ll see it&apos;s color coordinated, like our Notepad++, and I&apos;ll be
 able to copy this code and make it my own. 
 
 You&apos;re also going to see here in the filter of styles, this is what&apos;s
 being computed. 
-
 But if I scroll down here, these are all the styles that are being
 applied. 
-
 You&apos;ll notice here, this top nav, there&apos;s a line crossing this out. 
 
 So we&apos;re going to learn how certain CSS rules override other rules, 
 cancel other rules out. 
-
 But I may be upset that something is being canceled out and I don&apos;t
 know why, and I can&apos;t figure out how to make it work. 
-
 I&apos;m going to look here to see how the code is actually rendered. 
-
 I&apos;m like, so it&apos;s not even being shown something else canceling it
 out. 
-
 And I can start to follow this path here and see what&apos;s canceling it
 out. 
-
 You&apos;ll see here all the different colors in bubble, so fonts and font
 types. 
-
 I might like some of the background colors. 
-
 Lots of cool stuff you can do within an inspector. 
-
 Council, this is going to be where I&apos;m processing the
 JavaScript, seeing what&apos;s work, what&apos;s not working. 
 
 And then these other ones get into much more complex web management and 
 server management, system management, things like that. 
-
 So depending on which browsers you want to download, you can then
 inspect and read a little bit about the developer tools. 
-
 You might have to turn some of them on, but essentially, this is just a
 page of link dumps and you can go on the PDF and jump right to them.
-
 Before we close out this lesson, I just want to mention two more tools
 that you might end up using for server website management. 
 
 The first one is SFTP. 
-
 It&apos;s similar to our file transfer protocol, but it adds a security
 cell, the SSH, to it. 
-
 Essentially, we&apos;re already using GitHub desktop to do this service, but GitHub desktop is very 
 limited. 
-
 I use FileZilla in my web development, and these tools, what they do is they manage moving files 
 from my desktop onto a server, a proper server. 
-
 So GitHub desktop alone only works with GitHub. 
 
 And more importantly, it&apos;s sort of limited in being able to view file
@@ -2027,61 +1879,40 @@ structures and where they&apos;re located and kind of rearranging file
 structures. 
 
 So I have to do all that on my desktop before GitHub desktop can really see that. 
-
 With FileZilla, I can actually see the file structure on the server. 
-
 I can move things around and transfer them back and forth between my computer and the server. 
-
 Finally, the secure shell. 
-
 So just a straight SSH. 
-
 I use PuTTY. 
-
 This is a tool for actually managing the server software itself. 
-
 So I might put a PHP file onto the server. 
-
 But here, if I want to actually get the server so that it&apos;s running
 code, or more importantly, the security logins, structures, user
 management, things like that. 
 
 That&apos;s going to be engaging the server on a different level than just
 moving files back and forth. 
-
 So that&apos;s going to be your SSH shell.
-
 All right, that is lesson two of module one. 
-
 Keep going. 
-
 You&apos;re about to have your first website live.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-9">1.9 Browsers and Web Addresses -- Part 1 (11:46)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to Module 1, Lesson 3. 
-
 In this lesson, we&apos;re going to learn about browsers, how they work, and
 web addresses. 
-
 We&apos;re going to start with the fundamental question, what is the web? 
-
 When we use terms like Cloud computing or social media, it brings to
 mind certain aspects about the Internet that might not be true. 
 
 We&apos;re going to start with the basics. 
-
 When you think of the web, you want to contrast it with traditional software, so specifically 
 something like Microsoft Word or a video editing tool. 
-
 These are going to be coded in C+, C, C Sharp, Java, Python, Visual Basic, etc. 
-
 There&apos;s a lot of computer languages for that. 
-
 But essentially they get compiled into an executable, which is something
 that when run executes on one or more platforms. 
-
 Typically you&apos;re going to write one of these traditional softwords
 for your Android phone or your Windows XP operating system. 
 
@@ -2099,43 +1930,33 @@ entries, adding new things to your wall. 
 
 But also it&apos;s going to have, for instance, Facebook, its own website
 browser within it. 
-
 We&apos;ll talk about that later. 
-
 But in traditional software, it&apos;s standalone, it&apos;s updated by software updates, and the user 
 operates and it gets coded for a specific operating system. 
 
 In contrast, the web or Internet websites, they are only ever coded in
 HTML, CSS, and JavaScript and those are the languages we&apos;re going to learn in
 this course. 
-
 The browser translates that HTML, CSS and JavaScript to your computer
 phone and the browser becomes that bridge between those three to
 file types and the operating system. 
 
 We&apos;ll talk more about the browser in this lecture. 
-
 The server is hosting, it&apos;s a giant computer that just hosts the HTML,
 CSS, and JavaScript. 
-
 It can also operate things, but it computes what the HTML and CSS and
 JavaScript can&apos;t as well. 
-
 You might have on the server some HP or some J query or something like a
 Python script. 
-
 In that case, I will have HTML, CSS and JavaScript file sent back and
 forth between the browser and the server. 
 
 If anything more complex that can&apos;t be handled by HTML, CSS, or JavaScript, the server will 
 compute it, calculate it, and then put it back into CSS, HTML, or JavaScript. 
-
 The server comprises the other computations that can&apos;t be handled by
 the browser. 
-
 This whole system of server and browsers talking back and forth is
 agnostic and universal. 
-
 Which means by just limiting all that communication to, again, HTML, CSS, and JavaScript, it works 
 on any device I don&apos;t have to recode my website to work on Android. 
 
@@ -2146,38 +1967,26 @@ Let&apos;s talk more about the browser itself and there&apos;s a link with thi
 how the browser works. 
 
 It&apos;s a nice little read if you want to go more into this. 
-
 But for this class, you don&apos;t need to unless you&apos;re really curious
 about it. 
-
 I do encourage you to read it, though it&apos;s quite fascinating. 
-
 Again, we have the operating system, Windows or Android, and we have the
 browser is the medium. 
-
 It is a traditional software, it gets written so when I download my browser, let&apos;s say Firefox, 
 I download a different software if I&apos;m on Windows or if I&apos;m on a Mac. 
-
 Then the HTML CSS and JavaScript, they go into that browser. 
-
 They don&apos;t have to know what the operating system is. 
-
 The browser is going to wrap those files. 
-
 All browsers handle those files no matter what browser an operating
 system combination is, the browser is written to read the HTML as it
 stands. 
 
 It doesn&apos;t have to change those files. 
-
 Browsers are traditional software. 
-
 The examples I give here, Chrome, Firefox, Safari. 
-
 We also have Facebook WhatsApp, most people don&apos;t realize when you&apos;re
 opening up a news file or some other website within Facebook or
 WhatsApp, 
-
 you&apos;re not jumping out to Chrome or Safari. 
 
 Depending on the operating system of your phone, you&apos;re actually within
@@ -2195,14 +2004,12 @@ the files back and forth, and make requests. 
 
 Those requests specifically are browser implementations of HTTP or HTPS
 is what&apos;s commonly done now. 
-
 Hypertext transfer protocols that secure part the added element to give
 a little depth of why that was added and how it differentiates from
 previous HTP. 
 
 If I just send an HTTP request, then I say within that network I have
 someone 
-
 tapping the line and listening to my requests, they&apos;re not just going
 to be able to see what website, so if I go to say iot.edu, they&apos;re
 going to not just see that I visited that website, they can see what
@@ -2216,15 +2023,11 @@ If someone is hacking outside, maybe my Wi-Fi or something like
 that, they&apos;re going to see that I visited iot.edu but beyond
 that, they&apos;re not going to see what resources or pages I access there
 so that&apos;s the secure element added on top of that. 
-
 FTP is a File Transfer Protocol so this is really important for
 security. 
-
 When you download a file like an image file or something to your
 computer, 
-
 you get the little pop up in your browser says, 
-
 are you sure you want to do this? 
 
 That&apos;s because when we are transferring HTML, CSS, and JavaScript files
@@ -2265,49 +2068,36 @@ where the physical location in the network is of the server I&apos;m trying
 to request. 
 
 Then the browser compiles. 
-
 It compiles HTML, CSS and JavaScript. 
-
 JavaScript, also known as ECMA Script, we&apos;ll go into more depth. 
-
 Here&apos;s links to all three of the specifications. 
-
 You can spend hours reading on that, but definitely we&apos;re going to be
 teaching to 
 
 these specifications because these codes can be loosely written and
 there are correct ways to write them even though they may work if you
 don&apos;t write them correctly. 
-
 But it lowers your footprint and your visibility on the web to do so. 
 
 These three files, they come in as separate files you may have multiple
 JavaScript, you may have a few different HTML, CSS. 
-
 The browser takes those and compiles them into a single user
 experience. 
 
 When you&apos;re surfing the web, you don&apos;t sit there and feel like, this
 is the JavaScript part or the CSS part. 
-
 It&apos;s all one single user experience. 
-
 Now we&apos;re going to talk about the browser components, the thing that
 makes up the browser itself. 
-
 We have the user interface this is our address bar, back and forward
 buttons, bookmark, pull over Firefox here. 
 
 This is our content area. 
-
 This is artificially generated by Firefox home team but you see here, we
 have, 
-
 for instance, settings, we have our bookmark bar, our navigation back
 and forward, reload address bar. 
-
 This is all going to be the UI interface. 
-
 Then we have the browser engine. 
 
 This controls the interaction between the UI and the rendering engine so
@@ -2316,7 +2106,6 @@ communication between the two. 
 
 The rendered engine itself is obviously, maybe not obviously, but is the
 most important. 
-
 It&apos;s responsible for taking your HTML, CSS, and JavaScript and turning
 it into that web page, that singular user experience. 
 
@@ -2356,22 +2145,16 @@ of opening it up to bringing viruses into your computer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-10">1.10 Browsers and Web Addresses -- Part 2 (10:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 I want to emphasize here, rendering engines that compile CSS, HTML, and
 Javascript into a single experience are actually different with each
 browser. 
 
 Firefox uses Gecko, Safari uses Webkit, Chrome uses Webkit version. 
-
 Now they switch to Version 28. 
-
 Switch to Blink, Edge Opera, and then also Samsung uses Blink. 
-
 Amazon Silk uses Blink. 
-
 The rendering engines, they specifically have subtle differences in
 choice of pre-default HTML that they use. 
-
 The default font size, for instance, is going to be different between
 these. 
 
@@ -2385,31 +2168,20 @@ our user experience. 
 
 It&apos;s frustrating, but yeah, they all compile just subtly different, the
 size of a font, things like that. 
-
 Just want to hint at that there. 
-
 Then also, same with Javascript, they all have a little bit different. 
-
 But before we get to that, a little bit more about the engines
 themselves. 
-
 The Javascript engines pretty much determined who dominated the Internet
 for a while until there was a catch-up around 2018. 
-
 First Netscape came online, there was no real Javascript at the time. 
-
 They took over, dominated 79%. 
-
 They made some mistakes. 
-
 More importantly, they weren&apos;t a monopoly. 
 
 Along comes IE embedded in Windows operating system. 
-
 Apple computers are really lagging in sales for a while. 
-
 IE takes over 90% of all Internet traffic. 
-
 During those times when I was learning everything was being coded in
 IE, and because of that arrogance, Internet Explorer often thought they
 could do things their own way. 
@@ -2447,48 +2219,32 @@ Same for all Facebook suite to Instagram and other tools. 
 
 It&apos;s important to realize that these browsers aren&apos;t just what you
 think of 
-
 when you download a browser on your Internet. 
-
 There are also your Internet tools. 
-
 If you&apos;re opening up an app on your phone, it&apos;s also going to be a
 browser 
-
 that you want to test your website on. 
-
 Make sure you know users aren&apos;t being stressed by how it looks on that
 particular tool. 
-
 Finally, the unique Javascript engines, each one of them running
 differently, 
-
 so SpiderMonkey, node.js, SquirrelFish. 
-
 Pretty fun names when you get to the Javascript rendering engines. 
-
 A little insight into the teams, but more importantly this is
 leap-frogging back and forth. 
-
 Who has the fastest engine? 
-
 You&apos;ll see a little bumps and usership. 
 
 But we&apos;ve gotten in the last probably four years that the changes
 aren&apos;t so dramatic. 
-
 I imagine once the web truly gets into 3D and wearable
 experience, you&apos;ll have some leapfrogging of who can process that
 better on the user side and quicker. 
 
 Let&apos;s round out this lecture with website addresses. 
-
 We start with what we&apos;ve been talking about already a little bit. 
-
 HTP(S), the hypertext transfer protocol secure. 
-
 It&apos;s a format used to make the requests for the files of the website. 
-
 As we mentioned before, that secure adds another layer of security that
 someone hacking onto my WiFi can only now see that I visit a website and
 not what pages I visit, or what tools I requested from there. 
@@ -2498,336 +2254,180 @@ computer&apos;s networking card, and you have written the address using
 usually a URI. 
 
 Even though we call them URLs, what&apos;s the difference? 
-
 The URI is a uniform resource identifier. 
-
 It just has the file location and name. 
-
 If you look here, www.it.edu and maybe a /.logo. 
-
 It just telling me what type of file I&apos;m looking for. 
-
 URLwww.it.edu/log.png.
-
 I&apos;m looking for an image at iit.edu. 
-
 Subtle difference, but really, 
-
 no one cares if you never learn the difference. 
-
 Again, most of us just put in 
-
 www.iit.edu to find a website. 
-
 Very rarely do any of us 
-
 actually type in the resource we&apos;re looking for. 
-
 But we call them URLs anyways, for the most part. 
-
 This is what a URL looks like. 
-
 It is specifically the application transfer protocol, 
-
 so almost always it&apos;s HTTP, 
-
 unless you&apos;re really doing some cool networking stuff. 
-
 This is just protocols:// and then the host names. 
-
 For the most part, when we&apos;re talking 
-
 about the Worldwide Web, 
-
 we&apos;re talking about the Web, WWW. 
-
 I&apos;ll talk about in 
-
 another slide what it means when that&apos;s not there. 
-
 I have my URL name, 
-
 New York Times, in this case, 
-
 that&apos;s the domain name and then the top level domain. 
-
 This is the address and the address book. 
-
 We talk, think about like an old school phone book. 
-
 There&apos;s a bunch of them. 
-
 There&apos;s.com,.edu.de for Germany,.nd for the Netherlands, 
-
 I think ca for Canada, cn for China. 
-
 I&apos;m starting to push my knowledge of all of them here. 
-
 But essentially what you have is 
-
 this.com says in this directory here is the Web address. 
-
 I can have New York Times in.de, 
-
 I can have that same name in any one of these. 
-
 It&apos;s a phone book and 
-
 this name can be repeated through all of them. 
-
 But first, I look at this phone book, 
-
 then I look for this address and that&apos;s going to give me 
-
 the IP address location 
-
 of that server within the network. 
-
 It pings here, gets that 
-
 and then sends out to the server. 
-
 Everything after that slash then 
-
 is once I reach the server, 
-
 I&apos;m looking for now the file. 
-
 In this case I&apos;m looking for a folder when I land 
-
 on Newyorktimes.com named tech, 
-
 it should be on the top level page and within tech, 
-
 I&apos;m looking for a file named index.html. 
-
 I want to emphasize here case sensitivity, 
-
 because even though this 
-
 isn&apos;t case sensitive and this is, 
-
 you&apos;re going to start to find out that 
-
 the single most frustrating thing 
-
 most students do is they start to write out these paths. 
-
 They try and write a hyper link to it 
-
 and maybe they accidentally put the I is 
-
 all caps or the whole word is all caps or just the I. 
-
 Then in their path they make 
-
 it lower case and they can&apos;t find it. 
-
 Sometimes when you&apos;re working in 
-
 the Windows environment, it&apos;ll find it. 
-
 Then you go online into the Web and 
-
 it doesn&apos;t find that hyperlink text. 
-
 I emphasize, make sure you just 
-
 always write all your words, 
-
 all your file names, 
-
 everything in lower case 
-
 until it is mandated by the code to write it upper case. 
-
 It&apos;ll make your life a lot 
-
 easier when you&apos;re learning coding.
-
 I mentioned before I&apos;m going to talk about with no ww&apos;s, 
-
 so this is, again, 
-
 it&apos;s still HTTP protocol, 
-
 but this is the dark web. 
-
 It has a dark scary name, 
-
 but essentially it&apos;s just not indexed 
-
 in one of the.coms or.edus. 
-
 It&apos;s not indexed on the Worldwide Web. 
-
 You can, anywhere 
-
 from any port if it&apos;s connected to the web, 
-
 you can write this address in and find it, 
-
 but you can&apos;t really search for it. 
-
 It&apos;s not getting indexed anywhere. 
-
 This, for instance, 
-
 is not even on the web, 
-
 it&apos;s on my home network. 
-
 It&apos;s going to be local host. 
-
 This is the domain name and semi or colon 1, 2, 3, 4. 
-
 This might be maybe a router 
-
 or some type of smart device attached to my home network. 
-
 I&apos;m looking at the local host there. 
-
 Then I&apos;m looking for, once I get to that local host, 
-
 a file inside its operating system called 
-
 HR services Version 1 users and then 
-
 here I have some parameters about that file 
-
 I&apos;m trying to extract or search for. 
-
 That&apos;s all the no WW really means, 
-
 it&apos;s somewhere on the network or on 
-
 the Web and it&apos;s not indexed. 
-
 Finally, we&apos;re going to talk about this with 
-
 HTTP requests in the next lecture. 
-
 But one last version of a search is what would be 
-
 a get request and then 
-
 maybe a search dataset put into it. 
-
 You have your www.google.co.uk. 
-
 Then here I have search, 
-
 so I&apos;m using the search resource. 
-
 But then I&apos;m putting this question mark in there. 
-
 After that question mark is actually going 
-
 to be compiled data. 
-
 I might have put into Google, 
-
 who is Jack Bauer and that&apos;s going to be a query. 
-
 This is how it&apos;s structured, gets equal, 
-
 plus sign between each of them. 
-
 That gets sent back to Google. 
-
 Google then pulls up 
-
 its search results for that basically. 
-
 One more, so the non-direct is if 
-
 I&apos;m going to somewhere like iit.edu, 
-
 but I don&apos;t know where the actual file location is, 
-
 but I know I want to look for a specific file. 
-
 Here is a &#126;groups/index.html. 
-
 Means somewhere in iit.edu, 
-
 please look for groups SP, 
-
 maybe the Spanish group or something like that, 
-
 index.html. It&apos;s a general quest. 
-
 Very rarely do you use this, 
-
 it&apos;s more if you&apos;re talking to a server. 
-
 You&apos;re managing, you&apos;re looking for file structure. 
-
 You might just do a quick search using the tilde. 
-
 That&apos;s in development, you might use this, but not so much when you&apos;re surfing the web. 
-
 That is Module 1, Lesson 3, the browser as a tool.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-11">1.11 HTTP Requests (8:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Welcome to lesson 4 of module 1, HTTP Requests.
-
 Specifically, we&apos;re talking about how the client, your PC, your phone
 request files from a server, which is HTML, CSS, and JavaScript files. 
-
 The client parses the URI or the web address and sends that request for
 files to the server. 
-
 This is an example of what that looks like, so at the top, you can see
 here we have our GET method requesting index HTML. 
-
 It&apos;s going over HTTP 1 obviously is an older image, it&apos;s going to mark
 the date connection, some information about the host, who it&apos;s
 contacting, and where it&apos;s from, whether it was accepted. 
 
 If there was any form data or other such data that would be sent along
 with the request, it would be packaged here in the message of the body. 
-
 All of this, of course, is just a printout example. 
-
 The actual HTTP request would be sent in computer code over the
 Internet. 
-
 We have seven types of HTTP requests we can make. 
-
 Only four of them are ever used really to communicate in web browsing. 
-
 The other three, a head trace and connect are generally used for server
 testing, 
-
 Internet testing, network testing, things like that. 
-
 The most common is GET. 
-
 You&apos;re going to make a GET request, basically get me this document, 
 any variable or form data is sent as part of the URL. 
 
 If you see down here an example, that would be HP. 
-
 You&apos;re going to have your web domain web address as we went over, 
 you&apos;re going to get a question mark q=232 and name equals Joe. 
-
 This is going to be some data being sent and it&apos;s appended to the
 actual web domain after the question mark. 
-
 This is data for the served to process the data as q is 232 and then the
 name Joe. 
-
 It&apos;s unsecure and it really shouldn&apos;t be used to collect anything
 other than some really basic data when you&apos;re sending it back and forth. 
-
 You&apos;ll see this a lot if it&apos;s just a search request. 
-
 If you&apos;re doing a Google search, you&apos;ll see this appended there. 
-
 Post is the second most common. 
 
 It&apos;s used often to send form data and instead of appending any form or variable data to the end 
@@ -2836,9 +2436,7 @@ with the request. 
 
 Usually, if you think about it semantically, I&apos;m posting something to
 the server. 
-
 But Post can also be a request back and forth. 
-
 Really, the semantics of Post and GET are a bit antiquated, and you can
 use both Post and GET to send data or receive data. 
 
@@ -2853,315 +2451,195 @@ requesting files back and forth with websites. 
 Then head trace connects head for instance or if I want just some
 information about the server, I might request just what&apos;s in the HTTP
 head. 
-
 I might want to just test connection. Are we connected? 
-
 Am I getting a server here? 
-
 Because I&apos;m not getting any files from it. 
-
 Once I&apos;ve sent to my HP requests, I talked to a server, I&apos;m going to
 get an HTTP response back. 
-
 First line is the status of the request. 
-
 This is five groupings of three digit numbers. 
-
 You will get one of these three digit numbers back common example 404
 not found. 
-
 Then you&apos;re going to get another header. 
-
 As you saw before, data fields, we&apos;ll go over some of those data fields
 next slide. 
 
 Then lastly, the response to the body file. 
-
 If it&apos;s HTML and CSS files, those will be encrypted and sent along. 
-
 If it&apos;s some form data will be sent along. 
-
 But essentially, then whatever you requested is sent in the HTTP
 response. 
-
 If you were printed out, this is what it would look like in plain
 English. 
-
 At the top here, this is important, HTTP 1.1 we&apos;re getting a 200 OK.
 That means you contact the right server. 
-
 The files you expect were there, and here they are coming back to you. 
-
 We&apos;re going to get some dates. 
-
 What type of server it was. 
-
 Accepted ranges are going to be in bytes, common type text, HTML, it&apos;s what type of files are 
 being sent, content length. 
-
 When that file was last modified. 
-
 This is important for cookies. 
-
 We will often, if a file hasn&apos;t been registered as modified on your
 computer, it won&apos;t update the actual file sitting in cookies. 
-
 Sometimes when we&apos;re coding this HTTP request, we might refresh our
 page. 
-
 But cookie says nothing changed so nothing changed in our presentation
 of our web pages. 
-
 Sometimes we&apos;ve got to clear out cookies, get a new file, especially
 when we&apos;re just messing with spaces or tabs. 
-
 That can be really tricky. 
-
 That&apos;s definitely one common frustration new users can find when trying
 to figure out why their website doesn&apos;t look like it&apos;s updated. 
-
 It&apos;s maybe because this request registered that there was an
 update, even though there wasn&apos;t can be tricky. 
-
 Of course, packaged in the message body. 
-
 Here is going to be the actual HTML code.
-
 Other things that might be in that header. 
-
 As I said, status, location. 
-
 We also have server type content length, content type content encoding when the content actually 
 expires, when it was last modified, as I mentioned, important one. 
-
 But let&apos;s go over some of those codes really quick, and that&apos;s the end
 of this lecture. 
-
 The 1xx these are status codes are not defined, they&apos;re used for
 experimental purposes. 
-
 There&apos;s lots of server side development that uses these. 
-
 2xx, so 200 is the common one. 
-
 This is server request was successful all as well, that&apos;s obviously the
 most common one and the one you want. 
-
 The rest of the 200 are mostly for scripting and not commonly seen on
 casual web browsing. 
-
 Therefore, testing and making sure the server is doing what it&apos;s
 supposed to be doing. 
-
 Then 300, these generally don&apos;t get seen and sometimes therefore helping with web indexing of 
 addresses and IP addresses. 
 
 So 301 it&apos;s moved permanently. 
-
 This means that don&apos;t expect it back at the server, the file you&apos;re looking for, the web 
 address, resources relocated, update your links and your navigation here, 302 is more 
 temperate, means we temporarily change it to a different server, but this is the right address. 
-
 Don&apos;t update your links. 
-
 We&apos;ll give you a forwarding address right now and expect to see these
 files back here soon.
-
 Then 400 are going to be. 
-
 You got the 400 bad request. 
-
 This is just incorrect request syntax. 
-
 I don&apos;t understand what you&apos;re asking me to search for here, 401 is
 unauthorized. 
-
 This means that maybe put in a bad password or your authentication
 didn&apos;t quite go, the client was not allowed. 
-
 But it may change if your authentication is improved in the header as
 opposed to 403, which means, you&apos;re not allowed to access this from
 that computer. 
-
 It doesn&apos;t matter what your authentication is, we&apos;ve blocked you. 
-
 You&apos;re not part of this very secure network, and 404 is, you&apos;ve hit
 the right server, but it&apos;s a dead link. 
-
 There&apos;s nothing here for you. Go away. 
-
 The 500 are really bad. 
-
 This is usually server errors. 
-
 You might have the right address, but 500 is an internal server error. 
-
 It&apos;s something went wrong inside the server, maybe the code is
 corrupted. 
-
 Maybe you&apos;re getting a DNS attack, a denial of service attack where
 there&apos;s 
-
 just too much service at it. 
-
 The code is spewing out incorrectly. 
-
 501 not implements so the request is not supported by the server, 
-
 you&apos;re asking the wrong questions or for the wrong files, it doesn&apos;t
 even understand what the question is. 
-
 Then 503 is going to be definitely DNS, server unavailable usually
 happens 
-
 when server is overloaded, getting too much, you haven&apos;t expanded your
 bandwidth or someone is attacking, just requesting too many files. 
-
 That is your HTTP and HTTPS file requests.
-
 Transcript language: English
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-12">1.12 Meet Our Three Languages (10:31)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In lesson five, we&apos;re going to to take an in depth look at our three
 languages.
-
 As you&apos;ve heard in the last couple of videos, we&apos;re working with
 HTML, 
-
 CSS and JavaScript, HTML, being the structure and content. 
-
 If you look on the right side here, you&apos;ll see what&apos;s called a
 cascade, 
-
 and in the black font, is going to to be our content. 
-
 So essentially we&apos;re building a framework, that identifies the
 different parts of our web page, giving semantic meaning to certain
 sections like our header, or our body. 
-
-And then when we build our CSS and JavaScript that semantic structure,
-is 
-
-going to to be really important in helping define how we write these two
-languages. 
-
+And then when we build our CSS and JavaScript that semantic structure, is 
+going to to be really important in helping define how we write these two languages. 
 So again, it&apos;s just structure and content, If you just have HTML as you
 will in our project one, it&apos;s going to to be all left justified on the
 web page It&apos;s going to to look real basic. 
-
 CSS is our presentation style, that&apos;s where we add our font our color
 our layouts our line spacing all those fun things. 
-
 And then JavaScript is an actual coding language and it allows for 
-
 in depth behavior. 
-
 So, moving your emails, indexing, playing video games on websites, 
-
 that&apos;s all done with JavaScript. 
-
 HTML, was invented by Tim Berners Lee, our big hero of the web, 
-
 back in the early 90s. 
 
 It&apos;s the content structure and semantic layer as I mentioned. 
-
 But more importantly it&apos;s not just how we write the other two codes
 into our HTML. 
-
 If we write our HTML correctly, it&apos;s how the web itself, the search
 bots, 
-
 the search engines, all that is in how we write our HTML to be seen, 
-
 by those bots that index and search the web. 
-
 It&apos;s a process known as SEO so our meta tags, how we identify our h
 ones, 
-
 these sort of very subtle differences between websites can 
-
 make your website seen when another website might not be. 
-
 We are now in HTML version 5, click there in the PDF if you want the
 specifications. 
-
 It&apos;s been live since about 2014, a key difference between previous 
-
 versions is that HTML 5 really finally separated out HTML from CSS, 
-
 removed all style, any kind of spacing or line spacing, color, font. 
-
 You can still do it because of HTML4 back conversions. 
-
 But ultimately I&apos;m going to to be making you learn, that CSS page is
 where you do all that style. 
-
 Little version history, start off as HTML tags, just really informal 
-
 obviously before we had the web back in 91, 1st draft November 92. 
-
 It starts becoming a thing that we&apos;re documenting and declaring what it
 can do. 
-
 HTML 2 is published by the ITFIC convention, November 1995. 
-
 This is when the web is really blowing up we&apos;re trying to standardize
 the format. 
-
 Then again, we have the W3C becomes that standard place, where all these
 organizations come together. 
-
 Debate what HTML should look like, what uses they&apos;re doing with it,
 and 
-
 how it needs to be updated to incorporate those new uses being rolled
 out by the cutting edge companies. 
-
 HTML 4 is when we settle on a widely used version of HTML. 
-
 Prior to that, in the 90s, &lbrack;LAUGH&rbrack; if you were learning HTML freshman
 year of college, it was already out of date by your senior year of
 college. 
-
 It was quite frustrating back then to learn web coding, but now we&apos;ve
-stabilized on HTML 5, so, HTML 4 went through two versions with 4 and
-4.1. 
+stabilized on HTML 5, so, HTML 4 went through two versions with 4 and 4.1. 
 
 Then there was this slow, progressive development of HTML 5, and in the
 meantime we had XHTML, which many of the key factors got adopted by HTML
 5, or were decided to be too strict. 
-
 XHTML 2 was discarded, as people were working on it, as HTML 5 became
 the standard bear. 
-
 With HTML 5 that you&apos;re learning now, you&apos;re pretty lucky. 
-
 It&apos;s likely to remain the standard until wearables and the 3D Web
 becomes the norm. 
-
 So right now, what you learn will likely still be valid for years to
 come. 
-
 It&apos;s a nice position to be in with learning web code right now. 
-
 CSS, as we&apos;ve mentioned before the cascading style sheets. 
-
 It&apos;s our descriptive content, presentation, style layouts,
 positioning, 
-
 anything that decorates your HTML tags and makes it more than just a
 stack of content left justified on your web page. 
-
 And again, I&apos;m going to to emphasize that separation of content from
 presentation. 
-
 You will hear throughout my lectures no style in your HTML, trying to
 take your image tags and put some width and height on your image. 
-
 I&apos;m going to to explain in future, lectures why that&apos;s not how we want
 to to go about changing the size of our images, color, font, positions,
 border line spacing, all that&apos;s done in CSS. 
@@ -3235,13 +2713,11 @@ ECMA 229, and on and on, whatever the year is, will be the new launch of
 that standard. 
 Because every year there&apos;s subtle implementation subtle upgrades 
 to the script, and before we round out this lesson, I want to jump back
-and 
-talk a little bit about the server side or back end code. 
+and talk a little bit about the server side or back end code. 
 Servers are essentially just powerful computers with a lot of processors
 and Ram random access memory. 
 Their role is to listen for Http requests, that&apos;s their primary goal is
-just 
-listening for computers sending out over the network that request for
+just listening for computers sending out over the network that request for
 files, and serving up those files to clients. 
 You can also write code on the server like PHP or Java or Python, so 
 that if someone enters credit cards or 
@@ -5805,7 +5281,7 @@ takeaways from this module:
     entirety of a traditional resume.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The Cloud is Born (43:15)
+<h2>The Cloud is Born (43:15)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/supplement/7uYqa/insights-from-an-industry-leader-learn-more-about-our-program>
@@ -8103,8 +7579,6 @@ repository:
 
 **Project 2 Practice Assignment: First Attempt**
 
-![](images/image005.png){width="6.5in" height="0.29305555555555557in"}
-
 **Overview**
 
 Instructions for completing your **Project 2: First Attempt** can be
@@ -8937,26 +8411,15 @@ and I&apos;ll talk about why you might want to. So we have here little more
 responsive design, show you all this. All right,
 let&apos;s start looking at our HTML. We&apos;re pulling in a Google font. So
 googleapia CSS font family sigmar. So in my CSS you can see I&apos;m pulling
-in
-Sigmar here on my company company name, which you&apos;ll see then a cool
-little Ninja company. So I went to Google,
-we demoed that a few videos ago. And you always know,
-you just cut and paste. Sana serif cursive this is a proper
-font stack is you have one you&apos;re pulling in one that the browser
-already knows that looks similar, and then the default cursive,
-which usually you don&apos;t need that, you just need those two, because
-this
-is going to be in most browsers. So then my link out to my
-resets my link to my style and then I&apos;ve got the body here, little
-header
-id main header, wrapping my navigation. And then I&apos;m going to have a
-main navbar. So here in my header I have
-a couple of different things. I have these two images I&apos;m going to go
-next to talk about pull these image, but I also have this additional
-kind of overhead nav. So this is quite common where you&apos;ll
+in Sigmar here on my company company name, which you&apos;ll see then a cool
+little Ninja company. So I went to Google, we demoed that a few videos ago. And you always know, you just cut and paste. Sana serif cursive this is a proper font stack is you have one you&apos;re pulling in one that the browser
+already knows that looks similar, and then the default cursive, which usually you don&apos;t need that, you just need those two, because
+this is going to be in most browsers. So then my link out to my resets my link to my style and then I&apos;ve got the body here, little
+header id main header, wrapping my navigation. And then I&apos;m going to have a
+main navbar. So here in my header I have a couple of different things. I have these two images I&apos;m going to go
+next to talk about pull these image, but I also have this additional kind of overhead nav. So this is quite common where you&apos;ll
 have like the main navigation here in a navbar and then you&apos;ll have
-some extra navigation up there. So for instance,
-iit.edu go here you have a main nav. You have this weird additional main
+some extra navigation up there. So for instance, iit.edu go here you have a main nav. You have this weird additional main
 nav. Well, the COVID stuff is up here, but usually this would be up in
 the top. So you have this main nav down there and then you have this
 other nav. This is more of a too much in a website but it&apos;s pretty
@@ -8965,13 +8428,9 @@ want to make it smaller, we want to put it off to the side. So we do
 have CSS and then our main nav. So first let&apos;s look at these two image
 links. So I have my company names separating them. Just so you can see
 the two, I have here, a id logo, href, Ninja Co Home and it links back
-there. So this one you see there&apos;s
-
-not pulling any image, it&apos;s just an href to &#35; and then an id. So what
+there. So this one you see there&apos;s not pulling any image, it&apos;s just an href to &#35; and then an id. So what
 we&apos;re doing here is pulling in the image in the CSS, here&apos;s a little
-bit more normal,
-
-which it did in project one. This is an href #, so by putting this href
+bit more normal, which it did in project one. This is an href #, so by putting this href
 around the image tag. So the image actually starts here. This is the
 image, now putting this a href around it is very common if you go to
 something like Apple. Yeah, company logo up there will bring you back to
@@ -8983,7 +8442,6 @@ I&apos;m just searching my logo. So I&apos;m at full site here going to image
 and then finding my logo right forward slash after the image means look
 for a folder and then look for file name image. Always make sure you
 have
-
 that alt attribute and then close out the a to wrap it. So let&apos;s look
 at this one here where we&apos;re pulling it in. So that gives us these two
 images. So I have these two images here. So here I have my main header
