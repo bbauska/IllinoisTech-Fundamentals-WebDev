@@ -2,7 +2,7 @@
 title: "Illinois Technology Fundamentals of Web Development"
 author: "Brian Bauska (bbauska)"
 date first editted: "4/1/2025 12+pm"
-date last editted: "4/3/2025 Thu 2+pm"
+date last editted: "4/10/2025 Thu 6+pm"
 output: 
   markdown:
     with some style
@@ -27,11 +27,11 @@ output:
 <p>This course is part of the Bachelor of Information Technology program from Illinois Tech. If you 
 are admitted and enroll in the degree program, your coursework can count toward your degree 
 learning and your progress can transfer with you.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2><a href=#syllabus">Syllabus</a></h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk1">Module/Week 1: Internet Structures and an Introduction to HTML</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to Fundamentals of Web Development! This course will cover the
 creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
 graphical applications as well as the client and server architecture of
@@ -114,8 +114,9 @@ global connectivity.</p>
 
 -   1.15.3 <b>Reading:</b> Module/Week 1 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk2">Module/Week 2: HTML</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module 2 equips students with advanced skills in HTML, focusing on
 creating, hosting, and accurately indexing links and images to enhance
 web page functionality and aesthetics. Students will learn how to
@@ -163,8 +164,9 @@ foundation for sophisticated web design and development.
 
 -   2.7.2 <b>Reading:</b> Module/Week 2 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk3">Module/Week 3: HTML Forms</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module 3 guides students through the process of creating well-structured
 HTML navigation, essential for user-friendly website design. Learners
 will delve into writing various HTML form elements designed to interact
@@ -206,8 +208,9 @@ accessible, and visually appealing online format.
 
 -   3.6.2 <b>Reading:</b> Module/Week 3 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk4">Module/Week 4: Introduction to CSS</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module 4 explores the crucial concept of the HTML cascade in CSS,
 highlighting its value in creating coherent and visually appealing web
 designs. Students will learn to write and publish core CSS elements,
@@ -265,8 +268,9 @@ web design and layout management.
 
 -   4.7.2 <b>Reading:</b> Module/Week 4 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk5">Module/Week 5: CSS Floats and Positions</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In Module 5, students will deepen their CSS knowledge by learning to
 write and publish CSS properties specifically for fonts, enhancing the
 typographic appeal of web content. This module also covers the
@@ -325,8 +329,9 @@ user-friendly web interfaces with advanced CSS techniques.
 
 -   5.10.2 <b>Reading:</b> Module/Week 5 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk6">Module/Week 6: Website Layouts and Design</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module 6 introduces students to the four fundamental layouts of website
 design, providing a foundational understanding of various web design
 approaches. It emphasizes the importance of adopting a mobile-first
@@ -386,8 +391,9 @@ appealing web design.
 
 -   6.9.2 <b>Reading:</b> Module/Week 6 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk7">Module/Week 7: Introduction to Javascript</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This module delves into the fundamental principles of writing JavaScript
 (JS), offering students a solid grounding in the language&apos;s core
 concepts. Students will learn to write and publish essential JavaScript
@@ -445,8 +451,9 @@ techniques.
 
 -   7.10.3 <b>Reading:</b> Module/Week 7 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk8">Module/Week 8: jQuery and Frameworks</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Module 8 focuses on empowering students with the skills to dynamically
 manipulate HTML content using JavaScript, enhancing web interactivity
 and functionality. Students will explore the integration and utilization
@@ -495,8 +502,9 @@ modern responsive design practices.
 
 -   8.7.3 <b>Reading:</b> Module/Week 8 Summary
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk9">Week 9: Summative Course Assessment</a></h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This module contains the summative course assessment that has been
 designed to evaluate your understanding of the course material and
 assess your ability to apply the knowledge you have acquired throughout
@@ -4509,6 +4517,8 @@ takeaways from this module:
     table content.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk3">Module/Week 3: HTML Forms</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch3-1">3.1 Module 3 Introduction HTML Forms (2:14)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Welcome to module three. 
@@ -5288,6 +5298,8 @@ takeaways from this module:
 
 ![](images/image002.png){width="5.0in" height="2.1148501749781277in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk4">Module/Week 4: CSS</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch4-1">4.1 Module 4 Introduction to CSS (2:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6154,6 +6166,8 @@ takeaways from this module:
 -   Students will be able to: Explain the value of applying CSS resets
     to their website before applying their unique CSS code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk5">Module/Week 5: CSS Floats and Positions</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-1">5.1 Module/Week 5 Introduction CSS Floats and Positions (mm:ss)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7615,6 +7629,8 @@ takeaways from this module:
     navigation within their website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk6">Module/Week 6: Website Layout and Design</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch6-1">6.1 Module 6 Introduction Website Layout and Design (2:43)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Welcome to Module 6,
@@ -8704,6 +8720,8 @@ takeaways from this module:
 -   Students will be able to: Write a complete and comprehensive website
     using HTML and CSS.  
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk7">Module/Week 7: JavaScript</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch7-1">7.1 Module 7 Introduction to JavaScript(3:28)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10044,6 +10062,8 @@ takeaways from this module:
 
 -   Students will be able to: Import and manipulate a JS event.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="wk8">Module/Week 8: jQuery and Frameworks</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch8-1">8.1 Module 8 Introduction jQuery and Frameworks (2:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
