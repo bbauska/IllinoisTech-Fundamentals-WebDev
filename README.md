@@ -284,7 +284,7 @@ user-friendly web interfaces with advanced CSS techniques.
 
 <p><small><small>10 lessons, 10 readings</small></small></p>
 
-5.1.  Module/Week 5 Introduction CSS Floats & Positions (
+5.1.  Module/Week 5 Introduction CSS Floats & Positions (mm:ss)
 <!-- [Module 5
     Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-5-introduction-XyyIa)
 -->
@@ -515,8 +515,7 @@ taking the assessment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="wk1">Week 1: Internet Structures and an Introduction to HTML</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-Welcome to Fundamentals of Web Development! This course will cover the
+<p>Welcome to Fundamentals of Web Development! This course will cover the
 creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
 graphical applications as well as the client and server architecture of
 the Internet and related web technologies. Students will be able to
@@ -532,7 +531,7 @@ publishing and code archiving, including text editors and GitHub,
 coupled with an understanding of live hosting practices. Additionally,
 the course offers insights into the physical infrastructure of the
 internet, focusing on server technology, and providing a holistic view
-of the digital landscape from code creation to global connectivity.
+of the digital landscape from code creation to global connectivity.</p>
 
 Learning Objectives
 
@@ -714,7 +713,6 @@ Lecture Slides: History of the Web
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-3">1.3 History of the Web - Part 1 (10:11)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 In this first lesson, I don&apos;t want you to have to take notes or worry
 about learning all this information. It&apos;s more about helping you frame
 what a website is and how it plays into an ecosystem, a network of
@@ -878,9 +876,7 @@ Indiana.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-4">1.4 History of the Web - Part 2 (12:13)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 We have these pocket switching, they&apos;re just sending files back and 
-
 forth along comes Ray Tomlinson, and he says, sometimes I&apos;m using these
 files just to send a communication and I need something a little more
 impermanent than a file that&apos;s sent back and forth. 
@@ -976,7 +972,6 @@ Website emphasizes, again, making sure the website gets where
 it&apos;s supposed to, as accurate as possible. 
 
 Even it may take a little bit of delay. 
-
 Now we&apos;re starting to see the structure of the world wide web we
 haven&apos;t invented the world wide web yet, but the world wide web
 has many different file transfer protocols, many different ways to send
@@ -984,10 +979,8 @@ data. 
 
 File transfer protocols, TCP, we have email, we have secure shell, which
 is direct one to one communication. 
-
 We have peer to peer file sharing, which is where you have networks of 
 computers all sharing files in tandem. 
-
 And then streaming data, which would be your VOIP or your video
 messaging. All these are using the same communication lines, but
 they&apos;re packaging data in different ways. They&apos;re using different
@@ -1017,7 +1010,6 @@ actually be able to move a little bit or add another computer to that
 network, and I just get a new IP address. 
 
 No one has to learn the Motte make and model of my computer. 
-
 Finalize the TCP/IP integration in <span class="hilite">1978</span>. This was IP Version 4, it&apos;s
 delivering packets from secure host with an IP address over the server
 network. I just typed in the IP address. I may not even know now
@@ -1027,10 +1019,8 @@ sending it there. Vint Cerf and Bob Kahn, they&apos;re working together on
 the IEEE paper in 1974. 
 
 Solidifying this, giving the argument of why it should be this way. 
-
 Then they&apos;re experimenting for several years before we settle on IP3
 Version 3, and that is the first launch. 
-
 From there then we get <span class="hilite">1979</span>, we have USENET, which is the first true
 Internet dial-up. They&apos;re using IP addresses to build communication
 between two computers, not just having what we had before where you&apos;re
@@ -1093,47 +1083,33 @@ compatible with every operating system. How does he know? 
 Because Tim Berners-Lee is actually going to every type of IBM computer
 at the time, and he&apos;s learning the OS, and he&apos;s figuring out how to
 write code that can interact with any of them. 
-
 Now what will happen is when you&apos;re building a website, Apple, for
 instance, has built a browser that talks to Apple. 
-
 You download a browser like Chrome, but you downloading the Apple
 version, Chrome then will communicate with your website, and you only
 have to write one file, and it communicates with any browser out there. 
 
 You don&apos;t have to write a Windows-specific or a Mac-specific version of
 your website. 
-
 That&apos;s the power of a website. 
-
 It can be pulled up anywhere because the handling of communicating with 
 the OS is after the fact. 
-
 The HTML, CSS, and JavaScript, they&apos;re universally understood by those
 browsers. 
-
 That&apos;s what Tim Berners-Lee is starting here to be able to build that
 universal language for any computer to be able to talk to each other. 
-
 He gets Enquire, it&apos;s unified, it works with networks. 
-
 More than just talking to a browser, he makes sure it&apos;s universal on
 the disc formats, the data formats, and the character encoding schemas.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-5">1.5 History of the Web - Part 3 (11:27)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 This is where we start the slow growth of the Internet, starts to go
 ARPANET. 
-
 We switch over. ARPANET, remember was that network of university
 computers. 
-
 They see the TCP/IP and they&apos;re like, this is genius, let&apos;s adopt it. 
-
 It allows now other people to join their network. 
-
 It&apos;s still centrally controlled, but now people from outside are
 starting to join, so that by <span class="hilite">1987</span> we have 30,000 users. 
 
@@ -1150,14 +1126,11 @@ to dial it up, but by doing w.w.google, I can say this is who I want to
 talk to, and the registry, the network can now change IP. 
 
 If I move between universities, because I have ww.danielkrieglstein.com, 
-
 I can take that with me, and I can get a new IP address, and attach it
 to that, ww.danielkrieglstein.com. 
-
 This makes the web start to become more fluid, so I can take my address
 with me as I move around, and I don&apos;t have to re-tell everyone my new
 address. 
-
 This is like if you lose your phone number for some reason, every time
 you get a new phone, you get to keep your phone number now, back in my
 day, you got a new phone number every time you got a new cell phone 
@@ -1165,79 +1138,56 @@ and you had to tell everyone your new phone number, it was very
 annoying. 
 
 But luckily, that didn&apos;t last very long. 
-
 National Science Foundation, they start putting their supercomputers
 online, and they create the core of the interinstitutional network. 
-
 This network becomes the base of the web of the Internet, and soon these
 centralized organizations step aside, and the web itself starts growing
 organically. 
-
 Now that we have these, Tim Berners-Lee says, I have this network, 
 
 I have this communication, I&apos;ve built this tool for talking to a
 computer. 
-
 Tim Berners-Lee comes back into the scene after inventing kind of the
 open net, being able to talk to any computer, and he again gives us the
 World Wide Web. 
-
 He says, instead of being able to talk to a computer, say give me this
 file. 
-
 I want to have like a home page, where I go and I&apos;m talking to CERN
 now. 
-
 CERN has a page that tells me, maybe a director of what&apos;s there, and
 I&apos;m using my hypertext to navigate around. 
 
 He gives us this concept of this epereal Cloud, where I don&apos;t even know
 where the files are stored. 
-
 I&apos;m talking to the file itself, and I&apos;m asking a file to give me a
 different file, and I&apos;m navigating around a website. 
 
 He writes down HTML, HTP, and the URL. 
-
 How do I navigate? Then he gives us the first browser, the WWW. 
-
 How do we navigate these pages? 
-
 Pretty powerful stuff, so much so that if we go here, this website still
 exists. 
-
 This is hosted by CERN. 
-
 It&apos;s info.cern.ch, which is the Swiss acronym at the time, but there
 were no country codes, there was just the web. 
 
 He was obviously building the first website. 
-
 This is it. This is what the first website looks like, pretty wild, and
 it&apos;s still there, still being hosted by CERN. 
-
 You can navigate around those files. 
-
 Some of the files don&apos;t exist anymore, but definitely still can go
 there. 
 
 To emphasize how small the web still was, even though we had 30,000
 hosts, Tim Berners-Lee actually built what he thought was a model of the
 entire web at the time. 
-
 This is a flow chart. 
-
 You have down in the right hand corner, CERN. 
-
 For instance, you have IBM&apos;s group talks, and this was great. 
-
 You actually paid money to have someone update a chat log on a website. 
-
 You would have like a scientific conversation going, and you would pay
 like &dollar;7. 
-
 You would send an email to the host server, and then they would type in 
-
 the website your comment and your response. 
 
 That&apos;s how the first group chats were, where you actually told
@@ -1250,17 +1200,13 @@ Defense and Universities, hierarchical systems throughout computer
 conferencing. 
 
 There was just a handful of these, and the document flow around there. 
-
 Tim Berners-Lee was able to map out the entire network at that time. 
-
 But that didn&apos;t last, because once we get these core tools, where
 anyone can jump on, we see an explosion in the &apos;90s. 
 
 Even when we see that explosion, it still takes huge steps that are wild
 at when these things came about. 
-
 1990 ARPANET is decommissioned. 
-
 This is important, because this is where the US Department of Defense, 
 the universities that are in network, they realize there is no longer 
 a central organization or a central network. 
@@ -1270,29 +1216,22 @@ effort, and the webs also grows with these oversight committees, and
 things like that. 
 
 1990 CompuServe had thousands of moderated forums. 
-
 Again, I was explaining these forms, you would literally email in your
 comment and they&apos;d be added to the discussion, it&apos;s quite wild. 
-
 1991, AOL enters the Internet game, and this is where you got a little
 hard disk, you put it in, and you would type up Internet, and it would
 use a T line or something at the time, but most people weren&apos;t quite
 using the dial up yet, that comes a few years later. 
 
 AOL starts getting home Internet to people. 
-
 1991 is Neverwinter Nights, it becomes the first interactive game online
 where I&apos;m playing a game with other people. 
-
 It was graphical at the time. 
-
 I remember playing, it was quite fun. 
-
 I was really excited to try and play in character, but also trying to
 figure out where in the world the other players I was with were. 
 
 1993, we get Mosaic. 
-
 Most people are entering the Internet using AOL&apos;s closed system
 Mosaic developed by Marc Andreessen at the University of Illinois,
 Champaign Urbana. 
@@ -1302,14 +1241,10 @@ first free browser that you don&apos;t have to be paying AOL to join the
 Internet once we get those browsers, and again, AOL dominates at time. 
 
 But this is what we think of as a Chrome browser. 
-
 The access to the Internet is free. 
-
 No one thinks in the US and Europe should I pay to access to the
 Internet. 
-
 Some closed systems out there in the world. 
-
 You still have to access through certain points. 
 
 But we think of the Internet today as I open my browser and I can
@@ -1333,21 +1268,16 @@ know, you think of this old ancient institution, you think of, men in
 robes, and they&apos;re not really forward thinking. 
 
 They&apos;re holding on to old traditions. 
-
 They realize this is a thing we need to get on the Internet. 
-
 A famous CEO at the time thought it was still a trend that the Internet
 would pass and we&apos;d go back to businesses old as it used to be. 
-
 Some people are being left behind, but people are starting to realize
 this is the new way of doing business. 
 
 1996, we get Hotmail, I don&apos;t have to have this software on my computer
 that manages my email. 
-
 I actually can go onto a website, and this is the norm now for most
 people. 
-
 But for instance, like when my mom retired from her position at
 teaching, she didn&apos;t quite understand that all the email on her computer was
 actually out there in the web. 
@@ -1357,9 +1287,7 @@ was called Hotmail at the time. 
 
 But you really can access the Microsoft Hotmail and see your email there
 as well. 
-
 1997, we get the Weblog, what you now know of as a blog. 
-
 The idea of putting your thoughts out there, any person themselves can
 start talking about it started as a Weblog. 
 We get the NASA Pathfinder, and I want to emphasize less than a decade
@@ -1367,7 +1295,6 @@ before, we had 30,000 network computers. 
 
 Now a decade later, we have 49 million independent daily visitors 
 watching Pathfinder land on the moon. 
-
 I mean, that&apos;s amazing how quickly this grew within a decade, 1998,
 Google gives us PageRank, prioritizes search results instead of
 being pushed content by companies, Google is starting to map out the web
@@ -1377,7 +1304,6 @@ question or do this search. 
 We want to emphasize what most of them found most useful. The web
 becomes more democratized based on our decision and making that we&apos;re
 doing. 
-
 We&apos;re now able to find information that we want. Napster in 1999, this
 is the first truly decentralized, massively used software where instead
 of having local companies managing content, we have the user themselves. 
@@ -1385,11 +1311,8 @@ of having local companies managing content, we have the user themselves. 
 This is not quite social media, but this is the start of the idea that I
 am a content creator with Napster I&apos;m a hoster, I&apos;m uploading computer
 music and I&apos;m sharing with friends. 
-
 But it&apos;s the start of this decentralized concept. 
-
 Wikipedia, 2001, Facebook, 2004. Think about where you are today. 
-
 2004 is not that long ago, that&apos;s the height of social media starting
 before that, we had Friendster and Myspace, people were using them, but
 it was mostly kids. 
