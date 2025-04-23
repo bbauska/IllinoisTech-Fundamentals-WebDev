@@ -2,14 +2,14 @@
 title: "Illinois Technology Fundamentals of Web Development"
 author: "Brian Bauska (bbauska)"
 date first editted: "4/1/2025 12+pm"
-date last editted: "4/10/2025 Thu 6+pm"
+date last editted: "4/23/2025 Wed 1+pm"
 output: 
   markdown:
     with some style
 ---
 
 <h1 align="center">Fundamentals of Web Development</h2>
-<h6 align="center">(by Illinoi Tech)</h6>
+<p align="center"><small><small><(by Illinoi Tech)</small></small></p>
 
 <!-- ![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
