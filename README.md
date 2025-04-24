@@ -9,7 +9,7 @@ output:
 ---
 
 <h1 align="center">Fundamentals of Web Development</h2>
-<p align="center"><small><small>(by Illinoi Tech)</small></small></p>
+<p align="center"><small><small>(by Illinois Tech)</small></small></p>
 
 <!-- ![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
