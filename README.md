@@ -3,6 +3,7 @@ title: "Illinois Technology Fundamentals of Web Development"
 author: "Brian Bauska (bbauska)"
 date first editted: "4/1/2025 12+pm"
 date last editted: "4/23/2025 Wed 1+pm"
+date last editted: "4/28/2025 Mon 12+pm"
 output: 
   markdown:
     with some style
@@ -511,59 +512,47 @@ assess your ability to apply the knowledge you have acquired throughout
 the course. Be sure to review the course material thoroughly before
 taking the assessment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**START HERE -- Illinois Tech's Fundamentals of Web Development**
+<h1>START HERE -- Illinois Tech's Fundamentals of Web Development</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="wk1">Week 1: Internet Structures and an Introduction to HTML</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Welcome to Fundamentals of Web Development! This course will cover the
-creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
-graphical applications as well as the client and server architecture of
-the Internet and related web technologies. Students will be able to
-create and deploy a Web site with multiple pages and cross-linked
-structures by the end of this course. In Module 1, students are
-introduced to the world of web development, starting with writing basic
-HTML scripts and publishing them on GitHub and GitHub Pages. It
-elucidates the roles and functions of the internet&apos;s core
-technologies - HTML, CSS, and JavaScript - and differentiates how
-browsers operate uniquely compared to other computer applications.
-Students will become proficient in using essential tools for internet
-publishing and code archiving, including text editors and GitHub,
-coupled with an understanding of live hosting practices. Additionally,
-the course offers insights into the physical infrastructure of the
-internet, focusing on server technology, and providing a holistic view
-of the digital landscape from code creation to global connectivity.</p>
+<p>Welcome to Fundamentals of Web Development! This course will cover the creation of Web 
+pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as 
+the client and server architecture of the Internet and related web technologies. Students 
+will be able to create and deploy a Web site with multiple pages and cross-linked structures 
+by the end of this course.</p>
 
-Learning Objectives
+<p>In Module 1, students are introduced to the world of web development, starting with 
+writing basic HTML scripts and publishing them on GitHub and GitHub Pages. It elucidates 
+the roles and functions of the internet&apos;s core technologies - HTML, CSS, and JavaScript 
+- and differentiates how browsers operate uniquely compared to other computer applications.
+Students will become proficient in using essential tools for internet publishing and code 
+archiving, including text editors and GitHub, coupled with an understanding of live hosting 
+practices. Additionally, the course offers insights into the physical infrastructure of the
+internet, focusing on server technology, and providing a holistic view of the digital 
+landscape from code creation to global connectivity.</p>
 
-  -   Explain how a browser operates differently from all other computer
-    applications.
-
-  -   Explain the role and function of internet's physical infrastructure
-    (i.e., Server Technology).
-
-  -   Use the key technologies of internet publishing and code archiving
-    (Text Editors, Github, Live Hosting).
-
-  -   Explain what HTTP requests are used for.
-
-  -   Write basic HTML script and publish it to Github and Github Pages.
-
-  -   Explain the role and function of the internet's key technologies
-    (HTML, CSS and JS).
-
+<h4>Learning Objectives</h4>
+<ul>
+  <li>Explain how a browser operates differently from all other computer applications.</li>
+  <li>Explain the role and function of internet's physical infrastructure (i.e., Server Technology).</li>
+  <li>Use the key technologies of internet publishing and code archiving (Text Editors, 
+    Github, Live Hosting).</li>
+  <li>Explain what HTTP requests are used for.</li>
+  <li>Write basic HTML script and publish it to Github and Github Pages.</li>
+  <li>Explain the role and function of the internet's key technologies (HTML, CSS and JS).</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-1">1.1 Course Overview (7:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Hello and welcome to fundamentals of web development. My name is
-Professor Krieglstein. We&apos;re going to start with a course
-introduction. 
+<p>Hello and welcome to fundamentals of web development. My name is Professor Krieglstein. 
+We&apos;re going to start with a course introduction.</p>
 
-First lesson is how the web came to be and what it is that
-you&apos;re actually working on when you&apos;re building a website. We&apos;re
-going to learn how websites are built and specifically, not how to build
-a website because you can go on any sort of free website builder, you
-can build a website, but you may not understand it. Like asking AI to do
-your math for you. You&apos;re going to get the right answer but you&apos;re not
+<p>First lesson is how the web came to be and what it is that you&apos;re actually working 
+on when you&apos;re building a website. We&apos;re going to learn how websites are built 
+and specifically, not how to build a website because you can go on any sort of free 
+website builder, you can build a website, but you may not understand it. Like asking AI 
+to do your math for you. You&apos;re going to get the right answer but you&apos;re not
 going to understand it. What I want you to be able to do by the end of
 this class is take one of those builders where you&apos;re building your own
 website, and be able to go behind the scenes and make it your own. Make
@@ -682,17 +671,17 @@ you to reach out and ask for help. Thank you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-2">1.2 Module/Week 1: Introduction to HTML (2:00)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Welcome to Module 1, Internet Structures and an Introduction to HTML. 
+<p>Welcome to Module 1, Internet Structures and an Introduction to HTML.</p>
 
-Again, this is our fundamentals of web development course. In this
+<p>Again, this is our fundamentals of web development course. In this
 module, you&apos;re going to start with a nice introduction to the structure
 of the web. The goal of this lecture will be not so much that you have
 to write down notes or take a quiz, there&apos;s going to be a lot of
 information. It&apos;s more to help you conceptualize what the web actually
 is. Oftentimes, when we hear words like the cloud or the Internet, we
-have ideas of what it is. 
+have ideas of what it is.</p>
 
-But when we&apos;re building a website, it helps to have a good foundation
+<p>But when we&apos;re building a website, it helps to have a good foundation
 of that understanding of the history and where your website plays into
 that network. Then we&apos;ll have a tools of internet publishing. This is
 going to be really hands-on on how to downloading software, make sure it
@@ -706,58 +695,56 @@ something you really need to take notes on or stress about, but helping
 you frame the whole concept of website. Then the last two lessons in
 this module are going to be around introduction to the actual
 code itself and some basics of HTML, and we&apos;ll round out with a nice
-little lab on writing your basically your first website. Enjoy.
+little lab on writing your basically your first website. Enjoy.</p>
 
-Lecture Slides: History of the Web
+<h4>Lecture Slides: History of the Web</h4>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-3">1.3 History of the Web - Part 1 (10:11)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-In this first lesson, I don&apos;t want you to have to take notes or worry
+<p>In this first lesson, I don&apos;t want you to have to take notes or worry
 about learning all this information. It&apos;s more about helping you frame
 what a website is and how it plays into an ecosystem, a network of
-computers. 
+computers.</p>
 
-And how young the Internet is, and specifically how exciting it is to
-get involved at this stage. Because we&apos;re about to take the next step
-in the next few years into wearable devices that allow us to navigate
-websites in 3D. So, what you think of the web, how you understand the
-web, or cloud computing, that&apos;s all still very young and about to
-change. And I want to emphasize that with this lecture, and I hope it
-gets you more excited about your role and kind of that you&apos;re still at
-the beginning of this whole thing. And can help frame how we use it
-and where we go with what the tools we have today are. 
+<p>And how young the Internet is, and specifically how exciting it is to get involved at 
+this stage. Because we&apos;re about to take the next step in the next few years into 
+wearable devices that allow us to navigate websites in 3D. So, what you think of the web, 
+how you understand the web, or cloud computing, that&apos;s all still very young and about 
+to change. And I want to emphasize that with this lecture, and I hope it gets you more 
+excited about your role and kind of that you&apos;re still at the beginning of this whole 
+thing. And can help frame how we use it and where we go with what the tools we have today 
+are.</p>
 
-Starting off, <span class="hilite">1972</span> is the first email and <span class="hilite">1991</span> 
-is the first web page. This is just a few decades ago, less than a single lifetime. We
-get into the first browser in <span class="hilite">1993</span>, eBay and JavaScript. Again, we&apos;re
-learning about JavaScript as a core element of the Internet. And that&apos;s
-just <span class="hilite">1995</span>, that&apos;s not that long ago. We&apos;re inventing JavaScript before
-we even figure out what to do with JavaScript or how to make it an
-integral part of the websites that we use. Ebay is our first shopping
-experience. And this was literally, you sent an email, I want to buy
-this item that you&apos;re advertising, and then you&apos;d send your credit
-card information and they would ship you the item. There was no
-collecting of your credit card information on the website. So we&apos;ve
-come a long way in a very short time. Google is <span class="hilite">1998</span>, that&apos;s almost
-this century. Facebook, social media, that starts at the beginning of
-the century. The iPhone, the first true handheld computer, that&apos;s
-2007. And remember, that&apos;s their first one. The BlackBerry before that
-kind of started this innovation, but the first time we really get people
-outside of business getting excited about surfing websites or talking to
-each other, that&apos;s the iPhone. And it takes a couple of years for that
-to catch on and for people to really start using websites. That early
-website, I remember that, I had to build iPhone specific website, had
-dot m at the end, and then I had to build my website for computers. So
-all our content was kind of built double. You&apos;re going to learn how to
-build one website that can be shown anywhere, and that&apos;s exciting. But
-let&apos;s jump back, <span class="hilite">1963</span>. So, the core idea of having a computer, having a
-phone, having a tablet, and that talks to another computer, cell or
-tablet. Before it was just two computers, and we had two computers could
-send a file between each other. And in starting that process of thinking
-what that could possibly lead to, we have this idea of Hypertext. 
+<p>Starting off, <span class="hilite">1972</span> is the first email and 
+<span class="hilite">1991</span> is the first web page. This is just a few decades ago, 
+less than a single lifetime. We get into the first browser in <span class="hilite">1993</span>, 
+eBay and JavaScript. Again, we&apos;re learning about JavaScript as a core element of the 
+Internet. And that&apos;s just <span class="hilite">1995</span>, that&apos;s not that long 
+ago. We&apos;re inventing JavaScript before we even figure out what to do with JavaScript 
+or how to make it an integral part of the websites that we use. Ebay is our first shopping
+experience. And this was literally, you sent an email, I want to buy this item that you&apos;re 
+advertising, and then you&apos;d send your credit card information and they would ship you the 
+item. There was no collecting of your credit card information on the website. So we&apos;ve 
+come a long way in a very short time.</p>
 
-Instead of having one file move from here to there, we start to have a
+<p>Google is <span class="hilite">1998</span>, that&apos;s almost this century. Facebook, social 
+media, that starts at the beginning of the century. The iPhone, the first true handheld 
+computer, that&apos;s 2007. And remember, that&apos;s their first one. The BlackBerry 
+before that kind of started this innovation, but the first time we really get people 
+outside of business getting excited about surfing websites or talking to each other, 
+that&apos;s the iPhone. And it takes a couple of years for that to catch on and for 
+people to really start using websites. That early website, I remember that, I had to 
+build iPhone specific website, had dot m at the end, and then I had to build my website 
+for computers. So all our content was kind of built double. You&apos;re going to learn 
+how to build one website that can be shown anywhere, and that&apos;s exciting. But
+let&apos;s jump back, <span class="hilite">1963</span>. So, the core idea of having 
+a computer, having a phone, having a tablet, and that talks to another computer, cell or
+tablet. Before it was just two computers, and we had two computers could send a file 
+between each other. And in starting that process of thinking what that could possibly 
+lead to, we have this idea of Hypertext.</p>
+
+<p>Instead of having one file move from here to there, we start to have a
 link within a file that says, I&apos;m referencing this other file somewhere
 else on the computer, and I&apos;m building what&apos;s considered a network of
 files that have some integration. So this is where we&apos;re even starting
