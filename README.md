@@ -506,15 +506,15 @@ modern responsive design practices.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk9">Week 9: Summative Course Assessment</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-This module contains the summative course assessment that has been
+<p>This module contains the summative course assessment that has been
 designed to evaluate your understanding of the course material and
 assess your ability to apply the knowledge you have acquired throughout
 the course. Be sure to review the course material thoroughly before
-taking the assessment.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+taking the assessment.</p>
+<!--********************************************************************************************-->
 <h1>START HERE -- Illinois Tech's Fundamentals of Web Development</h1>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="wk1">Week 1: Internet Structures and an Introduction to HTML</h2>
+<!--********************************************************************************************-->
+<h2 id="wk1">Week/Module 1: Internet Structures and an Introduction to HTML</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to Fundamentals of Web Development! This course will cover the creation of Web 
 pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as well as 
@@ -547,35 +547,39 @@ landscape from code creation to global connectivity.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hello and welcome to fundamentals of web development. My name is Professor Krieglstein. 
 We&apos;re going to start with a course introduction.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image here>
 <p>First lesson is how the web came to be and what it is that you&apos;re actually working 
-on when you&apos;re building a website. We&apos;re going to learn how websites are built 
-and specifically, not how to build a website because you can go on any sort of free 
-website builder, you can build a website, but you may not understand it. Like asking AI 
-to do your math for you. You&apos;re going to get the right answer but you&apos;re not
-going to understand it. What I want you to be able to do by the end of
-this class is take one of those builders where you&apos;re building your own
-website, and be able to go behind the scenes and make it your own. Make
-the color your own, put the right images in that fits the product
-or brand you&apos;re trying to develop. That&apos;s my goal. With this, we&apos;re
-going to learn three languages, HTML, CSS, and Javascript. With those
-three languages, it doesn&apos;t matter whether you&apos;re on a Mac, whether
-you&apos;re on a PC, whether you&apos;re on an Android phone, whether you&apos;re on
-a Samsung phone, whatever tool you&apos;re using to access the web, those
-three languages work everywhere. That&apos;s the power of the web. It&apos;s one
-code that fits every software or every device. Sorry about that. We&apos;re
-going to learn what&apos;s called standard compliance and we&apos;re going to
-make sure it&apos;s accessible. If you&apos;re building a website for, let&apos;s
-say, a two million dollars small, medium sized company, and you don&apos;t
-make it accessible to everyone. You&apos;re losing out on revenue. If
+on when you&apos;re building a website.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image here>
+<p>We&apos;re going to learn how websites are built and specifically, not how to build a website 
+because you can go on any sort of free website builder, you can build a website, but you may not 
+understand it. Like asking AI to do your math for you. You&apos;re going to get the right answer 
+but you&apos;re not going to understand it. What I want you to be able to do by the end of this 
+class is take one of those builders where you&apos;re building your own website, and be able to 
+go behind the scenes and make it your own. Make the color your own, put the right images in that 
+fits the product or brand you&apos;re trying to develop. That&apos;s my goal.</p>
+
+<p>With this, we&apos;re going to learn three languages, HTML, CSS, and Javascript. With those 
+three languages, it doesn&apos;t matter whether you&apos;re on a Mac, whether you&apos;re on 
+a PC, whether you&apos;re on an Android phone, whether you&apos;re on a Samsung phone, whatever 
+tool you&apos;re using to access the web, those three languages work everywhere. That&apos;s the 
+power of the web. It&apos;s one code that fits every software or every device. Sorry about that.</p>
+
+<p>We&apos;re going to learn what&apos;s called standard compliance and we&apos;re going to
+make sure it&apos;s accessible. If you&apos;re building a website for, let&apos;s say, a two 
+million dollars small, medium sized company, and you don&apos;t make it accessible to everyone. 
+You&apos;re losing out on revenue. If
 you&apos;re trying to build a non for profit website. You want to make sure
 that you&apos;re able to access every community that wants to access the
 information you&apos;re providing. That&apos;s what it means to make it standard
 compliant and accessible. You do not limit the user experience depending
 on their process of getting to your website. That&apos;s important because
 not all tools that build a website for you take that into
-consideration. That&apos;s what we&apos;re going to do with this course. Then
-we&apos;re going to teach you how to design handwritten code and coming back
+consideration. That&apos;s what we&apos;re going to do with this course.</p>
+
+<p>Then we&apos;re going to teach you how to design handwritten code and coming back
 to this idea, you can go on an AI now and ask them to build your website
 and it&apos;s going to use many of the tools out there. It&apos;s going to put
 it together. It&apos;s going to look pretty but you&apos;re not going to know
@@ -587,16 +591,18 @@ tables, learning how to handwrite out an equation before you pick up a
 calculator. Before you start going to statistics softwares. When you
 start using those tools, you&apos;re going to understand what it is that&apos;s
 actually being delivered to the consumer and you&apos;re going to be able to
-take control of that. That&apos;s my goal of this class. 
+take control of that. That&apos;s my goal of this class.</p>
 
-As far as the core structure, something I want to emphasize here that&apos;s
+<p>As far as the core structure, something I want to emphasize here that&apos;s
 going to be different from how you might have learned coding. If you
 took a few online sessions or you watched a few videos, they&apos;re going
 to try and teach you the website&apos;s whole structure. What I&apos;m going to
 do is I want to emphasize what each one of these three languages does
 so you understand when something needs to be changed. You&apos;re looking at
 the structure of what needs to be changed, and you know which language
-to look at to change it. We&apos;re going to start with just HTML. It&apos;s
+to look at to change it.</p>
+
+<p>We&apos;re going to start with just HTML. It&apos;s
 going to feel like an empty space. Everything&apos;s going to be left
 justified on the screen. There&apos;s not going to be any colors. You&apos;re
 not going to have pretty fonts and you&apos;re going to want to
@@ -604,54 +610,52 @@ instinctually put some borders on things and make your website pretty
 but this first few lessons is just going to be that skeleton of HTML, so
 you understand the limitations of HTML, but more importantly you
 understand how to write it correctly. That allows the other two codes to
-build off of that. Next we&apos;re going to move on to CSS, add some CSS to
+build off of that.</p>
+
+<p>Next we&apos;re going to move on to CSS, add some CSS to
 what you&apos;ve already built with your HTML website. You&apos;re going to
 have some labs throughout there taking you step by step but once you add
 that CSS, your HTML skeleton will be so perfect that it actually make it
 easier to write the CSS. Something you may not be able to achieve if you
-learn them in tandem. 
+learn them in tandem.</p>
 
-Finally, we could have a whole entire separate lecture on just
+<p>Finally, we could have a whole entire separate lecture on just
 Javascript. I&apos;m going to teach you some of the basics of Javascript and
 I&apos;m going to teach you how to cut and paste into your HTML and
 CSS, some key Javascript codes, like a Google Maps API, a little image
 slider, so you&apos;ll understand what it is and how you can plug that into
-your HTML. 
+your HTML.</p>
 
-Most Javascript that works on the web is already really well written by
-someone else. Your job usually is a website admin, is to be able to make
-sure it integrates properly into your HTML and CSS. You don&apos;t have to
-write it from scratch, and that&apos;s kind of what you&apos;re going to get
-from this class. 
+<p>Most Javascript that works on the web is already really well written by someone else. 
+Your job usually is a website admin, is to be able to make sure it integrates properly 
+into your HTML and CSS. You don&apos;t have to write it from scratch, and that&apos;s 
+kind of what you&apos;re going to get from this class. The ability to look at someone 
+else&apos;s Javascript, say that&apos;s a really good application, I&apos;d like to 
+implement on my website. You&apos;re going to be able to do that.</p>
 
-The ability to look at someone else&apos;s Javascript, say that&apos;s a really
-good application, I&apos;d like to implement on my website. You&apos;re going to
-be able to do that. Again, the HTML is going to be our content
-layer. CSS is going to be our style or design. The Javascript is that
-interactivity. It brings the web to life. For this class don&apos;t
-worry, you&apos;re going to have a video after this one on how to download
+<p>Again, the HTML is going to be our content layer. CSS is going to be our style or 
+design. The Javascript is that interactivity. It brings the web to life. For this class 
+don&apos;t worry, you&apos;re going to have a video after this one on how to download
 the software on which software you need but essentially you&apos;re going to
 need these core tools. A Github account, Github Desktop, which is
 separate from a Github account, a plain text code editor, I recommend
 Notepad++ if you&apos;re using a PC Textwrangler, which I&apos;m pretty sure
-comes native in Mac or Sublime, which is a multi platform. 
+comes native in Mac or Sublime, which is a multi platform.</p>
 
-I will be demoing Notepad++ for PC, and that&apos;s going to look most like
+<p>I will be demoing Notepad++ for PC, and that&apos;s going to look most like
 Sublime. If you&apos;re comfortable with the Textwrangler Mac, you can use
 that, but I would recommend maybe downloading Sublime if you haven&apos;t
 committed to one, because it&apos;ll be easier to understand from my
-lessons. 
-
-Image editor of your choice. We want to understand how to make images
+lessons. Image editor of your choice. We want to understand how to make images
 accessible, not have huge multi megabyte images on tiny downloads for
 cell phones. I&apos;ll teach you how to do that. Then at least three
 different browsers, Chrome, Opera, Firefox, or Edge. The reason I
 say three because if you interview for a job after this, it looks very
 professional that you&apos;re the one who&apos;s going to look at how this
 website looks on multiple browsers. It&apos;s not just enough to look at one
-browser and make sure that your website looks the way you want it to. 
+browser and make sure that your website looks the way you want it to.</p>
 
-You want to be the person who tests it on different things. Always Edge
+<p>You want to be the person who tests it on different things. Always Edge
 Microsoft is the outlier. If you can make it look good there, it looks
 good most anywhere in this day and age though, there&apos;s more browsers
 than that. If you&apos;re looking, for instance, on Instagram, you click on
@@ -666,21 +670,25 @@ lecture, if you ever feel like you&apos;re struggling. The goal of this
 class is introduction. I want you to feel comfortable engaging with
 those materials. If you&apos;re stressed out, chances are you&apos;re
 overthinking it or you&apos;re missing a key step and that&apos;s the time for
-you to reach out and ask for help. Thank you.
-
+you to reach out and ask for help. Thank you.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-2">1.2 Module/Week 1: Introduction to HTML (2:00)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to Module 1, Internet Structures and an Introduction to HTML.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image>
 <p>Again, this is our fundamentals of web development course. In this
 module, you&apos;re going to start with a nice introduction to the structure
-of the web. The goal of this lecture will be not so much that you have
+of the web.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>The goal of this lecture will be not so much that you have
 to write down notes or take a quiz, there&apos;s going to be a lot of
 information. It&apos;s more to help you conceptualize what the web actually
 is. Oftentimes, when we hear words like the cloud or the Internet, we
 have ideas of what it is.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
 <p>But when we&apos;re building a website, it helps to have a good foundation
 of that understanding of the history and where your website plays into
 that network. Then we&apos;ll have a tools of internet publishing. This is
@@ -696,9 +704,11 @@ you frame the whole concept of website. Then the last two lessons in
 this module are going to be around introduction to the actual
 code itself and some basics of HTML, and we&apos;ll round out with a nice
 little lab on writing your basically your first website. Enjoy.</p>
-
-<h4>Lecture Slides: History of the Web</h4>
-
+<h4>Module 1: Asset Library (code used in video demonstrations)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>1.2.1 Lecture Slides: History of the Web</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><a href="https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_1_demo">Module 1 Lecture Slides</a></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-3">1.3 History of the Web - Part 1 (10:11)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -715,7 +725,8 @@ to change. And I want to emphasize that with this lecture, and I hope it gets 
 excited about your role and kind of that you&apos;re still at the beginning of this whole 
 thing. And can help frame how we use it and where we go with what the tools we have today 
 are.</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
 <p>Starting off, <span class="hilite">1972</span> is the first email and 
 <span class="hilite">1991</span> is the first web page. This is just a few decades ago, 
 less than a single lifetime. We get into the first browser in <span class="hilite">1993</span>, 
@@ -725,20 +736,21 @@ ago. We&apos;re inventing JavaScript before we even figure out what to do with 
 or how to make it an integral part of the websites that we use. Ebay is our first shopping
 experience. And this was literally, you sent an email, I want to buy this item that you&apos;re 
 advertising, and then you&apos;d send your credit card information and they would ship you the 
-item. There was no collecting of your credit card information on the website. So we&apos;ve 
-come a long way in a very short time.</p>
+item. There was no collecting of your credit card information on the website.</p>
 
-<p>Google is <span class="hilite">1998</span>, that&apos;s almost this century. Facebook, social 
-media, that starts at the beginning of the century. The iPhone, the first true handheld 
-computer, that&apos;s 2007. And remember, that&apos;s their first one. The BlackBerry 
+<p>So we&apos;ve come a long way in a very short time. Google is <span class="hilite">1998</span>, 
+that&apos;s almost this century. Facebook, social media, that starts at the beginning of the 
+century. The iPhone, the first true handheld computer, that&apos;s 2007. And remember, 
+that&apos;s their first one. The BlackBerry 
 before that kind of started this innovation, but the first time we really get people 
 outside of business getting excited about surfing websites or talking to each other, 
 that&apos;s the iPhone. And it takes a couple of years for that to catch on and for 
 people to really start using websites. That early website, I remember that, I had to 
 build iPhone specific website, had dot m at the end, and then I had to build my website 
 for computers. So all our content was kind of built double. You&apos;re going to learn 
-how to build one website that can be shown anywhere, and that&apos;s exciting. But
-let&apos;s jump back, <span class="hilite">1963</span>. So, the core idea of having 
+how to build one website that can be shown anywhere, and that&apos;s exciting.</p>
+
+<p>But let&apos;s jump back, <span class="hilite">1963</span>. So, the core idea of having 
 a computer, having a phone, having a tablet, and that talks to another computer, cell or
 tablet. Before it was just two computers, and we had two computers could send a file 
 between each other. And in starting that process of thinking what that could possibly 
@@ -747,12 +759,16 @@ lead to, we have this idea of Hypertext.</p>
 <p>Instead of having one file move from here to there, we start to have a
 link within a file that says, I&apos;m referencing this other file somewhere
 else on the computer, and I&apos;m building what&apos;s considered a network of
-files that have some integration. So this is where we&apos;re even starting
-to think about integration and networking, is this Hypertext. And
-that&apos;s Ted Nelson, coined that term Hypertext. What we&apos;re using now,
-HTTPS, Hypertext linking, we&apos;re going to use our href, or Hypertext
-reference, those are all still languages we use within our HTML. And
-this is the IBM Computer 360, Model 91. This thing is massive, takes up
+files that have some integration.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>So this is where we&apos;re even starting to think about integration and networking, 
+is this Hypertext. And that&apos;s Ted Nelson, coined that term Hypertext. What we&apos;re 
+using now, HTTPS, Hypertext linking, we&apos;re going to use our href, or Hypertext 
+reference, those are all still languages we use within our HTML.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>And this is the IBM Computer 360, Model 91. This thing is massive, takes up
 a whole room. It&apos;s installed in NASA in <span class="hilite">1968</span>, and there&apos;s actually
 only 15 ever built. But its top speed at the time was 6.3 megabytes. And
 that means what would happen is it&apos;s transmitting 64 bits of logic, we
@@ -760,9 +776,9 @@ still transmit 64 bits of logic at a time, it&apos;s how we communicate,
 but it&apos;s the speed at which it does it. It does it at that time in four
 nanoseconds. Now we&apos;re sending that millions of times a second to
 communicate. So you have 6.3 megabytes of memory it&apos;s holding, you&apos;re
-talking to this computer using paper punch cards. 
+talking to this computer using paper punch cards.</p>
 
-You don&apos;t even have a keyboard you&apos;re typing in. You&apos;re trying to
+<p>You don&apos;t even have a keyboard you&apos;re typing in. You&apos;re trying to
 make it do equations, and it&apos;s storing only up to 6.3 megabytes of an
 equation at a time. So at this point you basically have a computer that
 can run an equation, give you an answer, run an equation, give you an
@@ -773,17 +789,17 @@ time, there wasn&apos;t Windows and Mac, there was this computer built by
 IBM, and IBM built an operating system for that specific computer. So
 there&apos;s only 15 of them, the operating system they built was for these
 15 computers. It couldn&apos;t be used anywhere else. But it was the first,
-what we call out of order operation. 
+what we call out of order operation.</p>
 
-So instead of having, at this time the standard computer, as I said, one
+<p>So instead of having, at this time the standard computer, as I said, one
 equation, calculate after the other, it was the first time you had the
 processor be able to get two different equations and do them out of
 order and give you a kind of complex answer. And this kind of complexity
 of being able to look at things differently than the computer at
 different time frames is the kernel of being able to network between two
-computers. 
+computers.</p>
 
-Because files aren&apos;t coming to those computers at the same time and it needs to put that data 
+<p>Because files aren&apos;t coming to those computers at the same time and it needs to put that data 
 together to build a website. And you&apos;ll learn this when we have websites. You have your CSS file, 
 your HTML file, your JavaScript file, they may come at different times of the computer. It&apos;s
 all in nanoseconds, we can&apos;t comprehend it, but the computer is getting these things out of 
@@ -792,42 +808,42 @@ understand these are the files, this is how I present the data. This is the st
 want to emphasize, at the time they paid &dollar;6 million to have one of these installed and you would 
 have a team member trained how just to use this. That was their whole job, was to use this 
 computer. And other people would come with problems, and they take their punch card, that
-one person entered in. 
-
-&dollar;6 million, pause the video, pull up an inflation calculator, and see
+one person entered in. &dollar;6 million, pause the video, pull up an inflation calculator, and see
 how much that was actually in today&apos;s dollars. These things were
-expensive. 
-
-But the computer of the day, the most popular was IBM&apos;s 360, Model 30. 
-
+expensive.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>But the computer of the day, the most popular was IBM&apos;s 360, Model 30. 
 There&apos;s a link out to it. It did 8 to 64 kilobytes memory. You may not
 even know what a kilobyte is. This thing was small. It was big, but it
 was small compared to today&apos;s computer. And companies couldn&apos;t even
 afford, most companies rented it out for &dollar;8,000 a month. And again, a
 specially trained person would work on it. It was released in 1964, but
 it was the computer of the day in 1969, everyone had one of these. And
-it was grossing IBM roughly a billion dollars a year. What made this a
-next step in computer networking was that CompuServe came around and
+it was grossing IBM roughly a billion dollars a year.</p>
+
+<p>What made this a next step in computer networking was that CompuServe came around and
 they developed the Dial-Up system for sending files. Now, this is not
 what you think of <span class="hilite">1990s</span> Dial-Up where you beep boop, boop, and then
 there&apos;d be some data transfer. This was literally the computer had a
 phone number and it called the CompuServe phone number, and it would
 send a single file, and it would take some time. And then CompuServe
-would have that file and 
-
-be able to enter into another computer. So it wasn&apos;t really two
+would have that file and be able to enter into another computer. So it wasn&apos;t really two
 computers talking yet. But this is the first concept of trying to take
 digital language and put it into an analog system like a telephone so we
-could start networking. With that, we have Arpanet. So Arpanet&apos;s taking
+could start networking.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>With that, we have Arpanet. So Arpanet&apos;s taking
 these two inventions, being able to send digital signals over analog
 lines before we have T-lines and digital kind of lightning speed with
 fiber optics, and they&apos;re building networks between computers. Now,
 instead of what you might think of with servers and kind of
 routers, this was literally just two computers talking to each
 other. And so much what they were doing is just sending files back and
-forth. And it had to be the same computer. 
+forth. And it had to be the same computer.</p>
 
-So, because the file was packaged in that computer&apos;s operating
+<p>So, because the file was packaged in that computer&apos;s operating
 language, it would have to send it to another computer of the exact same model so 
 that you could send that file back and forth. So this was mostly just
 computer labs and science labs in these universities and some government
@@ -838,9 +854,9 @@ was the first packet switch network, where you had, send it here, you
 would go from maybe University of Michigan to University of Denver,
 and then Denver would send that same file onwards. So packet switch,
 grab it, store it, send it forward, that&apos;s the store and forward packet
-switching. 
+switching.</p>
 
-But it was just computer change, there was no routers, no networking, no
+<p>But it was just computer change, there was no routers, no networking, no
 saying, hey, here&apos;s an address. I actually typed the name of that
 computer and I would send it to the next computer in maybe the next
 university that was directly connected and then that would take it, and
@@ -850,54 +866,53 @@ involved? It was the Advanced Research Projects Agency, which was the
 United States epartment of Defense, the Rand Corporation, and of course,
 all these universities that were involved. The Rand at the time kind of
 being the go-to research organization that did a lot of government
-contracting. 
+contracting.</p>
 
-They were deeply involved in trying to understand this. But I want to
+<p>They were deeply involved in trying to understand this. But I want to
 emphasize, actually as a Midwest boy, a lot of the Midwest universities
 were actually instrumental in some of these early inventions. So,
 University of Illinois and University of Michigan were two of the
 leading research universities inventing a lot of these tools. And then
 to a lesser extent, University of Wisconsin and Notre Dame University in
-Indiana.
+Indiana.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-4">1.4 History of the Web - Part 2 (12:13)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-We have these pocket switching, they&apos;re just sending files back and 
+<p>We have these pocket switching, they&apos;re just sending files back and 
 forth along comes Ray Tomlinson, and he says, sometimes I&apos;m using these
 files just to send a communication and I need something a little more
 impermanent than a file that&apos;s sent back and forth. 
-
 Maybe like mimicking the mail where I&apos;m just sending some instructions
 on how to use something or I want to say hi and he frames out the whole
-concept of what we now call email. 
-
-He&apos;s working for Bolt, Barni and Newman, which was a subsidiary of 
+concept of what we now call email.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>He&apos;s working for Bolt, Barni and Newman, which was a subsidiary of 
 the military contractor Raytheon in Massachusetts, Cambridge,
 Massachusetts. He alone may be talking with friends, but he writes out
 this document where he comes up with the idea of a header, CC, BCC. 
-
 If I want to add someone or if I want to blind add someone to the
 email, he chooses the @ sign. Again, the @ sign was not a web domain. 
-
 It was Daniel Krieglstein @ maybe Kim, let&apos;s see, Daniel Krieglstein
 Mit&apos;s IBM 361 computer. That would be the @ symbol and the address you
 would have talking between these two computers. Then separate the user
 from the computer model, not necessarily the web domain yet, that
 didn&apos;t exist. 
-
 Email was adopted later, Ray Tomlinson was calling it FTP mail file
 transfer protocol mail, which was a funny little name but eventually
-later we adopted the name email. 
-
+later we adopted the name email.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
 This is actually Ray Tomlinson and his team and if you want to jump on
 this website data tracker, this was the original proposal for how email
 should work. Subjects headers, understanding it and how it would have
 flowed between two computers. It&apos;s pretty wild how new all this
 is, this isn&apos;t the ancient technology. We still have all the
-documentation that brought this stuff to life.
-
-Now we jump to Robert Kahn, <span class="hilite">1973-1974</span> and Robert and his team, they come
+documentation that brought this stuff to life.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>Now we jump to Robert Kahn, <span class="hilite">1973-1974</span> and Robert and his team, they come
 up with TCP. Before we have FTP file transfer protocol, this is how I
 send a full file between two computers. To make the Internet work and to
 really having this network where the file can get to a computer multiple
@@ -909,9 +924,9 @@ goes one way, maybe through these routers, and then my HTML file finds
 it&apos;s faster to send it down through Texas and up through these fiber
 optic lines, it gets to the computer at the other side. FTP is the
 language the computer used to combine those files and make sure nothing
-was lost. 
+was lost.</p>
 
-These files are taking different routes through the fiberoptic,
+<p>These files are taking different routes through the fiberoptic,
 underground under seas, everywhere and FTP is the language that is
 used. In working out its reliability assurance so yes, your data arrived
 as intended, which means I need some language to know what is intended
@@ -921,16 +936,16 @@ originating computer saying, hey, I didn&apos;t get this thing that it was
 supposed to be there. I don&apos;t see it in the file structures I received.
 Can you send it again? Then ordered, make sure it&apos;s rearranging those
 files back into the structure of what the web page should look
-like, what is the first page? Things like that. 
+like, what is the first page? Things like that.</p>
 
-Accurate delivery is emphasized over timely delivery. This is important
+<p>Accurate delivery is emphasized over timely delivery. This is important
 with TCP and I&apos;m going to contrast this with what we may have as VOIP
 video. TCP, may not have your website load instantly. We have fiber
 optics sometimes you&apos;re amazed. Your website is just like, I pull up a
 website from India in the US and it&apos;s like pow, it&apos;s right there it
-blows the mind how fast light can transfer that information. 
+blows the mind how fast light can transfer that information.</p>
 
-But sometimes you notice it takes a minute to load and that&apos;s because
+<p>But sometimes you notice it takes a minute to load and that&apos;s because
 TCP will wait to make sure the website loads how it&apos;s supposed to
 instead of having any errors in it. When we do something like
 calling someone over Wi-Fi or we have video conferencing, which we&apos;re
@@ -943,27 +958,25 @@ in your video chats or you have some dropped information or their
 screen pauses is because they&apos;re trying to get the information there
 quickly, but it&apos;s not accurate and sometimes one of the files just took
 a wrong turn and never ended up where we&apos;re supposed to do so you get a
-screen freeze. 
+screen freeze.</p>
 
-This is what happens with your websites. Because your website emphasizes
+<p>This is what happens with your websites. Because your website emphasizes
 accuracy, you often don&apos;t notice this happening in the network. A lot
 of files get dropped. Another good way to emphasize this is those of you
-who play maybe video games that are over the internet. 
+who play maybe video games that are over the internet.</p>
 
-If you see sometimes up in the corner, it talks about files dropped or
+<p>If you see sometimes up in the corner, it talks about files dropped or
 your loss rate. These are the files that make up when you&apos;re
 transferring and communicating with other players playing with you
 online files get lost, they just disappear into the network. 
-
 Website emphasizes, again, making sure the website gets where
 it&apos;s supposed to, as accurate as possible. 
+Even it may take a little bit of delay.</p>
 
-Even it may take a little bit of delay. 
-Now we&apos;re starting to see the structure of the world wide web we
+<p>Now we&apos;re starting to see the structure of the world wide web we
 haven&apos;t invented the world wide web yet, but the world wide web
 has many different file transfer protocols, many different ways to send
 data. 
-
 File transfer protocols, TCP, we have email, we have secure shell, which
 is direct one to one communication. 
 We have peer to peer file sharing, which is where you have networks of 
@@ -973,9 +986,10 @@ messaging. All these are using the same communication lines, but
 they&apos;re packaging data in different ways. They&apos;re using different
 wavelengths of the light beams to communicate those symbols. That&apos;s a
 whole profession and understanding how that works. 
-
 I&apos;m just getting you an introduction of what it is when you&apos;re sending
-a website back and forth. We take TCP, the transfer protocol for sending
+a website back and forth.</p>
+<!-- image -->
+<p> We take TCP, the transfer protocol for sending
 these files, and package data, and we add the IP address. This is
 important, because up to this point with Arpanet, we have computer
 talking to computer, talking to the next computer. We don&apos;t have
@@ -1012,13 +1026,13 @@ From there then we get <span class="hilite">1979</span>, we have USENET, which 
 Internet dial-up. They&apos;re using IP addresses to build communication
 between two computers, not just having what we had before where you&apos;re
 talking to a phone and the phone is just downloading a file and then
-you&apos;re inputting into a computer. 
-
-That&apos;s Tom Truscott and Steve Bellovin are giving us that first true
+you&apos;re inputting into a computer.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>That&apos;s Tom Truscott and Steve Bellovin are giving us that first true
 dial-up. Now we have the framework, we have a network out there, we&apos;re
 starting to figure out how to package files that they can be loosely
 sent. 
-
 I don&apos;t have to know the exact physical location or the model of each
 computer, and I&apos;m starting to write language that is universally able
 to be used anywhere. 
@@ -1030,7 +1044,10 @@ enjoying some of those great &apos;80s movies. 
 
 This is where the internet is still just in its infancy.  It&apos;s not even
 really called the Internet yet and we&apos;re not able to navigate. There
-are no websites. Comes 1980, this is where the birth of the
+are no websites.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p> Comes 1980, this is where the birth of the
 Internet. You have Tim Berners-Lee, really should be a better-known name
 throughout the world. 
 
@@ -1091,19 +1108,21 @@ the disc formats, the data formats, and the character encoding schemas.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-5">1.5 History of the Web - Part 3 (11:27)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-This is where we start the slow growth of the Internet, starts to go
-ARPANET. 
-We switch over. ARPANET, remember was that network of university
-computers. 
-They see the TCP/IP and they&apos;re like, this is genius, let&apos;s adopt it. 
+<!-- image -->
+<p>This is where we start the slow growth of the Internet, starts to go
+ARPANET. We switch over. ARPANET, remember was that network of university
+computers.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>They see the TCP/IP and they&apos;re like, this is genius, let&apos;s adopt it. 
 It allows now other people to join their network. 
 It&apos;s still centrally controlled, but now people from outside are
 starting to join, so that by <span class="hilite">1987</span> we have 30,000 users. 
 
 Basically small universities, businesses, research labs are starting to join up getting 
-IP addresses, and being able to talk with these universities. 
+IP addresses, and being able to talk with these universities.</p>
 
-In <span class="hilite">&apos;94</span>, we have the DNS domain system. 
+<p>In <span class="hilite">&apos;94</span>, we have the DNS domain system. 
 The DNS is your www.google.com, the English language version of a website name. 
 What we&apos;re doing now is we&apos;re separating what I, as the user type into
 my browser. 
@@ -1129,9 +1148,10 @@ National Science Foundation, they start putting their supercomputers
 online, and they create the core of the interinstitutional network. 
 This network becomes the base of the web of the Internet, and soon these
 centralized organizations step aside, and the web itself starts growing
-organically. 
-Now that we have these, Tim Berners-Lee says, I have this network, 
-
+organically.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>Now that we have these, Tim Berners-Lee says, I have this network, 
 I have this communication, I&apos;ve built this tool for talking to a
 computer. 
 Tim Berners-Lee comes back into the scene after inventing kind of the
@@ -1151,21 +1171,23 @@ different file, and I&apos;m navigating around a website. 
 
 He writes down HTML, HTP, and the URL. 
 How do I navigate? Then he gives us the first browser, the WWW. 
-How do we navigate these pages? 
-Pretty powerful stuff, so much so that if we go here, this website still
+How do we navigate these pages?</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image of the first website>
+<p>Pretty powerful stuff, so much so that if we go here, this website still
 exists. 
 This is hosted by CERN. 
 It&apos;s info.cern.ch, which is the Swiss acronym at the time, but there
 were no country codes, there was just the web. 
-
 He was obviously building the first website. 
 This is it. This is what the first website looks like, pretty wild, and
 it&apos;s still there, still being hosted by CERN. 
 You can navigate around those files. 
 Some of the files don&apos;t exist anymore, but definitely still can go
-there. 
-
-To emphasize how small the web still was, even though we had 30,000
+there.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>To emphasize how small the web still was, even though we had 30,000
 hosts, Tim Berners-Lee actually built what he thought was a model of the
 entire web at the time. 
 This is a flow chart. 
@@ -1180,36 +1202,35 @@ the website your comment and your response. 
 That&apos;s how the first group chats were, where you actually told
 someone, there&apos;s one person who could actually create that website and manage
 it, but people were calling in and paying to have their comments added to
-it, quite wild. 
+it, quite wild.</p>
 
-You have the ENQUIRE system hosted by the US Military, Department of
+<p>You have the ENQUIRE system hosted by the US Military, Department of
 Defense and Universities, hierarchical systems throughout computer
-conferencing. 
-
-There was just a handful of these, and the document flow around there. 
+conferencing. There was just a handful of these, and the document flow around there. 
 Tim Berners-Lee was able to map out the entire network at that time. 
 But that didn&apos;t last, because once we get these core tools, where
-anyone can jump on, we see an explosion in the &apos;90s. 
+anyone can jump on, we see an explosion in the &apos;90s.</p>
 
-Even when we see that explosion, it still takes huge steps that are wild
-at when these things came about. 
-1990 ARPANET is decommissioned. 
+<p>Even when we see that explosion, it still takes huge steps that are wild
+at when these things came about.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>1990 ARPANET is decommissioned. 
 This is important, because this is where the US Department of Defense, 
 the universities that are in network, they realize there is no longer 
 a central organization or a central network. 
-
 We are all just now part of the web, and so they decommission their
 effort, and the webs also grows with these oversight committees, and
-things like that. 
+things like that.</p>
 
-1990 CompuServe had thousands of moderated forums. 
+<p>1990 CompuServe had thousands of moderated forums. 
 Again, I was explaining these forms, you would literally email in your
-comment and they&apos;d be added to the discussion, it&apos;s quite wild. 
-1991, AOL enters the Internet game, and this is where you got a little
+comment and they&apos;d be added to the discussion, it&apos;s quite wild.</p>
+
+<p>1991, AOL enters the Internet game, and this is where you got a little
 hard disk, you put it in, and you would type up Internet, and it would
 use a T line or something at the time, but most people weren&apos;t quite
 using the dial up yet, that comes a few years later. 
-
 AOL starts getting home Internet to people. 
 1991 is Neverwinter Nights, it becomes the first interactive game online
 where I&apos;m playing a game with other people. 
@@ -1218,7 +1239,7 @@ I remember playing, it was quite fun. 
 I was really excited to try and play in character, but also trying to
 figure out where in the world the other players I was with were. 
 
-1993, we get Mosaic. 
+<p>1993, we get Mosaic. 
 Most people are entering the Internet using AOL&apos;s closed system
 Mosaic developed by Marc Andreessen at the University of Illinois,
 Champaign Urbana. 
@@ -1237,31 +1258,30 @@ You still have to access through certain points. 
 But we think of the Internet today as I open my browser and I can
 navigate well, that had to be taken from what was already built by Tim
 Berners-Lee, and Marc Andreessen and his team, Andreessen. 
+They give us that browser to freely surf and go around the Internet.</p>
 
-They give us that browser to freely surf and go around the Internet. 
-
-1994, AOL starts bringing real dial up and this is where every kid at
+<p>1994, AOL starts bringing real dial up and this is where every kid at
 home on their Apples and their Macs at the time or their IBM
 computers, they&apos;re now accessing the Internet and they&apos;re starting to
-figure out what this thing is and maybe do some homework not everyone. 
+figure out what this thing is and maybe do some homework not everyone.</p>
 
-But that&apos;s 1995, AOL extends their search engine and they dominate
-Internet search, and from there, the true explosion happens. 
-
-1995, we get online shopping, eBay, Amazon, Geocities is your first
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>But that&apos;s 1995, AOL extends their search engine and they dominate
+Internet search, and from there, the true explosion happens. 1995, we get 
+online shopping, eBay, Amazon, Geocities is your first
 build your own website, and I want to emphasize here the freaking
 Vatican gets a website, and why do I emphasize the Vatican is, you
 know, you think of this old ancient institution, you think of, men in
 robes, and they&apos;re not really forward thinking. 
-
 They&apos;re holding on to old traditions. 
 They realize this is a thing we need to get on the Internet. 
 A famous CEO at the time thought it was still a trend that the Internet
 would pass and we&apos;d go back to businesses old as it used to be. 
 Some people are being left behind, but people are starting to realize
-this is the new way of doing business. 
+this is the new way of doing business.</p>
 
-1996, we get Hotmail, I don&apos;t have to have this software on my computer
+<p>1996, we get Hotmail, I don&apos;t have to have this software on my computer
 that manages my email. 
 I actually can go onto a website, and this is the norm now for most
 people. 
@@ -1273,41 +1293,42 @@ She thought she had to download it all and move it to her computer, what
 was called Hotmail at the time. 
 
 But you really can access the Microsoft Hotmail and see your email there
-as well. 
-1997, we get the Weblog, what you now know of as a blog. 
+as well.</p>
+<p>1997, we get the Weblog, what you now know of as a blog. 
 The idea of putting your thoughts out there, any person themselves can
 start talking about it started as a Weblog. 
 We get the NASA Pathfinder, and I want to emphasize less than a decade
 before, we had 30,000 network computers. 
-
 Now a decade later, we have 49 million independent daily visitors 
 watching Pathfinder land on the moon. 
-I mean, that&apos;s amazing how quickly this grew within a decade, 1998,
+I mean, that&apos;s amazing how quickly this grew within a decade.</p>
+
+<p>1998,
 Google gives us PageRank, prioritizes search results instead of
 being pushed content by companies, Google is starting to map out the web
 in a way that says, this is what users want to see when they ask this
 question or do this search. 
-
 We want to emphasize what most of them found most useful. The web
 becomes more democratized based on our decision and making that we&apos;re
-doing. 
-We&apos;re now able to find information that we want. Napster in 1999, this
+doing. We&apos;re now able to find information that we want.</p>
+
+<p>Napster in 1999, this
 is the first truly decentralized, massively used software where instead
 of having local companies managing content, we have the user themselves. 
 
 This is not quite social media, but this is the start of the idea that I
 am a content creator with Napster I&apos;m a hoster, I&apos;m uploading computer
 music and I&apos;m sharing with friends. 
-But it&apos;s the start of this decentralized concept. 
-Wikipedia, 2001, Facebook, 2004. Think about where you are today. 
+But it&apos;s the start of this decentralized concept.</p>
+<p>Wikipedia, 2001, Facebook, 2004. Think about where you are today. 
 2004 is not that long ago, that&apos;s the height of social media starting
 before that, we had Friendster and Myspace, people were using them, but
 it was mostly kids. 
 YouTube videos online, that&apos;s just 2005. Twitter, truly the beginning 
 of the downside of social media, and we&apos;re start seeing the dark forces
-take over, and then the first computer on a phone. 
+take over, and then the first computer on a phone.</p>
 
-2007, the iPhone. That is not that long ago, that&apos;s just a few decade
+<p>2007, the iPhone. That is not that long ago, that&apos;s just a few decade
 or so ago, I guess more than a decade, but not quite two decades. 
 We have now 75% of Internet access approaching your website is going to
 be on mobile phones. 
@@ -1318,32 +1339,51 @@ It&apos;s going to change. You&apos;re going to have more tools, more power th
 ever before, and you can be part of companies helping integrate that. 
 
 Watching this grow, it&apos;s a pretty exciting time to be part of web
-development. 
-Go in, enjoy these next couple of lectures. Get your software
+development. Go in, enjoy these next couple of lectures. Get your software
 downloaded. 
 This is one of the only lecture videos in this course. 
 But I hope it helps frame where our website is and what it is you&apos;re
-helping build in the network you now belong to. Cheers.
+helping build in the network you now belong to. Cheers.</p>
+
+<h4>Lesson 1 Video Reference Page</h4>
+1.	The first computer with out-of-order operations processing: 
+	a.	Author: IBM
+	b.	Link: IBM's History of System/360 Model 91
+    https://web.archive.org/web/20230923082536/https:/www.ibm.com/ibm/history/exhibits/mainframe/mainframe_PP2091.html	
+2.	The first computer with a primitive dial-up service: 
+	a.	Author: Ken Shirriff: 
+	b.	Link: Iconic consoles of the IBM System/360 mainframes, 55 years old
+	https://www.righto.com/2019/04/iconic-consoles-of-ibm-system360.html
+3.	The original research paper mapping the functionality of email (at the time "FTP Mail"):
+	a.	Author: Abhay Bhushan, Ken Pogran, Ray Tomlinson, Jim White 
+	b.	Link: Standardizing Network Mail Headers 
+	https://datatracker.ietf.org/doc/html/rfc561
+4.	The first-ever website:
+	a.	Author: Tim Berners-Lee
+	b.	Link: Home of the First Website 
+    https://info.cern.ch/
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-6">1.6 The Tools of Internet Publishing -- Part 1 (8:20)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-In lesson two, we&apos;re going to cover the basics of publishing a
-website, specifically what you need to download and how to use them. 
-All right, we&apos;re going to need a GitHub account. 
+<p>In lesson two, we&apos;re going to cover the basics of publishing a 
+website, specifically what you need to download and how to use them.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>All right, we&apos;re going to need a GitHub account. 
 This is a web based tool. 
 We&apos;re going to need to download Notepad++ or a similar tool. 
 I&apos;ll explain that in a second. 
-And then GitHub desktop. 
-So starting with text editors, I&apos;m going to be demoing code editing
+And then GitHub desktop.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>So starting with text editors, I&apos;m going to be demoing code editing
 with Notepad++. But that&apos;s a Windows only product. 
 TextWrangler comes native in Mac. 
 But I highly recommend you download Sublime text. It&apos;s a lot closer to
 Notepad++, and you&apos;ll be able to follow along a lot easier than if you
 just use TextWrangler. But I want to emphasize go on Wikipedia
-comparison of text editors. 
-
-There are tons of them. 
-Eventually once you get past this class, you&apos;ll want to talk to friends
+comparison of text editors. There are tons of them.</p>
+<p>Eventually once you get past this class, you&apos;ll want to talk to friends
 in the industry or wherever you&apos;re working. 
 Influencers online, find out different pros and cons of text editors. 
 There&apos;s really no right or wrong choice. 
@@ -1353,31 +1393,35 @@ thrown around to push products. 
 So look for sites like Tom&apos;s Guide, other ones where the influencers
 and the raiders are a little less biased, little less pushing of product. 
 I&apos;m not going to choose one or the other or push one, but definitely
-beware of what is being advertised to you in different videos. 
-All right, so I&apos;m going to pull up my Firefox here and we&apos;re going to
+beware of what is being advertised to you in different videos.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>All right, so I&apos;m going to pull up my Firefox here and we&apos;re going to
 go to download Notepad ++. 
 Pretty simple instructions, click on it. 
 We&apos;re going to do latest and go through the setup process. 
-I already have it. So this is a code editor. 
-
-This is Notepad++ specifically, key difference from other maybe text
+I already have it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>So this is a code editor. This is Notepad++ specifically, key difference from other maybe text
 editors or writing code in a Microsoft Word document if you will, is
 that once you&apos;ve written a document in HTML identified as HTML or CSS
 JavaScript as we&apos;re doing later, the code editor will color coordinate
-the code for you. 
-
-So here for instance, I have opened a HTML head and it&apos;s not only color
+the code for you.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>So here for instance, I have opened a HTML head and it&apos;s not only color
 coordinated as an element, but you&apos;ll see, I have my opening and
 closing tags correlated here, and they&apos;re color coordinated and easily
-linked by the highlight you&apos;ll see there. 
-Here you&apos;ll see an HTML comment in green, you have attributes in red, 
+linked by the highlight you&apos;ll see there.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>Here you&apos;ll see an HTML comment in green, you have attributes in red, 
 and you&apos;ll have other hints when there&apos;s errors in your code popping
-up. 
-But generally it makes it a lot easier to write code when you have these
-very specific color coordinations. 
-
-So that&apos;s something you want to look for in a code editor. 
-Now that we have our code editor, we&apos;re going to create a GitHub
+up. But generally it makes it a lot easier to write code when you have these
+very specific color coordinations. So that&apos;s something you want to look for 
+in a code editor.</p>
+<p>Now that we have our code editor, we&apos;re going to create a GitHub
 account, back to Firefox. 
 We&apos;re going to search for GitHub create account. 
 You can join there or if you need a little documentation on how to
@@ -1386,49 +1430,47 @@ But you&apos;ll see, I will jump right into my GitHub account. 
 Very simply, we want to start with your repositories. 
 A nice home screen shows all my repositories and link people who are
 linked to me. 
-I&apos;m going to keep this open. 
-And next we&apos;re going to want to download GitHub desktop. Very
+I&apos;m going to keep this open.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>And next we&apos;re going to want to download GitHub desktop. Very
 straightforward installation instructions. Warning, you must have a 64
 bit operating system for downloading this. 
-
 There is a Mac version and a Windows version. 
-
-View the download page, download it. 
-
-Once you have GitHub desktop downloaded, you will have a tool that looks
+View the download page, download it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>Once you have GitHub desktop downloaded, you will have a tool that looks
 like this. 
-
 And very simply, you can grab your websites when they&apos;re linked up. 
-
 And I&apos;ll show you how to do that in a second. 
-
 And it color coordinates code changes between your desktop and the web
 version. 
-
 Now that our tools are set up, we&apos;re going to want to create our first
-GitHub repository. 
-
-I&apos;ve created this checklist here for creating a repository, but I&apos;m
-going to demo it all inside of GitHub. 
-
-All right, so first thing we&apos;re going to want to do from anywhere, if
+GitHub repository.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>I&apos;ve created this checklist here for creating a repository, but I&apos;m
+going to demo it all inside of GitHub.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>All right, so first thing we&apos;re going to want to do from anywhere, if
 we&apos;re going overview repositories, we have this top bar up here. 
-
 You always have this plus sign. 
-
-And we want to create a new repository. 
-
-First thing we need to do is give our repository a name, test repo. 
-
+And we want to create a new repository.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>First thing we need to do is give our repository a name, test repo. 
 You&apos;ll notice it&apos;s doing a subtle check there to make sure I don&apos;t
 have that repository name anywhere else in my site. 
-
 Don&apos;t mess with the owner. 
 Obviously I can choose from a lot of different ownership links I have. 
 You&apos;re likely only to have one. 
 So description, creating test repo for demo use. 
-All right, we want to keep it public. 
-Very important here, we need to add a README file. 
+All right, we want to keep it public.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>Very important here, we need to add a README file. 
 So we&apos;re clicking there. 
 A README file, it&apos;s just a generic file. 
 We eventually want to put some information about this repository in the
@@ -1442,32 +1484,36 @@ for the most part we can ignore that now. 
 License, I recommend an MIT license, but you might want to do a
 research, figure out which one you find more comfortable. 
 If you want to put a license at all, I do recommend you do. 
-And we&apos;re creating our repository. 
-We now have our test repo with our license file and our README.MD file. 
+And we&apos;re creating our repository.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>We now have our test repo with our license file and our README.MD file. 
 From here, if I wanted to say, add a little bit more context to my
-README, I can click edit. 
-
-I got my test repo as my name and I might want to change this to used 
+README, I can click edit.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>I got my test repo as my name and I might want to change this to used 
 in September of 1962 fall semester or something like that.
 So when I have hundreds of these sort of files, I might have a little
-reference of what this particular repository is for. 
-And now I&apos;m just going to commit my changes and I want to add a little
+reference of what this particular repository is for.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<p>And now I&apos;m just going to commit my changes and I want to add a little
 message, adding context to my README. 
 Every time you edit, you want to add just a little plain English text
 here to commit messages. 
-
 And you&apos;ll be getting graded on whether you do this or not in this
 course. 
-
 Because when you come back to edit, you want to be able to look through
 these plain English descriptions and see what this particular edit might
 have been about, instead of having to delve into each edit and the code
 that was committed. 
-
 So now I have some updated code and I can go up here. 
 Here&apos;s my README file. I&apos;m in my README file. 
-And this was the repository folder. 
-I can go to add a file. So create a new file. 
+And this was the repository folder.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image> 
+<p>I can go to add a file. So create a new file. 
 You&apos;ll see there&apos;s the test repo. And up here, if I wanted to create a
 new file. So let&apos;s call this new, one word we&apos;re using underscore
 file. 
@@ -1476,7 +1522,7 @@ So new file added in demo mode. 
 My changes throw away file. 
 Now I&apos;ve got new file, I&apos;ve got my README. 
 Ultimately though, I don&apos;t want to be doing editing on GitHub. 
-What I want to be doing is editing on my actual computer.
+What I want to be doing is editing on my actual computer.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-7">1.7 Tools of Internet Publishing -- Part 2 (6:56)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7045,114 +7091,49 @@ for your Project 2.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-9">5.9 Horizontal Navigation - Part 2 (6:00)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Then I clear both. That&apos;s going to be clearing and that&apos;s attached to
-this horizontal. If you go back here,
-you&apos;ll see H2 clear. I&apos;m attaching that to
-this horizontal 2. This thing doesn&apos;t float over there and it starts
-now a new navigation. You&apos;ll see here again, list style none,
-padding, margin. Overflow hidden is a
-nice thing to add, and we&apos;ll see if any of
+Then I clear both. That&apos;s going to be clearing and that&apos;s attached to this 
+horizontal. If you go back here, you&apos;ll see H2 clear. I&apos;m attaching that to
+this horizontal 2. This thing doesn&apos;t float over there and it starts now a new 
+navigation. You&apos;ll see here again, list style none, padding, margin. Overflow 
+hidden is a nice thing to add, and we&apos;ll see if any of these get super small. 
+You want to make sure that this is where we start working on media queries, which is 
+going to be a later lecture. You don&apos;t want them to stack like this, so we figure 
+out on smaller screens, how do we change this style. But right now, we&apos;re 
+just messing around. Here, you&apos;ll see I put a little background color all the way 
+across, so that is on my nav, I&apos;m going to put a little gray background color. Or 
+it could be on my UL, but I think it&apos;s on the nav, we&apos;ll see in a second here. 
+Everything else is the same in my HTML. Yeah, it&apos;s on the nav here. Here&apos;s my 
+background color. From our last week&apos;s lecture, you&apos;ll remember the resets.
+You&apos;ll see that even though I put the nav here, there&apos;s still this white space 
+here, that&apos;s that reset we want to get rid of. We&apos;re going to do a little
+background color, do a reset, and then the nav horizontal to the UL, you&apos;ll see 
+this is all the same here. Non padding margins on the UL, you&apos;ll see here the
+left, so we&apos;re floating left, but I&apos;m not putting any space between them. 
+You&apos;ll notice here, there&apos;s a little white space there. Here you&apos;ll 
+see the buttons go right up against each other, which is fine because normally you see 
+like, when you&apos;re not hovering over them, there&apos;s white space, and when you 
+hover over one to create that color, there&apos;s still spacing between them. You don&apos;t 
+really need that margin on the LI, because you&apos;re going to put it all on the actual 
+anchor. Here, ULL, then block display is blocked the same as before, and here you see 
+I&apos;m putting that padding, whereas here I put the padding on the top and bottom, 
+but then put margin on the left and right because it&apos;s not part of the box. Here, 
+you see I&apos;m putting the padding all around because I want it all to be the button. 
+Whereas here, this margin, let me just pop open the inspector here to remind you of this. 
+Here, this is my content area, the padding is part of the box and then the border. If I 
+put it as padding and I turn the box into a box element, this all becomes the anchor 
+then, and I can hover my mouse and click anywhere. Margin is not going to be part of the 
+anchor, and so this side out there, that&apos;s going to be space between , that&apos;s 
+not interactive. Here, I don&apos;t want that space. 
 
-these get super small. You want to make
-
-sure that this is where we start working
-
-on media queries, which is going to
-
-be a later lecture. You don&apos;t want them
-
-to stack like this, so we figure out on
-
-smaller screens, how do we change this style. But right now, we&apos;re
-
-just messing around. Here, you&apos;ll see I put a little background color
-
-all the way across, so that is on my nav, I&apos;m going to put a little
-
-gray background color. Or it could be on my UL, but I think it&apos;s on the
-nav, we&apos;ll see in a second here. Everything else is
-
-the same in my HTML. Yeah, it&apos;s on the nav here. Here&apos;s my background
-color. From our last week&apos;s lecture, you&apos;ll remember the resets.
-You&apos;ll see that even
-
-though I put the nav here, there&apos;s still this
-
-white space here, that&apos;s that reset we
-
-want to get rid of. We&apos;re going to do a little
-
-background color, do a reset, and then the nav
-
-horizontal to the UL, you&apos;ll see this is
-
-all the same here. Non padding margins on the UL, you&apos;ll see here the
-left, so we&apos;re floating
-
-left, but I&apos;m not putting any space between them. You&apos;ll notice here,
-there&apos;s
-
-a little white space there. Here you&apos;ll see the buttons go right up
-against each other, which is fine because
-
-normally you see like, when you&apos;re not
-
-hovering over them, there&apos;s white
-
-space, and when you hover over one to
-
-create that color, there&apos;s still spacing
-
-between them. You don&apos;t really need
-
-that margin on the LI, because you&apos;re going to put
-
-it all on the actual anchor. Here, ULL, then block display is blocked
-
-the same as before, and here you see I&apos;m
-
-putting that padding, whereas here I put the padding
-
-on the top and bottom, but then put margin on the left and right because
-it&apos;s
-
-not part of the box. Here, you see I&apos;m
-
-putting the padding all around because I want it
-
-all to be the button. Whereas here, this margin, let me just pop open
-the inspector here to
-
-remind you of this. Here, this is my content area, the padding is part
-of the
-
-box and then the border. If I put it as padding and I turn the box
-
-into a box element, this all becomes
-
-the anchor then, and I can hover my mouse
-
-and click anywhere. Margin is not going to
-
-be part of the anchor, and so this side out there, that&apos;s going to be
-space between , that&apos;s not interactive. Here, I don&apos;t want that space.
-Here, I do. We&apos;ll see again a little bit. Here, I&apos;m working
-
-on horizontal 2, I have the block,
-
-I have my color, all this becomes the
-same, text-weight bold. Then I have this, transform upper
-case, so this is, we&apos;ll talk a little
-bit about these in a whole lecture
-on transforming, but this is just an
-nice little fun thing, I&apos;m just showing some
-extra CSS that exists. If I hover over it, you&apos;ll see it&apos;s already all
-upper case, and you could put transform
-here on the hover, Control S, Refresh, and you&apos;ll see there
-then it makes it upper case, fun little
-things like that. Little subtleties you can do
-to mix things up a little. Just showing you some of the
-additional CSS that exists. Font-family, Arial, sans-serif, I&apos;m adding
+Here, I do. We&apos;ll see again a little bit. Here, I&apos;m working on horizontal 2, 
+I have the block, I have my color, all this becomes the same, text-weight bold. Then I 
+have this, transform upper case, so this is, we&apos;ll talk a little bit about these 
+in a whole lecture on transforming, but this is just an nice little fun thing, I&apos;m 
+just showing some extra CSS that exists. If I hover over it, you&apos;ll see it&apos;s 
+already all upper case, and you could put transform here on the hover, Control S, 
+Refresh, and you&apos;ll see there then it makes it upper case, fun little things like 
+that. Little subtleties you can do to mix things up a little. Just showing you some of 
+the additional CSS that exists. Font-family, Arial, sans-serif, I&apos;m adding
 a nice
 little font to it, and then nav horizontal
 2 on my anchor. Hover, I&apos;m creating that
@@ -7206,75 +7187,35 @@ navigation to your website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-10">5.10 Centered Navigation (11:20)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-So here you have the center nav
-is what we&apos;re going to focus on. So let&apos;s take a look at the code. So
-the first thing I&apos;m going to introduce, which is pretty fun is this
-little gradient colorzilla. So we can open that up colorzilla. And this
-is what you see at
-the top of the page here. This tiered or cascaded or gradient color.
-It&apos;s a pretty simple tool. Go look here, grab say a dark one. Move the
-shading a little
-bit more lighter. Also move this one and this one. Depending on the
-gradients,
+So here you have the center nav is what we&apos;re going to focus on. So let&apos;s take 
+a look at the code. So the first thing I&apos;m going to introduce, which is pretty fun 
+is this little gradient colorzilla. So we can open that up colorzilla. And this is what 
+you see at the top of the page here. This tiered or cascaded or gradient color. It&apos;s 
+a pretty simple tool. Go look here, grab say a dark one. Move the shading a little bit 
+more lighter. Also move this one and this one. Depending on the gradients, move it to 
+just one gradient of dark. You can also flip it so horizontal you can have the opacity. 
+So there&apos;s plenty of different things you can mess around with as far as how this 
+all looks. Here is vertical. It&apos;s pretty ugly I was just messing around with but 
+obviously you spend a little time, you can get something nice, easy, full like that. 
 
-move it to just one gradient of dark. You can also flip it so
-
-horizontal you can have the opacity. So there&apos;s plenty of
-
-different things you can mess around with as far
-
-as how this all looks. Here is vertical. It&apos;s pretty ugly I was just
-
-messing around with but obviously you spend a little time, you can
-
-get something nice, easy, full like that. And we are going to have
-
-then you grab this code, gives you the background gradient,
-
-and you just have to cut and paste it into your CSS and
-
-then attach it to something. So here attach it to the main header and
-actually let&apos;s give this the font px. Nice font size there. Refresh
-that. There&apos;s my font size, okay. So I have this little gradient put
-in,
-
-add a little height to that, drop the company name. We&apos;ll mess around a
-lot more
-
-with this in the next demo. My container then is what I&apos;m going to
-
-use a couple of different times here. So I put it as a class and
-
-you&apos;ll see that I can drop it here. I drop the container around my
-header so
-
-I could put it on the header itself. But here with the header I&apos;m going
-to
-
-have that stretch all the way across the content inside the header I
-
-want to fix inside that container. And then again on my navbar
-container, I&apos;m
-
-going to drop that container as a class. And what that allows for is
-even though
-
-my navigation bar here all looks like it stretches the background
-colors, I&apos;m going to use this container
-
-here multiple times to keep that nice subtle flow containing all
-
-the content within the same space. So even though this background
-
-then stretches across, this is centered within there,
-
-this is centered all looking very nice. So then I have my nav wrapping
-
-as separate from my header. So sometimes header wraps nav,
-
-sometimes nav is separate. In this case we want a separate navbar and
-
-a separate header. This is for instance, like IT will have
+And we are going to have then you grab this code, gives you the background gradient, 
+and you just have to cut and paste it into your CSS and then attach it to something. 
+So here attach it to the main header and actually let&apos;s give this the font px. 
+Nice font size there. Refresh that. There&apos;s my font size, okay. So I have this 
+little gradient put in, add a little height to that, drop the company name. We&apos;ll 
+mess around a lot more with this in the next demo. My container then is what I&apos;m 
+going to use a couple of different times here. So I put it as a class and you&apos;ll 
+see that I can drop it here. I drop the container around my header so I could put it on 
+the header itself. But here with the header I&apos;m going to have that stretch all the 
+way across the content inside the header I want to fix inside that container. And then 
+again on my navbar container, I&apos;m going to drop that container as a class. And what 
+that allows for is even though my navigation bar here all looks like it stretches the 
+background colors, I&apos;m going to use this container here multiple times to keep that 
+nice subtle flow containing all the content within the same space. So even though this 
+background then stretches across, this is centered within there, this is centered all 
+looking very nice. So then I have my nav wrapping as separate from my header. So 
+sometimes header wraps nav, sometimes nav is separate. In this case we want a separate 
+navbar and a separate header. This is for instance, like IT will have
 
 all types of institutional links up there but then have the main page
 navigation
@@ -10679,66 +10620,71 @@ different media a little more flexible. Navigation status and controls,
 of course, us. And that is the final lesson in this course on web
 development.
 
-**Lesson 4 Video Reference Page**
+<h4>Lesson 4 Video Reference Page</h4>
 
-Below is a list of the content referenced in the Lesson 4 Video.
+<p>Below is a list of the content referenced in the Lesson 4 Video.</p>
 
-**Author:** Open Source
+<p><b>Author:</b> Open Source</p>
 
-**Link:** [Foundation](https://get.foundation/)
-
+<p><b>Link:</b> [Foundation](https://get.foundation/)</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**Module 8 Summary**
+<h3>Module 8 Summary</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-After completing all of the materials, please take a moment to reflect
-on what was covered. The learning objectives below capture the key
-takeaways from this module:
-
--   Lesson 1: How-To: JavaScript Grab Objects and Change HTML
-
-    -   Students will be able to: Manipulate HTML using JS.
-
--   Lesson 2: JQuery Intro and Box Sliders
-
-    -   Students will be able to: Import and utilize a JQuery Box
-        Slider.  
-
--   Lesson 3: Responsive Videos
-
-    -   Students will be able to: Resize the width of their videos to be
-        responsive to a user's screen width.
-
--   Lesson 4: What This All Means for Using Website Frameworks
-
-    -   Students will be able to: Explain the value of this course when
-        working with website Frameworks.
-
+<p>After completing all of the materials, please take a moment to reflect on what was 
+covered. The learning objectives below capture the key takeaways from this module:</p>
+<ul>
+  <li>Lesson 1: How-To: JavaScript Grab Objects and Change HTML
+    <ul>
+      <li>Students will be able to: Manipulate HTML using JS.</li>
+    </ul>
+  </li>
+  <li>Lesson 2: JQuery Intro and Box Sliders
+    <ul>
+	  <li>Students will be able to: Import and utilize a JQuery Box Slider.</li>
+	</ul>
+  </li>
+  <li>Lesson 3: Responsive Videos
+    <ul>
+      <li>Students will be able to: Resize the width of their videos to be responsive to a 
+	    user's screen width.</li>
+	</ul>
+  </li>
+  <li>Lesson 4: What This All Means for Using Website Frameworks
+    <ul>
+	  <li>Students will be able to: Explain the value of this course when working with 
+	    website Frameworks.</li>
+	</ul>
+  </li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch8-7-3">8.7.3 Module 8 Summary</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>After completing all of the materials, please take a moment to reflect on what was 
+covered. The learning objectives below capture the key takeaways from this module:</p>
 
-After completing all of the materials, please take a moment to reflect
-on what was covered. The learning objectives below capture the key
-takeaways from this module:
+<ul>
+  <li>Lesson 1: How-To: JavaScript Grab Objects and Change HTML
+    <ul>
+	  <li>Students will be able to: Manipulate HTML using JS.</li>
+	</ul>
+  </li>
+  <li>Lesson 2: JQuery Intro and Box Sliders
+    <ul>
+      <li>Students will be able to: Import and utilize a JQuery Box Slider.</li>
+    </ul>
+  </li>
+  <li>Lesson 3: Responsive Videos
+    <ul>
+	  <li>Students will be able to: Resize the width of their videos to be responsive to a 
+	    user's screen width.</li>
+	</ul>
+  </li>
+  <li>Lesson 4: What This All Means for Using Website Frameworks
+	<ul>
+	  <li>Students will be able to: Explain the value of this course when working with 
+	    website Frameworks.</li>
+	</ul>
+  </li>
+</ul>
 
--   Lesson 1: How-To: JavaScript Grab Objects and Change HTML
-
-    -   Students will be able to: Manipulate HTML using JS.
-
--   Lesson 2: JQuery Intro and Box Sliders
-
-    -   Students will be able to: Import and utilize a JQuery Box
-        Slider.  
-
--   Lesson 3: Responsive Videos
-
-    -   Students will be able to: Resize the width of their videos to be
-        responsive to a user's screen width.
-
--   Lesson 4: What This All Means for Using Website Frameworks
-
-    -   Students will be able to: Explain the value of this course when
-        working with website Frameworks.
-
-the end...
+<p>the end...</p>
