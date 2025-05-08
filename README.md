@@ -5190,7 +5190,15 @@ takeaways from this module:
 
 <https://www.coursera.org/learn/illinois-tech-fundamentals-of-web-development/supplement/7uYqa/insights-from-an-industry-leader-learn-more-about-our-program>
 
-![](images/image002.png){width="5.0in" height="2.1148501749781277in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. () () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image002.png?raw=true"
+  style="width:5.0in"
+  title=""
+  alt="." />
+</p>
+<!-- ![](images/image002.png){width="5.0in" height="2.1148501749781277in"} -->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="wk4">Module/Week 4: CSS</h2>
@@ -9540,8 +9548,15 @@ should now have everything you need to implement the Google Maps API on
 your project website.
 
 **Lesson 3 Video Reference Page**
-
-![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. () () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image003.png?raw=true"
+  style="width:6.5in"
+  title=""
+  alt="." />
+</p>
+<!-- ![](media/image3.png){width="6.5in" height="0.29305555555555557in"} -->
 
 Below is a list of the content referenced in the Lesson 3 Video.
 
@@ -10194,7 +10209,14 @@ like and implement it somewhere on your Project Three. And that&apos;s the
 last tool you&apos;ll need to complete Project Three.
 
 **Lesson 2 Video Reference Page**
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03.  () () ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image003.png?raw=true"
+  style="width:2.0in"
+  title=""
+  alt="." />
+</p>
 ![](media/image3.png){width="6.5in" height="0.29305555555555557in"}
 
 Below is a list of the content referenced in the Lesson 2 Video.
