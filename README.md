@@ -2217,138 +2217,88 @@ Next, the browser takes that HTTP request, packages it up using your
 computer&apos;s networking card, and you have written the address using
 usually a URI. 
 
-Even though we call them URLs, what&apos;s the difference? 
+Even though we call them URLs, what&apos;s the difference?
 The URI is a uniform resource identifier. 
 It just has the file location and name. 
+
 If you look here, www.it.edu and maybe a /.logo. 
 It just telling me what type of file I&apos;m looking for. 
 URLwww.it.edu/log.png.
+
 I&apos;m looking for an image at iit.edu. 
-Subtle difference, but really, 
-no one cares if you never learn the difference. 
-Again, most of us just put in 
-www.iit.edu to find a website. 
-Very rarely do any of us 
-actually type in the resource we&apos;re looking for. 
+Subtle difference, but really, no one cares if you never learn the difference. 
+Again, most of us just put in www.iit.edu to find a website. 
+Very rarely do any of us actually type in the resource we&apos;re looking for. 
 But we call them URLs anyways, for the most part. 
 This is what a URL looks like. 
-It is specifically the application transfer protocol, 
-so almost always it&apos;s HTTP, 
+It is specifically the application transfer protocol, so almost always it&apos;s HTTP, 
 unless you&apos;re really doing some cool networking stuff. 
 This is just protocols:// and then the host names. 
 For the most part, when we&apos;re talking 
-about the Worldwide Web, 
-we&apos;re talking about the Web, WWW. 
-I&apos;ll talk about in 
-another slide what it means when that&apos;s not there. 
-I have my URL name, 
-New York Times, in this case, 
-that&apos;s the domain name and then the top level domain. 
+about the Worldwide Web, we&apos;re talking about the Web, WWW. 
+I&apos;ll talk about in another slide what it means when that&apos;s not there. 
+I have my URL name, New York Times, in this case, that&apos;s the domain name and then the 
+top level domain. 
 This is the address and the address book. 
 We talk, think about like an old school phone book. 
 There&apos;s a bunch of them. 
-There&apos;s.com,.edu.de for Germany,.nd for the Netherlands, 
-I think ca for Canada, cn for China. 
+There&apos;s.com,.edu.de for Germany,.nd for the Netherlands, I think ca for Canada, cn for China. 
 I&apos;m starting to push my knowledge of all of them here. 
-But essentially what you have is 
-this.com says in this directory here is the Web address. 
-I can have New York Times in.de, 
-I can have that same name in any one of these. 
-It&apos;s a phone book and 
-this name can be repeated through all of them. 
-But first, I look at this phone book, 
-then I look for this address and that&apos;s going to give me 
-the IP address location 
-of that server within the network. 
-It pings here, gets that 
-and then sends out to the server. 
-Everything after that slash then 
-is once I reach the server, 
-I&apos;m looking for now the file. 
-In this case I&apos;m looking for a folder when I land 
-on Newyorktimes.com named tech, 
-it should be on the top level page and within tech, 
-I&apos;m looking for a file named index.html. 
-I want to emphasize here case sensitivity, 
-because even though this 
-isn&apos;t case sensitive and this is, 
-you&apos;re going to start to find out that 
-the single most frustrating thing 
+But essentially what you have is this.com says in this directory here is the Web address. 
+I can have New York Times in.de, I can have that same name in any one of these. 
+It&apos;s a phone book and this name can be repeated through all of them. 
+But first, I look at this phone book, then I look for this address and that&apos;s going to 
+give me the IP address location of that server within the network. 
+
+It pings here, gets that and then sends out to the server. 
+Everything after that slash then is once I reach the server, I&apos;m looking for now the file. 
+In this case I&apos;m looking for a folder when I land on Newyorktimes.com named tech, it 
+should be on the top level page and within tech, I&apos;m looking for a file named index.html. 
+I want to emphasize here case sensitivity, because even though this isn&apos;t case sensitive 
+and this is, you&apos;re going to start to find out that the single most frustrating thing 
 most students do is they start to write out these paths. 
-They try and write a hyper link to it 
-and maybe they accidentally put the I is 
-all caps or the whole word is all caps or just the I. 
-Then in their path they make 
-it lower case and they can&apos;t find it. 
-Sometimes when you&apos;re working in 
-the Windows environment, it&apos;ll find it. 
-Then you go online into the Web and 
-it doesn&apos;t find that hyperlink text. 
-I emphasize, make sure you just 
-always write all your words, 
-all your file names, 
-everything in lower case 
-until it is mandated by the code to write it upper case. 
-It&apos;ll make your life a lot 
-easier when you&apos;re learning coding.
-I mentioned before I&apos;m going to talk about with no ww&apos;s, 
-so this is, again, 
-it&apos;s still HTTP protocol, 
-but this is the dark web. 
-It has a dark scary name, 
-but essentially it&apos;s just not indexed 
-in one of the.coms or.edus. 
+They try and write a hyper link to it and maybe they accidentally put the I is all caps or the 
+whole word is all caps or just the I. 
+Then in their path they make it lower case and they can&apos;t find it. 
+Sometimes when you&apos;re working in the Windows environment, it&apos;ll find it. 
+Then you go online into the Web and it doesn&apos;t find that hyperlink text. 
+I emphasize, make sure you just always write all your words, all your file names, everything 
+in lower case until it is mandated by the code to write it upper case. 
+It&apos;ll make your life a lot easier when you&apos;re learning coding.
+I mentioned before I&apos;m going to talk about with no ww&apos;s, so this is, again, 
+it&apos;s still HTTP protocol, but this is the dark web. 
+It has a dark scary name, but essentially it&apos;s just not indexed in one of the.coms or.edus. 
 It&apos;s not indexed on the Worldwide Web. 
-You can, anywhere 
-from any port if it&apos;s connected to the web, 
-you can write this address in and find it, 
-but you can&apos;t really search for it. 
+You can, anywhere from any port if it&apos;s connected to the web, you can write this address in 
+and find it, but you can&apos;t really search for it. 
 It&apos;s not getting indexed anywhere. 
-This, for instance, 
-is not even on the web, 
-it&apos;s on my home network. 
+This, for instance, is not even on the web, it&apos;s on my home network. 
 It&apos;s going to be local host. 
 This is the domain name and semi or colon 1, 2, 3, 4. 
-This might be maybe a router 
-or some type of smart device attached to my home network. 
+This might be maybe a router or some type of smart device attached to my home network. 
 I&apos;m looking at the local host there. 
-Then I&apos;m looking for, once I get to that local host, 
-a file inside its operating system called 
-HR services Version 1 users and then 
-here I have some parameters about that file 
-I&apos;m trying to extract or search for. 
-That&apos;s all the no WW really means, 
-it&apos;s somewhere on the network or on 
-the Web and it&apos;s not indexed. 
-Finally, we&apos;re going to talk about this with 
-HTTP requests in the next lecture. 
-But one last version of a search is what would be 
-a get request and then 
-maybe a search dataset put into it. 
+Then I&apos;m looking for, once I get to that local host, a file inside its operating system called 
+HR services Version 1 users and then here I have some parameters about that file I&apos;m trying 
+to extract or search for. 
+That&apos;s all the no WW really means, it&apos;s somewhere on the network or on the Web and 
+it&apos;s not indexed. 
+Finally, we&apos;re going to talk about this with HTTP requests in the next lecture. 
+But one last version of a search is what would be a get request and then maybe a search dataset 
+put into it. 
 You have your www.google.co.uk. 
-Then here I have search, 
-so I&apos;m using the search resource. 
+Then here I have search, so I&apos;m using the search resource. 
 But then I&apos;m putting this question mark in there. 
-After that question mark is actually going 
-to be compiled data. 
-I might have put into Google, 
-who is Jack Bauer and that&apos;s going to be a query. 
-This is how it&apos;s structured, gets equal, 
-plus sign between each of them. 
+After that question mark is actually going to be compiled data. 
+I might have put into Google, who is Jack Bauer and that&apos;s going to be a query. 
+This is how it&apos;s structured, gets equal, plus sign between each of them. 
 That gets sent back to Google. 
-Google then pulls up 
-its search results for that basically. 
-One more, so the non-direct is if 
-I&apos;m going to somewhere like iit.edu, 
-but I don&apos;t know where the actual file location is, 
-but I know I want to look for a specific file. 
+Google then pulls up its search results for that basically. 
+One more, so the non-direct is if I&apos;m going to somewhere like iit.edu, but I don&apos;t know 
+where the actual file location is, but I know I want to look for a specific file. 
 Here is a &#126;groups/index.html. 
-Means somewhere in iit.edu, 
-please look for groups SP, 
-maybe the Spanish group or something like that, 
-index.html. It&apos;s a general quest. 
-Very rarely do you use this, 
-it&apos;s more if you&apos;re talking to a server. 
+Means somewhere in iit.edu, please look for groups SP, maybe the Spanish group or something 
+like that, index.html. It&apos;s a general quest. 
+Very rarely do you use this, it&apos;s more if you&apos;re talking to a server. 
 You&apos;re managing, you&apos;re looking for file structure. 
 You might just do a quick search using the tilde. 
 That&apos;s in development, you might use this, but not so much when you&apos;re surfing the web. 
@@ -2357,84 +2307,74 @@ That is Module 1, Lesson 3, the browser as a tool.
 <h3 id="ch1-11">1.11 HTTP Requests (8:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Welcome to lesson 4 of module 1, HTTP Requests.
-Specifically, we&apos;re talking about how the client, your PC, your phone
-request files from a server, which is HTML, CSS, and JavaScript files. 
-The client parses the URI or the web address and sends that request for
-files to the server. 
-This is an example of what that looks like, so at the top, you can see
-here we have our GET method requesting index HTML. 
-It&apos;s going over HTTP 1 obviously is an older image, it&apos;s going to mark
-the date connection, some information about the host, who it&apos;s
-contacting, and where it&apos;s from, whether it was accepted. 
+Specifically, we&apos;re talking about how the client, your PC, your phone request files from 
+a server, which is HTML, CSS, and JavaScript files. 
+The client parses the URI or the web address and sends that request for files to the server. 
+This is an example of what that looks like, so at the top, you can see here we have our GET 
+method requesting index HTML. 
+It&apos;s going over HTTP 1 obviously is an older image, it&apos;s going to mark the date 
+connection, some information about the host, who it&apos;s contacting, and where it&apos;s 
+from, whether it was accepted. 
 
-If there was any form data or other such data that would be sent along
-with the request, it would be packaged here in the message of the body. 
+If there was any form data or other such data that would be sent along with the request, it 
+would be packaged here in the message of the body. 
 All of this, of course, is just a printout example. 
-The actual HTTP request would be sent in computer code over the
-Internet. 
+The actual HTTP request would be sent in computer code over the Internet. 
 We have seven types of HTTP requests we can make. 
 Only four of them are ever used really to communicate in web browsing. 
-The other three, a head trace and connect are generally used for server
-testing, 
-Internet testing, network testing, things like that. 
+The other three, a head trace and connect are generally used for server testing, Internet 
+testing, network testing, things like that. 
 The most common is GET. 
-You&apos;re going to make a GET request, basically get me this document, 
-any variable or form data is sent as part of the URL. 
+You&apos;re going to make a GET request, basically get me this document, any variable or 
+form data is sent as part of the URL. 
 
 If you see down here an example, that would be HP. 
-You&apos;re going to have your web domain web address as we went over, 
-you&apos;re going to get a question mark q=232 and name equals Joe. 
-This is going to be some data being sent and it&apos;s appended to the
-actual web domain after the question mark. 
-This is data for the served to process the data as q is 232 and then the
-name Joe. 
-It&apos;s unsecure and it really shouldn&apos;t be used to collect anything
-other than some really basic data when you&apos;re sending it back and forth. 
+You&apos;re going to have your web domain web address as we went over, you&apos;re going to 
+get a question mark q=232 and name equals Joe. 
+This is going to be some data being sent and it&apos;s appended to the actual web domain after 
+the question mark. 
+This is data for the served to process the data as q is 232 and then the name Joe. 
+It&apos;s unsecure and it really shouldn&apos;t be used to collect anything other than some 
+really basic data when you&apos;re sending it back and forth. 
 You&apos;ll see this a lot if it&apos;s just a search request. 
 If you&apos;re doing a Google search, you&apos;ll see this appended there. 
 Post is the second most common. 
 
-It&apos;s used often to send form data and instead of appending any form or variable data to the end 
-of the URL, it&apos;s actually going to encrypt it and package it in a secure file that&apos;s sent along 
-with the request. 
+It&apos;s used often to send form data and instead of appending any form or variable data to 
+the end of the URL, it&apos;s actually going to encrypt it and package it in a secure file 
+that&apos;s sent along with the request. 
 
-Usually, if you think about it semantically, I&apos;m posting something to
-the server. 
+Usually, if you think about it semantically, I&apos;m posting something to the server. 
 But Post can also be a request back and forth. 
-Really, the semantics of Post and GET are a bit antiquated, and you can
-use both Post and GET to send data or receive data. 
+Really, the semantics of Post and GET are a bit antiquated, and you can use both Post and GET 
+to send data or receive data. 
 
-Put and Delete are less commonly used, but they&apos;ve grown in the last
-couple of years because Ruby on Rails code has decided to write their
-the teams that built Ruby on Rails built their structure around the Put
-and Delete codes. 
+Put and Delete are less commonly used, but they&apos;ve grown in the last couple of years 
+because Ruby on Rails code has decided to write their the teams that built Ruby on Rails 
+built their structure around the Put and Delete codes. 
 
-Put and Delete are getting a lot more use now in sending files and
-requesting files back and forth with websites. 
+Put and Delete are getting a lot more use now in sending files and requesting files back and 
+forth with websites. 
 
-Then head trace connects head for instance or if I want just some
-information about the server, I might request just what&apos;s in the HTTP
-head. 
+Then head trace connects head for instance or if I want just some information about the server, 
+I might request just what&apos;s in the HTTP head. 
+
 I might want to just test connection. Are we connected? 
 Am I getting a server here? 
 Because I&apos;m not getting any files from it. 
-Once I&apos;ve sent to my HP requests, I talked to a server, I&apos;m going to
-get an HTTP response back. 
+Once I&apos;ve sent to my HP requests, I talked to a server, I&apos;m going to get an HTTP 
+response back. 
 First line is the status of the request. 
 This is five groupings of three digit numbers. 
-You will get one of these three digit numbers back common example 404
-not found. 
+You will get one of these three digit numbers back common example 404 not found. 
 Then you&apos;re going to get another header. 
-As you saw before, data fields, we&apos;ll go over some of those data fields
-next slide. 
+As you saw before, data fields, we&apos;ll go over some of those data fields next slide. 
 
 Then lastly, the response to the body file. 
 If it&apos;s HTML and CSS files, those will be encrypted and sent along. 
 If it&apos;s some form data will be sent along. 
-But essentially, then whatever you requested is sent in the HTTP
-response. 
-If you were printed out, this is what it would look like in plain
-English. 
+But essentially, then whatever you requested is sent in the HTTP response. 
+If you were printed out, this is what it would look like in plain English. 
 At the top here, this is important, HTTP 1.1 we&apos;re getting a 200 OK.
 That means you contact the right server. 
 The files you expect were there, and here they are coming back to you. 
@@ -2444,19 +2384,17 @@ Accepted ranges are going to be in bytes, common type text, HTML, it&apos;s wh
 being sent, content length. 
 When that file was last modified. 
 This is important for cookies. 
-We will often, if a file hasn&apos;t been registered as modified on your
-computer, it won&apos;t update the actual file sitting in cookies. 
-Sometimes when we&apos;re coding this HTTP request, we might refresh our
-page. 
-But cookie says nothing changed so nothing changed in our presentation
-of our web pages. 
-Sometimes we&apos;ve got to clear out cookies, get a new file, especially
-when we&apos;re just messing with spaces or tabs. 
+We will often, if a file hasn&apos;t been registered as modified on your computer, it won&apos;t 
+update the actual file sitting in cookies. 
+Sometimes when we&apos;re coding this HTTP request, we might refresh our page. 
+But cookie says nothing changed so nothing changed in our presentation of our web pages. 
+Sometimes we&apos;ve got to clear out cookies, get a new file, especially when we&apos;re just 
+messing with spaces or tabs. 
 That can be really tricky. 
-That&apos;s definitely one common frustration new users can find when trying
-to figure out why their website doesn&apos;t look like it&apos;s updated. 
-It&apos;s maybe because this request registered that there was an
-update, even though there wasn&apos;t can be tricky. 
+That&apos;s definitely one common frustration new users can find when trying to figure out why 
+their website doesn&apos;t look like it&apos;s updated. 
+It&apos;s maybe because this request registered that there was an update, even though there 
+wasn&apos;t can be tricky. 
 Of course, packaged in the message body. 
 Here is going to be the actual HTML code.
 Other things that might be in that header. 
@@ -5520,26 +5458,24 @@ In this lesson, we&apos;re getting to the nuts and bolts of CSS coding.
 Let&apos;s start with the basics. A CSS declaration consists of two parts, the selector and the 
 rule. The selector is attaching that CSS to a specific HTML property. As you learn more about 
 these, you&apos;ll see why the HTML cascade and writing your HTML elements concisely helps make 
-it easier to write your selectors. The CSS rules are comprised of two parts,
-declaring what style you want to change, and then declaring the value
-you want to change it to. To add power to our CSS declarations, I don&apos;t
-have to continually call out where in the HTML I want to add style to,
-to increase the number of style variables I want to change, I simply add
-those style variables to the declaration for that HTML call out. Here,
-I&apos;m changing the background color, the font size, the border, and the
-width of my h1&apos;s, all in one declaration. You&apos;ll see here that curly
-bracket opens up and then closes on a separate line. This is what that
-code will look like a Notepad++. Again, two space indentation for our
-code. Now it&apos;s important to recognize that when we&apos;re writing our
-values for these different CSS properties, not only do we have different
-types of values like size and color, but within a single value type, we
-might actually have different ways of writing it. In this case, we have
-size and we can write in percentages, pixels or em units. When you&apos;re
-writing the value, font size 50%, there&apos;s no spaces in this declaration
-between the value and the property. For a more in depth look, at all the
-different types of ways you can write the various CSS values, navigate
-to the MDM, CS values and Units page and you&apos;ll see here a nice write
-up and links to each one of these types of units and how to understand
+it easier to write your selectors. The CSS rules are comprised of two parts, declaring what style 
+you want to change, and then declaring the value you want to change it to. To add power to our 
+CSS declarations, I don&apos;t have to continually call out where in the HTML I want to add 
+style to, to increase the number of style variables I want to change, I simply add those style 
+variables to the declaration for that HTML call out. 
+
+Here, I&apos;m changing the background color, the font size, the border, and the width of my 
+h1&apos;s, all in one declaration. You&apos;ll see here that curly bracket opens up and then 
+closes on a separate line. This is what that code will look like a Notepad++. Again, two space 
+indentation for our code. Now it&apos;s important to recognize that when we&apos;re writing our
+values for these different CSS properties, not only do we have different types of values like 
+size and color, but within a single value type, we might actually have different ways of 
+writing it. In this case, we have size and we can write in percentages, pixels or em units. 
+When you&apos;re writing the value, font size 50%, there&apos;s no spaces in this declaration
+between the value and the property. For a more in depth look, at all the different types of 
+ways you can write the various CSS values, navigate to the MDM, CS values and Units page and 
+you&apos;ll see here a nice write up and links to each one of these types of units and how to 
+understand
 them. An example of one of the more complex options, color. Color can be
 as simple as writing the word purple in the value space. But for a lot
 of graphic designers and other job titles you&apos;ll be working with,
