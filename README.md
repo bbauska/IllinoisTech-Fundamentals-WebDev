@@ -1281,8 +1281,7 @@ Now a decade later, we have 49 million independent daily visitors 
 watching Pathfinder land on the moon. 
 I mean, that&apos;s amazing how quickly this grew within a decade.</p>
 
-<p>1998,
-Google gives us PageRank, prioritizes search results instead of
+<p>1998, Google gives us PageRank, prioritizes search results instead of
 being pushed content by companies, Google is starting to map out the web
 in a way that says, this is what users want to see when they ask this
 question or do this search. 
@@ -1543,44 +1542,32 @@ repo name is, it prevents confusion. 
 Later on, if you have your file name on your desktop and your repo name
 the same, you might shorten it to just test repo, but I like to keep the
 full extension. 
-
 What I do want to change is where it&apos;s going to be saved to, so the
 local path. 
-
 I&apos;m going to have just generically here thrown on my desktop. 
-
 So desktop, this is where it&apos;s going to be thrown, a clean folder. 
 
 You&apos;re likely wanting to create a folder somewhere in your C file for 
 your work in this course. 
-
 So select folder, and then I&apos;m choosing to clone. 
-
 And what cloning is going to do is going to create a little file
 that continually checks using GitHub desktop. 
 
 The repository online in GitHub and my own file on my desktop to see if
 there&apos;s been any changes. 
-
 So now I have my test repo, I don&apos;t have any changes and there&apos;s
 nothing really that&apos;s happened. 
-
 So I&apos;m going to open up my desktop, I&apos;ve got my test repo here, got my
 license, my new file and my README, I am going to add a new file. 
 
 I&apos;m going to do a text document and call this index.html. 
-
 Later on we&apos;ll talk about why it&apos;s very important to always have one 
 index.html file in your folder. 
-
 If I open this up though, it&apos;s not an actual HTML file, if you look up
 here, it&apos;s index.html txt, it&apos;s just a basic text file. 
-
 So putting HTML just simply in the name won&apos;t make it HTML, so I&apos;m
 going to close this out so we don&apos;t get confused. 
-
 I&apos;m going to rename this just to index.html and pop it back open. 
-
 So it&apos;s .txt, and there&apos;s many ways you can do this, I&apos;m just going
 to demo this with Windows. 
 
@@ -1656,22 +1643,16 @@ So now we&apos;ve written code on our computer, we&apos;ve linked it to our
 GitHub repository and we&apos;ve pulled and pushed code back and forth. 
 
 So this is how we&apos;re managing our repo. 
-
 And why do we want this code online? 
-
 Because ultimately, we want to have this code pushed to a server that
 makes it live for everyone to see. 
 
 So we&apos;re going to use GitHub Pages. 
-
 When we update our repository, it&apos;s going to automatically update
 GitHub pages. 
-
 We don&apos;t have to push or pull anything there. 
-
 And when we then surf our browser, we go to the GitHub Pages website
 and we&apos;ll see our website live. 
-
 I want to emphasize, GitHub Pages is definitely a limited version of
 what a full website tool can do, like Amazon Web Services, AWS. 
 
@@ -1705,19 +1686,12 @@ So don&apos;t be alarmed right away if you don&apos;t see up here a link to your
 website.
 
 All right, so we&apos;ve waited a couple of minutes and we refresh. 
-
 And now you see here our live link. 
-
 If I click on it and you see here my first website, hello world. 
-
 If I jump back to my text repo, you&apos;ll see put hello world here. 
-
 That&apos;s the only real content. 
-
 All this is just meta and scripting. 
-
 There&apos;s my hello world. 
-
 So this is going to be your first lab. 
 
 It&apos;s going to be a little more exciting than that, but 
@@ -1954,8 +1928,7 @@ a little depth of why that was added and how it differentiates from
 previous HTP. 
 
 If I just send an HTTP request, then I say within that network I have
-someone 
-tapping the line and listening to my requests, they&apos;re not just going
+someone tapping the line and listening to my requests, they&apos;re not just going
 to be able to see what website, so if I go to say iot.edu, they&apos;re
 going to not just see that I visited that website, they can see what
 pages I access within that website. 
@@ -1971,8 +1944,7 @@ so that&apos;s the secure element added on top of that. 
 FTP is a File Transfer Protocol so this is really important for
 security. 
 When you download a file like an image file or something to your
-computer, 
-you get the little pop up in your browser says, 
+computer, you get the little pop up in your browser says, 
 are you sure you want to do this? 
 
 That&apos;s because when we are transferring HTML, CSS, and JavaScript files
@@ -1989,21 +1961,16 @@ the browser, that has to be FTP, file transfer protocol and that&apos;s why
 it asks, are you sure of this file? 
 
 When you get an email and you go on your website and you look at your
-email, 
-
-that&apos;s still within the browser so you can open up that email, feel
+email, that&apos;s still within the browser so you can open up that email, feel
 secure surfing around even if you know it&apos;s clearly a phishing
 attempt. 
 
 But their goal is to get you to click on something and download a
 file, say yes, I want to download that file onto my operating system. 
-
 Once I do that, it goes past the firewall and I open myself up to all
 types of risk. 
-
 The final browser implementation that&apos;s important to mention here is it
 manages the domain name service. 
-
 It translates URL addresses into IP. 
 
 If you remember from our history lecture on the Internet, the URL is
@@ -2039,8 +2006,7 @@ buttons, bookmark, pull over Firefox here. 
 
 This is our content area. 
 This is artificially generated by Firefox home team but you see here, we
-have, 
-for instance, settings, we have our bookmark bar, our navigation back
+have, for instance, settings, we have our bookmark bar, our navigation back
 and forward, reload address bar. 
 This is all going to be the UI interface. 
 Then we have the browser engine. 
@@ -2060,7 +2026,6 @@ physical networking card of your computer that speaks that network language, c
 compressed code and also puts security layers over that code as it sends it back and forth. 
 
 The UI backend. 
-
 Interactions with the operating system if I take my Firefox, this is
 going to be that UI backend so making it a window, being able to move it
 where it sits within the image of the operating system. 
@@ -2070,9 +2035,7 @@ going to be able to navigate in that little box where I want that file
 to be located. 
 
 All the interactions with the actual operating system itself. 
-
 Then the JavaScript interpreter. 
-
 This we&apos;re going to talk about a little bit more in the next slide, but
 specifically for parsing and execute JavaScript, this is a step beyond
 what just the rendering engine can do so its a lot more complicated
@@ -2105,9 +2068,7 @@ these. 
 
 This is why we&apos;re going to learn about why we want to try and wipe away
 all those defaults, so we know that our website looks the same on all
-browsers, 
-
-but in the end, we still want to open it up in as many browsers as
+browsers, but in the end, we still want to open it up in as many browsers as
 possible and look for those subtle little differences that might ruin
 our user experience. 
 
@@ -2163,17 +2124,14 @@ traffic. 
 Same for all Facebook suite to Instagram and other tools. 
 
 It&apos;s important to realize that these browsers aren&apos;t just what you
-think of 
-when you download a browser on your Internet. 
+think of when you download a browser on your Internet. 
 There are also your Internet tools. 
 If you&apos;re opening up an app on your phone, it&apos;s also going to be a
-browser 
-that you want to test your website on. 
+browser that you want to test your website on. 
 Make sure you know users aren&apos;t being stressed by how it looks on that
 particular tool. 
 Finally, the unique Javascript engines, each one of them running
-differently, 
-so SpiderMonkey, node.js, SquirrelFish. 
+differently, so SpiderMonkey, node.js, SquirrelFish. 
 Pretty fun names when you get to the Javascript rendering engines. 
 A little insight into the teams, but more importantly this is
 leap-frogging back and forth. 
@@ -2424,8 +2382,7 @@ You might have the right address, but 500 is an internal server error. 
 It&apos;s something went wrong inside the server, maybe the code is
 corrupted. 
 Maybe you&apos;re getting a DNS attack, a denial of service attack where
-there&apos;s 
-just too much service at it. 
+there&apos;s just too much service at it. 
 The code is spewing out incorrectly. 
 501 not implements so the request is not supported by the server, 
 you&apos;re asking the wrong questions or for the wrong files, it doesn&apos;t
@@ -2442,11 +2399,9 @@ Transcript language: English
 In lesson five, we&apos;re going to to take an in depth look at our three
 languages.
 As you&apos;ve heard in the last couple of videos, we&apos;re working with
-HTML, 
-CSS and JavaScript, HTML, being the structure and content. 
+HTML, CSS and JavaScript, HTML, being the structure and content. 
 If you look on the right side here, you&apos;ll see what&apos;s called a
-cascade, 
-and in the black font, is going to to be our content. 
+cascade, and in the black font, is going to to be our content. 
 So essentially we&apos;re building a framework, that identifies the
 different parts of our web page, giving semantic meaning to certain
 sections like our header, or our body. 
@@ -2468,12 +2423,10 @@ It&apos;s the content structure and semantic layer as I mentioned. 
 But more importantly it&apos;s not just how we write the other two codes
 into our HTML. 
 If we write our HTML correctly, it&apos;s how the web itself, the search
-bots, 
-the search engines, all that is in how we write our HTML to be seen, 
+bots, the search engines, all that is in how we write our HTML to be seen, 
 by those bots that index and search the web. 
 It&apos;s a process known as SEO so our meta tags, how we identify our h
-ones, 
-these sort of very subtle differences between websites can 
+ones, these sort of very subtle differences between websites can 
 make your website seen when another website might not be. 
 We are now in HTML version 5, click there in the PDF if you want the
 specifications. 
@@ -2493,8 +2446,7 @@ the format. 
 Then again, we have the W3C becomes that standard place, where all these
 organizations come together. 
 Debate what HTML should look like, what uses they&apos;re doing with it,
-and 
-how it needs to be updated to incorporate those new uses being rolled
+and how it needs to be updated to incorporate those new uses being rolled
 out by the cutting edge companies. 
 HTML 4 is when we settle on a widely used version of HTML. 
 Prior to that, in the 90s, &lbrack;LAUGH&rbrack; if you were learning HTML freshman
@@ -3008,15 +2960,11 @@ object that I later can style with my CSS just by talking about this
 div. 
 And with our cascade, we want the content of this div to be indented two
 spaces over. 
-
 If I had forgotten to do this indentation earlier, I can simply
 highlight these 
-
 three lines, hit the tab button, and it&apos;ll add two spaces.
-
 If your tab button is adding four spaces or five spaces, we&apos;ll address
 that in a future lecture on how to change it.
-
 So now my code is starting with a nice cascade, I have my body wrapping
 all 
 the content here, I have my HTML wrapping all the code. 
@@ -3041,104 +2989,64 @@ let&apos;s call book, how to make dollar into garbage.
 Close out our p. 
 So a few things, we might want to turn this dollar into a dollar sign,
 ctrl+ S. 
-
 And if we look back at our Firefox, we have our dollar sign being
 interpreted here by the Firefox browser. 
-
 But that&apos;s not going to be the same dollar sign that appears in every
 browser. 
-
 So if we want consistency, we might want to do a search for 
-
 the UTF-8 version of the dollar sign.
-
 So we see here, Google Search is giving us the actual UTF-8 coding
 directly. 
-
 So let&apos;s grab one of these and pop it into our code.
-
 And when we go back to our dollar sign, it looks the same. 
-
 But now we&apos;ve created consistency that this will be the dollar
 sign that&apos;s presented in any and all of our user experiences with any
 browser.
-
 And finally, with our page, because it&apos;s a book title, we&apos;ll want to
 turn this into an italics book title. 
-
 So we&apos;ll put in here a little.
-
 Close out our.
-
 And if I go back to our browser, hit refresh, you&apos;ll notice the browser
 has chosen put in a default italics. 
-
 And again, we&apos;re going to want to go into our CSS later and declare
 this italics. 
-
 But for these first two modules, we&apos;re only going to be coding HTML. 
-
 So we have a better understanding of what browser defaults exist and 
-
 how HTML itself renders without style elements added to it. 
-
 That way, when we start to add our style, we&apos;ll know the full scope of
 what&apos;s possible.
-
 The last thing we want to discuss is the box element nature of our HTML
 elements.
-
 When I create an HTML element like h2, it tells the browser to block out
 a section of the web page for this element.
-
 In order to demonstrate this box element visually, we can use our
 browser&apos;s Inspector. 
-
 So I&apos;m right clicking and going to the Inspector. 
-
 You&apos;ll notice here, you&apos;ll see the HTML code as it&apos;s written in my
 Notepad++. 
-
 And I can hover over each element, and it&apos;ll demonstrate the box
 that&apos;s been created to block out that element. 
-
 Later on, as we use CSS, we can shorten the widths of these boxes to
 maybe just 50% of the page. 
-
 I can put two boxes next to each other using floats or other variations
 of how to position boxes around my page. 
-
 The box also has a few other attributes to it. 
-
 So if I highlight my h1 here, look over on the right hand side, you&apos;ll
 see the box with its labeled areas. 
-
 So at the far outside is my margins, this is going to be the spaces
-between two 
-
-boxes, and they can overlap each other if they&apos;re stacked on top of
+between two boxes, and they can overlap each other if they&apos;re stacked on top of
 each other. 
-
 At the inside, you&apos;ll see my content area with the exact pixel width
-and 
-
-height of that area. 
-
+and height of that area. 
 And between the margin and the border is the padding. 
-
 So padding represents space between my content and my border. 
-
 In this case, I don&apos;t have a border, so it&apos;s the space between my
 padding and my margin. 
-
 When we get to CSS, we&apos;ll learn more about the box area and how to
 manipulate relate it. 
-
 If you&apos;re in doubt in the future, you can come back to this guide. 
-
 An easy read on the different elements of the skeleton and perhaps a
 different perspective from my own.
-
 And now you have the tools to build your very own website.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3391,44 +3299,29 @@ for. 
 
 The next group of HTML tools we&apos;re going to talk about aren&apos;t
 elements, 
-
 they&apos;re attributes, and they can be added to any element in your HTML. 
-
 They&apos;re really powerful. 
-
 They&apos;re essentially used to identify specific elements within your
 code. 
-
 You can use these then to attach Style or JavaScript to that specific
 element. 
-
 So you get to create the name. 
-
 When you write an ID, you attach it, you decide what that name is going
 to be. 
-
 You might call it something like red font. 
-
 To let you know, I throw this class on anything where I want the font to
 be red, 
-
 standing out from all the other black font in my website. 
-
 The standards as far as what you can use to create these names, capital
 letters 
-
 A to Z, lowercase letters A to z, zero through nine, hyphens and
 underscore. 
 
 However, I strongly recommend you use lowercase lettering. 
-
 Even though you can use any type of lettering, following this sort of
 paradigm 
-
 within your HTML to always be using lowercase lettering will just make
-it 
-
-easier for you not to make mistakes in other sort of HTML structures, 
+it easier for you not to make mistakes in other sort of HTML structures, 
 like file structures where lowercase lettering really matters. 
 So the key difference between an ID and a class you&apos;ll see here, 
 I&apos;ve attached this ID to a div and I&apos;ve attached this class to a div. 
@@ -3539,30 +3432,22 @@ floated. 
 So, jumping back to our code here, you&apos;ll notice down at the bottom I
 have an I grabbed that I, if you go over the browser default has created
 a little italics there. 
-
 On top I&apos;ve used strong turned item into a bold. 
-
 Here I&apos;ve used subscript and superscript. 
-
 Subscript is going to make the item a little bit smaller than the main
 content and lower it down. 
-
 Subscript is going to raise it up and ultimately I&apos;m going to again
 take CSS to take control of these. 
-
 These are semantic tags wrapping in this case a single number in the
 LI, so not the entire content. 
-
 Okay, I encourage you to open up the demo folder and play around with
 the code I was using in this lesson.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch2-3-1">2.3.1 Lesson 1 Video Reference Page</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Below is a list of the content referenced in the Lesson 1 Video.
 
 **Author:** Richard Clark
-
 **Link:** [html5 Doctor Avoiding common HTML5
 mistakes](https://html5doctor.com/avoiding-common-html5-mistakes/)
 
@@ -3571,333 +3456,206 @@ mistakes](https://html5doctor.com/avoiding-common-html5-mistakes/)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-4">2.4 HTML Lists and Cascades (11:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 We have three core types, an ordered list, an unordered list, and a
 descriptive list. 
-
 We really only operate most times with these two, the unordered and the
 ordered list. 
-
 While the descriptive list is reserved for things like glossaries where
 you might have a single word association at a time. 
-
 Back to ordered list, this is when you have a list of items where
 there&apos;s a direct relationship and ranking as you see here, producing
 1,2,3. 
-
 Unordered lists are for a list of items that are not ranked. 
-
 In this case, the relationship still exists, but you only get a bullet
 point. 
-
 Both the numbers and the bullet points can be altered and turned into
 any imagery with style in CSS. 
-
 However, initially, in these lessons, we&apos;re just going to take the
 default numbering or bullet points as our style. 
-
 Opening up my file named head header and heading. 
-
 You&apos;ll notice in my nav, I use an unordered list to create my
 navigation. 
-
 Within this unordered list, the UL, I&apos;ve opened and closed it, and I
 put between those two tags, list items one LI, two LI, and three LI. 
-
 You&apos;ll notice here in my actual rendering, the index table and
 heading are given black bullet points. 
-
 If I was to change this to an ordered list an OL, and I go back to
 refresh my bullet points have turned into letters 1,2,3. 
-
 Again, these are semantic differences. 
-
 If there&apos;s a ranking to your list, then use the numbers. 
-
 If there&apos;s not a ranking but they&apos;re related, use bullet points. 
-
 In this situation though, our Nav is a list. 
-
 Ultimately we don&apos;t want any bullet points there. 
-
 We&apos;re going to use anchors inside our allies to turn these list items
 into links. 
-
 Now I have an unordered list. 
-
 I&apos;ve added some links here with HRF references. 
-
 This navigation we&apos;re going to talk about in a future lecture. 
-
 But actually built a list that will navigate from web pages within my
 repository. 
-
 After refresh, you&apos;ll see I now have active links for my LI items. 
-
 Lists can be used throughout our page, but the real power comes when
 we take these lists and turn them into stylized navigation with the
 power of CSS. 
-
 A simple HTML list written here, Li1, Li2,Li3, Li4 links. 
-
 I have black text at the usual, and this is what it will produce, a left
 justified bullet point list. 
-
 Now for your labs and your project, that is just HTML. 
-
 This is what your navigation is going to look like, and it may feel a
 little empty, a little less then. 
-
 With the power of CSS, we take a simple bulleted list like this and turn
 it into an infinite number of navigation styles. 
-
 Here I have single buttons. 
-
 Here I have a full button hover over. 
-
 This one would be just an underlying hover over. 
-
 Here I have vertical buttons, and on and on. 
-
 Now let&apos;s talk about code hygiene and the techniques for making your
 code more readable to others. 
-
 In our HTML, we have three types of designation for our elements
 to indicate how they relate to each other. 
-
 Parent element is going to wrap a child. 
-
 A child element is wrapped by a parent and siblings are two elements
 that share a parent. 
-
 On the right-hand demo of my code here, this nav is a child of header. 
-
 Header is a parent of nav. 
-
 Nav is a parent of UL. 
-
 Here you see UL. 
-
 Ul is a parent of LI. 
-
 Li is a parent of a. 
-
 The Li and close. 
-
 A new LI starts. 
-
 These three are siblings. 
-
 This UL, you&apos;ll see this line connecting to its closing means it
 is wrapping these LI&apos;s, they&apos;re siblings. 
-
 This nav and this H1 one are also siblings. 
-
 The H1 opens and the H1 closes before the nav opens. 
-
 There&apos;s no parent-child relationship between them. 
-
 They share the same parent header, so they are siblings. 
-
 You&apos;ll see they both sit on the same vertical. 
-
 This is a fully fleshed-out website I&apos;ve built and I&apos;ll demo here the
 extent to this navigation. 
-
 This header has several children. 
-
 This H1 and this P are both children of this header and they&apos;re both
 siblings. 
-
 They sit in the same vertical and they&apos;re indented two spaces over from
 the header. 
-
 This P has the content indented two faces over because the P is
 multi-line. 
-
 P opens and close. I have the nav here with the P above it. 
-
 These are siblings, they do not wrap each other and they both share
 header as their parent. 
-
 This nav, however, has several children. 
-
 This UL is a child of nav, the LI is a child of UL. 
-
 Certain times we&apos;ll refer maybe to this as a grandparent of the LI. 
-
 But it&apos;s always more important just to know which wraps which infer to
 them as child and parent or siblings. 
-
 You&apos;ll see here as I scroll down, this is what a cascade looks like. 
-
 It is a series of indentations to represent the child parent
 relationship, throughout the code. 
-
 As I mentioned, I indent two spaces between the parent and the child. 
-
 When I&apos;m closing out the parent element, I come back two spaces, so
 that the parents opener and closer are on the same vertical and the
 children are all indent to two spaces over. 
-
 Now when it comes to W3 standards, there actually is no standard of two
 spaces. 
-
 You will find some code is written with two spaces, some with four
 spaces, and some with six spaces. 
-
 There&apos;s others, but those are the three most common. 
-
 The point is to always be consistent in your own code. 
-
 Do not indent a few spaces four and then a few spaces six. 
-
 The reason W3C does not have a standard is because this HTML code can be
 written without any spaces or even lines at all. 
-
 You&apos;ll notice down here at the bottom, &lt;!Doctype html&gt;&lt; html lang=
 &quot;en&quot;&gt;&lt; head&gt;&lt;meta charset. 
-
 You&apos;ll notice this is our skeleton right here. 
-
 This code can go on and on, all the way into the end of the code on a
 single line without any spaces or line breaks. 
-
 This is called computer red code and the browser can read it just fine. 
-
 However, your fellow coders would be really upset with you if
 you actually tried to work in that single line coding. 
-
 Up here, I&apos;ll demo how every single workplace you go to have a standard
 of usually two spaces, sometimes four, here in Google&apos;s HTML CSS style
 guide, what&apos;s going to be called a materials document in the
 workplace. 
-
 You scroll down, you&apos;ll see indent by two spaces at a time. 
-
 Do not use tabs or mixed tabs at spaces for indentation. 
-
 Here they set a clear standard. 
-
 They expect all their HTML files to be written using two space
 indentation. 
-
 Here&apos;s an open code standard for the CKAN, organization, and you&apos;ll
 look here, all HTML documents must be two spaces. 
-
 This is the syntax they&apos;re looking for. 
-
 They demo here, two spaces, again, down here, two spaces, two spaces. 
-
 This is what is expected for this course. 
-
 I expect all your HTML and CSS code to be written using two space
 indentation. 
-
 Now, some of you, like myself, might have a habit of using the Tab
 button when creating a new line. 
-
 This is the behavior learned from writing other codes. 
-
 But fear, not all code editors have a way to help you turn the tab into
 two spaces. 
-
 You can still use the tab button. 
-
 In this case, we&apos;re using Notepad plus plus. 
-
 We&apos;re going to Settings, Preferences, Language. 
-
 We&apos;ll get this tab down on the right hand side here, you&apos;ll see Tab
 Size 2, replace by space. 
-
 I&apos;m making my tab size only two spaces, and I&apos;m replacing my tab with
 two spaces. 
-
 Now a very important reason for why we want two spaces instead of an
 actual physical tab is that two spaces or a single space are read the
 same in every software. 
-
 When I move my code from one place to the other, those two spaces will
 always look the same. 
-
 Whereas a tab on Windows might be recognized as two spaces on somewhere
 like GitHub, it&apos;s interpreted as four or six spaces depending on the
 code editor. 
-
 Here on GitHub, if I was to add a tab, it&apos;s jumping several spaces. 
-
 Now in my GitHub, I could also change that. 
-
 I could go up here with my spaces, change them to two. 
-
 But ultimately, the problem is we don&apos;t want to have to go through
 every single software our fellow editors might be using and tell them
 they have to turn their tabs into two spaces. 
-
 Whereas if we use two spaces, our code is consistent, it looks pretty
 and more than looking pretty, it&apos;s easy for our fellow editors to read
 when they&apos;re helping us code. 
-
 Walking you through Notepad really quick, we&apos;re going up here to
 Settings. 
-
 We get our settings popped up. 
-
 The default here was probably four or six, we&apos;re changing it to
 two, and we&apos;re clicking this little button here. 
-
 So that&apos;s blue replaced by spaces and we&apos;re closing. 
-
 You&apos;ll notice when I hit a tab here, one, two spaces were created. 
-
 Now if you&apos;re using something other than Notepad++, it&apos;s a simple
 Google search to find out how to replace tabs with spaces. 
-
 Finally, I want to talk about creating line spaces in HTML. 
-
 New users often will use br or hr to create line spaces. 
-
 What am I talking about when I say line space? 
-
 Here in my file head, header, or heading. 
-
 Let&apos;s say I wanted a little more spacing between my navigation buttons
 up here. 
-
 If I Google how to do that with HTML, I&apos;m going to get some websites
 that steer me wrong. 
-
 First, anytime we want spacing like that, it should always be achieved
 using CSS. 
-
 We shouldn&apos;t be trying to achieve that using HTML because that is
 style, those websites that steer you wrong might indicate that if you do
 this, you will create easy line spacing. 
-
 Now that I&apos;ve put in my bars, you&apos;ll notice here the spaces will
 appear when I refresh. 
-
 However, if I look at this br with my inspector, you&apos;ll see that the br
 has blocked out the entirety of the page from left to right, but it&apos;s
 not actually creating a box element. 
-
 That&apos;s because a br is technically an in line element, but blocks out
 space like a box element. 
-
 I have all the limitations of an inline element, I can&apos;t style it as
 easily, but I have the limitations of blocking out an entire line of
 code from left to right. 
-
 Semantically, I have some HTML, I can apply CSS or JavaScript to this. 
-
 When I add br&apos;s into that HTML code, I can&apos;t easily apply CSS
 and JavaScript the way I want in order to create line spaces. 
-
 We always want to use our CSS to create those line spaces so we
 don&apos;t create these breaks in code that are difficult to stylize with
 our CSS. 
-
 That&apos;s lesson 2, again, I encourage you to open up the demo folder and
 play around with that code.
 
@@ -3934,178 +3692,115 @@ Module2-Lesson3.pdf
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-5">2.5 HTML Links and Images - Part 1 (7:18)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 The anchor element is represented by the a tag. 
-
 It can link to an internal file, or an external file somewhere on the
 web. 
-
 It has to be a live link. 
-
 A common mistake with new users, is having a link on their own computer 
 in the actual href, that will not be read by an external website. 
-
 It needs to be a live HTTP or HTTPS resource. 
-
 The href is essentially the location of where that file is, because the
 a itself is an element and can&apos;t have an equal sign, we have the
 attribute href, which then equals the location of the file. 
-
 The href can be a full HTTPS domain, which links to another website or 
 online resource, or relative path which I&apos;ll explain in a second, which
 is just the file location within your own website&apos;s repository. 
-
 So relative paths, are descriptions for finding files within your own
 website&apos;s repository.
-
 I&apos;ll demo this using a Windows folder. 
-
 So as I go over each one of these path location finders, I have here the
 index or these top level files. 
-
 I have then a folder which I&apos;m going to click into, and I have a folder
 2 which I&apos;m going to click into, there&apos;s page 3, page 2, an index was
 sitting at the top level. 
-
 Now, let&apos;s take a look at the code of page 2 and page 3. 
-
 So you&apos;ll see here, I&apos;ve created a NAV using an unordered list, and I
 have various files in various locations throughout my folders. 
-
 If I open up my page two on firefox, you&apos;ll see I have my navigation
 here as three links. 
-
 Each one of these links reference there. 
-
 Page 2 is self referential, but here page 3, I now have a navigation
 path and if I click on page 3, I go to page 3, you&apos;ll see up there? 
-
 So what are those paths? 
-
 If my href just has a file index.html, so page 2 is self referential. 
-
 It&apos;s looking for page 2 at the same folder level. 
-
 If I was to say changes to index.html, I would be looking for a new
 document here index.html, one that was exactly in the same file location
 as my page 2. 
-
 Now, if the document exists in a subfolder, I write the name of the
 folder with a forward slash and then the file name. 
-
 So, in this case looking for page 2, I&apos;m looking at folder 2, I&apos;m
 going into folder 2 with the slash, and then I&apos;m writing page 3 file
 name. 
-
 In this file structure here, folder 2, we&apos;re sitting on page 2, so here
 is page 2, this is where the code is written. 
-
 From page 2, I&apos;m looking for folder 2. 
-
 So we see folder 2 is just above, and I&apos;m looking for page inside
 folder 2. 
-
 So page three is sitting inside folder 2. 
-
 This path when opened up on firefox, So I&apos;m now on page2, when I click
 on page3, it&apos;s jumping to that file. 
-
 So now page3 has jumped up. 
-
 And now from that reference, I am sitting here on page3. 
-
 So this code I&apos;m writing now for page3, is going to have different
 references, because page3 is sitting in a different folder. 
-
 So, if I wanted to link to page2 from page3, it would be different than
 the self referential rink for page2 there. 
-
 So if the document exists in a folder one level above, I&apos;m using this
 dot dot to go up a folder. 
-
 You&apos;re only ever sitting inside a single folder, you can&apos;t be sitting
 inside two folders. 
-
 So dot dot means go up a level within your folder structure.
-
 So back to our page3 code, we&apos;re looking for page2, we&apos;re sitting
 inside folder2. 
-
 So from page3, which is the code here, I&apos;m going dot dot, which means
 I&apos;m going up a level out of folder two, and I&apos;m looking for 
 page2.html now, in whatever folders above, folder two happens to be just
 folder. 
-
 So now if I click on page2, I&apos;m jumping back to page2. 
-
 If I want to go up two folders, folder, folder, three folders, I would
 do this again. 
-
 If I&apos;m going into folders page2, I could go to folder2/folder3, and on
 and on.
-
 Finally, you can always start from the top level by simply using a
 slash. 
-
 If you use a slash, it&apos;ll jump to the top of your repository,
 and simply follow the folder filings from there. 
-
 So if I was to use a root on page2, it would automatically start from
 this top level and go into folder1, and folder. 
-
 Now, let&apos;s talk about image links, very similar, but slightly
 different. 
-
 First, which images should you use? 
-
 The eternal question. 
-
 Oftentimes I find myself jumping between some of these, just to see
 which works best in a given situation. 
-
 Png and gifs support transparency, jpegs have no transparency, jpegs
 should be 24 bit. 
-
 Pngs can be 8bit or 24bit, gifs will be 8bit indexed. 
-
 Typically, a jpegs is better for photos and an png is better for logos
 and graphics. 
-
 And try not to use a gif unless that is exactly what you&apos;re going for a
 moving picture. 
-
 All right, here&apos;s an example of our image tag up there. 
-
 Let me pop open some code. 
-
 So here in this code, I have three simple things. 
-
 I have an image, I have an iframe we&apos;re going to talk about next, and I
 have an html comment. 
-
 Comments are simply written, you simply write this string of code
 there. 
-
 You&apos;ll see the text turn green, and if you don&apos;t close it
 properly, it&apos;ll turn all the text green. 
-
 Whatever is written here is ignored by the browser, and simply it&apos;s
 used to add our own little hints and comments throughout our code. 
-
 Something that as we&apos;re writing code, we can remember or come back to
 as we rewriting that code. 
-
 Here&apos;s my image, you&apos;ll see my source and my alt. 
-
 Each SRC can only hold a single image, and there&apos;s no text embedded
 within an IMG. 
-
 So this means it opens and closes itself out with a single tag. 
-
 In previous html, you might have seen something like this, where you
 have kind of this forward leaning slash to remind the coder it closed itself
 out. 
-
 With html5, not only is that no longer necessary, it&apos;s not really
 practiced by most coders.
 
@@ -4138,118 +3833,78 @@ For these labs in the project, one you&apos;re about to do with an image
 will lose you points and I want you to take that physical image
 size, put it in something like an image editor, and physically reduce
 the size of that image so that it fits on your page. 
-
 If I pop up my code here, I have image source, a folder called media. 
-
 Inside there are a folder called images and professor2. 
-
 I&apos;ve written here as an all simply small description of the image goes
 here. 
-
 If I pull up in my file structure, here&apos;s my image demo, this is my
 media folder and then inside there I have my images and you&apos;ll see two
 different versions. 
-
 If I click on Properties, you&apos;ll notice a radically different size. 
-
 This is six million bytes. 
-
 Click on Properties here, this is only 30,000 bytes. 
-
 Specifically, the width of these are dramatically different. 
-
 Here is the natural fit of this image and watch what happens if I was to
 change this code to professor1.
-
 This is what happens when you don&apos;t resize your images properly at the
 file structure. 
-
 You have really large images. 
-
 Now most of you, when you get to this point, you&apos;re going to Google how
 to change the size of my image in HTML and you&apos;re going to get
 instructions from HTML 4 that tell you to put the width and height
 in your attribute of the HTML image element. 
-
 Don&apos;t do that. We do that with CSS and we also take control of the
 physical size of that image. 
-
 Because if I take this image and I shrink it using HTML or even
 CSS, that entire image is a lot of data and it still gets uploaded to a
 tiny little phone, maybe that&apos;s on LTE or G3 Towers. 
-
 That&apos;s going to limit the speed at which your website comes up on
 someone&apos;s search. 
-
 Maybe if it&apos;s a restaurant and you have these giant images, they&apos;re
 looking for food nearby. 
-
 Your image takes too long to load. 
-
 They go on to the next restaurant because they can&apos;t load your
 website. 
-
 Oftentimes you&apos;ll find that a lot of websites will have three different
 image file sizes. 
-
 One, a thumbnail for search results, so they come up quick. 
-
 One for mobile, which is going to be a small file, one for desktops and
 tablets. 
-
 Then once you have those three key file types, you can use your CSS to
 subtly change the width and height within different versions of those
 computers or phones. 
-
 All right. One more thing to talk about our links is something called an
 iframe. 
-
 An iframe element is an embedded window of exterior content. 
-
 It&apos;s basically treats a whole HTML page as if it was embedded within
 your page. 
-
 Which means you can&apos;t style it or interact with it in any way. 
-
 It&apos;s a way of preserving content the way that owner intended the
 content to be. 
-
 You can resize the window that the iframe sits in from height and width,
 but that&apos;s about it. 
-
 Typically, it&apos;s used for embedding YouTube videos. 
-
 There&apos;s a few other use cases, but you&apos;re going to come across it as
 YouTube videos. 
 
 It&apos;s the only HTML that you can use the width and height in this
 class, by the end of this class, I will teach you how to resize a
 YouTube video using CSS. 
-
 But for now, it&apos;s going to be one of the few things I&apos;ll let you use
 HTML width and height attributes on. 
-
 Down here I have my iframe, and you&apos;ll see width and height. 
-
 We&apos;re actually already included when I cut and paste it from YouTube. 
-
 I&apos;ve got my source going back to YouTube. 
-
 I scroll over, you&apos;ll see there&apos;s a title which offers a caption at
 the top of the YouTube video lecture by my dad. 
-
 You&apos;ll see frame border zero and then allow is a series of specific
 tools that YouTube usually will include in their embeds. 
-
 As I come here, I can click on it and it&apos;ll jump me directly to YouTube
 location of the video. 
-
 If I wanted to specifically grab this video to embed it, I don&apos;t cut up
 here this code. 
-
 But ideally, I&apos;m right clicking the video and you&apos;ll see copy embed
 code here. 
-
 Or I could use Share down here, where then I click and get the embed
 code. 
 There&apos;s my iframe again, copy it. 
@@ -7141,217 +6796,131 @@ background then stretches across, this is centered within there, this is centere
 looking very nice. So then I have my nav wrapping as separate from my header. So 
 sometimes header wraps nav, sometimes nav is separate. In this case we want a separate 
 navbar and a separate header. This is for instance, like IT will have
-
 all types of institutional links up there but then have the main page
 navigation
-
 here, so the two get separated. This also might be in certain apps
-
 on your phone you have the phone navigation as top and then the app
-
 at navigation as a separate bar. So I have my nav. I put a div around
 the Ul so
-
 I can move it. And this is really important to put that
-
 div on the ul because we&apos;re going to use this first as the container
 and
-
 then take the ul itself and center it. So that&apos;s going to be subtly
-
 different than some other centering. So we&apos;re going to use this div
-
 which puts the container and then we&apos;re going to turn
-
 the ul into text to center it. So I&apos;ll show you that. And then I just
 have
-
 a little div main content. Actually this could be,
-
 this is going to be the container and let&apos;s just call this main. Now
 let&apos;s look at our CSS. So I have my container, it&apos;s at 960. I&apos;m going
 to do margin 0 auto. So this gives me that little
-
 white space on either side. And if you&apos;re wondering what the effect
-
 is, always just take my demo, remove it and
-
 you&apos;ll see the effect changes. It removes, doesn&apos;t center everything.
 This is still centered but it removes
-
 that white space, and that is this auto. It takes whatever is
-
 left over in the spacing, puts on either side overflow hidden. Generally
 we&apos;re not needing that but
-
 just in case the content goes over. Then my head container positive
 relative. So on the head container here,
-
 head container, I&apos;m going to create a little movement that
-
 allows me then to move the name around and we&apos;re going to do a bunch
 more
-
 movement in the next demo. Navbar background color blue. So again this
 head container is now
-
 if I wanted to move this navbar so I have my head container and
-
 then main navbar. If I wanted to move the actual logo,
-
 I could start moving it now. Actually head container relative. So let&apos;s
 keep this simple. This code is just going to be focused
-
 then on the center navigation. So that&apos;ll be this video. All right,
 navbar container width 100%. I want this still to go 100%. I want this
 up top to go 100%. That&apos;s the container,
-
 relative positioning. This text align only works if you turn
-
 the container into an inline block. So that&apos;s what I want to use here,
-
 this text-align. I need to make this
-
 container an inline-block. So we&apos;re going to go to text-align center.
 Or I have this alternative way here. So we&apos;re going to look at two
-
 different ways of centering the nav. So here on the navbar container,
-
 text-align center. So inline-block treats
-
 it like inline text. So text-align works on it. So on my container I
-
 have text-align center. What&apos;s important here is
-
 looking at this nav main bar. This is my navbar container. So navbar
 container,
-
 I have this div getting text-align center. The problem is what I have
-
 in here is a ul and li. So I don&apos;t get until I get to
-
 the a do I get actual inline text. And there&apos;s no actual inline text,
-
 this is an a href. So this is an element,
-
 it&apos;s an actual box element. It&apos;s not inline text. So my goal is I need
 to turn
-
 something here into inline text. And the best is on the ul. So I go main
 nav bar ul and if I display
-
 this as inline block instead of a block, it&apos;s treating it like text.
 Now, once I get back to my a and my aref,
-
 it&apos;ll treat it like it normally does, but it&apos;s going to take the ul
 and
-
 treat it like text. So that this text align center
-
 will center the navigation. So now this gets treated like text or
-
 this Ul gets treated like text. So when I put text line center here,
-
 I achieve this nice centered navigation. The other stuff you&apos;ll
 recognize
-
 here of course is list-style, none, margin padding 0. And I&apos;m also
 doing a little vertical
-
 line top on the navigation. That&apos;s something new. Just adding I could
 use paddings to do
-
 that centering, put it on either side. But generally I&apos;m just
-
 using text-align center, added a little bit of niceness to it. You&apos;ll
 see there, it just strips away. It just evens out the top and
-
 bottom, whoops. And then on my lis float left,
-
 this is what we learned last week in lists and
-
 informing navigation. And then my name on the actual a, this is
-
 where I want to display it block to block. But I was already doing this
 last week. This allows me to hover over
-
 where then the whole hover over. Now, I might not want that because
-
 I have this underline there. I might want it to be just the underlines.
 So I could do that as well
-
 instead of the block. But then that&apos;s where I&apos;m putting
-
 the pseudo selector on hover main navbar ul li hover over,
-
 little background color. I could also do it like this,
-
 text decoration. So then when I hover over and
-
 obviously I&apos;d want this one also not to be text decoration, but
-
 I&apos;m doing something special here. So there&apos;s text decoration, none. I
 have the underline also some
-
 other things then is here, main navbar on page,
-
 text decoration underline. That is the final thing added on here. If we
 go and take a look at
-
 the class website, you&apos;ll see here that when I jump on a page,
-
 I don&apos;t have anything on hover over. But when I click on a page,
-
 you&apos;ll see that actually each one of these links changes and
-
 has the background color flow through it. Now, if you look at that, what
 I&apos;m
-
 doing here is I&apos;m using this on page or actually I have a little bit
-
 more significant id for there. So I put on my link,
-
 I have this id on page. So what happens is normally you should
-
 have this navigation at the top of your page, cut and paste on each one
 of
-
 your project pages, so it look identical. You change the href to a
 hashtag to let
-
 you know which page you&apos;re working on. So you could change that. But
 then also whatever is the hashtag
-
 should get this on page id. And so if I&apos;m on this page,
-
 then that would be there. And I switch this to the home page. Then that
 subtlety then on the navbar
-
 on page text decoration underline, then I can use that to have this
-
 default underline sit there and I could have this text decoration.
 Let&apos;s do background color, copy, paste. There we are. So now I have
 this gray as my background. That&apos;s hideous. I&apos;m going to change it.
 And there is one I can click on. Let&apos;s change it to background-color
 navy. There we go. So now if I was to click, obviously
-
 that&apos;s going to take me to Google. But then I have a nice
 background-color,
-
 lets me know what page I&apos;m on. And I have these underlines here. So
 that gives you a nice
-
 center navigation. I want to see this in your second
-
 turn in of your project two. And there you have a nice
-
 little short video. And you can grab this code. Very simple,
 straightforward. So if you look,
-
 here how I have it laid out. The keys here are the inline
-
 block display on the ul and then position, relative,
-
 and text-align center. And that&apos;s the end of module five.
 
 **Practice Peer-graded Assignment: Lab 8: Navigation Expert**
@@ -7359,12 +6928,9 @@ and text-align center. And that&apos;s the end of module five.
 **Ready for the assignment?**
 
 You will find instructions below to submit.
-
 InstructionsMy submissionPeers to reviewDiscussions
-
 Instructions and materials for Lab 8 are found in the class&apos;s GitHub
 repository:
-
 <https://github.com/dkriegls/coursera/tree/main/labs/lab8>
 
 **Project 2 Practice Assignment: First Attempt**
@@ -7425,7 +6991,6 @@ the majority of the CSS the same. And then you just write what&apos;s called
 a media query that asks the browser, am I being viewed on a mobile
 device? How wide is the screen on a tablet? You can even have it ask,
 am I being sent to a printer? And you can have your CSS change based
-
 on what device the website is being pulled up on. So example would be a
 printer,
 you want to strip out some of the color, make it really simple, maybe
@@ -7462,7 +7027,6 @@ the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_6_demo)&apos;.
 
 <h4 id="ch6-1-2">6.1.2 Lecture Slides: Standard Website Layouts</h4>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch6-2">6.2 Standard Website Layouts (9:30)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7491,16 +7055,11 @@ to be a wrapper. This wrapper is what we use to create this extra white
 space on either side. We&apos;re going to use this
 wrapper in the head a little bit as well
 to get more complex. But then we have
-
 my main content, it&apos;s going to be
-
 my main content. I may have some other
-
 stuff, very simple. Div is going to be my side bar. And then put some in
 my sidebar, whatever that&apos;s going to be. Actually, let&apos;s change
-
 that to an aside. HTML aside, I don&apos;t use
-
 that as much as I should. The aside is used for presents a portion of
 document whose content is only indirectly related
 to the documents. Perfect. Let&apos;s change
@@ -7524,16 +7083,11 @@ that there anymore, the reset because I
 don&apos;t have a reset. This one has a reset. Let&apos;s go here. Copy and
 drop this up top for reset, paste, normalize.css folder. There we go.
 I&apos;m removing this little white space
-
 on the side of my reset, so I don&apos;t need that clean up
-
 my CSS a little bit there. We&apos;re going to start
-
 with the page-wrapper. Page-wrapper with 960, margin, zero auto. What
 we&apos;re doing here
-
 is we&apos;re setting this page-wrapper,
-
 inspect element. This page-wrapper,
 there&apos;s the page-wrapper 960 going all the way around
 and my main is smaller. Take this, let&apos;s
@@ -8123,37 +7677,22 @@ two and a nine. This one is nth child
 3n+1 nth child, even. Very complicated, you
 don&apos;t have to do this. Using this nth child 3+1 would normally
 highlight
-
 children 1, 4, 7 and 10 basically start at
-
 one and you go every three. But then this is child even. Using the nth
 child
-
 is only four and 10. It removes the odds. I don&apos;t think I&apos;ve ever
-
 used this in any code. You can see though here
-
 nth child type of three. You start to get
-
 really complicated and explains more and more. None of this you&apos;ll
-
 have to know, but these ones definitely
-
 I&apos;ll use this in some demo nth child
-
 you&apos;ll see me use this a little bit in
-
 one of the demos. Here&apos;s some other pseudo
-
 selectors that you can look at. Smash magazine, this is
-
 a good one also as well. Here link visited, so
-
 visited a good one. Usually when you click on a link like here and then
 you go back. Link visit, it&apos;s usually a link href when you click
-
 on turns purple. You can use visited to change it back to make
-
 it not turn purple. If you don&apos;t like the way purple looks on your
 website,
 change to something else. Hover over, you&apos;ve seen
@@ -8644,132 +8183,81 @@ writing the JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 You definitely want to come
-
 here JavaScript lightweight, just in-time compiling, it&apos;s a nice little
-
 write-up on it tutorials, if you want to get JavaScript first steps,
 this is
-
 a nice little introduction read-up. Obviously, watching some other
-
 videos is always good as well. And then here&apos;s some JavaScript basic
-
 programming introduction reading with elegant JavaScript, this is a good
 reading
-
 course here, so there&apos;s a nice textbook. But that of Node JS we are
 going
-
 to be using Inspector, so you can write JavaScript here and
-
 it works. So you can do 2+2 and you get
-
 the JavaScript will execute, that it&apos;s 4. So jump to the How to Guide,
-for
-
-sure this is embedding our JavaScript. How to add JavaScript to HTML.
+for sure this is embedding our JavaScript. How to add JavaScript to HTML.
 Few different ways you can write
-
 the script inside the head, but ultimately what we want to do is the
 same
-
 way we link to it in external scripts, we want to link to it the same
-
 way we would as our CSS. You&apos;ll see sometimes in my demos embedded
-
 scripts the same way we can embed CSS right into the HTML file, you just
-
 open Script, write some JavaScript, then close it. And then the external
 scripts, most
-
 commonplace is in the head right before the body, however, you will see
 a lot of
-
 older coders and a lot of older websites place the JavaScript below all
 their
-
 code so at the bottom of the HTML page. And the reason for that is
 because that was what they learned
-
 before we had async versus async deferred. So async executes the page
 parsing
-
 deferred executes script when page finishes parsing, if you put neither
 it
-
 executes immediately then parses the page. So what does that mean? So
 here is the HTML parsing, what that means is it&apos;s processing
-
 the HTML code and executing it. Here you parse the HTML, script gets
-
 downloaded, and then script is executed. So if you&apos;re just normally
 doing it,
-
 and remember, this happens super fast, but it can slow down on slower
 software or
-
 slower computers so it can become noticeably different. So normal
 processing is the HTML
-
 is downloading, getting processed, as soon as it runs into where
-
 the JavaScript is needed, it parses processing your JavaScript. And
 that&apos;s where sometimes when you see
-
 a slow page and not everything populates on the page, this might be
 happening,
-
 it&apos;s downloading the JavaScript and then executing it, and then
 finishes
-
 putting up the HTML on the page. So async allows for you to keep
-
 downloading and processing the HTML while the JavaScript downloads,
-
 that&apos;s really smart, and only then during the actual parsing and
 processing of
-
 the JavaScript does the HTML parse. Or deferred is often preferred,
-
 you download in the middle and then the JavaScript doesn&apos;t
-
 execute till the end. The only choice between these is often
-
 making a decision where you put your website on throttle for a slow
 download
-
 and you see if it&apos;s okay to defer or if you need some JavaScript
 features to be
-
 up before the whole page is downloaded. So for instance, Gmail wouldn&apos;t
 look very
-
 good without the JavaScript anyway, so there&apos;s no reason to defer it,
-
 so it&apos;s going to be async. So you start processing,
-
 get the JavaScript ready, and then finish loading the page. And of
 course on a fast computer,
-
 fast T-line, this happens instantaneously
-
 to the human experience, but it can be relevant for
-
 slower systems and slower downloads. Do I have that in my code? Yeah,
 you are, and
-
 I should have this actually async, it&apos;s an attribute, but yeah,
-
 just dropping async in there like that. So async, async deferred, you
 want to make
-
 sure you put that in your JavaScript and have it come in from the head.
 Other things we want to talk about with
-
 JavaScript, JavaScript is case sensitive, so the attribute foo with the
-lowercase
-
-does not equal the capital Foo, if I create code that has that in it, it
+lowercase does not equal the capital Foo, if I create code that has that in it, it
 won&apos;t find the other one. This is why I&apos;ve been making you lowercase
 all your file names, stuff like that, because once you get to
 JavaScript, case sensitive really does matter. So for instance, if I
@@ -8843,246 +8331,142 @@ letter. Can be a set of very basic data types, we&apos;ll talk about the
 data
 types in a second. No special characters in the name again,
 just keep it simple. Has functional scope, what that means
-
 is once I assign foo the value of 5, if I create a new JavaScript
 function and
-
 I bring foo in there, 5 will not be the same. I need to relate back to
 that earlier
-
 function to make sure it is using the same variable foo, variable
 declaration in
-
 a function without a variable keyword, it&apos;s global. So if I generally
 don&apos;t
-
 insert inside a function, it then becomes a global variable. So that&apos;s
 two different ways
-
 to get around that scope, two different types of variables. So this is
 just a normal
-
 variable I put a value to, I can also have an array
-
 with a defined width. So I do array and
-
 I generally do these blocks here. And an array is a series of variables,
-
 so it&apos;s packaging several values into a single variable and then zero
-
 index so first element is always zero. When I have an array and
-
 I have a series, say I have email one, email two, email three in that
 array. If I get to the first variable in
-
 that array, it is not variable one, it will be variable zero in that
 array. The different ways in which I can
-
 define foo so as you saw here, I created fuud and
-
 it&apos;s undefined so that&apos;s the first. I can define it as null, so that
 resets
-
 it to be no value similar to undefined, but actually an official null,
-
 mathematically there&apos;s a difference. I can assign it in numbers, as
 you&apos;ve seen
-
 me do, True, false, boolean strings we see this quite a bit in code,
-
 oftentimes building an if then statement. I often are asking if
-
 inventory reaches ten, then re up order equals true and
-
 stuff like that. Strings, this is where I use little
-
 quotation marks in the value, so variable joe=5 if I
-
 use quotation marks here. Even if I use these quotation marks
-
 around a five, it changes it to a string. A string is usually used for a
 word, but a string of five is also a different
-
 variable, so we&apos;ll demo that here. I&apos;m going to give foo=2, two=2
 array, and you&apos;ll see it&apos;s
-
 already a different color. So now if I do foo+two, so now you&apos;ll
-
 see they just put the two side by side, it doesn&apos;t actually
 mathematically
-
 because it doesn&apos;t treat as a number, it treats the two as an array. So
 that&apos;ll come up a lot sometimes when we
-
 do comparisons to see if they&apos;re equal, then this will be seen as
 equal,
-
 but we want exactly equal, which means the same data type. Now
 mathematical operators as you&apos;ve
-
 already seen me start to do, so we have addition. So basically we&apos;re
 adding and subtracting,
-
 very simple plus minus division, multiplication. So multiplication is
 the star, division
-
 is the slash, modulus is once you do division, you actually don&apos;t want
-
 the divider, you want what is remainder. So oftentimes when you&apos;re
 subtracting
-
 several orders that are worth maybe eight shirts each, you want to know
 what&apos;s the
-
 remainder, not how many times you can fill that order, but what is the
 remainder in
-
 your inventory after you fill that order. So increment and decrement and
-
 then add self and reassign are unique, and
-
 I mean they&apos;re encoding but they&apos;re a little bit more unique,
-
 so too we set it 2, and if I do plus plus, so now if I do too,
-
 you&apos;ll see that too is equal to 3. So too +too now equals 6 because
-
 two is now equal to 3 plus plus, what it does is it takes whatever
-
 it is and it adds one to it. So that&apos;s an increment,
-
 decrement will subtract one. Can we use these for countdowns,
-
 here we have the add to self and reassign. So this is like an increment
 or decrement, except ultimately we want
-
 to have more than just one. So var car=5: car +=2: car is now 7. Next up
 is statements, statements
-
 are execution commands to the browser, so execute an order of
 presentation, so they go just like JavaScript
-
 from top to bottom. Browsers have built in
-
 statements functions, so confirm too+too and
-
 I go back to my website and too+too, yes no okay, so got to 6 and then
 prompt is the other one built in. So statements can be grouped together
-
 in blocks with the curly brackets and we&apos;ll demo some of that, it&apos;s
 used for
-
 defining functions or using conditionals. Ultimately this is creating
-
 our JavaScript functions, which then we&apos;ll talk about in a minute,
 where you have a series of statements
-
 together in some operational string. Next up of course is functions, so
-
 functions are named blocks of code that can be called and
-
 executed by events and or other code. So here we have function,
-
 maybe name some variables and then these curly brackets
-
 will be the block of code. So let me pop open some JavaScript,
-
 this is a function, so here&apos;s a very basic function, initial map,
-
 and then I have here the function. I&apos;ve announced it,
-
 it&apos;s actually an anonymous, so I&apos;m not grabbing any variables
-
 I&apos;m just grabbing initMap. And now within that function, once this
-
 function runs, it&apos;s going to run this one, which is variable map, and
 then that
-
 has the function of center and zoom 8. And here&apos;s a more complex
 version of that,
-
 so you&apos;ll see here function init. If I open it up,
-
 the function opens and closes, but you&apos;ll see additional functions
-
 within this function. So this is a separate function here and
-
 it grabs several things and defines it. Here&apos;s my variable marker
 function grabs
-
 a couple of things and defines it. So that&apos;s what a function is, it&apos;s
 basically announcing that
-
 here&apos;s going to be a string of code, several different steps, and it&apos;s
-all
-
-executed within that curly brackets.
-
+all executed within that curly brackets.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch7-5">7.5 JS Language Features and Syntax - Part 2 (7:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Next up, we&apos;re going to talk
-
 about comparisons like mathematical operations. This is something you
-
 should know a little bit. So == is equal to. Exclamation mark and
-
 equal is not equal to. But then, when we add
-
 the extra equal sign, it&apos;s equal to and
-
 the same data type. This doesn&apos;t come up too much. But if I do
 too==foo, I will get false. Let me reset this as two. Now too==foo, so
 now it&apos;s true. Let&apos;s make too equal
-
 to a string now. Now I have foo is still
-
 equal to 2 from up here. Foo is equal to 2, 2 is now equal back to a
-string
-
-which I had said earlier. But now, if I do
-
+string which I had said earlier. But now, if I do
 too==foo, I get true. If I do too===foo, I get false because
-
 it&apos;s adding that additional step of not just
-
 asking if they&apos;re equal, so they&apos;re equal, but here are they equal and
-the
-
-same data type. It does come up occasionally,
-
+the same data type. It does come up occasionally,
 but not that much. Then we have greater than, greater than equal to,
 less than, less than equal to. With JavaScript objects, all JavaScript
-
 items are objects. Once I created these
-
 variables here, these variables
-
 now become objects and I can point
-
 JavaScript to them. It includes functions, once I create a function,
-
 any calculation. Once I create something
-
 inside JavaScript, it becomes an object. That&apos;s what&apos;s called
-
 object-oriented coding. Excluding core data types. I can&apos;t just do too
-
 is sitting out there, I got to turn it
-
 into a variable. No true class system
-
 in JavaScript, it uses prototypes instead. Examples the browser
-
 is the window object, the HTML page is the
-
 document object. I don&apos;t have a
-
 class between them. I just point objects
-
 towards the window. As you saw here,
-
 document.getElementById. Document is the predefined object, that is the HTML page. So 
 attaching with a dot, I have getElementById, looking for some ID inside a document called 
 Canvas. Objects are composed of properties and methods. Properties are basically 
@@ -9110,26 +8494,20 @@ obj, and I&apos;m changing color to blue. Let&apos;s do a proper variable,
 object equals, and then instock true. There should be a string, little
 things like that, gets caught up. There we go. Now if I do object.color,
 and there we go. I want to know the color, I&apos;m going to find out it&apos;s
-blue. But now I could also
-do color equals red, a string red. There we go. If I do variable.obj,
-actually I know I just do obj will get me color:
-red, quantity: 2. The color has now
-shifted inside there. This is where you start
+blue. But now I could also do color equals red, a string red. There we go. If I 
+do variable.obj, actually I know I just do obj will get me color:
+red, quantity: 2. The color has now shifted inside there. This is where you start
 getting more complex. Playing around with JavaScript and creating nice,
-complex arrays. Usually, you&apos;ll get
-something like this. Then you&apos;ll be asked to build a little code to
-change up
-what&apos;s inside it already. JavaScript Objects
-Literal format. Here we have a variable, my object equals, and
+complex arrays. Usually, you&apos;ll get something like this. Then you&apos;ll 
+be asked to build a little code to change up what&apos;s inside it already. 
+
+JavaScript Objects Literal format. Here we have a variable, my object equals, and
 a string property. Some string number property, boolean property which
-you
-saw me just build just now. But the value can&apos;t be
-any JavaScript data type including a function
-or other object. These are the arrays
-that we&apos;re building. You want to make sure that
+you saw me just build just now. But the value can&apos;t be
+any JavaScript data type including a function or other object. 
+These are the arrays that we&apos;re building. You want to make sure that
 as you&apos;re building them, they map back to a database on the back end
-and
-often write it in a way that makes sense to
+and often write it in a way that makes sense to
 relate to that database. Next, we have else
 if statements. If you&apos;re not
 familiar with coding, very often they&apos;re known
@@ -9248,23 +8626,19 @@ element and myFunction. Again, I can&apos;t add multiple myFunctions. I
 can&apos;t then go d2.on click again. This one will override this one. So I
 still only single bind it. So again,
 this is the way you want to do it. And the only reason I&apos;m complicating
-you
-with all these different ways of binding is because I do see kids,
+you with all these different ways of binding is because I do see kids,
 especially doing this one. So now a little bit about the DOM objects. So
 DOM, it&apos;s object representation
 of the HTML document and all other things related to it. All elements
-are represented
-by objects in JavaScript. The Dom is an API that can
+are represented by objects in JavaScript. The Dom is an API that can
 be used by many languages. So you&apos;ll see the DOM
 in other codes as well. JavaScript uses DOM scripting to
 modify the elements on the page. DOM is a collection of node trees. Also
-provide standard methods to
-traverse the DOM, access element pages. So by talking about that, we&apos;re
-saying
-here document is a standard DOM name. Id getElementById is a standard
-DOM name. All these things then represent
-it in a tree flowing outward. The most common id is getElementById. So
-that&apos;s the most common way to
+provide standard methods to traverse the DOM, access element pages. So 
+by talking about that, we&apos;re saying here document is a standard 
+DOM name. Id getElementById is a standard DOM name. All these things 
+then represent it in a tree flowing outward. The most common id is 
+getElementById. So that&apos;s the most common way to
 find stuff inside of the HTML. But you can also go for window. Which
 window is not the HTML. It&apos;s going to be this space here. So you can
 ask orientation of window. You can ask operating system of window. You
@@ -10425,7 +9799,6 @@ time thinking about how you want the layout to be and what it should
 look like. But you have control over X and Y coordinates so you can
 change those as well. In a particular box you have full control over
 margins and padding. So you can add then box 12 large
-
 padding 25 and then there&apos;s basic and advanced grid cell block classes
 which is what we have laid out here. So here you see 12, I have this
 just a 6. This 6 can then be broken up into 6 and 6. This 12 can be
