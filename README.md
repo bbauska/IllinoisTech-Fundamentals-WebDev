@@ -4,6 +4,7 @@ author: "Brian Bauska (bbauska)"
 date first editted: "4/1/2025 12+pm"
 date last editted: "4/23/2025 Wed 1+pm"
 date last editted: "4/28/2025 Mon 12+pm"
+date last editted: "6/26/2025 Thu 9+pm"
 output: 
   markdown:
     with some style
@@ -469,8 +470,7 @@ modern responsive design practices.
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
 8.1.  Module/Week 8 Introduction jQuery and Frameworks (2:53)
-<!-- [Module 8
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-8-introduction-hjsK2)
+<!-- [Module 8  Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-8-introduction-hjsK2)
 -->
 
 -   8.1.1 <b>Reading:</b> Module/Week 8: Asset Library
@@ -542,17 +542,18 @@ landscape from code creation to global connectivity.</p>
   <li>Write basic HTML script and publish it to Github and Github Pages.</li>
   <li>Explain the role and function of the internet's key technologies (HTML, CSS and JS).</li>
 </ul>
+<!-- WE start class here -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-1">1.1 Course Overview (7:34)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Hello and welcome to fundamentals of web development. My name is Professor Krieglstein. 
 We&apos;re going to start with a course introduction.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- image here>
+<!-- image here course learning objectives -->
 <p>First lesson is how the web came to be and what it is that you&apos;re actually working 
 on when you&apos;re building a website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- image here>
+<!-- image here course description -->
 <p>We&apos;re going to learn how websites are built and specifically, not how to build a website 
 because you can go on any sort of free website builder, you can build a website, but you may not 
 understand it. Like asking AI to do your math for you. You&apos;re going to get the right answer 
@@ -676,7 +677,7 @@ you to reach out and ask for help. Thank you.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to Module 1, Internet Structures and an Introduction to HTML.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- image>
+<!-- image -->
 <p>Again, this is our fundamentals of web development course. In this
 module, you&apos;re going to start with a nice introduction to the structure
 of the web.</p>
@@ -778,60 +779,55 @@ nanoseconds. Now we&apos;re sending that millions of times a second to
 communicate. So you have 6.3 megabytes of memory it&apos;s holding, you&apos;re
 talking to this computer using paper punch cards.</p>
 
-<p>You don&apos;t even have a keyboard you&apos;re typing in. You&apos;re trying to
-make it do equations, and it&apos;s storing only up to 6.3 megabytes of an
-equation at a time. So at this point you basically have a computer that
-can run an equation, give you an answer, run an equation, give you an
-answer, run an equation. It&apos;s not doing it in tandem or multiprocessing
-and it can&apos;t do things out of order. This computer is the first one
-that can do things out of order. So its operating system and at the
-time, there wasn&apos;t Windows and Mac, there was this computer built by
-IBM, and IBM built an operating system for that specific computer. So
-there&apos;s only 15 of them, the operating system they built was for these
-15 computers. It couldn&apos;t be used anywhere else. But it was the first,
-what we call out of order operation.</p>
+<p>You don&apos;t even have a keyboard you&apos;re typing in. You&apos;re trying to make 
+it do equations, and it&apos;s storing only up to 6.3 megabytes of an equation at a time. 
+So at this point you basically have a computer that can run an equation, give you an 
+answer, run an equation, give you an answer, run an equation. It&apos;s not doing it in 
+tandem or multiprocessing and it can&apos;t do things out of order. This computer is the 
+first one that can do things out of order. So its operating system and at the time, 
+there wasn&apos;t Windows and Mac, there was this computer built by IBM, and IBM built 
+an operating system for that specific computer. So there&apos;s only 15 of them, the 
+operating system they built was for these 15 computers. It couldn&apos;t be used 
+anywhere else. But it was the first, what we call out of order operation.</p>
 
-<p>So instead of having, at this time the standard computer, as I said, one
-equation, calculate after the other, it was the first time you had the
-processor be able to get two different equations and do them out of
-order and give you a kind of complex answer. And this kind of complexity
-of being able to look at things differently than the computer at
-different time frames is the kernel of being able to network between two
-computers.</p>
+<p>So instead of having, at this time the standard computer, as I said, one equation, 
+calculate after the other, it was the first time you had the processor be able to get two 
+different equations and do them out of order and give you a kind of complex answer. And 
+this kind of complexity of being able to look at things differently than the computer at 
+different time frames is the kernel of being able to network between two computers.</p>
 
-<p>Because files aren&apos;t coming to those computers at the same time and it needs to put that data 
-together to build a website. And you&apos;ll learn this when we have websites. You have your CSS file, 
-your HTML file, your JavaScript file, they may come at different times of the computer. It&apos;s
-all in nanoseconds, we can&apos;t comprehend it, but the computer is getting these things out of 
-order and need to organize them. It has a map of how to do that, and a language it speaks to 
-understand these are the files, this is how I present the data. This is the start of that. I 
-want to emphasize, at the time they paid &dollar;6 million to have one of these installed and you would 
-have a team member trained how just to use this. That was their whole job, was to use this 
-computer. And other people would come with problems, and they take their punch card, that
-one person entered in. &dollar;6 million, pause the video, pull up an inflation calculator, and see
-how much that was actually in today&apos;s dollars. These things were
-expensive.</p>
+<p>Because files aren&apos;t coming to those computers at the same time and it needs to 
+put that data together to build a website. And you&apos;ll learn this when we have 
+websites. You have your CSS file, your HTML file, your JavaScript file, they may come 
+at different times of the computer. It&apos;s all in nanoseconds, we can&apos;t 
+comprehend it, but the computer is getting these things out of order and need to 
+organize them. It has a map of how to do that, and a language it speaks to understand 
+these are the files, this is how I present the data. This is the start of that. I 
+want to emphasize, at the time they paid &dollar;6 million to have one of these 
+installed and you would have a team member trained how just to use this. That was 
+their whole job, was to use this computer. And other people would come with problems, 
+and they take their punch card, that one person entered in. &dollar;6 million, pause 
+the video, pull up an inflation calculator, and see how much that was actually in 
+today&apos;s dollars. These things were expensive.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
-<p>But the computer of the day, the most popular was IBM&apos;s 360, Model 30. 
-There&apos;s a link out to it. It did 8 to 64 kilobytes memory. You may not
-even know what a kilobyte is. This thing was small. It was big, but it
-was small compared to today&apos;s computer. And companies couldn&apos;t even
-afford, most companies rented it out for &dollar;8,000 a month. And again, a
-specially trained person would work on it. It was released in 1964, but
-it was the computer of the day in 1969, everyone had one of these. And
-it was grossing IBM roughly a billion dollars a year.</p>
+<p>But the computer of the day, the most popular was IBM&apos;s 360, Model 30. There&apos;s 
+a link out to it. It did 8 to 64 kilobytes memory. You may not even know what a kilobyte 
+is. This thing was small. It was big, but it was small compared to today&apos;s computer. 
+And companies couldn&apos;t even afford, most companies rented it out for &dollar;8,000 
+a month. And again, a specially trained person would work on it. It was released in 1964, 
+but it was the computer of the day in 1969, everyone had one of these. And it was 
+grossing IBM roughly a billion dollars a year.</p>
 
-<p>What made this a next step in computer networking was that CompuServe came around and
-they developed the Dial-Up system for sending files. Now, this is not
-what you think of <span class="hilite">1990s</span> Dial-Up where you beep boop, boop, and then
-there&apos;d be some data transfer. This was literally the computer had a
-phone number and it called the CompuServe phone number, and it would
-send a single file, and it would take some time. And then CompuServe
-would have that file and be able to enter into another computer. So it wasn&apos;t really two
-computers talking yet. But this is the first concept of trying to take
-digital language and put it into an analog system like a telephone so we
-could start networking.</p>
+<p>What made this a next step in computer networking was that CompuServe came around and 
+they developed the Dial-Up system for sending files. Now, this is not what you think of 
+<span class="hilite">1990s</span> Dial-Up where you beep boop, boop, and then there&apos;d 
+be some data transfer. This was literally the computer had a phone number and it called 
+the CompuServe phone number, and it would send a single file, and it would take some time. 
+And then CompuServe would have that file and be able to enter into another computer. So it 
+wasn&apos;t really two computers talking yet. But this is the first concept of trying to 
+take digital language and put it into an analog system like a telephone so we could 
+start networking.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>With that, we have Arpanet. So Arpanet&apos;s taking
@@ -875,7 +871,6 @@ University of Illinois and University of Michigan were two of the
 leading research universities inventing a lot of these tools. And then
 to a lesser extent, University of Wisconsin and Notre Dame University in
 Indiana.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-4">1.4 History of the Web - Part 2 (12:13)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -903,7 +898,7 @@ Email was adopted later, Ray Tomlinson was calling it FTP mail file
 transfer protocol mail, which was a funny little name but eventually
 later we adopted the name email.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- image -->
+<!-- 5 images -->
 This is actually Ray Tomlinson and his team and if you want to jump on
 this website data tracker, this was the original proposal for how email
 should work. Subjects headers, understanding it and how it would have
@@ -994,13 +989,13 @@ these files, and package data, and we add the IP address. This is
 important, because up to this point with Arpanet, we have computer
 talking to computer, talking to the next computer. We don&apos;t have
 servers or those network tools that help package it and send it around
-the whole world. 
+the whole world.</p>
 
-IP address separates now the computer itself from maybe a wider network. If I don&apos;t have to type 
+<p>IP address separates now the computer itself from maybe a wider network. If I don&apos;t have to type 
 in the computer name, I can type in 1.32.42, and I as my register of my IPM 360 Version 1. I 
-register for one of these IP addresses. 
+register for one of these IP addresses.</p>
 
-Now there&apos;s a phone book of where all the computers connected to the
+<p>Now there&apos;s a phone book of where all the computers connected to the
 network are, and this is really important because now I can start to
 have a real network. I don&apos;t necessarily have to know what university
 or what location, the next computer is at that I&apos;m trying to
@@ -1008,21 +1003,21 @@ communicate with, I now have this address book. All these Universities
 get these address books, and they type in these IP addresses and
 they&apos;re starting to be able to send information around. I might
 actually be able to move a little bit or add another computer to that
-network, and I just get a new IP address. 
+network, and I just get a new IP address. No one has to learn the Motte 
+make and model of my computer.</p>
 
-No one has to learn the Motte make and model of my computer. 
-Finalize the TCP/IP integration in <span class="hilite">1978</span>. This was IP Version 4, it&apos;s
+<p>Finalize the TCP/IP integration in <span class="hilite">1978</span>. This was IP Version 4, it&apos;s
 delivering packets from secure host with an IP address over the server
 network. I just typed in the IP address. I may not even know now
 anymore what university I&apos;m talking with or where it&apos;s going to, I
 just know this is Dan&apos;s computer and it has this IP address and I&apos;m
 sending it there. Vint Cerf and Bob Kahn, they&apos;re working together on
-the IEEE paper in 1974. 
+the IEEE paper in 1974. Solidifying this, giving the argument of why it should be this way.</p>
 
-Solidifying this, giving the argument of why it should be this way. 
-Then they&apos;re experimenting for several years before we settle on IP3
-Version 3, and that is the first launch. 
-From there then we get <span class="hilite">1979</span>, we have USENET, which is the first true
+<p>Then they&apos;re experimenting for several years before we settle on IP3
+Version 3, and that is the first launch.</p>
+
+<p>From there then we get <span class="hilite">1979</span>, we have USENET, which is the first true
 Internet dial-up. They&apos;re using IP addresses to build communication
 between two computers, not just having what we had before where you&apos;re
 talking to a phone and the phone is just downloading a file and then
@@ -1032,85 +1027,77 @@ you&apos;re inputting into a computer.</p>
 <p>That&apos;s Tom Truscott and Steve Bellovin are giving us that first true
 dial-up. Now we have the framework, we have a network out there, we&apos;re
 starting to figure out how to package files that they can be loosely
-sent. 
-I don&apos;t have to know the exact physical location or the model of each
+sent.</p>
+
+<p>I don&apos;t have to know the exact physical location or the model of each
 computer, and I&apos;m starting to write language that is universally able
-to be used anywhere. 
-
-That&apos;s how we&apos;re starting. This is the end of the &apos;70s, so we&apos;re
-getting to the &apos;80s now, getting into what we might think of, the
-colorized version of television and movies where we&apos;re still
-enjoying some of those great &apos;80s movies. 
-
-This is where the internet is still just in its infancy.  It&apos;s not even
-really called the Internet yet and we&apos;re not able to navigate. There
-are no websites.</p>
+to be used anywhere. That&apos;s how we&apos;re starting.</p>
+<!-- page 26 -->
+<p>This is the end of the &apos;70s, so we&apos;re getting to the &apos;80s now, getting 
+into what we might think of, the colorized version of television and movies where 
+we&apos;re still enjoying some of those great &apos;80s movies. This is where the 
+internet is still just in its infancy.  It&apos;s not even really called the Internet 
+yet and we&apos;re not able to navigate. There are no websites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
-<p> Comes 1980, this is where the birth of the
-Internet. You have Tim Berners-Lee, really should be a better-known name
-throughout the world. 
-
-He&apos;s like the Einstein of the Internet. You have to imagine the scheme
-of change, the paradigm shift someone has, he&apos;s working at CERN. 
-
-He has this network which mimics a physical file network. 
-
+<p>Comes 1980, this is where the birth of the Internet. You have Tim Berners-Lee, really 
+should be a better-known name throughout the world. He&apos;s like the Einstein of the 
+Internet. You have to imagine the scheme of change, the paradigm shift someone has, 
+he&apos;s working at CERN. He has this network which mimics a physical file network. 
 I&apos;m taking a file in this computer and I&apos;m sending that file over
-there, and I have addresses to send between these two files. 
+there, and I have addresses to send between these two files. He starts to think of 
+this network as something more ethereal, what we might call the cloud today. Where I 
+don&apos;t even know where things are going or what they&apos;re doing, but I should 
+be able to just navigate around and start looking at files on other people&apos;s
+computers. I shouldn&apos;t have to request, I should be able to just pull up, click 
+on a link, start reading something.</p>
 
-He starts to think of this network as something more ethereal, what we
-might call the cloud today. Where I don&apos;t even know where things are
-going or what they&apos;re doing, but I should be able to just
-navigate around and start looking at files on other people&apos;s
-computers. I shouldn&apos;t have to request, I should be able to just pull
-up, click on a link, start reading something. 
-
-What you might do for hours on Wikipedia when you&apos;re supposed to be 
+<p>What you might do for hours on Wikipedia when you&apos;re supposed to be 
 doing a book report and you end up, my gosh, I&apos;m doing a book report on
 World War I, and all of a sudden I&apos;m reading about, corn prices during 
-the Renaissance or something like that. 
+the Renaissance or something like that.</p>
 
-You know how that night on Wikipedia can go. Tim Berners-Lee, he&apos;s
+<p>You know how that night on Wikipedia can go. Tim Berners-Lee, he&apos;s
 working at CERN. He comes up with what he&apos;s using at the time is Memex
 and NLS hypertext system. This is in one file, I have reference to
 another file and I&apos;m linking between these two files and looking at
 scientific research, but ultimately it&apos;s dependent on the software of
-the computer. 
-
-I can&apos;t really do this easily between two different types of computers
+the computer.</p>
+<!-- page 27 -->
+<p>I can&apos;t really do this easily between two different types of computers
 because the OS, again remember, is specific to those individual, actual
 physical computers. He comes up and he starts to write something called
 Enquire. It&apos;s a simplified hypertext that makes it universally
-compatible with every operating system. How does he know? 
+compatible with every operating system. How does he know? Because Tim Berners-Lee 
+is actually going to every type of IBM computer at the time, and he&apos;s learning 
+the OS, and he&apos;s figuring out how to write code that can interact with any of 
+them. Now what will happen is when you&apos;re building a website, Apple, for
+instance, has built a browser that talks to Apple.</p>
 
-Because Tim Berners-Lee is actually going to every type of IBM computer
-at the time, and he&apos;s learning the OS, and he&apos;s figuring out how to
-write code that can interact with any of them. 
-Now what will happen is when you&apos;re building a website, Apple, for
-instance, has built a browser that talks to Apple. 
-You download a browser like Chrome, but you downloading the Apple
+<p>You download a browser like Chrome, but you downloading the Apple
 version, Chrome then will communicate with your website, and you only
 have to write one file, and it communicates with any browser out there. 
-
 You don&apos;t have to write a Windows-specific or a Mac-specific version of
 your website. 
 That&apos;s the power of a website. 
 It can be pulled up anywhere because the handling of communicating with 
-the OS is after the fact. 
-The HTML, CSS, and JavaScript, they&apos;re universally understood by those
+the OS is after the fact.</p>
+
+<p>The HTML, CSS, and JavaScript, they&apos;re universally understood by those
 browsers. 
 That&apos;s what Tim Berners-Lee is starting here to be able to build that
 universal language for any computer to be able to talk to each other. 
 He gets Enquire, it&apos;s unified, it works with networks. 
 More than just talking to a browser, he makes sure it&apos;s universal on
-the disc formats, the data formats, and the character encoding schemas.
+the disc formats, the data formats, and the character encoding schemas.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-5">1.5 History of the Web - Part 3 (11:27)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>This is where we start the slow growth of the Internet, starts to go
-ARPANET. We switch over. ARPANET, remember was that network of university
+ARPANET.</p>
+<!-- page 28 -->
+<p> We switch over. ARPANET, remember was that network of university
 computers.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
@@ -1118,35 +1105,34 @@ computers.</p>
 It allows now other people to join their network. 
 It&apos;s still centrally controlled, but now people from outside are
 starting to join, so that by <span class="hilite">1987</span> we have 30,000 users. 
-
 Basically small universities, businesses, research labs are starting to join up getting 
 IP addresses, and being able to talk with these universities.</p>
 
 <p>In <span class="hilite">&apos;94</span>, we have the DNS domain system. 
 The DNS is your www.google.com, the English language version of a website name. 
 What we&apos;re doing now is we&apos;re separating what I, as the user type into
-my browser. 
+my browser.</p>
 
-Of course, there&apos;s no browsers yet, you&apos;re still using web protocols
+<p>Of course, there&apos;s no browsers yet, you&apos;re still using web protocols
 to dial it up, but by doing w.w.google, I can say this is who I want to
 talk to, and the registry, the network can now change IP. 
-
 If I move between universities, because I have ww.danielkrieglstein.com, 
 I can take that with me, and I can get a new IP address, and attach it
 to that, ww.danielkrieglstein.com. 
 This makes the web start to become more fluid, so I can take my address
 with me as I move around, and I don&apos;t have to re-tell everyone my new
-address. 
-This is like if you lose your phone number for some reason, every time
+address.</p>
+
+<p>This is like if you lose your phone number for some reason, every time
 you get a new phone, you get to keep your phone number now, back in my
 day, you got a new phone number every time you got a new cell phone 
 and you had to tell everyone your new phone number, it was very
 annoying. 
-
 But luckily, that didn&apos;t last very long. 
 National Science Foundation, they start putting their supercomputers
-online, and they create the core of the interinstitutional network. 
-This network becomes the base of the web of the Internet, and soon these
+online, and they create the core of the interinstitutional network.</p>
+<!-- page 29 -->
+<p>This network becomes the base of the web of the Internet, and soon these
 centralized organizations step aside, and the web itself starts growing
 organically.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1156,24 +1142,20 @@ I have this communication, I&apos;ve built this tool for talking to a
 computer. 
 Tim Berners-Lee comes back into the scene after inventing kind of the
 open net, being able to talk to any computer, and he again gives us the
-World Wide Web. 
-He says, instead of being able to talk to a computer, say give me this
-file. 
-I want to have like a home page, where I go and I&apos;m talking to CERN
-now. 
-CERN has a page that tells me, maybe a director of what&apos;s there, and
-I&apos;m using my hypertext to navigate around. 
-
-He gives us this concept of this epereal Cloud, where I don&apos;t even know
-where the files are stored. 
+World Wide Web.</p>
+<p>He says, instead of being able to talk to a computer, say give me this
+file. I want to have like a home page, where I go and I&apos;m talking to CERN
+now. CERN has a page that tells me, maybe a director of what&apos;s there, and
+I&apos;m using my hypertext to navigate around. He gives us this concept of this 
+epereal Cloud, where I don&apos;t even know where the files are stored. 
 I&apos;m talking to the file itself, and I&apos;m asking a file to give me a
 different file, and I&apos;m navigating around a website. 
-
 He writes down HTML, HTP, and the URL. 
 How do I navigate? Then he gives us the first browser, the WWW. 
 How do we navigate these pages?</p>
+<!-- page 30 -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- image of the first website>
+<!-- image of the first website -->
 <p>Pretty powerful stuff, so much so that if we go here, this website still
 exists. 
 This is hosted by CERN. 
@@ -1197,8 +1179,8 @@ You actually paid money to have someone update a chat log on a website. 
 You would have like a scientific conversation going, and you would pay
 like &dollar;7. 
 You would send an email to the host server, and then they would type in 
-the website your comment and your response. 
-
+the website your comment and your response.</p>
+<!-- page 31 -->
 That&apos;s how the first group chats were, where you actually told
 someone, there&apos;s one person who could actually create that website and manage
 it, but people were calling in and paying to have their comments added to
@@ -1226,7 +1208,7 @@ things like that.</p>
 <p>1990 CompuServe had thousands of moderated forums. 
 Again, I was explaining these forms, you would literally email in your
 comment and they&apos;d be added to the discussion, it&apos;s quite wild.</p>
-
+<!-- page 32 -->
 <p>1991, AOL enters the Internet game, and this is where you got a little
 hard disk, you put it in, and you would type up Internet, and it would
 use a T line or something at the time, but most people weren&apos;t quite
@@ -1234,27 +1216,24 @@ using the dial up yet, that comes a few years later. 
 AOL starts getting home Internet to people. 
 1991 is Neverwinter Nights, it becomes the first interactive game online
 where I&apos;m playing a game with other people. 
-It was graphical at the time. 
-I remember playing, it was quite fun. 
+It was graphical at the time.</p>
+<p>I remember playing, it was quite fun. 
 I was really excited to try and play in character, but also trying to
-figure out where in the world the other players I was with were. 
+figure out where in the world the other players I was with were.</p>
 
 <p>1993, we get Mosaic. 
 Most people are entering the Internet using AOL&apos;s closed system
 Mosaic developed by Marc Andreessen at the University of Illinois,
 Champaign Urbana. 
-
 It later becomes Netscape when it moves out to Silicon Valley, is the
 first free browser that you don&apos;t have to be paying AOL to join the
 Internet once we get those browsers, and again, AOL dominates at time. 
-
 But this is what we think of as a Chrome browser. 
 The access to the Internet is free. 
 No one thinks in the US and Europe should I pay to access to the
 Internet. 
-Some closed systems out there in the world. 
-You still have to access through certain points. 
-
+Some closed systems out there in the world.</p>
+<p>You still have to access through certain points. 
 But we think of the Internet today as I open my browser and I can
 navigate well, that had to be taken from what was already built by Tim
 Berners-Lee, and Marc Andreessen and his team, Andreessen. 
@@ -1264,7 +1243,7 @@ They give us that browser to freely surf and go around the Internet.</p>
 home on their Apples and their Macs at the time or their IBM
 computers, they&apos;re now accessing the Internet and they&apos;re starting to
 figure out what this thing is and maybe do some homework not everyone.</p>
-
+<!-- page 33 -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>But that&apos;s 1995, AOL extends their search engine and they dominate
@@ -1288,12 +1267,11 @@ people. 
 But for instance, like when my mom retired from her position at
 teaching, she didn&apos;t quite understand that all the email on her computer was
 actually out there in the web. 
-
 She thought she had to download it all and move it to her computer, what
 was called Hotmail at the time. 
-
 But you really can access the Microsoft Hotmail and see your email there
 as well.</p>
+
 <p>1997, we get the Weblog, what you now know of as a blog. 
 The idea of putting your thoughts out there, any person themselves can
 start talking about it started as a Weblog. 
@@ -1320,11 +1298,14 @@ This is not quite social media, but this is the start of the idea that I
 am a content creator with Napster I&apos;m a hoster, I&apos;m uploading computer
 music and I&apos;m sharing with friends. 
 But it&apos;s the start of this decentralized concept.</p>
+
 <p>Wikipedia, 2001, Facebook, 2004. Think about where you are today. 
 2004 is not that long ago, that&apos;s the height of social media starting
 before that, we had Friendster and Myspace, people were using them, but
 it was mostly kids. 
-YouTube videos online, that&apos;s just 2005. Twitter, truly the beginning 
+YouTube videos online, that&apos;s just 2005.</p>
+
+<p>Twitter, truly the beginning 
 of the downside of social media, and we&apos;re start seeing the dark forces
 take over, and then the first computer on a phone.</p>
 
@@ -1337,7 +1318,6 @@ world, using our phone, this is all still really new, what you&apos;re learnin
 today. 
 It&apos;s going to change. You&apos;re going to have more tools, more power than
 ever before, and you can be part of companies helping integrate that. 
-
 Watching this grow, it&apos;s a pretty exciting time to be part of web
 development. Go in, enjoy these next couple of lectures. Get your software
 downloaded. 
@@ -1350,6 +1330,7 @@ helping build in the network you now belong to. Cheers.</p>
 	a.	Author: IBM
 	b.	Link: IBM's History of System/360 Model 91
     https://web.archive.org/web/20230923082536/https:/www.ibm.com/ibm/history/exhibits/mainframe/mainframe_PP2091.html	
+<!-- page 35 -->
 2.	The first computer with a primitive dial-up service: 
 	a.	Author: Ken Shirriff: 
 	b.	Link: Iconic consoles of the IBM System/360 mainframes, 55 years old
@@ -1512,7 +1493,7 @@ So now I have some updated code and I can go up here. 
 Here&apos;s my README file. I&apos;m in my README file. 
 And this was the repository folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- image> 
+<!-- image -->
 <p>I can go to add a file. So create a new file. 
 You&apos;ll see there&apos;s the test repo. And up here, if I wanted to create a
 new file. So let&apos;s call this new, one word we&apos;re using underscore
@@ -9102,55 +9083,28 @@ class between them. I just point objects
 
 towards the window. As you saw here,
 
-document.getElementById. Document is the
+document.getElementById. Document is the predefined object, that is the HTML page. So 
+attaching with a dot, I have getElementById, looking for some ID inside a document called 
+Canvas. Objects are composed of properties and methods. Properties are basically 
+variables. Methods are basically functions, and you pair those two together to do most 
+job script operations. Access and object property. As I showed you here, object.propertyName. 
 
-predefined object, that is the HTML page. So attaching with a dot, I
-have getElementById, looking for some ID inside
+This attachment I point toward the object and I&apos;m grabbing a property of the object 
+as you saw here. One of those properties of document is getElementById. I can grab also the
+history of the document, all types of things like that. Then execute an object method I 
+often want to execute specifically one type of functionality. Here, Google Maps. I&apos;m 
+grabbing the Google Map that&apos;s already pulled in, and I want to operate on the map. 
 
-a document called Canvas. Objects are composed of
-
-properties and methods. Properties are
-
-basically variables. Methods are basically functions, and you pair those
-two together to do most job
-
-script operations. Access and object property. As I showed you here,
-
-object.propertyName. This attachment I point
-
-toward the object and I&apos;m grabbing a property of
-
-the object as you saw here. One of those properties of
-
-document is getElementById. I can grab also the
-
-history of the document, all types of things like that. Then execute an
-object
-
-method I often want to execute specifically one
-
-type of functionality. Here, Google Maps. I&apos;m grabbing the Google Map
-
-that&apos;s already pulled in, and I want to
-
-operate on the map. It&apos;s map options. That&apos;s where I&apos;m grabbing.
-JavaScript objects; JavaScript objects creation and use, created by a
-function
-
-with new keywords, variable object, new object. I then have this object,
-I can add stuff inside of it, so here&apos;s a literal
-object inside, I can create an array. What I&apos;m doing here
-is once I&apos;ve created a variable, is JavaScript code, object is just obj
-is what
-I just named it, equals. Then I have here, a key, with colon, value,
-coma, key2 value. What I&apos;m doing here is
-I&apos;m creating an array of data that sits inside obj. Keys need to be a
-string
-with no spaces and so here, for instance, I
-can do color: red, quantity: 5, instock: true. I could also do password
-1, actual password, password 2, actual password, password 3, actual
-password. Access or set properties
-here, object color, I&apos;m creating this
+It&apos;s map options. That&apos;s where I&apos;m grabbing. JavaScript objects; JavaScript 
+objects creation and use, created by a function with new keywords, variable object, new 
+object. I then have this object, I can add stuff inside of it, so here&apos;s a literal
+object inside, I can create an array. What I&apos;m doing here is once I&apos;ve created 
+a variable, is JavaScript code, object is just obj is what I just named it, equals. Then 
+I have here, a key, with colon, value, coma, key2 value. What I&apos;m doing here is
+I&apos;m creating an array of data that sits inside obj. Keys need to be a string with no 
+spaces and so here, for instance, I can do color: red, quantity: 5, instock: true. I 
+could also do password 1, actual password, password 2, actual password, password 3, 
+actual password. Access or set properties here, object color, I&apos;m creating this
 color called blue, sets the object color to blue. Here I&apos;m grabbing
 obj, and I&apos;m changing color to blue. Let&apos;s do a proper variable,
 object equals, and then instock true. There should be a string, little
