@@ -5,6 +5,7 @@ date first editted: "4/1/2025 12+pm"
 date last editted: "4/23/2025 Wed 1+pm"
 date last editted: "4/28/2025 Mon 12+pm"
 date last editted: "6/26/2025 Thu 9+pm"
+date last editted: "7/13/2025 Sun 4+pm"
 output: 
   markdown:
     with some style
@@ -18,7 +19,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction (1-01) (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
-  style="width:2.0in"
+  style="width:2.0in; height=1.1in;"
   title="Illinois Institute of Technology - Innovation Toronto"
   alt="Illinois Institute of Technology - Innovation Toronto." />
 </p>
@@ -34,88 +35,127 @@ learning and your progress can transfer with you.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk1">Module/Week 1: Internet Structures and an Introduction to HTML</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Welcome to Fundamentals of Web Development! This course will cover the
-creation of Web pages and sites using HTML, CSS, Javascript, jQuery, and
-graphical applications as well as the client and server architecture of
-the Internet and related web technologies. Students will be able to
-create and deploy a Web site with multiple pages and cross-linked
-structures by the end of this course.</p>
+<p>Welcome to Fundamentals of Web Development! This course will cover the creation of 
+Web pages and sites using HTML, CSS, Javascript, jQuery, and graphical applications as 
+well as the client and server architecture of the Internet and related web technologies. 
+Students will be able to create and deploy a Web site with multiple pages and cross-
+linked structures by the end of this course.</p>
 
-<p>In Module 1, students are introduced to the world of web development,
-starting with writing basic HTML scripts and publishing them on GitHub
-and GitHub Pages. It elucidates the roles and functions of the
-internet&apos;s core technologies - HTML, CSS, and JavaScript - and
-differentiates how browsers operate uniquely compared to other computer
-applications. Students will become proficient in using essential tools
-for internet publishing and code archiving, including text editors and
-GitHub, coupled with an understanding of live hosting practices.
-Additionally, the course offers insights into the physical
-infrastructure of the internet, focusing on server technology, and
-providing a holistic view of the digital landscape from code creation to
-global connectivity.</p>
+<p>In Module 1, students are introduced to the world of web development, starting with 
+writing basic HTML scripts and publishing them on GitHub and GitHub Pages. It elucidates 
+the roles and functions of the internet&apos;s core technologies - HTML, CSS, and 
+JavaScript - and differentiates how browsers operate uniquely compared to other computer
+applications. Students will become proficient in using essential tools for internet 
+publishing and code archiving, including text editors and GitHub, coupled with an 
+understanding of live hosting practices. Additionally, the course offers insights into 
+the physical infrastructure of the internet, focusing on server technology, and providing 
+a holistic view of the digital landscape from code creation to global connectivity.</p>
 
 <p><small><small>17 lessons, 13 readings</small></small></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- table of contents -->
+<h2 id="toc">Table of Contents - Illinois Tech's Fundamentals of Web Development</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ hoverable dropdown menu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Week 1: jQuery Plugins and Capturing the Scroll Event</h3>
 
-1.1.  Course Overview Fundamentals of Web Development (7:34)
-<!-- [Course
-    Overview](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/course-overview-D3XXr)
-    (7:34)
--->
+<blockquote>
+  <h4><a href="#ch1-00">1.00 Welcome!</a></h4>
+  <h4><a href="#ch1-01">1.01 Module 1 Introduction</a></h4>
+  <h4><a href="#ch1-02">1.02 Intro to jQuery Plugins</a></h4>
+  <h4><a href="#ch1-03">1.03 Using Plugins and Essential Steps</a></h4>
+  <h4><a href="#ch1-04">1.04 Gotchas and Rookie Mistakes</a></h4>
+</blockquote>
 
--   1.1.1 Syllabus
+<ul style="line-height:250%">
+  <li><a href="/pdf/1.04-jQuery-Plugins.pdf" 
+    aria-label="1.04 jQuery Plugins (display PDF)." 
+    target="_blank" rel="noreferrer noopener">
+    1.04 jQuery Plugins (display PDF)</a></li>
+  <li><a href="/zip/1.04-FlexSliderBasic-START.zip" 
+    aria-label="1.04 Flex Slider Basic START (download ZIP)." 
+    target="_blank" rel="noopener noreferrer">
+    1.04 Flex Slider Basic START (download ZIP)</a></li>
+  <li><a href="/zip/1.04-FlexSliderPlugin.zip" 
+    aria-label="1.04 Flex Slider Plugin (download ZIP)." 
+    target="_blank" rel="noopener noreferrer">
+    1.04 Flex Slider Plugin (download ZIP)</a></li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
--   1.1.2 <b>Reading:</b> Module/Week 1: Asset Library (code used in video demonstrations)
+<h2><a href="#cha"><b>Course Overview - Fundamentals of Web Development (7:34)</b></a></h2>
 
-1.2.  Module/Week 1 Introduction Internet Structures and an Introduction to HTML (2:00)
+<blockquote>
+<h3>- <a href="#cha-1"><b>Syllabus</b></a></h3>
+<h3>- <a href="#cha-2"><b>Why accessibility is important</b></a></h3>
+<h3>- <a href="#cha-3"><b>Why internationalization is important</b></a></h3>
+</blockquote>
 
--   1.2.1 <b>Reading:</b> Lecture Slides: History of the Web
+<h2><strong>Module 1: Advanced HTML5 Multimedia</strong></h2>
 
-1.3.  History of the Web - Part 1 (10:11)
-
-1.4.  History of the Web - Part 2 (12:13)
-
-1.5.  History of the Web - Part 3 (11:27)
-
--   1.5.1 <b>Reading:</b> Lesson 1 Video Reference Page
-
--   1.5.2 <b>Reading:</b> Lecture Slides: The Tools of Internet Publishing
-
-1.6.  The Tools of Internet Publishing - Part 1 (8:20)
-
-1.7.  The Tools of Internet Publishing - Part 2 (6:56)
-
-1.8.  The Tools of Internet Publishing - Part 3 (8:44)
-
--   1.8.1 <b>Reading:</b> Lecture Slides: Browsers and Web Addresses
-
-1.9.  Browsers and Web Addresses - Part 1 (11:46)
-
-1.10. Browsers and Web Addresses - Part 2 (10:45)
-
--   1.10.1 <b>Reading:</b> Lesson 3 Video Reference Page
-
--   1.10.2 <b>Reading:</b> Lecture Slides: HTTP Requests
-
-1.11. HTTP Requests (8:45)
-
--   1.11.1 <b>Reading:</b> Lecture Slides: Meet Our Three Languages
-
-1.12. Meet Our Three Languages (10:31)
-
--   1.12.1 <b>Reading:</b> Lecture Slides: The Basics of HTML
-
-1.13. The Basics of HTML - Part 1 (8:25)
-
-1.14. The Basics of HTML - Part 2 (8:48)
-
-1.15. The Basics of HTML - Part 3 (10:27)
-
--   1.15.1 <b>Reading:</b> Lesson 6 Video Reference Page
-
--   1.15.2 <b>Reading:</b> Lecture Slides: How to Turn In Labs
-
--   1.15.3 <b>Reading:</b> Module/Week 1 Summary
-
+<blockquote>
+<h3>1.1. <a href="#ch1-01"><b>Course Overview Fundamentals of Web Development (7:34)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.1.1 Syllabus</li>
+  <li>1.1.2 <b>Reading:</b> Module/Week 1: Asset Library (code used in video demonstrations)</li>
+</ul>
+<blockquote>
+<h3>1.2. <a href="#ch1-02"><b>Introduction - Internet Structures &amp; an Intro to HTML (2:00)</b></a></h3>
+</blockquote>
+<ul>
+  <li><a href="/pdf/1.2.1-HistoryoftheWeb.pdf" 
+    aria-label="1.2.1 Lecture Slides: History of the Web (display PDF)."
+    target="_blank" rel="noreferrer noopener">
+    1.2.1 Lecture Slides: History of the Web</a></li>
+</ul>
+<blockquote>
+<h3>1.3. <a href="#ch1-03"><b>History of the Web - Part 1 of 3 (10:11)</b></a></h3>
+<h3>1.4. <a href="#ch1-04"><b>History of the Web - Part 2 of 3 (12:13)</b></a></h3>
+<h3>1.5. <a href="#ch1-05"><b>History of the Web - Part 3 of 3 (11:37)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.5.1 <b>Reading:</b> Lesson 1 Video Reference Page</li>
+  <li>1.5.2 <b>Reading:</b> Lecture Slides: The Tools of Internet Publishing</li>
+</ul>
+<blockquote>
+<h3>1.6. <a href="#ch1-06"><b>The Tools of Internet Publishing - Part 1 (8:20)</b></a></h3>
+<h3>1.7. <a href="#ch1-07"><b>The Tools of Internet Publishing - Part 2 (6:56)</b></a></h3>
+<h3>1.8. <a href="#ch1-08"><b>The Tools of Internet Publishing - Part 3 (8:44)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.8.1 <b>Reading:</b> Lecture Slides: Browsers and Web Addresses</li>
+</ul>
+<blockquote>
+<h3>1.9. <a href="#ch1-09"><b>Browsers and Web Addresses - Part 1 (11:46)</b></a></h3>
+<h3>1.10. <a href="#ch1-10"><b>Browsers and Web Addresses - Part 2 (10:45)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.10.1 <b>Reading:</b> Lesson 3 Video Reference Page</li>
+  <li>1.10.2 <b>Reading:</b> Lecture Slides: HTTP Requests</li>
+</ul>
+<blockquote>
+<h3>1.11. <a href="#ch1-11"><b>HTTP Requests (8:45)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.11.1 <b>Reading:</b> Lecture Slides: Meet Our Three Languages</li>
+</ul>
+<blockquote>
+<h3>1.12. <a href="#ch1-12"><b>Meet Our Three Languages (10:31)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.12.1 <b>Reading:</b> Lecture Slides: The Basics of HTML</li>
+</ul>
+<blockquote>
+<h3>1.13. <a href="#ch1-13"><b>The Basics of HTML - Part 1 (8:25)</b></a></h3>
+<h3>1.14. <a href="#ch1-14"><b>The Basics of HTML - Part 2 (8:48)</b></a></h3>
+<h3>1.15. <a href="#ch1-15"><b>The Basics of HTML - Part 3 (10:27)</b></a></h3>
+</blockquote>
+<ul>
+  <li>1.15.1 <b>Reading:</b> Lesson 6 Video Reference Page</li>
+  <li>1.15.2 <b>Reading:</b> Lecture Slides: How to Turn In Labs</li>
+  <li>1.15.3 <b>Reading:</b> Module/Week 1 Summary</li>
+</blockquote>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk2">Module/Week 2: HTML</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -132,9 +172,6 @@ foundation for sophisticated web design and development.
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
 2.1.  Introduction HTML (1:57)
-<!-- [Module 2
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-2-introduction-5FFqx)
--->
 
 -   2.1.1 <b>Reading:</b> Module/Week 2: Asset Library (code used in video demonstrations)
 
@@ -182,10 +219,6 @@ accessible, and visually appealing online format.
 
 3.1.  Module/Week 3 Introduction HTML Forms (2:14)
 
-<!-- [Module 3
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-3-introduction-1qphz)
--->
-
 -   3.1.1 <b>Reading:</b> Module/Week 3: Asset Library
 
 -   3.1.2 <b>Reading:</b> Lecture Slides: Website Navigation (Simple HTML)
@@ -229,10 +262,6 @@ web design and layout management.
 <p><small><small>7 lessons, 12 readings</small></small></p>
 
 4.1.  Module/Week 4 Introduction to CSS (2:34)
-
-<!-- [Module 4
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-4-introduction-UQBs5)
--->
 
 -   4.1.1 <b>Reading:</b> Module/Week 4: Asset Library
 
@@ -287,9 +316,6 @@ user-friendly web interfaces with advanced CSS techniques.
 <p><small><small>10 lessons, 10 readings</small></small></p>
 
 5.1.  Module/Week 5 Introduction CSS Floats & Positions (mm:ss)
-<!-- [Module 5
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-5-introduction-XyyIa)
--->
 
 -   5.1.1 <b>Reading:</b> Module/Week 5: Asset Library
 
@@ -351,10 +377,6 @@ appealing web design.
 
 6.1.  Module/Week 6: Website Layouts and Design (2:43)
 
-<!-- [Module 6
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-6-introduction-eEOos)
--->
-
 -   6.1.1 <b>Reading:</b> Module/Week 6: Asset Library
 
 -   6.1.2 <b>Reading:</b> Lecture Slides: Standard Website Layouts
@@ -411,10 +433,6 @@ techniques.
 
 7.1.  Module/Week 7 Introduction to Javascript (3:28)
 
-<!-- [Module 7
-    Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-7-introduction-2wA0M)
--->
-
 -   7.1.1 <b>Reading:</b> Module/Week 7: Asset Library
 
 -   7.1.2 <b>Reading:</b> Lecture Slides: The Basics of JavaScript (JS)
@@ -470,8 +488,6 @@ modern responsive design practices.
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
 8.1.  Module/Week 8 Introduction jQuery and Frameworks (2:53)
-<!-- [Module 8  Introduction](https://www.coursera.org/lecture/illinois-tech-fundamentals-of-web-development/module-8-introduction-hjsK2)
--->
 
 -   8.1.1 <b>Reading:</b> Module/Week 8: Asset Library
 
