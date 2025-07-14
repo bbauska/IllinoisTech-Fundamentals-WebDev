@@ -27,9 +27,9 @@ output:
 
 <h3>9 week course, 134 hours (approx) to complete.</h3>
 
-<p>This course is part of the Bachelor of Information Technology program from Illinois Tech. If you 
-are admitted and enroll in the degree program, your coursework can count toward your degree 
-learning and your progress can transfer with you.</p>
+<p>This course is part of the Bachelor of Information Technology program from Illinois 
+Tech. If you are admitted and enroll in the degree program, your coursework can count 
+toward your degree learning and your progress can transfer with you.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2><a href=#syllabus">Syllabus</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -52,17 +52,16 @@ the physical infrastructure of the internet, focusing on server technology, and 
 a holistic view of the digital landscape from code creation to global connectivity.</p>
 
 <p><small><small>17 lessons, 13 readings</small></small></p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- table of contents -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="toc">Table of Contents - Illinois Tech's Fundamentals of Web Development</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ hoverable dropdown menu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Week 1: jQuery Plugins and Capturing the Scroll Event</h3>
+<h3>Week 1: Internet Structures and an Introduction to HTML</h3>
 
 <blockquote>
-  <h4><a href="#ch1-00">1.00 Welcome!</a></h4>
-  <h4><a href="#ch1-01">1.01 Module 1 Introduction</a></h4>
-  <h4><a href="#ch1-02">1.02 Intro to jQuery Plugins</a></h4>
+  <h4><a href="#ch1-01">1.01 Course Overview - Fundamentals of Web Development</a></h4>
+  <h4><a href="#ch1-02">1.02 Intro to Module 1</a></h4>
   <h4><a href="#ch1-03">1.03 Using Plugins and Essential Steps</a></h4>
   <h4><a href="#ch1-04">1.04 Gotchas and Rookie Mistakes</a></h4>
 </blockquote>
@@ -82,9 +81,8 @@ a holistic view of the digital landscape from code creation to global connectivi
     1.04 Flex Slider Plugin (download ZIP)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 <h2><a href="#cha"><b>Course Overview - Fundamentals of Web Development (7:34)</b></a></h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
 <h3>- <a href="#cha-1"><b>Syllabus</b></a></h3>
 <h3>- <a href="#cha-2"><b>Why accessibility is important</b></a></h3>
@@ -2890,90 +2888,61 @@ this word.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-15">1.15 The Basics of HTML -- Part 3 (10:27)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-And finally, we come to strong and. 
-Strong, something of strong importance, something that&apos;s emphasized, 
-what&apos;s the difference? 
-What does that mean? 
+And finally, we come to strong and strong, something of strong importance, something 
+that&apos;s emphasized, what&apos;s the difference? What does that mean? 
+
 Essentially, these are replacing what used to be bold and italics. 
 In HTML 5, we&apos;ve removed style from our HTML completely, and in those
 debates, the teams in charge decided that bold and italics were stylized
-words. 
+words. So they replaced them with strong and instead. 
 
-So they replaced them with strong and instead. 
+The problem for most new users is that HTML and web browsers are back compatible. So the 
+bold and italics declarations still work, but they&apos;re not what we should be using 
+in our code, because we want to optimize our code for search engine optimization. 
+And search engines are going to respect a modern, valid structure in your code. 
 
-The problem for most new users is that HTML and web browsers are back
-compatible. 
-So the bold and italics declarations still work, but they&apos;re not what
-we should be using in our code, because we want to optimize our code for
-search engine optimization. 
-
-And search engines are going to respect a modern, valid structure in
-your code. 
-
-So in this case, something that you might otherwise change into bold, 
-you&apos;re going to put the strong element around it. 
-And then in your style, you&apos;re going to do font weight and 
-declare what style of bold you want. 
-Next, if you want to put something in italics, which would normally be
-italics, maybe like a book title, you would put the around it. 
-
-And then in your CSS, you&apos;re going to announce that this is an italics
-lettering.
-All right, let&apos;s work with a few of these elements now. 
-So I&apos;ve got my core HTML structure, I&apos;ve written that in. 
-I started with a p, hello world. 
-And I&apos;m going to add some images. 
-So first, maybe I want to start with my h1. 
-Give a title to this, my first website, that may be my heading. 
-I might have a navigation next to that, but let&apos;s keep this simple. 
+In this case, something that you might otherwise change into bold. You&apos;re going to 
+put the strong element around it. And then in your style, you&apos;re going to do font 
+weight and declare what style of bold you want. Next, if you want to put something in 
+italics, which would normally be italics, maybe like a book title, you would put the 
+around it. And then in your CSS, you&apos;re going to announce that this is an italics 
+lettering. All right, let&apos;s work with a few of these elements now. So I&apos;ve 
+got my core HTML structure, I&apos;ve written that in. I started with a p, hello world. 
+And I&apos;m going to add some images. First, maybe I want to start with my h1. 
+Give a title to this, my first website, that may be my heading. I might have a navigation next to that, but let&apos;s keep this simple. 
 My first website, I&apos;m going to have a little area where I&apos;m adding
 some content. 
 
-So I&apos;m going to give that an h2. 
-This is going to be a subsection.
-So now I&apos;ve got my h1. 
-I&apos;m starting a subsection 1, and I&apos;ve got my first content.
-And here it is. 
-You&apos;ll notice there is some default styling appearing on my website. 
-So the h1 is being given a large font. 
+I&apos;m going to give that an h2. This is going to be a subsection. Now I&apos;ve got my h1. 
+I&apos;m starting a subsection 1, and I&apos;ve got my first content. And here it is. 
+You&apos;ll notice there is some default styling appearing on my website. The h1 is being given a large font. 
 The h2 is being given slightly larger font than my paragraph. 
 These are default browser settings, and eventually, we&apos;re going to want
 to get rid of these. 
 But for getting going, it&apos;s nice to have a little bit of style kind of
 forced onto our website to make it easier to read.
-So in my first website heading here, I&apos;ll demonstrate. 
+In my first website heading here, I&apos;ll demonstrate. 
 Add some more spacing, ctrl+ save.
 That extra spacing is ignored by the browser. 
-So we don&apos;t need spacing afterwards, we don&apos;t want spacing here or
-spacing there. 
-Want everything tight as possible and only spacing between words and 
-our content, a single space. 
-Or a space between an element and an attribute, or here between
-attributes. 
+We don&apos;t need spacing afterwards, we don&apos;t want spacing here or spacing there. 
+Want everything tight as possible and only spacing between words and our content, a single 
+space. Or a space between an element and an attribute, or here between attributes. 
 
-Those are the only places our spacing should exist. 
-And then we&apos;ll do what&apos;s called a cascade here, and I&apos;ll give you
-more lectures on that and why the cascade is so important, but let&apos;s
-continue with some of these basic HTML elements. 
-So now, I&apos;m saying, hello world, might be not quite a full paragraph,
-so 
-let&apos;s turn this into a paragraph. 
-Hello world this is my first website.
-And let&apos;s give it a second p here. 
-What do you think? 
-Question mark.
-Now, with this cascade, it&apos;s my opinion this code gets a little blurred
-together. 
-So I think a div separating our two sections here is going to be nice. 
-So I want to put a div here, but I&apos;m not going to close it out right
+Those are the only places our spacing should exist. And then we&apos;ll do what&apos;s 
+called a cascade here, and I&apos;ll give you more lectures on that and why the cascade 
+is so important, but let&apos;s continue with some of these basic HTML elements. 
+Now, I&apos;m saying, hello world, might be not quite a full paragraph. Let&apos;s turn 
+this into a paragraph. Hello world this is my first website. And let&apos;s give it a 
+second p here. What do you think? Question mark. Now, with this cascade, it&apos;s my 
+opinion this code gets a little blurred together. 
+I think a div separating our two sections here is going to be nice. 
+I want to put a div here, but I&apos;m not going to close it out right
 away with a div here. 
-The div is going to wrap these sections of my HTML. 
-So I&apos;m going to go there, close out my div. 
-And now, if I hover over you&apos;ll see, div closed out. 
-I&apos;ve now grabbed these three lines of code and turned them into a
-single 
-object that I later can style with my CSS just by talking about this
-div. 
+
+The div is going to wrap these sections of my HTML. I&apos;m going to go there, close out 
+my div. And now, if I hover over you&apos;ll see, div closed out. I&apos;ve now grabbed 
+these three lines of code and turned them into a single object that I later can style 
+with my CSS just by talking about this div. 
 And with our cascade, we want the content of this div to be indented two
 spaces over. 
 If I had forgotten to do this indentation earlier, I can simply
@@ -2981,53 +2950,50 @@ highlight these 
 three lines, hit the tab button, and it&apos;ll add two spaces.
 If your tab button is adding four spaces or five spaces, we&apos;ll address
 that in a future lecture on how to change it.
-So now my code is starting with a nice cascade, I have my body wrapping
-all 
-the content here, I have my HTML wrapping all the code. 
-I have a div wrapping this first section. 
+Now my code is starting with a nice cascade, I have my body wrapping all the content here, 
+I have my HTML wrapping all the code. I have a div wrapping this first section. 
 And I&apos;m going to add a second section, where I might want to add an
 image.
 Now, let&apos;s add in an image tag.
 Image tags, remember, close themselves, but we need that attribute for 
 an image location. 
-So we&apos;re going to add an SRC. 
+We&apos;re going to add an SRC. 
 And with our attributes, the key to writing a good attribute is we need
 the equal sign and our two quotation marks. 
-So let&apos;s call it image1.jpg. 
+Let&apos;s call it image1.jpg. 
 And we&apos;re always going to have our alt attribute. 
-So alt attribute equals a great image of Oscar the Grouch.
+Alt attribute equals a great image of Oscar the Grouch.
 And remember to close out that alt with a quotation mark.
-So now if we come back to our web page and we refresh, we have our
+Now, if we come back to our web page and we refresh, we have our 
 ubsection 1, subsection 2, and our Oscar the Grouch image.
 Finally, we&apos;re going to add one last paragraph here.
 Oscar&apos;s book, yeah, 
 let&apos;s call book, how to make dollar into garbage.
 Close out our p. 
-So a few things, we might want to turn this dollar into a dollar sign,
+A few things, we might want to turn this dollar into a dollar sign,
 ctrl+ S. 
 And if we look back at our Firefox, we have our dollar sign being
 interpreted here by the Firefox browser. 
 But that&apos;s not going to be the same dollar sign that appears in every
 browser. 
-So if we want consistency, we might want to do a search for 
+If we want consistency, we might want to do a search for 
 the UTF-8 version of the dollar sign.
-So we see here, Google Search is giving us the actual UTF-8 coding
+We see here, Google Search is giving us the actual UTF-8 coding
 directly. 
-So let&apos;s grab one of these and pop it into our code.
+Let&apos;s grab one of these and pop it into our code.
 And when we go back to our dollar sign, it looks the same. 
 But now we&apos;ve created consistency that this will be the dollar
 sign that&apos;s presented in any and all of our user experiences with any
 browser.
 And finally, with our page, because it&apos;s a book title, we&apos;ll want to
 turn this into an italics book title. 
-So we&apos;ll put in here a little.
-Close out our.
+We&apos;ll put in here a little. Close out our.
 And if I go back to our browser, hit refresh, you&apos;ll notice the browser
 has chosen put in a default italics. 
 And again, we&apos;re going to want to go into our CSS later and declare
 this italics. 
 But for these first two modules, we&apos;re only going to be coding HTML. 
-So we have a better understanding of what browser defaults exist and 
+We have a better understanding of what browser defaults exist and 
 how HTML itself renders without style elements added to it. 
 That way, when we start to add our style, we&apos;ll know the full scope of
 what&apos;s possible.
@@ -3037,7 +3003,7 @@ When I create an HTML element like h2, it tells the browser to block out
 a section of the web page for this element.
 In order to demonstrate this box element visually, we can use our
 browser&apos;s Inspector. 
-So I&apos;m right clicking and going to the Inspector. 
+I&apos;m right clicking and going to the Inspector. 
 You&apos;ll notice here, you&apos;ll see the HTML code as it&apos;s written in my
 Notepad++. 
 And I can hover over each element, and it&apos;ll demonstrate the box
@@ -3047,20 +3013,16 @@ maybe just 50% of the page. 
 I can put two boxes next to each other using floats or other variations
 of how to position boxes around my page. 
 The box also has a few other attributes to it. 
-So if I highlight my h1 here, look over on the right hand side, you&apos;ll
+If I highlight my h1 here, look over on the right hand side, you&apos;ll
 see the box with its labeled areas. 
-So at the far outside is my margins, this is going to be the spaces
-between two boxes, and they can overlap each other if they&apos;re stacked on top of
-each other. 
-At the inside, you&apos;ll see my content area with the exact pixel width
-and height of that area. 
-And between the margin and the border is the padding. 
-So padding represents space between my content and my border. 
-In this case, I don&apos;t have a border, so it&apos;s the space between my
-padding and my margin. 
-When we get to CSS, we&apos;ll learn more about the box area and how to
-manipulate relate it. 
-If you&apos;re in doubt in the future, you can come back to this guide. 
+At the far outside is my margins, this is going to be the spaces between two boxes, and 
+they can overlap each other if they&apos;re stacked on top of each other. 
+At the inside, you&apos;ll see my content area with the exact pixel width and height of 
+that area. And between the margin and the border is the padding. 
+Padding represents space between my content and my border. 
+In this case, I don&apos;t have a border, so it&apos;s the space between my 
+padding and my margin.  When we get to CSS, we&apos;ll learn more about the box area and how to
+manipulate relate it. If you&apos;re in doubt in the future, you can come back to this guide. 
 An easy read on the different elements of the skeleton and perhaps a
 different perspective from my own.
 And now you have the tools to build your very own website.
