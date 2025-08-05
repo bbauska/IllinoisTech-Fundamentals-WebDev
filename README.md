@@ -6,6 +6,7 @@ date last editted: "4/23/2025 Wed 1+pm"
 date last editted: "4/28/2025 Mon 12+pm"
 date last editted: "6/26/2025 Thu 9+pm"
 date last editted: "7/13/2025 Sun 4+pm"
+date last editted: "8/05/2025 Tue 12+13pm"
 output: 
   markdown:
     with some style
@@ -157,15 +158,17 @@ a holistic view of the digital landscape from code creation to global connectivi
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk2">Module/Week 2: HTML</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Module 2 equips students with advanced skills in HTML, focusing on
+<p>Module 2 equips students with advanced skills in HTML, focusing on
 creating, hosting, and accurately indexing links and images to enhance
 web page functionality and aesthetics. Students will learn how to
 convert unique characters into UTF8 Unicode, ensuring global
-compatibility and accessibility. This module also delves into crafting
+compatibility and accessibility.</p>
+
+<p>This module also delves into crafting
 and publishing essential HTML elements such as lists, and teaches the
 intricacies of writing and nesting HTML tables and their content. These
 skills enable students to structure web content effectively, laying the
-foundation for sophisticated web design and development.
+foundation for sophisticated web design and development.</p>
 
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
@@ -204,14 +207,16 @@ foundation for sophisticated web design and development.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk3">Module/Week 3: HTML Forms</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Module 3 guides students through the process of creating well-structured
+<p>Module 3 guides students through the process of creating well-structured
 HTML navigation, essential for user-friendly website design. Learners
 will delve into writing various HTML form elements designed to interact
 seamlessly with PHP receiving forms, facilitating effective user data
-collection and interaction. Additionally, the module focuses on crafting
+collection and interaction.</p>
+
+<p>Additionally, the module focuses on crafting
 HTML scripts that encode the full spectrum of a traditional resume,
 teaching students how to present professional information in a clear,
-accessible, and visually appealing online format.
+accessible, and visually appealing online format.</p>
 
 <p><small><small>6 lessons, 7 readings</small></small></p>
 
@@ -250,12 +255,13 @@ designs. Students will learn to write and publish core CSS elements,
 gaining hands-on experience in styling web content. A key focus is on
 understanding the four layers of an HTML Box element (content, padding,
 border, and margin) and mastering their manipulation using CSS for
-optimal layout control. The module also guides students in choosing the
-right box-sizing techniques for their website projects and underscores
-the importance of implementing CSS resets to ensure a consistent styling
-baseline before applying unique CSS customizations. This approach
-fosters a comprehensive understanding of CSS as a tool for sophisticated
-web design and layout management.
+optimal layout control. 
+
+<p>The module also guides students in choosing the right box-sizing techniques for their 
+website projects and underscores the importance of implementing CSS resets to ensure a 
+consistent styling baseline before applying unique CSS customizations. This approach 
+fosters a comprehensive understanding of CSS as a tool for sophisticated web design and 
+layout management.</p>
 
 <p><small><small>7 lessons, 12 readings</small></small></p>
 
@@ -300,16 +306,17 @@ web design and layout management.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk5">Module/Week 5: CSS Floats and Positions</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-In Module 5, students will deepen their CSS knowledge by learning to
+<p>In Module 5, students will deepen their CSS knowledge by learning to
 write and publish CSS properties specifically for fonts, enhancing the
 typographic appeal of web content. This module also covers the
 intricacies of CSS floats and positions, teaching students how to
 effectively manipulate the layout and placement of elements on a
-webpage. A practical component involves transforming a basic vertical
+webpage.</p>
+<p>A practical component involves transforming a basic vertical
 HTML navigation into a stylish, horizontal navigation bar, complete with
 techniques for centering it within the website. These skills are
 essential for students aiming to create visually compelling and
-user-friendly web interfaces with advanced CSS techniques.
+user-friendly web interfaces with advanced CSS techniques.</p>
 
 <p><small><small>10 lessons, 10 readings</small></small></p>
 
@@ -358,18 +365,20 @@ user-friendly web interfaces with advanced CSS techniques.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk6">Module/Week 6: Website Layouts and Design</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Module 6 introduces students to the four fundamental layouts of website
+<p>Module 6 introduces students to the four fundamental layouts of website
 design, providing a foundational understanding of various web design
 approaches. It emphasizes the importance of adopting a mobile-first
 mindset when starting CSS styling, aligning with contemporary web usage
-trends. The module also advances into the dynamic aspects of CSS,
+trends.</p>
+
+<p>The module also advances into the dynamic aspects of CSS,
 teaching students how to write and publish CSS transitions,
 transformations, and animations, adding interactivity and visual flair
 to web pages. Additionally, learners will explore the use of CSS
 pseudo-selectors to enhance element styling. The culmination of these
 skills enables students to create a complete and comprehensive website
 using HTML and CSS, demonstrating proficiency in responsive and visually
-appealing web design.
+appealing web design.</p>
 
 <p><small><small>9 lessons, 11 readings, 4 practice quizzes</small></small></p>
 
@@ -416,16 +425,17 @@ appealing web design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk7">Module/Week 7: Introduction to Javascript</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-This module delves into the fundamental principles of writing JavaScript
+<p>This module delves into the fundamental principles of writing JavaScript
 (JS), offering students a solid grounding in the language&apos;s core
 concepts. Students will learn to write and publish essential JavaScript
-elements, developing skills crucial for interactive web development.
-This module includes practical exercises where students will import and
+elements, developing skills crucial for interactive web development.</p>
+
+<p>This module includes practical exercises where students will import and
 integrate a Google Map into their website, demonstrating the ability to
 enhance web pages with external APIs. Additionally, learners will gain
 experience in importing and manipulating JavaScript events, furthering
 their understanding of dynamic web interactions and user engagement
-techniques.
+techniques.</p>
 
 <p><small><small>10 lessons, 10 readings</small></small></p>
 
@@ -472,16 +482,17 @@ techniques.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="wk8">Module/Week 8: jQuery and Frameworks</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Module 8 focuses on empowering students with the skills to dynamically
+<p>Module 8 focuses on empowering students with the skills to dynamically
 manipulate HTML content using JavaScript, enhancing web interactivity
 and functionality. Students will explore the integration and utilization
 of a jQuery Box Slider, adding sophisticated visual elements to their
-web projects. A key aspect of the course is teaching students how to
+web projects.</p>
+<p>A key aspect of the course is teaching students how to
 responsively resize video widths, ensuring optimal viewing experiences
 across different screen sizes. Additionally, the module highlights the
 value of these skills in the context of working with various website
 frameworks, preparing students for advanced web development tasks and
-modern responsive design practices.
+modern responsive design practices.</p>
 
 <p><small><small>7 lessons, 9 readings</small></small></p>
 
@@ -679,7 +690,9 @@ at their own native browser. It&apos;s becoming harder and harder to test
 your website on every single browser that exists but generally, if your
 standards compliant and you&apos;re accessible, it&apos;s going to work
 everywhere that the user is accessing it from. That&apos;s an introduction
-to this class. I look forward to teaching you more and feel free to
+to this class.</p>
+
+<p>I look forward to teaching you more and feel free to
 engage with the teaching assistants and myself throughout this
 lecture, if you ever feel like you&apos;re struggling. The goal of this
 class is introduction. I want you to feel comfortable engaging with
@@ -719,6 +732,7 @@ you frame the whole concept of website. Then the last two lessons in
 this module are going to be around introduction to the actual
 code itself and some basics of HTML, and we&apos;ll round out with a nice
 little lab on writing your basically your first website. Enjoy.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Module 1: Asset Library (code used in video demonstrations)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>1.2.1 Lecture Slides: History of the Web</h4>
@@ -784,10 +798,10 @@ reference, those are all still languages we use within our HTML.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>And this is the IBM Computer 360, Model 91. This thing is massive, takes up
-a whole room. It&apos;s installed in NASA in <span class="hilite">1968</span>, and there&apos;s actually
-only 15 ever built. But its top speed at the time was 6.3 megabytes. And
-that means what would happen is it&apos;s transmitting 64 bits of logic, we
-still transmit 64 bits of logic at a time, it&apos;s how we communicate,
+a whole room. It&apos;s installed in NASA in <span class="hilite">1968</span>, 
+and there&apos;s actually only 15 ever built. But its top speed at the time was 
+6.3 megabytes. And that means what would happen is it&apos;s transmitting 64 bits 
+of logic, we still transmit 64 bits of logic at a time, it&apos;s how we communicate,
 but it&apos;s the speed at which it does it. It does it at that time in four
 nanoseconds. Now we&apos;re sending that millions of times a second to
 communicate. So you have 6.3 megabytes of memory it&apos;s holding, you&apos;re
@@ -1152,11 +1166,11 @@ organically.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>Now that we have these, Tim Berners-Lee says, I have this network, 
-I have this communication, I&apos;ve built this tool for talking to a
-computer. 
-Tim Berners-Lee comes back into the scene after inventing kind of the
+I have this communication, I&apos;ve built this tool for talking to a 
+computer. Tim Berners-Lee comes back into the scene after inventing kind of the
 open net, being able to talk to any computer, and he again gives us the
 World Wide Web.</p>
+
 <p>He says, instead of being able to talk to a computer, say give me this
 file. I want to have like a home page, where I go and I&apos;m talking to CERN
 now. CERN has a page that tells me, maybe a director of what&apos;s there, and
@@ -1170,17 +1184,12 @@ How do we navigate these pages?</p>
 <!-- page 30 -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image of the first website -->
-<p>Pretty powerful stuff, so much so that if we go here, this website still
-exists. 
-This is hosted by CERN. 
-It&apos;s info.cern.ch, which is the Swiss acronym at the time, but there
-were no country codes, there was just the web. 
-He was obviously building the first website. 
-This is it. This is what the first website looks like, pretty wild, and
-it&apos;s still there, still being hosted by CERN. 
-You can navigate around those files. 
-Some of the files don&apos;t exist anymore, but definitely still can go
-there.</p>
+<p>Pretty powerful stuff, so much so that if we go here, this website still exists. This 
+is hosted by CERN. It&apos;s info.cern.ch, which is the Swiss acronym at the time, but 
+there were no country codes, there was just the web. He was obviously building the first 
+website. This is it. This is what the first website looks like, pretty wild, and it&apos;s 
+still there, still being hosted by CERN. You can navigate around those files. Some of the 
+files don&apos;t exist anymore, but definitely still can go there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>To emphasize how small the web still was, even though we had 30,000
@@ -1195,7 +1204,7 @@ like &dollar;7. 
 You would send an email to the host server, and then they would type in 
 the website your comment and your response.</p>
 <!-- page 31 -->
-That&apos;s how the first group chats were, where you actually told
+<p>That&apos;s how the first group chats were, where you actually told
 someone, there&apos;s one person who could actually create that website and manage
 it, but people were calling in and paying to have their comments added to
 it, quite wild.</p>
@@ -1223,30 +1232,23 @@ things like that.</p>
 Again, I was explaining these forms, you would literally email in your
 comment and they&apos;d be added to the discussion, it&apos;s quite wild.</p>
 <!-- page 32 -->
-<p>1991, AOL enters the Internet game, and this is where you got a little
-hard disk, you put it in, and you would type up Internet, and it would
-use a T line or something at the time, but most people weren&apos;t quite
-using the dial up yet, that comes a few years later. 
-AOL starts getting home Internet to people. 
-1991 is Neverwinter Nights, it becomes the first interactive game online
-where I&apos;m playing a game with other people. 
-It was graphical at the time.</p>
-<p>I remember playing, it was quite fun. 
-I was really excited to try and play in character, but also trying to
-figure out where in the world the other players I was with were.</p>
+<p>1991, AOL enters the Internet game, and this is where you got a little hard disk, you 
+put it in, and you would type up Internet, and it would use a T line or something at the 
+time, but most people weren&apos;t quite using the dial up yet, that comes a few years 
+later. AOL starts getting home Internet to people. 1991 is Neverwinter Nights, it becomes 
+the first interactive game online where I&apos;m playing a game with other people. It was 
+graphical at the time. I remember playing, it was quite fun. I was really excited to try 
+and play in character, but also trying to figure out where in the world the other players 
+I was with were.</p>
 
-<p>1993, we get Mosaic. 
-Most people are entering the Internet using AOL&apos;s closed system
-Mosaic developed by Marc Andreessen at the University of Illinois,
-Champaign Urbana. 
-It later becomes Netscape when it moves out to Silicon Valley, is the
-first free browser that you don&apos;t have to be paying AOL to join the
-Internet once we get those browsers, and again, AOL dominates at time. 
-But this is what we think of as a Chrome browser. 
-The access to the Internet is free. 
-No one thinks in the US and Europe should I pay to access to the
-Internet. 
-Some closed systems out there in the world.</p>
+<p>1993, we get Mosaic. Most people are entering the Internet using AOL&apos;s closed 
+system Mosaic developed by Marc Andreessen at the University of Illinois, Champaign 
+Urbana. It later becomes Netscape when it moves out to Silicon Valley, is the first free 
+browser that you don&apos;t have to be paying AOL to join the Internet once we get those 
+browsers, and again, AOL dominates at time. But this is what we think of as a Chrome 
+browser. The access to the Internet is free. No one thinks in the US and Europe should 
+I pay to access to the Internet. Some closed systems out there in the world.</p>
+
 <p>You still have to access through certain points. 
 But we think of the Internet today as I open my browser and I can
 navigate well, that had to be taken from what was already built by Tim
@@ -1520,61 +1522,52 @@ What I want to be doing is editing on my actual computer.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-7">1.7 Tools of Internet Publishing -- Part 2 (6:56)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-I&apos;ve created another checklist here for linking your PC to your GitHub,
-but 
-I will be demoing this with the actual tools. 
-So the goal here is notepad++ I have on my computer. 
-This is where I want to be editing code because there&apos;s lots of tools
-here, and then I want to push that code up to GitHub desktop. 
-And if there were some changes here, or if I&apos;m working in a team, 
-someone else has pushed some code on the servers, I want to be able to
-pull that code back to notepad++. 
+<p>I&apos;ve created another checklist here for linking your PC to your GitHub, but I 
+will be demoing this with the actual tools. So the goal here is notepad++ I have on my 
+computer. This is where I want to be editing code because there&apos;s lots of tools here, 
+and then I want to push that code up to GitHub desktop. And if there were some changes 
+here, or if I&apos;m working in a team, someone else has pushed some code on the servers, 
+I want to be able to pull that code back to notepad++.</p>
 
-For high end developers, they&apos;re using something called Git, which is
+<p>For high end developers, they&apos;re using something called Git, which is
 GitHub Git is a command line prompt that does this push pull. 
 We&apos;re going to be using what&apos;s called a graphical interface called
 GitHub desktop, which we already downloaded. 
 So GitHub desktop is a very powerful tool that lets you know when
 there&apos;s been some changes in your code and then you can push and pull and
-commit. 
+commit.</p>
 
-So let&apos;s first get our GitHub desktop set up, so we&apos;re going to start
-from our GitHub repository. 
+<p>So let&apos;s first get our GitHub desktop set up, so we&apos;re going to start
+from our GitHub repository. I&apos;m going to go back to test repo, so here are my files, this is the
+high level test repo repository. Going here to the big green button, and I want to open this in GitHub
+desktop.</p>
 
-I&apos;m going to go back to test repo, so here are my files, this is the
-high level test repo repository. 
+<p>GitHub desktop will open up, I have two options, I want to stay with
+this URL. I can rename it, I highly recommend keeping this address as whatever the
+repo name is, it prevents confusion.</p>
 
-Going here to the big green button, and I want to open this in GitHub
-desktop. 
-
-GitHub desktop will open up, I have two options, I want to stay with
-this URL. 
-
-I can rename it, I highly recommend keeping this address as whatever the
-repo name is, it prevents confusion. 
-
-Later on, if you have your file name on your desktop and your repo name
+<p>Later on, if you have your file name on your desktop and your repo name
 the same, you might shorten it to just test repo, but I like to keep the
 full extension. 
 What I do want to change is where it&apos;s going to be saved to, so the
 local path. 
 I&apos;m going to have just generically here thrown on my desktop. 
-So desktop, this is where it&apos;s going to be thrown, a clean folder. 
+So desktop, this is where it&apos;s going to be thrown, a clean folder.</p>
 
-You&apos;re likely wanting to create a folder somewhere in your C file for 
+<p>You&apos;re likely wanting to create a folder somewhere in your C file for 
 your work in this course. 
 So select folder, and then I&apos;m choosing to clone. 
 And what cloning is going to do is going to create a little file
-that continually checks using GitHub desktop. 
+that continually checks using GitHub desktop.</p>
 
-The repository online in GitHub and my own file on my desktop to see if
+<p>The repository online in GitHub and my own file on my desktop to see if
 there&apos;s been any changes. 
 So now I have my test repo, I don&apos;t have any changes and there&apos;s
 nothing really that&apos;s happened. 
 So I&apos;m going to open up my desktop, I&apos;ve got my test repo here, got my
-license, my new file and my README, I am going to add a new file. 
+license, my new file and my README, I am going to add a new file.</p>
 
-I&apos;m going to do a text document and call this index.html. 
+<p>I&apos;m going to do a text document and call this index.html. 
 Later on we&apos;ll talk about why it&apos;s very important to always have one 
 index.html file in your folder. 
 If I open this up though, it&apos;s not an actual HTML file, if you look up
@@ -1583,56 +1576,47 @@ So putting HTML just simply in the name won&apos;t make it HTML, so I&apos;m
 going to close this out so we don&apos;t get confused. 
 I&apos;m going to rename this just to index.html and pop it back open. 
 So it&apos;s .txt, and there&apos;s many ways you can do this, I&apos;m just going
-to demo this with Windows. 
+to demo this with Windows.</p>
 
-Very simply save as and if you go down here, select type, I can go down
+<p>Very simply save as and if you go down here, select type, I can go down
 here to hypertext language. 
-
 So before I do this, I want to demo, one of the reasons we don&apos;t want
 to be working with TXT files is that they don&apos;t utilize all the great
-tools within an HTML reader. 
-
+tools within an HTML reader.
 So for instance, if I took this code, copied it and pasted it in here, 
 you won&apos;t see the pretty colors that kind of make this script come
-alive and make it easier to read. 
+alive and make it easier to read.</p>
 
-However, if I was to go now and say file save as and there&apos;s other ways
+<p>However, if I was to go now and say file save as and there&apos;s other ways
 you can go about doing this to create an actual HTML file, but I&apos;m just
-going to show you this way scroll down to hyperlink. 
+going to show you this way scroll down to hyperlink. Now it&apos;s going to save my 
+index.html as an actual hyperlink file, I go to save pow, the beautiful colors come out.</p>
 
-Now it&apos;s going to save my index.html as an actual hyperlink file, I go
-to save pow, the beautiful colors come out. 
+<p>So now I can edit this and create code and have it be easy to read.</p>
 
-So now I can edit this and create code and have it be easy to read. 
-
-If I go back to my folder here, I now have both of these so I want to
+<p>If I go back to my folder here, I now have both of these so I want to
 make sure I&apos;m deleting the index, so here&apos;s you&apos;ll see TXT, we&apos;re
-deleting that index file. 
+deleting that index file. So now we just have this index hover over HTML file.</p>
 
-So now we just have this index hover over HTML file. 
-
-So now I&apos;m opening back up this GitHub desktop, it&apos;ll demonstrate that
-I have this index.html. 
-
-I have all this cool code written in it, I&apos;m going to say adding HTML
-index file commit to main. 
-
-I&apos;m going to then have to push to origin, 
+<p>So now I&apos;m opening back up this GitHub desktop, it&apos;ll demonstrate that
+I have this index.html. I have all this cool code written in it, I&apos;m going to say adding HTML
+index file commit to main. I&apos;m going to then have to push to origin, 
 the difference between simply committing and pushing is commit. 
 
-You can be working offline, you may have a bunch of commits, you save
+<p>You can be working offline, you may have a bunch of commits, you save
 your edits a bunch and then you push it to the origin, you&apos;re pushing
-it up to the website. 
+it up to the website.</p>
 
-And if we come back here, so what we&apos;ve successfully done, we&apos;ve
+<p>And if we come back here, so what we&apos;ve successfully done, we&apos;ve
 written code on our desktop, we&apos;ve connected our desktop to our
 GitHub repository and we&apos;ve pushed code up to GitHub. 
 So if I open up GitHub here, you&apos;ll see, obviously nothing changed. 
 I have to refresh the page and pow, I have my new file, I have my
 index.html and 
 I have already pretty much all the structure I need to get a website
-live. 
-One more step in the settings and we&apos;ll have our website live. 
+live.</p>
+
+<p>One more step in the settings and we&apos;ll have our website live. 
 So now if I was to edit some code here, or let&apos;s say someone
 was working on this repository with me and they were to edit this
 code, we would want to be able to see it on our desktop as well. 
@@ -1640,37 +1624,37 @@ I&apos;m going to add, let&apos;s see down here, close out my body and close 
 my HTML, commit the changes, finishing my HTML commit the changes. 
 So I&apos;ve just done an update here online at GitHub, and if I pop open my
 GitHub desktop, go back to my test repo, you&apos;ll see, it doesn&apos;t say anything
-changed. 
-But what I need to do is fetch origin because it needs to check it
-hasn&apos;t done that automatically. 
+changed.</p>
 
-One pull commit from the origin, let&apos;s pull origin. 
+<p>But what I need to do is fetch origin because it needs to check it
+hasn&apos;t done that automatically.</p>
+
+<p>One pull commit from the origin, let&apos;s pull origin. 
 So now I pulled that down own and if I open up my file here, so I&apos;ve
 got my index, let&apos;s pop that open. 
 Yes, we want to refresh, and you&apos;ll see, the code was added to this
-file.
+file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-8">1.8 Tools of Internet Publishing -- Part 3 (8:44)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>So now we&apos;ve written code on our computer, we&apos;ve linked it to our
+GitHub repository and we&apos;ve pulled and pushed code back and forth.</p>
 
-So now we&apos;ve written code on our computer, we&apos;ve linked it to our
-GitHub repository and we&apos;ve pulled and pushed code back and forth. 
-
-So this is how we&apos;re managing our repo. 
+<p>So this is how we&apos;re managing our repo. 
 And why do we want this code online? 
 Because ultimately, we want to have this code pushed to a server that
-makes it live for everyone to see. 
+makes it live for everyone to see.</p>
 
-So we&apos;re going to use GitHub Pages. 
+<p>So we&apos;re going to use GitHub Pages. 
 When we update our repository, it&apos;s going to automatically update
 GitHub pages. 
 We don&apos;t have to push or pull anything there. 
 And when we then surf our browser, we go to the GitHub Pages website
 and we&apos;ll see our website live. 
 I want to emphasize, GitHub Pages is definitely a limited version of
-what a full website tool can do, like Amazon Web Services, AWS. 
+what a full website tool can do, like Amazon Web Services, AWS.</p>
 
-But it&apos;s easier for us as new learners to get going and understanding
+<p>But it&apos;s easier for us as new learners to get going and understanding
 this process. 
 So let&apos;s figure out how to get GitHub Pages set up.
 We&apos;re back at our repository. 
@@ -1678,102 +1662,103 @@ We&apos;re going to go to test repo. 
 So here we are, our file structure. 
 And once we&apos;re in the repository, we&apos;re going to click on Settings.
 One thing I want to highlight here in Settings before we jump to Pages
-is if you need to delete. 
+is if you need to delete.
 So delete a repository all the way at the bottom here. 
-But we want to go to this little sidebar here on the left pages. 
-Once we&apos;re inside GitHub Pages, we want to deploy from a branch. 
+But we want to go to this little sidebar here on the left pages.</p>
+
+<p>Once we&apos;re inside GitHub Pages, we want to deploy from a branch. 
 So don&apos;t mess with the source up here. 
 And we want to click on the main branch. 
 Down the road, as you get more savvy at this, you might have a testing
 branch or a live branch, lots of different ways you can save the code
 and intermix between them. 
 We&apos;re not going to mess with root, we&apos;re not going to add any
-visibility or any other features. 
-So we&apos;re just selecting this main branch and we&apos;re clicking Save.
+visibility or any other features.</p>
+
+<p>So we&apos;re just selecting this main branch and we&apos;re clicking Save.
 Now ultimately, once the page goes live, you&apos;ll have a little web
 address up here. 
 I want to emphasize this process as GitHub sets up the repository to go
-live to 
-the web can take anywhere from 30 seconds to, I&apos;ve waited as long as 20
-minutes. 
-So don&apos;t be alarmed right away if you don&apos;t see up here a link to your
-website.
+live to the web can take anywhere from 30 seconds to, I&apos;ve waited as long as 20
+minutes. So don&apos;t be alarmed right away if you don&apos;t see up here a link to your
+website.</p>
 
-All right, so we&apos;ve waited a couple of minutes and we refresh. 
+<p>All right, so we&apos;ve waited a couple of minutes and we refresh. 
 And now you see here our live link. 
 If I click on it and you see here my first website, hello world. 
 If I jump back to my text repo, you&apos;ll see put hello world here. 
 That&apos;s the only real content. 
 All this is just meta and scripting. 
 There&apos;s my hello world. 
-So this is going to be your first lab. 
+So this is going to be your first lab.</p>
 
-It&apos;s going to be a little more exciting than that, but 
-just following these steps and getting your first website live. 
+<p>It&apos;s going to be a little more exciting than that, but 
+just following these steps and getting your first website live.</p>
 
-So if you type this in from any computer or phone, you&apos;re going to see
-this website live. 
+<p>So if you type this in from any computer or phone, you&apos;re going to see this 
+website live.</p>
 
-Pretty exciting.
-So now we&apos;ve created this full loop. 
-We&apos;ve edited code on our computer. 
-We&apos;ve pushed and pulled it to our GitHub repository in the cloud. 
-That cloud has then created a live server on GitHub Pages and we can
-come back on our computer&apos;s browser now and surf that website. 
-You now have all the tools you need to publish a website. 
-Pretty cool? 
+<p>Pretty exciting. So now we&apos;ve created this full loop. We&apos;ve edited code on 
+our computer. We&apos;ve pushed and pulled it to our GitHub repository in the cloud. 
+That cloud has then created a live server on GitHub Pages and we can come back on our 
+computer&apos;s browser now and surf that website. You now have all the tools you need 
+to publish a website. Pretty cool? 
 Now we need to figure out how to actually code a website. 
-But before that, we&apos;re going to cover a few things about the browser. 
-We&apos;ll have a whole lecture on it, but right now, I want to emphasize
+But before that, we&apos;re going to cover a few things about the browser.</p>
+
+<p>We&apos;ll have a whole lecture on it, but right now, I want to emphasize
 that for this class, I expect you to at least download three different browsers. 
 For testing your website, it&apos;s always good to have multiple browsers to see if your code is looking 
 different based on their rendering engines. 
 But also this Developer Edition, specifically the Firefox Developer Edition, is going to be the 
-latest version, which may not be perfect yet. 
-So if you want to make sure your website is future-proof, you can look at the different browsers 
+latest version, which may not be perfect yet.</p>
+
+<p>So if you want to make sure your website is future-proof, you can look at the different browsers 
 and what features they&apos;re adding, or what kind of quirks they&apos;re about to add to see if you can 
 utilize them, if your website is going to be impacted by them. 
 But generally, this is only for intense website testing.
 What&apos;s most important to check out here is these inspector tools. 
 So we&apos;re going to open up these inspector tools and this one
-particularly with Chrome. 
+particularly with Chrome.</p>
 
-It&apos;s going to give you an overview. 
+<p>It&apos;s going to give you an overview.</p>
 
-I definitely want you to read about these inspector tools because this
+<p>I definitely want you to read about these inspector tools because this
 is a powerful insight into what website is producing, how it&apos;s being
-rendered. 
+rendered.</p>
 
-And we can do control I, or we&apos;re popping open the inspector using 
-right click with Windows, and we get something that looks like this. 
+<p>And we can do control I, or we&apos;re popping open the inspector using 
+right click with Windows, and we get something that looks like this.</p>
 
-We can dock it on the side or we can have it as a standalone, but
-ultimately, let&apos;s say I really like the font they&apos;re using in this documentation. 
+<p>We can dock it on the side or we can have it as a standalone, but
+ultimately, let&apos;s say I really like the font they&apos;re using in this documentation.</p>
 
-So I&apos;m going to go to inspect and it jumps right to the HTML code. 
+<p>So I&apos;m going to go to inspect and it jumps right to the HTML code.</p>
 
-And I can jump over here and I can look at the actual blue here. 
+<p>And I can jump over here and I can look at the actual blue here. 
 You&apos;ll see RGB. 
 That is going to be the color used to create that, 
 I&apos;m going to see the font family is called Google Sans or San Serif. 
 But Google Sans is going to be the one you&apos;re seeing. 
-Sans Serifs is the family type of the font. 
-I can see the boldness they&apos;re using. 
+Sans Serifs is the family type of the font.</p>
+
+<p>I can see the boldness they&apos;re using. 
 Here again, the text decoration. 
 And I can jump around this website and find out a lot about it. 
 I can find out exactly what code they use to write it. 
 So as I&apos;m learning and I see stuff around the web, I can pop open this
-HTML. 
-You&apos;ll see it&apos;s color coordinated, like our Notepad++, and I&apos;ll be
-able to copy this code and make it my own. 
+HTML.</p>
 
-You&apos;re also going to see here in the filter of styles, this is what&apos;s
+<p>You&apos;ll see it&apos;s color coordinated, like our Notepad++, and I&apos;ll be
+able to copy this code and make it my own.</p>
+
+<p>You&apos;re also going to see here in the filter of styles, this is what&apos;s
 being computed. 
 But if I scroll down here, these are all the styles that are being
 applied. 
-You&apos;ll notice here, this top nav, there&apos;s a line crossing this out. 
+You&apos;ll notice here, this top nav, there&apos;s a line crossing this out.</p>
 
-So we&apos;re going to learn how certain CSS rules override other rules, 
+<p>So we&apos;re going to learn how certain CSS rules override other rules, 
 cancel other rules out. 
 But I may be upset that something is being canceled out and I don&apos;t
 know why, and I can&apos;t figure out how to make it work. 
@@ -1781,65 +1766,67 @@ I&apos;m going to look here to see how the code is actually rendered. 
 I&apos;m like, so it&apos;s not even being shown something else canceling it
 out. 
 And I can start to follow this path here and see what&apos;s canceling it
-out. 
-You&apos;ll see here all the different colors in bubble, so fonts and font
+out.</p>
+
+<p>You&apos;ll see here all the different colors in bubble, so fonts and font
 types. 
 I might like some of the background colors. 
 Lots of cool stuff you can do within an inspector. 
 Council, this is going to be where I&apos;m processing the
-JavaScript, seeing what&apos;s work, what&apos;s not working. 
+JavaScript, seeing what&apos;s work, what&apos;s not working.</p>
 
-And then these other ones get into much more complex web management and 
+<p>And then these other ones get into much more complex web management and 
 server management, system management, things like that. 
 So depending on which browsers you want to download, you can then
 inspect and read a little bit about the developer tools. 
 You might have to turn some of them on, but essentially, this is just a
 page of link dumps and you can go on the PDF and jump right to them.
 Before we close out this lesson, I just want to mention two more tools
-that you might end up using for server website management. 
+that you might end up using for server website management.</p>
 
-The first one is SFTP. 
+<p>The first one is SFTP. 
 It&apos;s similar to our file transfer protocol, but it adds a security
 cell, the SSH, to it. 
 Essentially, we&apos;re already using GitHub desktop to do this service, but GitHub desktop is very 
 limited. 
 I use FileZilla in my web development, and these tools, what they do is they manage moving files 
 from my desktop onto a server, a proper server. 
-So GitHub desktop alone only works with GitHub. 
+So GitHub desktop alone only works with GitHub.</p>
 
-And more importantly, it&apos;s sort of limited in being able to view file
+<p>And more importantly, it&apos;s sort of limited in being able to view file
 structures and where they&apos;re located and kind of rearranging file
-structures. 
+structures.</p>
 
-So I have to do all that on my desktop before GitHub desktop can really see that. 
+<p>So I have to do all that on my desktop before GitHub desktop can really see that. 
 With FileZilla, I can actually see the file structure on the server. 
 I can move things around and transfer them back and forth between my computer and the server. 
 Finally, the secure shell. 
 So just a straight SSH. 
-I use PuTTY. 
-This is a tool for actually managing the server software itself. 
+I use PuTTY.</p>
+
+<p>This is a tool for actually managing the server software itself. 
 So I might put a PHP file onto the server. 
 But here, if I want to actually get the server so that it&apos;s running
 code, or more importantly, the security logins, structures, user
-management, things like that. 
+management, things like that.</p>
 
-That&apos;s going to be engaging the server on a different level than just
+<p>That&apos;s going to be engaging the server on a different level than just
 moving files back and forth. 
 So that&apos;s going to be your SSH shell.
 All right, that is lesson two of module one. 
 Keep going. 
-You&apos;re about to have your first website live.
+You&apos;re about to have your first website live.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-9">1.9 Browsers and Web Addresses -- Part 1 (11:46)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Welcome to Module 1, Lesson 3. 
+<p>Welcome to Module 1, Lesson 3. 
 In this lesson, we&apos;re going to learn about browsers, how they work, and
 web addresses. 
 We&apos;re going to start with the fundamental question, what is the web? 
 When we use terms like Cloud computing or social media, it brings to
-mind certain aspects about the Internet that might not be true. 
+mind certain aspects about the Internet that might not be true.</p>
 
-We&apos;re going to start with the basics. 
+<p>We&apos;re going to start with the basics. 
 When you think of the web, you want to contrast it with traditional software, so specifically 
 something like Microsoft Word or a video editing tool. 
 These are going to be coded in C+, C, C Sharp, Java, Python, Visual Basic, etc. 
@@ -1847,34 +1834,34 @@ There&apos;s a lot of computer languages for that. 
 But essentially they get compiled into an executable, which is something
 that when run executes on one or more platforms. 
 Typically you&apos;re going to write one of these traditional softwords
-for your Android phone or your Windows XP operating system. 
+for your Android phone or your Windows XP operating system.</p>
 
-Those are the operating system, the environment in which that software executes and it&apos;s going to 
-execute within the operations of that specific program. 
+<p>Those are the operating system, the environment in which that software executes and it&apos;s going to 
+execute within the operations of that specific program.</p>
 
-The user downloads your application and installs it on the platform or
+<p>The user downloads your application and installs it on the platform or
 the operating system, and then it gets managed with updates and
-registries and logs. 
+registries and logs.</p>
 
-If it&apos;s something like Facebook where it&apos;s an application
+<p>If it&apos;s something like Facebook where it&apos;s an application
 that&apos;s continue talking your servers, there&apos;s going to be some
 specific code back and forth that is updating on the regular, adding new
-entries, adding new things to your wall. 
+entries, adding new things to your wall.</p>
 
-But also it&apos;s going to have, for instance, Facebook, its own website
+<p>But also it&apos;s going to have, for instance, Facebook, its own website
 browser within it. 
 We&apos;ll talk about that later. 
 But in traditional software, it&apos;s standalone, it&apos;s updated by software updates, and the user 
-operates and it gets coded for a specific operating system. 
+operates and it gets coded for a specific operating system.</p>
 
-In contrast, the web or Internet websites, they are only ever coded in
+<p>In contrast, the web or Internet websites, they are only ever coded in
 HTML, CSS, and JavaScript and those are the languages we&apos;re going to learn in
 this course. 
 The browser translates that HTML, CSS and JavaScript to your computer
 phone and the browser becomes that bridge between those three to
-file types and the operating system. 
+file types and the operating system.</p>
 
-We&apos;ll talk more about the browser in this lecture. 
+<p>We&apos;ll talk more about the browser in this lecture. 
 The server is hosting, it&apos;s a giant computer that just hosts the HTML,
 CSS, and JavaScript. 
 It can also operate things, but it computes what the HTML and CSS and
@@ -1882,76 +1869,76 @@ JavaScript can&apos;t as well. 
 You might have on the server some HP or some J query or something like a
 Python script. 
 In that case, I will have HTML, CSS and JavaScript file sent back and
-forth between the browser and the server. 
+forth between the browser and the server.</p>
 
-If anything more complex that can&apos;t be handled by HTML, CSS, or JavaScript, the server will 
+<p>If anything more complex that can&apos;t be handled by HTML, CSS, or JavaScript, the server will 
 compute it, calculate it, and then put it back into CSS, HTML, or JavaScript. 
 The server comprises the other computations that can&apos;t be handled by
 the browser. 
 This whole system of server and browsers talking back and forth is
 agnostic and universal. 
 Which means by just limiting all that communication to, again, HTML, CSS, and JavaScript, it works 
-on any device I don&apos;t have to recode my website to work on Android. 
+on any device I don&apos;t have to recode my website to work on Android.</p>
 
-I don&apos;t have to recode my website to work on Microsoft Windows or the iPhone and that&apos;s a really 
-powerful aspect of the web. 
+<p>I don&apos;t have to recode my website to work on Microsoft Windows or the iPhone and that&apos;s a really 
+powerful aspect of the web.</p>
 
-Let&apos;s talk more about the browser itself and there&apos;s a link with this,
-how the browser works. 
+<p>Let&apos;s talk more about the browser itself and there&apos;s a link with this,
+how the browser works.</p>
 
-It&apos;s a nice little read if you want to go more into this. 
+<p>It&apos;s a nice little read if you want to go more into this. 
 But for this class, you don&apos;t need to unless you&apos;re really curious
 about it. 
 I do encourage you to read it, though it&apos;s quite fascinating. 
 Again, we have the operating system, Windows or Android, and we have the
-browser is the medium. 
-It is a traditional software, it gets written so when I download my browser, let&apos;s say Firefox, 
+browser is the medium.</p>
+
+<p>It is a traditional software, it gets written so when I download my browser, let&apos;s say Firefox, 
 I download a different software if I&apos;m on Windows or if I&apos;m on a Mac. 
 Then the HTML CSS and JavaScript, they go into that browser. 
 They don&apos;t have to know what the operating system is. 
 The browser is going to wrap those files. 
 All browsers handle those files no matter what browser an operating
 system combination is, the browser is written to read the HTML as it
-stands. 
+stands.</p>
 
-It doesn&apos;t have to change those files. 
+<p>It doesn&apos;t have to change those files. 
 Browsers are traditional software. 
 The examples I give here, Chrome, Firefox, Safari. 
 We also have Facebook WhatsApp, most people don&apos;t realize when you&apos;re
 opening up a news file or some other website within Facebook or
-WhatsApp, 
-you&apos;re not jumping out to Chrome or Safari. 
+WhatsApp, you&apos;re not jumping out to Chrome or Safari.</p>
 
-Depending on the operating system of your phone, you&apos;re actually within
-their own native browser. 
+<p>Depending on the operating system of your phone, you&apos;re actually within
+their own native browser.</p>
 
-When we&apos;re coding, we want to make sure our websites work and look good
-within those browsers as well. 
+<p>When we&apos;re coding, we want to make sure our websites work and look good
+within those browsers as well.</p>
 
-Another level of complexity these days for how we code our websites, and
+<p>Another level of complexity these days for how we code our websites, and
 then the browser itself provides the user interface for the HTTP and DNS
-requests. 
+requests.</p>
 
-Works with the operating system to network and package up the code, send
-the files back and forth, and make requests. 
+<p>Works with the operating system to network and package up the code, send
+the files back and forth, and make requests.</p>
 
-Those requests specifically are browser implementations of HTTP or HTPS
+<p>Those requests specifically are browser implementations of HTTP or HTPS
 is what&apos;s commonly done now. 
 Hypertext transfer protocols that secure part the added element to give
 a little depth of why that was added and how it differentiates from
-previous HTP. 
+previous HTP.</p>
 
-If I just send an HTTP request, then I say within that network I have
+<p>If I just send an HTTP request, then I say within that network I have
 someone tapping the line and listening to my requests, they&apos;re not just going
 to be able to see what website, so if I go to say iot.edu, they&apos;re
 going to not just see that I visited that website, they can see what
-pages I access within that website. 
+pages I access within that website.</p>
 
-By adding the S, the secure protocol on top of the HTTP, so when I make
+<p>By adding the S, the secure protocol on top of the HTTP, so when I make
 that connection to iot.edu, I then add a secure connection that no one
-can hack. 
+can hack.</p>
 
-If someone is hacking outside, maybe my Wi-Fi or something like
+<p>If someone is hacking outside, maybe my Wi-Fi or something like
 that, they&apos;re going to see that I visited iot.edu but beyond
 that, they&apos;re not going to see what resources or pages I access there
 so that&apos;s the secure element added on top of that. 
@@ -1959,126 +1946,123 @@ FTP is a File Transfer Protocol so this is really important for
 security. 
 When you download a file like an image file or something to your
 computer, you get the little pop up in your browser says, 
-are you sure you want to do this? 
+are you sure you want to do this?</p>
 
-That&apos;s because when we are transferring HTML, CSS, and JavaScript files
-back and forth, they stay within a secure firewall inside the browser. 
+<p>That&apos;s because when we are transferring HTML, CSS, and JavaScript files
+back and forth, they stay within a secure firewall inside the browser.</p>
 
-When downloading just those three files, we have almost no risk
-of downloading viruses into our computer. 
+<p>When downloading just those three files, we have almost no risk
+of downloading viruses into our computer.</p>
 
-There is some high end assaults that have been manipulating that, but
-for the most part, it&apos;s nearly impossible. 
+<p>There is some high end assaults that have been manipulating that, but
+for the most part, it&apos;s nearly impossible.</p>
 
-When we actually download a file directly onto our computer and outside
+<p>When we actually download a file directly onto our computer and outside
 the browser, that has to be FTP, file transfer protocol and that&apos;s why
-it asks, are you sure of this file? 
+it asks, are you sure of this file?</p>
 
-When you get an email and you go on your website and you look at your
+<p>When you get an email and you go on your website and you look at your
 email, that&apos;s still within the browser so you can open up that email, feel
 secure surfing around even if you know it&apos;s clearly a phishing
-attempt. 
+attempt.</p>
 
-But their goal is to get you to click on something and download a
+<p>But their goal is to get you to click on something and download a
 file, say yes, I want to download that file onto my operating system. 
 Once I do that, it goes past the firewall and I open myself up to all
 types of risk. 
 The final browser implementation that&apos;s important to mention here is it
 manages the domain name service. 
-It translates URL addresses into IP. 
+It translates URL addresses into IP.</p>
 
-If you remember from our history lecture on the Internet, the URL is
+<p>If you remember from our history lecture on the Internet, the URL is
 going to be what we&apos;re hand typing, the www.google.com and that has to
 get translated into an IP address, which is a digital fingerprint of
 where the physical location in the network is of the server I&apos;m trying
-to request. 
+to request.</p>
 
-Then the browser compiles. 
+<p>Then the browser compiles. 
 It compiles HTML, CSS and JavaScript. 
 JavaScript, also known as ECMA Script, we&apos;ll go into more depth. 
 Here&apos;s links to all three of the specifications. 
 You can spend hours reading on that, but definitely we&apos;re going to be
-teaching to 
-
-these specifications because these codes can be loosely written and
+teaching to these specifications because these codes can be loosely written and
 there are correct ways to write them even though they may work if you
-don&apos;t write them correctly. 
-But it lowers your footprint and your visibility on the web to do so. 
+don&apos;t write them correctly. But it lowers your footprint and your visibility on 
+the web to do so.</p>
 
-These three files, they come in as separate files you may have multiple
+<p>These three files, they come in as separate files you may have multiple
 JavaScript, you may have a few different HTML, CSS. 
 The browser takes those and compiles them into a single user
-experience. 
+experience.</p>
 
-When you&apos;re surfing the web, you don&apos;t sit there and feel like, this
+<p>When you&apos;re surfing the web, you don&apos;t sit there and feel like, this
 is the JavaScript part or the CSS part. 
 It&apos;s all one single user experience. 
 Now we&apos;re going to talk about the browser components, the thing that
 makes up the browser itself. 
 We have the user interface this is our address bar, back and forward
-buttons, bookmark, pull over Firefox here. 
+buttons, bookmark, pull over Firefox here.</p>
 
-This is our content area. 
+<p>This is our content area. 
 This is artificially generated by Firefox home team but you see here, we
 have, for instance, settings, we have our bookmark bar, our navigation back
 and forward, reload address bar. 
 This is all going to be the UI interface. 
-Then we have the browser engine. 
+Then we have the browser engine.</p>
 
-This controls the interaction between the UI and the rendering engine so
+<p>This controls the interaction between the UI and the rendering engine so
 we have here the user interface, the rendering engine, and the
-communication between the two. 
+communication between the two.</p>
 
-The rendered engine itself is obviously, maybe not obviously, but is the
+<p>The rendered engine itself is obviously, maybe not obviously, but is the
 most important. 
 It&apos;s responsible for taking your HTML, CSS, and JavaScript and turning
-it into that web page, that singular user experience. 
+it into that web page, that singular user experience.</p>
 
-Networking card is used for packaging up the content, communicating back and forth, making those 
+<p>Networking card is used for packaging up the content, communicating back and forth, making those 
 requests for files and it goes beyond just the browser in the OS, it actually has to talk to the 
 physical networking card of your computer that speaks that network language, compiles in that 
-compressed code and also puts security layers over that code as it sends it back and forth. 
+compressed code and also puts security layers over that code as it sends it back and forth.</p>
 
-The UI backend. 
+<p>The UI backend. 
 Interactions with the operating system if I take my Firefox, this is
 going to be that UI backend so making it a window, being able to move it
-where it sits within the image of the operating system. 
+where it sits within the image of the operating system.</p>
 
-Also, if I&apos;m downloading files, talking about, I pull up a thing, I&apos;m
+<p>Also, if I&apos;m downloading files, talking about, I pull up a thing, I&apos;m
 going to be able to navigate in that little box where I want that file
-to be located. 
+to be located.</p>
 
-All the interactions with the actual operating system itself. 
+<p>All the interactions with the actual operating system itself. 
 Then the JavaScript interpreter. 
 This we&apos;re going to talk about a little bit more in the next slide, but
 specifically for parsing and execute JavaScript, this is a step beyond
 what just the rendering engine can do so its a lot more complicated
-processing in the JavaScript. 
+processing in the JavaScript.</p>
 
-Data storage is a persistent layer of basically memory the browser needs
+<p>Data storage is a persistent layer of basically memory the browser needs
 to save occasionally, things like cookies, cache items, bookmarks that
 don&apos;t disappear when you close out your browser so this is basically
 chopping out a little bit of the OS&apos;s storage capabilities that
-are still hidden and protected by the Internet&apos;s firewalls. 
+are still hidden and protected by the Internet&apos;s firewalls.</p>
 
-You can store some limited data, not huge files, without having the risk
-of opening it up to bringing viruses into your computer.
-
+<p>You can store some limited data, not huge files, without having the risk
+of opening it up to bringing viruses into your computer.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-10">1.10 Browsers and Web Addresses -- Part 2 (10:45)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-I want to emphasize here, rendering engines that compile CSS, HTML, and
+<p>I want to emphasize here, rendering engines that compile CSS, HTML, and
 Javascript into a single experience are actually different with each
-browser. 
+browser.</p>
 
-Firefox uses Gecko, Safari uses Webkit, Chrome uses Webkit version. 
+<p>Firefox uses Gecko, Safari uses Webkit, Chrome uses Webkit version. 
 Now they switch to Version 28. 
 Switch to Blink, Edge Opera, and then also Samsung uses Blink. 
 Amazon Silk uses Blink. 
 The rendering engines, they specifically have subtle differences in
 choice of pre-default HTML that they use. 
 The default font size, for instance, is going to be different between
-these. 
+these.</p>
 
 This is why we&apos;re going to learn about why we want to try and wipe away
 all those defaults, so we know that our website looks the same on all
@@ -5469,11 +5453,13 @@ Below is a list of the content referenced in the Lesson 3 Video.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch4-6">4.6 The Box Model and Box Sizing (6:55)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-This is almost entirely about using the width call out in CSS and what
+<p>This is almost entirely about using the width call out in CSS and what
 width means of the actual HTML box. So of course we&apos;re talking about
 the box model here. So the Browser sees every element, block or inline,
 as a little rectangular box. So we have our content area, we have our
-padding, which is a space between the content and the border. We have
+padding, which is a space between the content and the border.</p>
+
+<p>We have
 our border which you have to remember takes up pixel width. Then we have
 our margin, the space around the box. When we use width characteristic
 to define the property width it traditionally actually means the width
@@ -5482,8 +5468,9 @@ two boxes to float next to each other the sum of them can&apos;t be more
 than 100% width of the page, right? So if I use a percentage as the
 width and I put this as 50% and box two is 50% and I float them next to
 each other, I can&apos;t put any space here otherwise the two will not float
-next to each other because the sum of them total will be more than 50%.
-So the standard CSS box model, this is the standard way, you don&apos;t have
+next to each other because the sum of them total will be more than 50%.</p>
+
+<p>So the standard CSS box model, this is the standard way, you don&apos;t have
 to declare it. This is called box sizing property is what we&apos;re going
 to be declaring, and that changes what the width property calculates. So
 box sizing is our standard and the default is set to content box which
@@ -5492,7 +5479,9 @@ width. So if I want to know the whole width of the box I have to do the
 width property plus the border, left and right, and then plus the
 padding left and right. So here we go. Width of an element on screen is
 the width + padding on the left and right and + the border on left and
-right. So width properties sets content area width. And then we have to
+right.</p>
+
+<p>So width properties sets content area width. And then we have to
 do the math to figure out the full size of that box. And that can be a
 little tricky for people because there&apos;s a little bit of math to make
 sure you&apos;re not going over 100%. Now we can take this box sizing
@@ -5502,7 +5491,9 @@ area then I take width and I subtract the border and I subtract the
 padding. So sets the total border box whenever you set the width
 property to that&apos;ll be. So I can do 50%, 50% and they will sit side by
 side. I don&apos;t have to do any math. So let&apos;s pop this open. It&apos;s going
-to be a short video. So here&apos;s my HTML straight ahead. I have my resets
+to be a short video.</p>
+
+<p>So here&apos;s my HTML straight ahead. I have my resets
 being pulled in, so we can get this exactly 100% width of the screen in
 the page so we&apos;re not being confused at all. And you&apos;ll see that here
 going right up next to it. Pulling in my styles we go to those, and then
@@ -5510,7 +5501,9 @@ I have a few boxes. So I have this first box. This is the default box
 where I&apos;m showing the total size 100% width here. Then I&apos;m pulling
 this standard box model and I&apos;m shrinking it so you can see what
 happens. And then I have my border box model. So I just have three boxes
-here in style. So I have box1, box2, box3. Real complicated CSS. So
+here in style. So I have box1, box2, box3. Real complicated CSS.</p>
+
+<p>So
 box1, straightforward, background color making it gray. We saw this box
 last week, padding 30 pixels. So I&apos;m putting the space around each of
 my text, 30 pixels. Obviously this width is going to be the content
@@ -5519,15 +5512,18 @@ the div is the whole thing. So my box putting a little padding on either
 side there, border 10 dashed pixels red, and then font size is 30 pixels
 to increase the size. So this is 100% width by default. I don&apos;t have to
 put any width characteristic. But if I do a width, You&apos;ll see there,
-stays left justified pulls in the width a little bit. But ultimately
+stays left justified pulls in the width a little bit.</p>
+
+<p>But ultimately
 this 80% is still from here to there. So this border is adding above 80%
 more. So if I go to inspect element, you&apos;ll see here padding is 30,
 border is 10. And then this area here 450 is 80%. And if I move this
 you&apos;ll see the width is at 7, let&apos;s go 700, do this math easy, 546 is
 roughly 80% there. That&apos;s a normal box. So this one, we&apos;re going to do
 the comparison now of the calculation between these two boxes. So here
-background color, content box, I actually don&apos;t have to declare this.
-The width property already calculates as content box. But I&apos;m just
+background color, content box, I actually don&apos;t have to declare this.</p>
+
+<p>The width property already calculates as content box. But I&apos;m just
 putting here this default in my little comment there. So that&apos;s the
 default already. So width, the math is really easy, width 340 pixels.
 Height 200, we don&apos;t have to worry about that. Padding 20 all around.
@@ -5536,7 +5532,9 @@ solid red. And then 30 pixels, that&apos;s getting this white space here on
 the side 30 pixels over. You&apos;ll also notice with this reset, my text
 goes right up against the side. So when you use a reset you always want
 to put that little spacing there so that your text doesn&apos;t come right
-up against the side of the window. All right, so here to figure out the
+up against the side of the window.</p>
+
+<p>All right, so here to figure out the
 width of my box now, my box is 340 plus 20 and actually it&apos;s 20 times
 two because it&apos;s left and right, so it&apos;s going to be 380 and then plus
 10 left and right, so 20, so 400. So the total width there is 400
@@ -5544,7 +5542,9 @@ pixels. If I was to do width here, I would do say 340 because I&apos;ve
 declared box sizing, this full width here actually 340, 340, because
 it&apos;s subtracting also the padding, it&apos;s being subtract instead of
 added. So from border to border here is going to be same as the inner
-area there. So if I go there, the content area, so that blue area, I&apos;m
+area there.</p>
+
+<p>So if I go there, the content area, so that blue area, I&apos;m
 trying to point at my screen, but you guys can&apos;t see it. So hovering
 over here, you see the blue area on box one. That is going to be the
 same width now as this full entire box because I set this to 340, this
@@ -5552,7 +5552,9 @@ width to 340 up there. But width here, 340 is calculating border to
 border because I use this box sizing border box. So ultimately we want
 this to be 400 pixels. And I get that by adding this up properly like I
 did there. So 400 pixels, 20 on either side. So padding is still the
-same, but I&apos;m subtracting this padding now. So padding is subtracted 20
+same, but I&apos;m subtracting this padding now.</p>
+
+<p>So padding is subtracted 20
 on either side and then 10 pixels solid red. So border 10 all round. So
 this is also 10 pixels. So that&apos;s how I get from 400 now that my
 content area here is still going to be 340 because now I&apos;ve subtracted
@@ -5560,8 +5562,7 @@ this. So if I go here and inspect 340 even, whereas this one does the
 math a little bit, there 340 even, right on both of them. All right,
 yeah, that&apos;s all. So this is box sizing short little video. You can
 click on some of these to actually read a little bit more. And that is
-the CSS box model.
-
+the CSS box model.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch4-6-1">4.6.1 Lesson 4 Video Reference Page</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5571,23 +5572,20 @@ Below is a list of the content referenced in the Lesson 4 Video.
 
 1.  Overview of the Box Mode
 
-    a.  **Author:** [Marie
-        Mosley](https://css-tricks.com/author/mjmoze/)
+    a.  **Author:** <a href="https://css-tricks.com/author/mjmoze/">Marie Mosley</a>
 
-    b.  **Title**: [Box Sizing](https://css-tricks.com/box-sizing/)
+    b.  **Title**: <a href="https://css-tricks.com/box-sizing/">Box Sizing</a>
 
 2.  A little help on width and padding
 
-    a.  **Author:** [Chris
-        Coyier](https://css-tricks.com/author/chriscoyier/)
+    a.  **Author:** <a href="https://css-tricks.com/author/chriscoyier/">Chris Coyier</a>
 
-    b.  **Link:** [The CSS Box
-        Model](https://css-tricks.com/the-css-box-model/)
+    b.  **Link:** <a href="https://css-tricks.com/the-css-box-model/">The CSS Box Model</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch4-7">4.7 CSS Resets (4:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-So if you&apos;ll notice,
+<p>So if you&apos;ll notice,
 I&apos;m going to go back here really quick. I have this text in this font
 going right up next to it versus white. And if I go to my other demos so
 let&apos;s go to these floats that I was doing these boxes, I noticed I
@@ -5595,22 +5593,24 @@ point out this little white space there. And if I go to inspect and I
 hover over these, you&apos;ll see even the box itself doesn&apos;t go all the
 way to the edge of the page. Now, the difference being is in this here,
 you&apos;ll see that I go up to my style sheet and I have a little reset
-being pulled in. So let&apos;s talk about resets first, what that is. So it
-is used to reset
+being pulled in.</p>
 
-all CSS properties so they will be consistent in all browsers. We have
+<p>So let&apos;s talk about resets first, what that is. So it
+is used to reset all CSS properties so they will be consistent in all browsers. We have
 the Eric Myers CSS reset, the normalize and the Yahoo. Almost never use
 the yahoo. Eric Myers is a complete reset. I don&apos;t recommend it until
 you get a little bit more advanced. Normalize just normalizes the key
 elements that make all the browsers a little more consistent. So for
-certain reasons, browsers add a little white space all along the edge.
-We don&apos;t want that. So let&apos;s go here and I have my reset demos. So I
-have here this box demo. And I have on the edge my
+certain reasons, browsers add a little white space all along the edge.</p>
 
+<p>We don&apos;t want that. So let&apos;s go here and I have my reset demos. So I
+have here this box demo. And I have on the edge my
 CSS reset taking place. Now let&apos;s go into this code really quick and
 here is my reset. And let&apos;s just disconnect the reset. So here you see
 the reset into my style I&apos;m going to get rid of that. You&apos;ll see the
-subtle changes. So, the biggest change you see is this little white
+subtle changes.</p>
+
+<p>So, the biggest change you see is this little white
 space added on either side, subtleties to the h1, the h2 get changed a
 little bit. Let&apos;s replace that. So there&apos;s a little bit of style
 difference but let&apos;s look at the reset itself so you can start to get a
@@ -5621,40 +5621,46 @@ zero, display block, font-size for h1 is 2. So it&apos;s just twice the
 size, margins 0.7. So, they&apos;re grabbing a bunch of things and they&apos;re
 just setting them to a basic style. So when you go from browser to
 browser, some of these things that might be subtly different because the
-browser is chosen different is setting it as base. So one of the big
+browser is chosen different is setting it as base.</p>
+
+<p>So one of the big
 ones is, for instance, in HTML, Firefox and Chrome and Safari all have a
 different default font for your P. So this makes sure they&apos;re all the
 same exact font size. Now let&apos;s go look at some of these. So if you go
 to the Meyer&apos;s reset, Meyersweb this one&apos;s very straightforward. If
 you pull this one up, you&apos;ll see this one is setting everything to
 almost zero. So it&apos;s very easy you actually can just grab it, get a
-copy of the file. This is very straightforward. It just grabs
+copy of the file.</p>
+
+<p>This is very straightforward. It just grabs
 everything. Margin zero, padding zero, border zero, font size 100%,
 inherited, everything set. It&apos;s very simple just grabs everything at
 once and gets rid of everything. It&apos;s the cleanest reset you want.
 Often Facebook, any big website uses this to set all the inconsistencies
-gone. And then they build the website up themselves from scratch. This
+gone.</p>
+
+<p>And then they build the website up themselves from scratch. This
 just gives you a little baseline. You don&apos;t want this, so you want to
 go to the normalized one. Normalize, there we go. So download it and
-you&apos;ll click
-
-on there and it&apos;s very simple. Again, this one doesn&apos;t transform
+you&apos;ll click on there and it&apos;s very simple. Again, this one doesn&apos;t transform
 everything to those raw resets and can be a lot harder, a lot easier for
 beginners to use. So on especially project three I&apos;m going to want you
 to see link out to the normalized reset and it goes in the head just
-before your style sheet. So this is what your head should look like
+before your style sheet.</p>
+
+<p>So this is what your head should look like
 resets and then the style sheet there. And that&apos;ll get rid of those
 little white spaces on the side and a few other browser inconsistencies
 that might be frustrating you. And now you&apos;re going to be able to
-implement the CSS resets in your future work.
+implement the CSS resets in your future work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch4-7-1">4.7.1 Lab 6 Practice Assignment</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch4-7-2">4.7.2 Module/Week 4 Summary</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-After completing all of the materials, please take a moment to reflect
+<p>After completing all of the materials, please take a moment to reflect
 on what was covered. The learning objectives below capture the key
-takeaways from this module:
+takeaways from this module:</p>
 
 -   Lesson 1: How CSS talks to HTML
 
@@ -5685,34 +5691,38 @@ takeaways from this module:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-1">5.1 Module/Week 5 Introduction CSS Floats and Positions (mm:ss)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Welcome to Module 5, CSS Floats and Positioning. This is where you&apos;re
+<p>Welcome to Module 5, CSS Floats and Positioning. This is where you&apos;re
 taking full control of your website. You&apos;re going to learn more about layouts
 and how to move things around the page and put them exactly where you
 want. And how when you&apos;re switching between maybe a desktop and a
 mobile version of your website, you can position things so that they
-look optimal to the user experience. So first CSS Fonts. If you&apos;re
+look optimal to the user experience.</p>
+
+<p>So first CSS Fonts. If you&apos;re
 getting a degree in graphic design, some of the artistical side of the
 website, you&apos;re going to learn that fonts is where everything scales
 from. So once you pick a font, it&apos;s going to help you understand what
 font size you want, because you need to make the lettering kind of
 readable at different sizes. Then you do your line height, then you do
-your box sizing, and then you move things around the page, because now
-you
-know how big everything should be. So fonts is really the foundation of
+your box sizing, and then you move things around the page, because now you
+know how big everything should be.</p>
+
+<p>So fonts is really the foundation of 
 the sizing of your whole website. It helps you understand how many words
 fit on a page, things like that. But we&apos;re just going to do a little
 introduction to fonts and kind of how you choose fonts. You don&apos;t have
 to become a graphic designer in this class. Then we&apos;re going to work on
 floats and positions and the difference between the two, what a float
 does and floating around the page, versus specific positioning of your
-HTML box and where you want it. And finally, we&apos;re going to land on
+HTML box and where you want it.</p>
+
+<p>And finally, we&apos;re going to land on
 really making cool navigation. So you learn how to make an LI into a
 navigation with Ahrefs. Now we&apos;re going to make it look like real cool
 navigation, where we&apos;re stripping away the bullet points, the
 underlines, and we&apos;re making it look like Apple&apos;s or Microsoft&apos;s
 website. Really cool navigation at the top, how to center it, how to
-turn those into buttons, all that exciting things. Enjoy.
-
+turn those into buttons, all that exciting things. Enjoy.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch5-1-1">5.1.1 Module/Week 5: Asset Library</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5725,20 +5735,22 @@ here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_5_demo
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-2">5.2 CSS Fonts - Part 1 (6:37)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-I love this little joke here. 11% of Americans
+<p>I love this little joke here. 11% of Americans
 think HTML is an STD. Often we&apos;ll get the question, why do ITM majors
 need to take HTML, CSS, and Javascript? What is the point of this class
-in a information
-management program? Well, I can guarantee that many of you will end up
+in a information management program? Well, I can guarantee that many of you will end up
 in small to medium sized companies. Those of you that do end up in large
-companies that recognize your specific role, that&apos;s great. But for many
+companies that recognize your specific role, that&apos;s great.</p>
+
+<p>But for many
 of you, you will find yourself in places where you&apos;re not seen as the
 information technology management person, you&apos;re seen as the coder,
 you&apos;re seeing as the web person, you&apos;re seen as the techie. A lot of
 times that involves subtle things like being the go to when changing
 profiles for new hires, things like that. Changing the picture on the
-front page of the website, general management of the website. But beyond
-that, a lot of you will be in positions where someone else can do the
+front page of the website, general management of the website.</p>
+
+<p>But beyond that, a lot of you will be in positions where someone else can do the
 exact same technical work. Having subtle skills above and beyond makes
 you a more valuable employer. When I talk about in the beginning of this
 class, cheating and getting the degree, and really the point is not just
@@ -5746,40 +5758,52 @@ about getting a job, it&apos;s about keeping the job, it&apos;s about getting
 promoted. It&apos;s about knowing what you&apos;re doing on the job. Well, above
 and beyond that, getting promoted means being noticed, which means
 having some subtle skills that other people don&apos;t, so it will come in
-handy. Let&apos;s go on to fonts. We know, we know we can use almost an
+handy.</p>
+
+<p>Let&apos;s go on to fonts. We know, we know we can use almost an
 unlimited selection of fonts if you have your word processing software,
 you select fonts all the time for different turn in. But with CSS, we
 literally can go and grab fonts from all over the place. Not just
 what&apos;s already in our word processing software. There&apos;s a lot of
 default fonts already in our browsers. But we can actually go and get
 artists to create all types of new fonts. We&apos;re using the CSS font
-family property to declare what font we want to use. Now, we can specify
+family property to declare what font we want to use.</p>
+
+<p>Now, we can specify
 specific font we want to use. I&apos;m pretty sure instead of just doing
 serif, sans-serif, monospace, cursive, we want to just pick our main
 font and then something closer. We want to two fonts stack but won&apos;t
 get too much into that right now. Generally, we&apos;re just getting used to
 using one font at a time now. With these generic font families, serif,
 sans-serifs, monospace, cursive, and fanasty, we have here a little
-breakdown of each one. These are the generic fonts. A serif refers to in
+breakdown of each one. These are the generic fonts.</p>
+
+<p>A serif refers to in
 a lettering, these little hanging decorations on the fonts, that is
 called the serif. It&apos;s Latin. Sans-serif is Latin for without serifs.
 These are sharp edges. Ninety degrees san serifs was all we could use
 early on in computer because the early Apple to ease, they didn&apos;t have
 enough pixelation to be able to handle serifs. Now, we can obviously do
-all types of fonts. Monospace was even more so for those early computers
+all types of fonts.</p>
+
+<p>Monospace was even more so for those early computers
 and also designed for typewriters. Essentially every font letter takes
 up the exact width. You have this w takes up the same width as the i. It
 makes for very proportional monospace letters and words, makes it easy
 to calculate pixelation, how much space you&apos;re going to take up. But
 it&apos;s not as pleasurable to read because words you can see here tend to
 seem to be a bit elongated versus here you see they flow a little more
-naturally. These monospace words feel long. Cursive is obviously getting
+naturally.</p>
+
+<p>These monospace words feel long. Cursive is obviously getting
 creative with it. Here we have different types of ways of writing in
 cursive. I learned cursive of course, as connected lettering, but in
 fonts and online fonts, that&apos;s not necessarily the case. Then fanasty
 is a catch all for headline fonts that have all types of weird style
 that don&apos;t quite fit into one of these four. We&apos;re generally working
-with a few different types of fonts. We have a few different options. We
+with a few different types of fonts. We have a few different options.</p>
+
+<p>We
 have font squirrel, which is purchased font. We have Google Fonts, which
 I&apos;m going to demo, and then Adobe type Squirrel. So I&apos;ll show you font
 Squirrel and Google fonts as an example. Essentially for font Squirrel.
@@ -5787,91 +5811,100 @@ You want the at font face in your type kit. They give you all the fonts
 you need. We are going to pop open font scroll right now. A lot of them
 is encouraging you to purchase. You click on, you can surf around. You
 got hot, recent. Here&apos;s the classification tags. Here we want san
-serifs, click there, Display fonts buried down there a little bit. You
-can find different types of fonts, contemporary fonts. Scroll through,
+serifs, click there, Display fonts buried down there a little bit.</p>
+
+<p>You can find different types of fonts, contemporary fonts. Scroll through,
 you find one you like, you can click on the download here, and it&apos;ll
 take you to the actual font. Show you on several backgrounds here a
 little bit about the font written up. It&apos;s not as in depth as some of
 the other font browsers, but you can get a good idea of what this font
 looks like in real before downloading it. Let&apos;s go back here to
 sans-serif. Here you can get a little sense of it. How many times it&apos;s
-been downloaded at 269 when it was uploaded. The site who the designer
+been downloaded at 269 when it was uploaded.</p>
+
+<p>The site who the designer
 is, if you like theirs, you can look for other designs. Very simple
 stuff. You get the ABCs and what they look like here. Specimens test
 drive, you can type something in. This is my site, so you can see what a
 headline might look like, using it, looking for all the different
 characters in that font you type on the glyphs here. You can see here it
 doesn&apos;t cover everything. You start to get a sense that some fonts have
-a lot more characters pre determined by the artist than other fonts. But
-some of these are pretty weird looking. For instance, this 3, if it
+a lot more characters pre determined by the artist than other fonts.</p>
+
+<p>But some of these are pretty weird looking. For instance, this 3, if it
 stood by itself, would definitely be hard to recognize as a 3 if you&apos;re
 going to ask me about it. Here&apos;s the license and being able to use it,
 figure out exactly how you can use it, what&apos;s the legal rights to use
-it. Very important things. Then here is the web font kit.
-
+it. Very important things. Then here is the web font kit.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-3">5.3 CSS Fonts - Part 2 (8:55)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Once you download it here&apos;s what download looks like. You download it
+<p>Once you download it here&apos;s what download looks like. You download it
 there will be a zip drive where you unpack it. You&apos;ll have here an
 example pop up in the style. This is what it looks like. Here you have
 this is putting on h1, h2. Just as an example I showed some pulling
 font-family. The ones that are usually these artistic ones have a
 singular quotation mark around each one and so you&apos;ll see they look a
-little lighter. Then this is what a three font stack looks like. You
+little lighter.</p>
+
+<p>Then this is what a three font stack looks like. You 
 have this regular one. They recommend for whatever reason if this font
 doesn&apos;t work in the browser, here&apos;s a browser specific font that will
 work so your website can sort at close to this 3dumbregular and then
 finally serif in case whatever reason this doesn&apos;t work to default back
 to the default serif. That is a general 3font stack. What happens is
-we&apos;ll try this one first. If this one doesn&apos;t work, it&apos;ll try that
+we&apos;ll try this one first.</p>
+
+<p>If this one doesn&apos;t work, it&apos;ll try that
 one if it doesn&apos;t then that one will work. But ultimately, it&apos;ll stay
 on this one if that one works. What&apos;s going to differentiate it is you
 have then here obviously these headlines showing you what it looks like
-you are
-using this css. You have your style.css, your normal style, and then you
-have
-another stylesheet which will link out and it&apos;s just like the css all
+you are using this css. You have your style.css, your normal style, and then you
+have another stylesheet which will link out and it&apos;s just like the css all
 the way through. We&apos;ll link out to the folder that has the code that
-makes 3dumpregular work. Here I have 3dumpregular and then I have a
+makes 3dumpregular work.</p>
+
+<p>Here I have 3dumpregular and then I have a
 stylesheet inside there. I go back to my browsing. This folder here is
 actually just the unzipped of this. I go in here and you&apos;ll see
 there&apos;s some specimen files. But ultimately this style sheet here is
 source URL. It&apos;s creating this font.family here. It&apos;s pulling in each
 one of these and if I go back there, you&apos;ll see it&apos;s pulling in the
-eot, the svg, the ttf, and the woff. Go back. You&apos;ll see it&apos;s pulling
+eot, the svg, the ttf, and the woff. Go back.</p>
+
+<p>You&apos;ll see it&apos;s pulling
 in each one of these files into your website from the folder and we can
 pop these open up. You will see they are
 each one different codes and I need to specify what they are even to
 open them up and I&apos;m not going to
-bother doing that. Their browser ready to read. This is an EOT file.
-Some of you may know
+bother doing that. Their browser ready to read. This is an EOT file.</p>
+
+<p>Some of you may know
 what some of these are. Each one of these
 then is going to give different ways to
 use this font in different browsers
 and get it to work. But then this style sheet you definitely want to
-make
-sure this gets pulled in and that is what I&apos;m
+make sure this gets pulled in and that is what I&apos;m
 doing here in my head. You&apos;re always going
 to have your style sheet and then
 you&apos;re going to have another link that&apos;s pulling
 in that font style. Then you can go into your
 CSS and use that font style once it&apos;s created and
 pulled in to your HTML. Now Google makes it
-a little easier. Google actually package it, it hosts it on its own
+a little easier.</p>
+
+<p>Google actually package it, it hosts it on its own
 browser and it&apos;ll give you
 this little link. Let&apos;s go look at that now. We&apos;re actually here.
-First
-I&apos;m going to pop open this. Here is my dumb fontsquirrel and what it
-looks like on
-each one of these headlines. You can grab one and
-play around with it. This is hosting it
-on your own server. If you trust your own
+First I&apos;m going to pop open this. Here is my dumb fontsquirrel and what it
+looks like on each one of these headlines. You can grab one and
+play around with it. This is hosting it on your own server. If you trust your own
 server more than Google, this is a great way to host it. But Google
-Fonts is
-generally the go to now. Now if you don&apos;t
+Fonts is generally the go to now. Now if you don&apos;t
 want everything in your whole entire we has
-to always be about Google. Font space is
+to always be about Google.</p>
+
+<p>Font space is
 another one I used. Obviously lists are there. There&apos;s several of them
 but here Google Fonts is of
 course the king. It&apos;s really nicely designed
@@ -5881,91 +5914,90 @@ in specific languages, you can look for fonts that are designed for
 those languages. Pretty wide variety
 of languages there. We&apos;re going to stay
 general language English. We are looking for a serif font. Actually lets
-look
-for a display font. We have something that might
+look for a display font. We have something that might
 be one of our headings. Then we can even say
 this is my heading. I can now just scroll through the exact
-font I want it to be. I want it to be I know it&apos;s
+font I want it to be.</p>
+
+<p>I want it to be I know it&apos;s
 going to be a 60 pixel or 70 pixels so I can
 get to see really quick in my search what
 it&apos;s going to look like. Then you start
 scrolling you&apos;ll see some of them are
-working, some aren&apos;t. This one&apos;s really bad. Oh man. Video gaming.
-That&apos;s
+working, some aren&apos;t. This one&apos;s really bad. Oh man. Video gaming.</p>
+
+<p>That&apos;s
 bleeding on my eyes. This one right here. But what&apos;s great is you click
 on one, you get the glyphs. Some are going to
 have a lot more. This one&apos;s very limited to just Roman numerals
 and lettering, Arabic numbers and Roman
 numerals and then you&apos;ll see here these very specific
 UTF eight characteristics that come with the font. If you have this
-font, you definitely want
-to be using this one instead of the UTF eight
+font, you definitely want to be using this one instead of the UTF eight
 symbolisms for these. A little bit about the designer, the glyphs and
-you&apos;ll
-see scroll through. You get your license down here. Here is some pairing
+you&apos;ll see scroll through.</p>
+
+<p>You get your license down here. Here is some pairing
 recommendations. But ultimately, we want to download the family so
 we click our selected. I haven&apos;t selected any. I go down here, select
-the
-style, all the way at the top. I click there and
+the style, all the way at the top. I click there and
 I get this style. I get one audio wide. I click on the embed here and I
-get this
-nice little link. Here I can grab this copy and
+get this nice little link. Here I can grab this copy and
 I could put it at the dot. Here I have my
 Google Fonts demo. You&apos;ll see here I already
 have link href, https font, googleapis, css, and then?family, Indie
-flowers, relstylesheet, which
-is exactly here. I&apos;m getting audio
-wide pulling that in. Open this Google Fonts here is the Google Font CSS
+flowers, relstylesheet, which is exactly here. I&apos;m getting audio
+wide pulling that in.</p>
+
+<p>Open this Google Fonts here is the Google Font CSS
 resets Google Fonts. Now let me replace it with this Google Font Control
-Save
-and we&apos;re going to refresh. I get this little, it&apos;s a nice much easier
+Save and we&apos;re going to refresh. I get this little, it&apos;s a nice much easier
 to read font there. Then here you can
 see font family. I need to replace that. I go into here
 font-family Indie flower. I&apos;ve defaulted back
-to my old font. I need to make sure
-I update this and put in now font
+to my old font. I need to make sure I update this and put in now font
 family audio wide. Here I&apos;ve resolved
 to this Google. You&apos;ll see I wasn&apos;t getting the Google Font imported
-so I went back. Was it a default cursive? I didn&apos;t want the
+so I went back. Was it a default cursive?</p>
+
+<p>I didn&apos;t want the
 default cursive. I&apos;m putting this in now
 I go an Audio and I get this really cool now new font
 imported onto my headlines. Very robotic font. What&apos;s also cool though
 is I can go back. I got one let&apos;s go
 also with this one. I&apos;m going to add this selected and you&apos;ll see
-actually
-with Google what&apos;s nice is they&apos;ve added now
+actually with Google what&apos;s nice is they&apos;ve added now
 monoton and audio wide. I can just grab this one link, it has both of
-them and
-I can go up here to my head and I can just do this and I get both
-audiowide
-and monoton to save. Now let&apos;s do two as monoton. I got my monoton
+them and I can go up here to my head and I can just do this and I get both
+audiowide and monoton to save. Now let&apos;s do two as monoton. I got my monoton
 right here. Drop that in and paste. Family. Let&apos;s go back reset. Now I
-got my really cool font right there as Google Fonts. You can keep stack
+got my really cool font right there as Google Fonts.</p>
+
+<p>You can keep stack
 in and that is Google Font is really
 nice like that so you can get multiple Google Fonts all stacked in there
-and
-then you can just go in your CSS and re emphasizing I&apos;m only
+and then you can just go in your CSS and re emphasizing I&apos;m only
 embedding this style in here because as you
 see we&apos;re going to do a couple demos this week and I want to all to be
 in one folder. I have this style embedded instead of linked
 out to a style sheet. Just reemphasize
-Google web fonts don&apos;t need to be downloaded. Includes a link to a
+Google web fonts don&apos;t need to be downloaded.</p>
+
+<p>Includes a link to a
 Google hosted file then you can use them as a CSS links to
 come before your CSS so that you&apos;re
 actually importing it though most browsers
 will forgive you and pretty much understand that just to look for
 the link wherever it is. Google gives you all you need and of course
-let&apos;s
-see an example. I now encourage you to watch
+let&apos;s see an example. I now encourage you to watch
 this video and this is a great introduction into choosing fonts and
 how fonts play in. I hope that lesson convince
 you you need to spend the next six hours
-researching fonts online.
-
+researching fonts online.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch5-3-1">5.3.1 Lesson 1 Video Reference Page</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Below is a list of the content referenced in the Lesson 1 Video.
+<p>Below is a list of the content referenced in the Lesson 1 Video.</p>
 
 1.  Google&apos;s giant library of fonts
 
@@ -5986,64 +6018,65 @@ Below is a list of the content referenced in the Lesson 1 Video.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-4">5.4 CSS Floats - Part 1 (6:53)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-In lesson 2, we&apos;re
+<p>In lesson 2, we&apos;re
 finally going to start to learn how to move
 stuff around your page. I&apos;d like to start with
 this little tupperware full of plastic toys. If you remember bath time
-toys, move it around on the
-surface of water. As you move one, you tend to create waves or bump into
-the
-other ones and move them. This is a nice
+toys, move it around on the surface of water. As you move one, you tend to create waves or bump into
+the other ones and move them. This is a nice
 analogy for some of the headaches people get into
-with understanding floats. Floats are a very simple thing. You move them
-either
-left or right on a page, and you take the HTML box
+with understanding floats. Floats are a very simple thing.</p>
+
+<p>You move them either left or right on a page, and you take the HTML box
 and move it left or right. As you do that, you may move something else
-that
-is floating on that page. That&apos;s something
+that is floating on that page. That&apos;s something
 to keep in mind. But other than that, it&apos;s
 really not that complicated. Things just move left or right. Here I have
-this little
-goose and I floated it to the right and you&apos;ll see
-moving things around the page, everything wraps around it. That&apos;s the
+this little goose and I floated it to the right and you&apos;ll see
+moving things around the page, everything wraps around it.</p>
+
+<p>That&apos;s the
 idea here. Let&apos;s go with float number 3. Here, as I have a couple
 of things floating, you&apos;ll see they jump top or bottom if there&apos;s
 enough space for them to float properly. Let&apos;s start with the basics.
 The float CSS property specifies that an element should be taken from
 the normal flow and placed along the left or right
 side of its container, where text and inline
-elements will wrap around it. Floating element is one where the compound
-value of
-float is not none, not as easy straightforward, but you can click
+elements will wrap around it.</p>
+
+<p>Floating element is one where the compound
+value of float is not none, not as easy straightforward, but you can click
 on Mozilla there. You basically go in to CSS, you grab block element.
 It&apos;s not going to be
 an inline element, like a attribute or a
 specific inline like an EM. Things like a p, h1, those types of
 block elements. What a block element is
-something that creates a block. There we have block elements, each one
-of these is
-grabbing a block. You&apos;ll see this h1, it&apos;s
+something that creates a block.</p>
+
+<p>There we have block elements, each one
+of these is grabbing a block. You&apos;ll see this h1, it&apos;s
 block is not reduced in size, so it goes all the way
 across the page up here. Whereas these ones,
 I&apos;ve used CSS to shrink the size so that they can float next
 to each other. Popping this open, this
 is the block they create. The content area, the padding the borders and
-the margin, we talked about that last week. You can left, right, or you
+the margin, we talked about that last week.</p>
+
+<p>You can left, right, or you
 can set it back to none. Float property cause elements to move as far as
-possible
-to the left or right and this is
+possible to the left or right and this is
 that far as possible means they&apos;re bumping
 into other floated items, trying to go to
 the left or right. Always provide a width
 with a floated element. If you don&apos;t have a width,
 remember naturally, HTML elements will take up 100% width of the page so
-if
-you have it left or right, it doesn&apos;t matter it&apos;s going all the way
+if you have it left or right, it doesn&apos;t matter it&apos;s going all the way
 from left to right. You need to actually
 reduce that width from 100% so that it can actually
 look like it&apos;s floating. Floating elements behave like block elements
-as they
-are block elements. Margins do not collapse
+as they are block elements.</p>
+
+<p>Margins do not collapse
 like they do on a standard block element
 basically, tops and bottoms, they will stack on
 top of each other, which is a subtle little thing, but we&apos;ll play
@@ -6051,18 +6084,21 @@ around with those in more advanced floating. Oftentimes, once you
 start floating something, I&apos;ll demo a little bit of this. You want to
 clear the floating, you want the floating then to stop and push all
 other texts. Here you see I have text
-wrapping around here. The screen gets smaller, the text wraps
+wrapping around here.</p>
+
+<p>The screen gets smaller, the text wraps 
 around that image. The image itself is just
 that small box there. The text is wrapping around it. You can see here
-the P
-actually goes behind it, but the content area
+the P actually goes behind it, but the content area
 is being pushed. This h1 and this text here, I&apos;ve actually put a clear,
 so this falls below it, and
 that&apos;s clearing the float. We&apos;ll demo that as well. It tells the
 element that it can not be positioned next
 to the floated element. If a containing element only
 contains floated elements, it will have no height
-unless you set. It&apos;s always about
+unless you set.</p>
+
+<p>It&apos;s always about
 whatever the content is. You can use floats to
 create column and layouts, and floated items need to
 appear in HTML before. Obviously, so you need to actually have the HTML
@@ -6075,20 +6111,23 @@ these, not linking out. I have my three options. I have float left,
 float right, and then clear. It&apos;s not float clear, it&apos;s just clear and
 I have both, and that&apos;s all I&apos;m
 doing around here. Let&apos;s change this to float
-left. Very straightforward. I refresh and you&apos;ll see
+left. Very straightforward.</p>
+
+<p>I refresh and you&apos;ll see
 that my image pops here, and now the content here is wrapping around to
 the right hand side. I shrink the screen, you&apos;ll see the content comes
 right up to the edge
 of the image there. This clearme, if I get
 rid of the clear me, you&apos;ll see now this h2 and more of this font or
 this paragraph comes, and it just flows continuously around the image
-until it
-doesn&apos;t need to anymore. Now if I was to take
+until it doesn&apos;t need to anymore. Now if I was to take
 a second image, they&apos;re both floated left, I&apos;m stacking them next to
 each other with no clear, you&apos;ll see they just
 float left and right. Just all the way to left,
 they&apos;ll keep going. I&apos;ll push down there
-adding another image. Now what happens is there&apos;s a decision because
+adding another image.</p>
+
+<p>Now what happens is there&apos;s a decision because
 I don&apos;t have enough width, these are fixed width. Once my screen
 gets small enough, it floats down here and content comes
 spilling up from up top. This is where here, I think maybe on these
@@ -6096,21 +6135,22 @@ screens, my content is all pushed above. I don&apos;t have this boxed off, I
 move few pixels all of a
 sudden the whole paragraph jumps up and this one
 jumps way down there. That&apos;s where I talk about moving those toys
-around in water. Sometimes as you move one thing, something that was way
+around in water.</p>
+
+<p>Sometimes as you move one thing, something that was way
 down here before all of a
 sudden jumps up there. Just because it&apos;s wrapping
 around all these images and these images are only
 stacking next to each other. Now if I to this
 and go float right, you&apos;ll see here this pushes
 all the way to the right. These two push all the way to the left and the
-content
-flows between them. Now generally you&apos;re
-never should have just such wrapping like this. You&apos;ll see it sometimes
-in like wikis. But generally you
-want to put contents. We&apos;ll talk about layouts, you
-want to move these things. You never want
-paragraphs just sitting against the floated image like that and things
-flowing thus.
+content flows between them. Now generally you&apos;re
+never should have just such wrapping like this.</p>
+
+<p>You&apos;ll see it sometimes
+in like wikis. But generally you want to put contents. We&apos;ll talk about layouts, you
+want to move these things. You never want paragraphs just sitting against the floated image like that and things
+flowing thus.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch5-5">5.5 CSS Floats - Part 2 (5:49)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6995,15 +7035,17 @@ a complete, very scaled down, simple but nice looking website. None of
 the fancy stuff from a framework
 or if you went on to website builder. It&apos;s going to be a nice clean
 website that you can take home and you can turn into your own with your
-own
-side of logo and design as you see fit. So enjoy.
+own side of logo and design as you see fit. So enjoy.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch6-1-1">6.1.1 Module 6: Asset Library</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Files used during the code demonstrations of Module 6 can be found at
 the class&apos;s GitHub repository  &apos;[linked
 here](https://github.com/dkriegls/coursera/tree/main/lecture_demos/module_6_demo)&apos;.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch6-1-2">6.1.2 Lecture Slides: Standard Website Layouts</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch6-2">6.2 Standard Website Layouts (9:30)</h3>
@@ -7042,8 +7084,7 @@ that as much as I should. The aside is used for presents a portion of
 document whose content is only indirectly related
 to the documents. Perfect. Let&apos;s change
 this is old school, I used to put this aside. Spell it correctly and
-closing
-out aside. There we go. Make sure I go to my
+closing out aside. There we go. Make sure I go to my
 CSS and change that to a side bar and aside. Excellent. Clean this up.
 Then my footer should
 also be a p. My footer, maybe actually
@@ -7102,8 +7143,7 @@ plus the content area. Whatever there, margins
 are padding of the font. We can take control that in the CSS and say
 height, text center. When I just have one little
 piece of text like an h1, I can put text line center. That&apos;s going to
-be
-a nice, easy way. We&apos;re going to use this for
+be a nice, easy way. We&apos;re going to use this for
 navigation center as well, but we have to turn the
 navigation into a text. We&apos;ll cover that in the
 next demo in this video. Font Size 20 pixels, I could put that on my h1
@@ -7111,8 +7151,7 @@ but being on my header, because it&apos;s on the header,
 it also applies to h1. This is that cascade
 property, page-wrappers. Then on my main
 background color red, float left with 73%, height here 100 pixels. Lots
-of room to put
-content here I&apos;m using 800 pixels to demo just what
+of room to put content here I&apos;m using 800 pixels to demo just what
 a normal scroll looks like, put maybe pictures there. But it&apos;s also
 enough for the sidebar there to add
 that little sidebar. On the aside, it&apos;s 27, so seven plus three plus
@@ -7129,8 +7168,7 @@ enough room left over, no. The page-wrapper didn&apos;t leave enough room
 because this
 is 73% that was 27, so that&apos;s 100% width. By adding that little
 extra space between them, they now equal more than 100%. If I wanted to
-add
-that, I would have to reduce this size. Let&apos;s see if that&apos;s
+add that, I would have to reduce this size. Let&apos;s see if that&apos;s
 enough to reduce it. There we go. Now I
 have this little space on either side and that allows. Here, it&apos;s
 actually inside. Whereas this, because
@@ -7156,24 +7194,18 @@ adaptive to desktops. This is the concept
 of responsive design. Let&apos;s watch this
 little video together. It&apos;s short, That&apos;s
 the introduction. The reality is I started coding the web towards the
-end of
-three early four. You definitely had, it was frustrating because not
+end of three early four. You definitely had, it was frustrating because not
 only did you have to code separately for
 Internet Explorer so your website would literally almost have two
 different codes, one for everywhere else and then one for
 Internet Explorer. But then you&apos;d also have
 to have mobile versions, your HTML and your CSS. You&apos;d often those you
-just
-starting, what&apos;s that mean? It means you&apos;d literally, have to have two
-different
-repositories in your GitHub, or in your server for whether they came via
-mobile
-device or not. When they&apos;d visit mobile device, you&apos;d have a link, and
-it&apos;d start
-with M for mobile, and they&apos;d literally get
+just starting, what&apos;s that mean? It means you&apos;d literally, have to have two
+different repositories in your GitHub, or in your server for whether they came via
+mobile device or not. When they&apos;d visit mobile device, you&apos;d have a link, and
+it&apos;d start with M for mobile, and they&apos;d literally get
 served up a different website. Now, with CSS three and the invention of
-media
-queries, that&apos;s all fixed. Then that&apos;s why HTML
+media queries, that&apos;s all fixed. Then that&apos;s why HTML
 five is so great, because I can keep my
 content all the same, but as it shrinks, I can then add a media
 query that says, if the screen hits
@@ -7212,8 +7244,7 @@ for the website. We&apos;ll cover all these
 pseudo selectors. But then I have down
 here at media screen, so media screen at body
 background image, URL. This is repeating. If I go to here, go back to my
-demo,
-you&apos;ll see my image. I have a few different images, I&apos;m messing around
+demo, you&apos;ll see my image. I have a few different images, I&apos;m messing around
 with, so this. Here, this is my
 repinning background. I&apos;m not sure where
 that name came from. I think that just
@@ -7367,8 +7398,7 @@ coded for that. We want to know how long
 the transition should take, transition duration, the way
 the transition accelerates. We&apos;ll talk a little bit more
 about that and then pause, or no pause before it starts. We don&apos;t have
-to put
-this transition delay, but we can if we want, and we can have a little
+to put this transition delay, but we can if we want, and we can have a little
 delay before it starts. Let&apos;s first look at
 little transition here. Here&apos;s our beginning state, our end state and
 this is the part we&apos;re coding for right
@@ -7427,11 +7457,9 @@ this code. Body, I&apos;m adding my
 font a couple deep. Probably don&apos;t need all. Let&apos;s just do three deep.
 Margins font weight, so I&apos;m adding a little
 bit of boldness to it. Then you&apos;ll recognize these from our demo on how
-to make a
-navigation. List-style, none. Margins, padding,
+to make a navigation. List-style, none. Margins, padding,
 zero on the UL, LI&apos;s are going to be floated. I have then on my A
-displaying
-them as blocks so I can get that big area
+displaying them as blocks so I can get that big area
 all around the text to be also the
 button with margins, all this creating the
 actual button style. Text alignment, center, color, background-color,
@@ -7499,8 +7527,7 @@ at the same time. Then you&apos;re declaring how you want the properties
 to translate. So you can see here all types of ways in which
 you can translate. You can also translate just
 on X or translate just on Y, rotate just on X, Y. Let&apos;s come back to
-here.
-Here we have transform, rotates around the center. If we&apos;re just
+here. Here we have transform, rotates around the center. If we&apos;re just
 rotating, we just need to say how much we want it to rotate. Transform
 origin we&apos;re then choosing, here is center top, I could say. 100%, 100%
 is going to go from here, 0,0, 100%,400 pixel 0 is going to pull us
@@ -7610,8 +7637,7 @@ list item 2. Or actually since
 they&apos;re one, two, three, they might be an ols
 so an ordered list. Then the li is
 going to be there. On the ol, I put this nth child. I&apos;d go to the
-eighth li
-and it would grab it. I could have the nth child colored a little
+eighth li and it would grab it. I could have the nth child colored a little
 bit differently. Now I might have JavaScript
 that changes this eighth. That maybe if you
 click on something, then the eighth it clicks on, whichever one you
@@ -7619,8 +7645,7 @@ click on changes that CSS to a different color than
 based on some JavaScript. Here we have, you can see
 this code li nth child eight span and it has this different background
 color box shadow. You see there&apos;s the box shadow around it with a
-little
-background color. They all have the hover over. But this is going to be
+little background color. They all have the hover over. But this is going to be
 the hover over different, it&apos;s going to be pink,
 whereas these are all blue. That is maybe changing up
 when you click on an item. These lists change
@@ -7647,18 +7672,14 @@ generic child ranges. I start nth child 2. Everything above nth child,
 but then I refine that
 code to be nth child odd. I can do odd or even,
 but it starts only two, so the first one doesn&apos;t happen. Two is not
-odd, so
-it doesn&apos;t go there. It goes 3, 5, 7, 9 and then here I add one more
-nth child that
-stops this count at nine. We&apos;re sandwiching this odd count between a
+odd, so it doesn&apos;t go there. It goes 3, 5, 7, 9 and then here I add one more
+nth child that stops this count at nine. We&apos;re sandwiching this odd count between a
 two and a nine. This one is nth child
 3n+1 nth child, even. Very complicated, you
 don&apos;t have to do this. Using this nth child 3+1 would normally
-highlight
-children 1, 4, 7 and 10 basically start at
+highlight children 1, 4, 7 and 10 basically start at
 one and you go every three. But then this is child even. Using the nth
-child
-is only four and 10. It removes the odds. I don&apos;t think I&apos;ve ever
+child is only four and 10. It removes the odds. I don&apos;t think I&apos;ve ever
 used this in any code. You can see though here
 nth child type of three. You start to get
 really complicated and explains more and more. None of this you&apos;ll
@@ -7672,8 +7693,7 @@ visited a good one. Usually when you click on a link like here and then
 you go back. Link visit, it&apos;s usually a link href when you click
 on turns purple. You can use visited to change it back to make
 it not turn purple. If you don&apos;t like the way purple looks on your
-website,
-change to something else. Hover over, you&apos;ve seen
+website, change to something else. Hover over, you&apos;ve seen
 that with the menus, and actually for the demo today. Active, that&apos;s
 another good one. But you can see then there&apos;s
 the first child, language, there are a couple
@@ -7684,9 +7704,9 @@ in CSS so dynamically. But it&apos;s a nice little read. I suggest going
 over that. That was just a short lesson, but I encourage you to spend
 more time reading about how pseudo selectors can
 add depth to your website.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4 id="ch6-7-1">6.7.1 Lesson 4 Video Reference Page</h4>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Below is a list of the content referenced in the Lesson 4 Video.**
 
 1.  **Essay on utilizing the attribute selectors**
@@ -7722,12 +7742,9 @@ let&apos;s start looking at our HTML. We&apos;re pulling in a Google font. So
 googleapia CSS font family sigmar. So in my CSS you can see I&apos;m pulling
 in Sigmar here on my company company name, which you&apos;ll see then a cool
 little Ninja company. So I went to Google, we demoed that a few videos ago. And you always know, you just cut and paste. Sana serif cursive this is a proper font stack is you have one you&apos;re pulling in one that the browser
-already knows that looks similar, and then the default cursive, which usually you don&apos;t need that, you just need those two, because
-this is going to be in most browsers. So then my link out to my resets my link to my style and then I&apos;ve got the body here, little
-header id main header, wrapping my navigation. And then I&apos;m going to have a
+already knows that looks similar, and then the default cursive, which usually you don&apos;t need that, you just need those two, because this is going to be in most browsers. So then my link out to my resets my link to my style and then I&apos;ve got the body here, little header id main header, wrapping my navigation. And then I&apos;m going to have a
 main navbar. So here in my header I have a couple of different things. I have these two images I&apos;m going to go
-next to talk about pull these image, but I also have this additional kind of overhead nav. So this is quite common where you&apos;ll
-have like the main navigation here in a navbar and then you&apos;ll have
+next to talk about pull these image, but I also have this additional kind of overhead nav. So this is quite common where you&apos;ll have like the main navigation here in a navbar and then you&apos;ll have
 some extra navigation up there. So for instance, iit.edu go here you have a main nav. You have this weird additional main
 nav. Well, the COVID stuff is up here, but usually this would be up in
 the top. So you have this main nav down there and then you have this
@@ -7750,8 +7767,7 @@ logo. I want to resize this, I&apos;m giving it a class image logo png. So
 I&apos;m just searching my logo. So I&apos;m at full site here going to image
 and then finding my logo right forward slash after the image means look
 for a folder and then look for file name image. Always make sure you
-have
-that alt attribute and then close out the a to wrap it. So let&apos;s look
+have that alt attribute and then close out the a to wrap it. So let&apos;s look
 at this one here where we&apos;re pulling it in. So that gives us these two
 images. So I have these two images here. So here I have my main header
 image.logo floating left, giving it a margin left and margin 20 pixels.
@@ -7856,16 +7872,14 @@ which is going to give us that. It&apos;s very straightforward. You can see
 that sort of working
 where one overrides the other. Of course, if it didn&apos;t work, I would
 go to my inspector and look here and see why it&apos;s not getting crossed
-out and
-what&apos;s working. Then on my A&apos;s, I want some color,
+out and what&apos;s working. Then on my A&apos;s, I want some color,
 some text decoration underline removing, add a little margins,
 float them next to each other. So I&apos;m changing them from their
 default blue to a little white. And then on the hover,
 using that pseudo selector on each A, text decoration underline. So that
 gives me when I go under,
 you get the nice little underline there. And you&apos;ll see it&apos;s smaller,
-so
-I could make it then I could also go on the A where&apos;s my text it might
+so I could make it then I could also go on the A where&apos;s my text it might
 make sense to go text, 0.8 text size. There we go. There we go.
 So now it&apos;s a little bit smaller. Little side navigation. All right, so
 we&apos;ve created
@@ -8163,73 +8177,54 @@ writing the JavaScript.
 You definitely want to come
 here JavaScript lightweight, just in-time compiling, it&apos;s a nice little
 write-up on it tutorials, if you want to get JavaScript first steps,
-this is
-a nice little introduction read-up. Obviously, watching some other
+this is a nice little introduction read-up. Obviously, watching some other
 videos is always good as well. And then here&apos;s some JavaScript basic
 programming introduction reading with elegant JavaScript, this is a good
-reading
-course here, so there&apos;s a nice textbook. But that of Node JS we are
-going
-to be using Inspector, so you can write JavaScript here and
+reading course here, so there&apos;s a nice textbook. But that of Node JS we are
+going to be using Inspector, so you can write JavaScript here and
 it works. So you can do 2+2 and you get
 the JavaScript will execute, that it&apos;s 4. So jump to the How to Guide,
 for sure this is embedding our JavaScript. How to add JavaScript to HTML.
 Few different ways you can write
 the script inside the head, but ultimately what we want to do is the
-same
-way we link to it in external scripts, we want to link to it the same
+same way we link to it in external scripts, we want to link to it the same
 way we would as our CSS. You&apos;ll see sometimes in my demos embedded
 scripts the same way we can embed CSS right into the HTML file, you just
 open Script, write some JavaScript, then close it. And then the external
-scripts, most
-commonplace is in the head right before the body, however, you will see
-a lot of
-older coders and a lot of older websites place the JavaScript below all
-their
-code so at the bottom of the HTML page. And the reason for that is
+scripts, most commonplace is in the head right before the body, however, you will see
+a lot of older coders and a lot of older websites place the JavaScript below all
+their code so at the bottom of the HTML page. And the reason for that is
 because that was what they learned
 before we had async versus async deferred. So async executes the page
-parsing
-deferred executes script when page finishes parsing, if you put neither
-it
-executes immediately then parses the page. So what does that mean? So
+parsing deferred executes script when page finishes parsing, if you put neither
+it executes immediately then parses the page. So what does that mean? So
 here is the HTML parsing, what that means is it&apos;s processing
 the HTML code and executing it. Here you parse the HTML, script gets
 downloaded, and then script is executed. So if you&apos;re just normally
-doing it,
-and remember, this happens super fast, but it can slow down on slower
-software or
-slower computers so it can become noticeably different. So normal
-processing is the HTML
+doing it, and remember, this happens super fast, but it can slow down on slower
+software or slower computers so it can become noticeably different. So normal
+processing is the HTML 
 is downloading, getting processed, as soon as it runs into where
 the JavaScript is needed, it parses processing your JavaScript. And
 that&apos;s where sometimes when you see
 a slow page and not everything populates on the page, this might be
-happening,
-it&apos;s downloading the JavaScript and then executing it, and then
-finishes
-putting up the HTML on the page. So async allows for you to keep
+happening, it&apos;s downloading the JavaScript and then executing it, and then
+finishes putting up the HTML on the page. So async allows for you to keep
 downloading and processing the HTML while the JavaScript downloads,
 that&apos;s really smart, and only then during the actual parsing and
-processing of
-the JavaScript does the HTML parse. Or deferred is often preferred,
+processing of the JavaScript does the HTML parse. Or deferred is often preferred,
 you download in the middle and then the JavaScript doesn&apos;t
 execute till the end. The only choice between these is often
 making a decision where you put your website on throttle for a slow
-download
-and you see if it&apos;s okay to defer or if you need some JavaScript
-features to be
-up before the whole page is downloaded. So for instance, Gmail wouldn&apos;t
-look very
-good without the JavaScript anyway, so there&apos;s no reason to defer it,
+download and you see if it&apos;s okay to defer or if you need some JavaScript
+features to be up before the whole page is downloaded. So for instance, Gmail wouldn&apos;t
+look very good without the JavaScript anyway, so there&apos;s no reason to defer it,
 so it&apos;s going to be async. So you start processing,
 get the JavaScript ready, and then finish loading the page. And of
-course on a fast computer,
-fast T-line, this happens instantaneously
+course on a fast computer, fast T-line, this happens instantaneously
 to the human experience, but it can be relevant for
 slower systems and slower downloads. Do I have that in my code? Yeah,
-you are, and
-I should have this actually async, it&apos;s an attribute, but yeah,
+you are, and I should have this actually async, it&apos;s an attribute, but yeah,
 just dropping async in there like that. So async, async deferred, you
 want to make
 sure you put that in your JavaScript and have it come in from the head.
@@ -8306,22 +8301,15 @@ so we&apos;re doing var we declare it as
 a variable and then we assign it a value. Names are case sensitive and
 must begin with a letter or underscore so most always just begin with a
 letter. Can be a set of very basic data types, we&apos;ll talk about the
-data
-types in a second. No special characters in the name again,
+data types in a second. No special characters in the name again,
 just keep it simple. Has functional scope, what that means
 is once I assign foo the value of 5, if I create a new JavaScript
-function and
-I bring foo in there, 5 will not be the same. I need to relate back to
-that earlier
-function to make sure it is using the same variable foo, variable
-declaration in
-a function without a variable keyword, it&apos;s global. So if I generally
-don&apos;t
-insert inside a function, it then becomes a global variable. So that&apos;s
-two different ways
-to get around that scope, two different types of variables. So this is
-just a normal
-variable I put a value to, I can also have an array
+function and I bring foo in there, 5 will not be the same. I need to relate back to
+that earlier function to make sure it is using the same variable foo, variable
+declaration in a function without a variable keyword, it&apos;s global. So if I generally
+don&apos;t insert inside a function, it then becomes a global variable. So that&apos;s
+two different ways to get around that scope, two different types of variables. So this is
+just a normal variable I put a value to, I can also have an array
 with a defined width. So I do array and
 I generally do these blocks here. And an array is a series of variables,
 so it&apos;s packaging several values into a single variable and then zero
@@ -8332,11 +8320,9 @@ that array, it is not variable one, it will be variable zero in that
 array. The different ways in which I can
 define foo so as you saw here, I created fuud and
 it&apos;s undefined so that&apos;s the first. I can define it as null, so that
-resets
-it to be no value similar to undefined, but actually an official null,
+resets it to be no value similar to undefined, but actually an official null,
 mathematically there&apos;s a difference. I can assign it in numbers, as
-you&apos;ve seen
-me do, True, false, boolean strings we see this quite a bit in code,
+you&apos;ve seen me do, True, false, boolean strings we see this quite a bit in code,
 oftentimes building an if then statement. I often are asking if
 inventory reaches ten, then re up order equals true and
 stuff like that. Strings, this is where I use little
@@ -8348,12 +8334,10 @@ variable, so we&apos;ll demo that here. I&apos;m going to give foo=2, two=2
 array, and you&apos;ll see it&apos;s
 already a different color. So now if I do foo+two, so now you&apos;ll
 see they just put the two side by side, it doesn&apos;t actually
-mathematically
-because it doesn&apos;t treat as a number, it treats the two as an array. So
+mathematically because it doesn&apos;t treat as a number, it treats the two as an array. So
 that&apos;ll come up a lot sometimes when we
 do comparisons to see if they&apos;re equal, then this will be seen as
-equal,
-but we want exactly equal, which means the same data type. Now
+equal, but we want exactly equal, which means the same data type. Now
 mathematical operators as you&apos;ve
 already seen me start to do, so we have addition. So basically we&apos;re
 adding and subtracting,
@@ -8361,12 +8345,9 @@ very simple plus minus division, multiplication. So multiplication is
 the star, division
 is the slash, modulus is once you do division, you actually don&apos;t want
 the divider, you want what is remainder. So oftentimes when you&apos;re
-subtracting
-several orders that are worth maybe eight shirts each, you want to know
-what&apos;s the
-remainder, not how many times you can fill that order, but what is the
-remainder in
-your inventory after you fill that order. So increment and decrement and
+subtracting several orders that are worth maybe eight shirts each, you want to know
+what&apos;s the remainder, not how many times you can fill that order, but what is the
+remainder in your inventory after you fill that order. So increment and decrement and
 then add self and reassign are unique, and
 I mean they&apos;re encoding but they&apos;re a little bit more unique,
 so too we set it 2, and if I do plus plus, so now if I do too,
@@ -8399,17 +8380,13 @@ and then I have here the function. I&apos;ve announced it,
 it&apos;s actually an anonymous, so I&apos;m not grabbing any variables
 I&apos;m just grabbing initMap. And now within that function, once this
 function runs, it&apos;s going to run this one, which is variable map, and
-then that
-has the function of center and zoom 8. And here&apos;s a more complex
-version of that,
-so you&apos;ll see here function init. If I open it up,
+then that has the function of center and zoom 8. And here&apos;s a more complex
+version of that, so you&apos;ll see here function init. If I open it up,
 the function opens and closes, but you&apos;ll see additional functions
 within this function. So this is a separate function here and
 it grabs several things and defines it. Here&apos;s my variable marker
-function grabs
-a couple of things and defines it. So that&apos;s what a function is, it&apos;s
-basically announcing that
-here&apos;s going to be a string of code, several different steps, and it&apos;s
+function grabs a couple of things and defines it. So that&apos;s what a function is, it&apos;s
+basically announcing that here&apos;s going to be a string of code, several different steps, and it&apos;s
 all executed within that curly brackets.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch7-5">7.5 JS Language Features and Syntax - Part 2 (7:53)</h3>
@@ -8431,20 +8408,15 @@ asking if they&apos;re equal, so they&apos;re equal, but here are they equal and
 the same data type. It does come up occasionally,
 but not that much. Then we have greater than, greater than equal to,
 less than, less than equal to. With JavaScript objects, all JavaScript
-items are objects. Once I created these
-variables here, these variables
-now become objects and I can point
-JavaScript to them. It includes functions, once I create a function,
+items are objects. Once I created these variables here, these variables 
+now become objects and I can point JavaScript to them. It includes functions, once I create a function,
 any calculation. Once I create something
 inside JavaScript, it becomes an object. That&apos;s what&apos;s called
 object-oriented coding. Excluding core data types. I can&apos;t just do too
-is sitting out there, I got to turn it
-into a variable. No true class system
+is sitting out there, I got to turn it into a variable. No true class system
 in JavaScript, it uses prototypes instead. Examples the browser
-is the window object, the HTML page is the
-document object. I don&apos;t have a
-class between them. I just point objects
-towards the window. As you saw here,
+is the window object, the HTML page is the document object. I don&apos;t have a
+class between them. I just point objects towards the window. As you saw here,
 document.getElementById. Document is the predefined object, that is the HTML page. So 
 attaching with a dot, I have getElementById, looking for some ID inside a document called 
 Canvas. Objects are composed of properties and methods. Properties are basically 
@@ -8582,8 +8554,7 @@ now I want to listen for a click. And then when someone clicks,
 I want my function to run. So now I&apos;m attaching my function. So d3,
 this click now attaches it and that brings me to the situation where
 when I click on it, I get this pop up. Now the two wrong ways I see a
-lot
-of people do it is this way. So this one&apos;s really bad, this is div id1.
+lot of people do it is this way. So this one&apos;s really bad, this is div id1.
 And here they use this onclick,
 right on the HTML, on click, Hello Daniel. It seems really clean and
 easy compared to what I just did. But the worst thing about it is it
@@ -8735,8 +8706,7 @@ location on the map, by default a marker
 uses a standard image. Markers can display
 custom images in which the case they are
 usually referred to as icons. You come through here, this is all getting
-my map
-up and going still. Then you have here
+my map up and going still. Then you have here
 this unique code, so new Google Maps marker
 so this is a predetermined. When you pull in
 that JavaScript code from the Google API, marker is going to be one of
@@ -8753,19 +8723,16 @@ title &quot;Hello world.&quot;
 I&apos;m going to show you this IT map. So here is a nice little IT map,
 but I have the new joker there. If you hover over the new joker,
 this little pop up happens and you can close it back up. You&apos;ll also
-know some other
-things I want to see, I do not want your map to take up
+know some other things I want to see, I do not want your map to take up
 the whole page in project three. So you&apos;re going to use some CSS here.
 I put a little border around my map. I shrank my map and all that can
 be found inside this code here. So my code super simple, right? Here&apos;s
 my head meta title link
 script out to my Google API. So it&apos;s pulling in the API,
 pulling in the style here and then pulling in my own unique script. So
-script async type,
-text/javascript, source it base. So the only code I&apos;m
+script async type, text/javascript, source it base. So the only code I&apos;m
 adding here is this div. And actually this should be tapped over. So
-this div here and
-then a div for the canvas. So the div for the wrapper gives
+this div here and then a div for the canvas. So the div for the wrapper gives
 me that nice red on the outside. And then I have the div inside
 that becomes my canvas. Now very simple CSS wrapper width, height,
 background margins overflow hidden. So I give it this width of 850
@@ -8796,10 +8763,8 @@ listener. So on Google Maps Dom Listener,
 I&apos;m listening to the window, not to my document, but to the window. I
 want to know when the page loads
 initiate this function alert, it worked. This is going to be the event
-listener
-that you&apos;re writing for Google Maps. So take all this and write this as
-is and
-then put your Google code inside there so you&apos;ll see,
+listener that you&apos;re writing for Google Maps. So take all this and write this as
+is and then put your Google code inside there so you&apos;ll see,
 I now have this Google code. So variable element document getelmbyd. So
 now I&apos;m going to grab the canvas. I want to drop my map inside the
 canvas. Variable map options. So now I&apos;m actually not just centering or
@@ -8833,10 +8798,8 @@ In that info window, I then had my content string, which is created
 here, put inside my content window. And that is the pop up we get when
 we first go here. So this is it Berlstein hall, blah blah, blah. because
 then I have event listener marker, mouse over function. I then have this
-whole thing get attached
-
-to if I mouse over my little image icon. So that&apos;s the quick and the
-dirty of it. But I encourage you to just kind of mess around with this.
+whole thing get attached to if I mouse over my little image icon. So that&apos;s 
+the quick and the dirty of it. But I encourage you to just kind of mess around with this.
 Add a new page to your JavaScript put the navigation should be the same
 CSS navigation. Add a little box. So you shrink the window of the div
 and then drop the Google Maps inside that div. Mess around. Now the
@@ -8889,17 +8852,12 @@ you do or create in JavaScript becomes an object, so when you create a
 new variable that becomes an object. But things that already exist are
 also objects. It&apos;s pretty clear document is HTML, so the document
 object is HTML. When you&apos;re trying to figure out things about HTML, you
-go document
-
-object and you go inside document object and you look for maybe a ID or
-class,
-
-things like that. But to give a better sense of how everything is an
+go document object and you go inside document object and you look for maybe a ID or
+class, things like that. But to give a better sense of how everything is an
 object, including events, so let&apos;s look at browser objects. These are
 objects in the DOM that are not necessarily associated with the HTML,
 but also are part of the web experience. An event represents the state
 of an event. When we do event handling, that would be, for
-
 instance, on focus. We&apos;ll talk about some more event handling or event
 objects in a minute here. But history contains the URL&apos;s the user has
 visited within a browser window. This is going to look up in the browser
@@ -9013,7 +8971,6 @@ I&apos;ve created d3. This div here inside of it is also going to have all
 this color. Now this color and style and width is going to be
 replicated. There&apos;s three DOMS that have this. So this div has it
 inside it. This div has inside it because
-
 all these divs and this div. So as the browser renders this, it takes
 this and literally multiplies it into three to create this div, to
 create this div and to create that div. So your DOM now is not just this
@@ -9951,3 +9908,4 @@ covered. The learning objectives below capture the key takeaways from this modul
 </ul>
 
 <p>the end...</p>
+
