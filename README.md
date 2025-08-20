@@ -6,7 +6,8 @@ date last editted: "4/23/2025 Wed 1+pm"
 date last editted: "4/28/2025 Mon 12+pm"
 date last editted: "6/26/2025 Thu 9+pm"
 date last editted: "7/13/2025 Sun 4+pm"
-date last editted: "8/05/2025 Tue 12+13pm"
+date last editted: "8/05/2025 Tue 12+pm"
+date last editted: "8/19/2025 Tue 10+pm"
 output: 
   markdown:
     with some style
@@ -15,7 +16,8 @@ output:
 <h1 align="center">Fundamentals of Web Development</h2>
 <p align="center"><small><small>(by Illinois Tech)</small></small></p>
 
-<!-- ![Illinois Institute of Technology - Innovation Toronto](images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
+<!-- ![Illinois Institute of Technology - Innovation Toronto]
+  (images/image001.jpeg){width="2.0in" height="1.1100481189851268in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. introduction (1-01) (05) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1488,25 +1490,19 @@ From here, if I wanted to say, add a little bit more context to my
 README, I can click edit.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
-<p>I got my test repo as my name and I might want to change this to used 
-in September of 1962 fall semester or something like that.
-So when I have hundreds of these sort of files, I might have a little
-reference of what this particular repository is for.</p>
+<p>I got my test repo as my name and I might want to change this to used in September of 
+1962 fall semester or something like that. When I have hundreds of these sort of files, 
+I might have a little reference of what this particular repository is for.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
-<p>And now I&apos;m just going to commit my changes and I want to add a little
-message, adding context to my README. 
-Every time you edit, you want to add just a little plain English text
-here to commit messages. 
-And you&apos;ll be getting graded on whether you do this or not in this
-course. 
-Because when you come back to edit, you want to be able to look through
-these plain English descriptions and see what this particular edit might
-have been about, instead of having to delve into each edit and the code
-that was committed. 
-So now I have some updated code and I can go up here. 
-Here&apos;s my README file. I&apos;m in my README file. 
-And this was the repository folder.</p>
+<p>And now I&apos;m just going to commit my changes and I want to add a little message, 
+adding context to my README. Every time you edit, you want to add just a little plain 
+English text here to commit messages. And you&apos;ll be getting graded on whether you 
+do this or not in this course. Because when you come back to edit, you want to be able 
+to look through these plain English descriptions and see what this particular edit 
+might have been about, instead of having to delve into each edit and the code that 
+was committed. Now I have some updated code and I can go up here. Here&apos;s my 
+README file. I&apos;m in my README file. And this was the repository folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <p>I can go to add a file. So create a new file. 
@@ -1514,11 +1510,9 @@ You&apos;ll see there&apos;s the test repo. And up here, if I wanted to create 
 new file. So let&apos;s call this new, one word we&apos;re using underscore
 file. 
 
-So new file added in demo mode. 
-My changes throw away file. 
-Now I&apos;ve got new file, I&apos;ve got my README. 
-Ultimately though, I don&apos;t want to be doing editing on GitHub. 
-What I want to be doing is editing on my actual computer.</p>
+New file added in demo mode. My changes throw away file. Now I&apos;ve got new file, 
+I&apos;ve got my README. Ultimately though, I don&apos;t want to be doing editing on 
+GitHub. What I want to be doing is editing on my actual computer.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-7">1.7 Tools of Internet Publishing -- Part 2 (6:56)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1529,54 +1523,46 @@ and then I want to push that code up to GitHub desktop. And if there were some
 here, or if I&apos;m working in a team, someone else has pushed some code on the servers, 
 I want to be able to pull that code back to notepad++.</p>
 
-<p>For high end developers, they&apos;re using something called Git, which is
-GitHub Git is a command line prompt that does this push pull. 
-We&apos;re going to be using what&apos;s called a graphical interface called
-GitHub desktop, which we already downloaded. 
-So GitHub desktop is a very powerful tool that lets you know when
-there&apos;s been some changes in your code and then you can push and pull and
-commit.</p>
+<p>For high end developers, they&apos;re using something called Git, which is GitHub Git 
+is a command line prompt that does this push pull. We&apos;re going to be using what&apos;s 
+called a graphical interface called GitHub desktop, which we already downloaded. 
+GitHub desktop is a very powerful tool that lets you know when there&apos;s been some 
+changes in your code and then you can push and pull and commit.</p>
 
 <p>So let&apos;s first get our GitHub desktop set up, so we&apos;re going to start
-from our GitHub repository. I&apos;m going to go back to test repo, so here are my files, this is the
-high level test repo repository. Going here to the big green button, and I want to open this in GitHub
+from our GitHub repository. I&apos;m going to go back to test repo, so here are my files, 
+this is the high level test repo repository. Going here to the big green button, and I 
+want to open this in GitHub desktop.</p>
+
+<p>GitHub desktop will open up, I have two options, I want to stay with this URL. I can 
+rename it, I highly recommend keeping this address as whatever the repo name is, it 
+prevents confusion.</p>
+
+<p>Later on, if you have your file name on your desktop and your repo name the same, you 
+might shorten it to just test repo, but I like to keep the full extension. What I do want 
+to change is where it&apos;s going to be saved to, so the local path. I&apos;m going to 
+have just generically here thrown on my desktop. So desktop, this is where it&apos;s 
+going to be thrown, a clean folder.</p>
+
+<p>You&apos;re likely wanting to create a folder somewhere in your C file for your work 
+in this course. Select folder, and then I&apos;m choosing to clone. And what cloning is 
+going to do is going to create a little file that continually checks using GitHub 
 desktop.</p>
 
-<p>GitHub desktop will open up, I have two options, I want to stay with
-this URL. I can rename it, I highly recommend keeping this address as whatever the
-repo name is, it prevents confusion.</p>
+<p>The repository online in GitHub and my own file on my desktop to see if there&apos;s 
+been any changes. Now I have my test repo, I don&apos;t have any changes and there&apos;s
+nothing really that&apos;s happened. I&apos;m going to open up my desktop, I&apos;ve got 
+my test repo here, got my license, my new file and my README, I am going to add a new 
+file.</p>
 
-<p>Later on, if you have your file name on your desktop and your repo name
-the same, you might shorten it to just test repo, but I like to keep the
-full extension. 
-What I do want to change is where it&apos;s going to be saved to, so the
-local path. 
-I&apos;m going to have just generically here thrown on my desktop. 
-So desktop, this is where it&apos;s going to be thrown, a clean folder.</p>
-
-<p>You&apos;re likely wanting to create a folder somewhere in your C file for 
-your work in this course. 
-So select folder, and then I&apos;m choosing to clone. 
-And what cloning is going to do is going to create a little file
-that continually checks using GitHub desktop.</p>
-
-<p>The repository online in GitHub and my own file on my desktop to see if
-there&apos;s been any changes. 
-So now I have my test repo, I don&apos;t have any changes and there&apos;s
-nothing really that&apos;s happened. 
-So I&apos;m going to open up my desktop, I&apos;ve got my test repo here, got my
-license, my new file and my README, I am going to add a new file.</p>
-
-<p>I&apos;m going to do a text document and call this index.html. 
-Later on we&apos;ll talk about why it&apos;s very important to always have one 
-index.html file in your folder. 
-If I open this up though, it&apos;s not an actual HTML file, if you look up
-here, it&apos;s index.html txt, it&apos;s just a basic text file. 
-So putting HTML just simply in the name won&apos;t make it HTML, so I&apos;m
-going to close this out so we don&apos;t get confused. 
-I&apos;m going to rename this just to index.html and pop it back open. 
-So it&apos;s .txt, and there&apos;s many ways you can do this, I&apos;m just going
-to demo this with Windows.</p>
+<p>I&apos;m going to do a text document and call this index.html. Later on we&apos;ll 
+talk about why it&apos;s very important to always have one index.html file in your 
+folder. If I open this up though, it&apos;s not an actual HTML file, if you look up
+here, it&apos;s index.html txt, it&apos;s just a basic text file. Putting HTML just 
+simply in the name won&apos;t make it HTML, so I&apos;m going to close this out so we 
+don&apos;t get confused. I&apos;m going to rename this just to index.html and pop it 
+back open. So it&apos;s .txt, and there&apos;s many ways you can do this, I&apos;m 
+just going to demo this with Windows.</p>
 
 <p>Very simply save as and if you go down here, select type, I can go down
 here to hypertext language. 
@@ -2358,39 +2344,25 @@ This means that don&apos;t expect it back at the server, the file you&apos;re l
 address, resources relocated, update your links and your navigation here, 302 is more 
 temperate, means we temporarily change it to a different server, but this is the right address. 
 Don&apos;t update your links. 
-We&apos;ll give you a forwarding address right now and expect to see these
-files back here soon.
-Then 400 are going to be. 
-You got the 400 bad request. 
-This is just incorrect request syntax. 
-I don&apos;t understand what you&apos;re asking me to search for here, 401 is
-unauthorized. 
-This means that maybe put in a bad password or your authentication
-didn&apos;t quite go, the client was not allowed. 
-But it may change if your authentication is improved in the header as
-opposed to 403, which means, you&apos;re not allowed to access this from
-that computer. 
-It doesn&apos;t matter what your authentication is, we&apos;ve blocked you. 
-You&apos;re not part of this very secure network, and 404 is, you&apos;ve hit
-the right server, but it&apos;s a dead link. 
-There&apos;s nothing here for you. Go away. 
-The 500 are really bad. 
-This is usually server errors. 
-You might have the right address, but 500 is an internal server error. 
-It&apos;s something went wrong inside the server, maybe the code is
-corrupted. 
-Maybe you&apos;re getting a DNS attack, a denial of service attack where
-there&apos;s just too much service at it. 
-The code is spewing out incorrectly. 
-501 not implements so the request is not supported by the server, 
-you&apos;re asking the wrong questions or for the wrong files, it doesn&apos;t
-even understand what the question is. 
-Then 503 is going to be definitely DNS, server unavailable usually
-happens 
-when server is overloaded, getting too much, you haven&apos;t expanded your
-bandwidth or someone is attacking, just requesting too many files. 
-That is your HTTP and HTTPS file requests.
-Transcript language: English
+We&apos;ll give you a forwarding address right now and expect to see these files back 
+here soon. Then 400 are going to be. You got the 400 bad request. This is just incorrect 
+request syntax. I don&apos;t understand what you&apos;re asking me to search for here, 
+401 is unauthorized. This means that maybe put in a bad password or your authentication
+didn&apos;t quite go, the client was not allowed. But it may change if your authentication 
+is improved in the header as opposed to 403, which means, you&apos;re not allowed to 
+access this from that computer. It doesn&apos;t matter what your authentication is, 
+we&apos;ve blocked you. You&apos;re not part of this very secure network, and 404 is, 
+you&apos;ve hit the right server, but it&apos;s a dead link. There&apos;s nothing here 
+for you. Go away. The 500 are really bad. This is usually server errors. You might have 
+the right address, but 500 is an internal server error. It&apos;s something went wrong 
+inside the server, maybe the code is corrupted. 
+Maybe you&apos;re getting a DNS attack, a denial of service attack where there&apos;s just 
+too much service at it. The code is spewing out incorrectly. 501 not implements so the 
+request is not supported by the server, you&apos;re asking the wrong questions or for the 
+wrong files, it doesn&apos;t even understand what the question is. Then 503 is going to be 
+definitely DNS, server unavailable usually happens when server is overloaded, getting too 
+much, you haven&apos;t expanded your bandwidth or someone is attacking, just requesting 
+too many files. That is your HTTP and HTTPS file requests. Transcript language: English.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch1-12">1.12 Meet Our Three Languages (10:31)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
